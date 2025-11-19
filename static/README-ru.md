@@ -35,9 +35,10 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNDcuMjM4LjcxLjE2NiIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDEzXHUwNDNlXHUwNDNkXHUwNDNhXHUwNDNlXHUwNDNkXHUwNDMzIiwgInBvcnQiOiA0NzI4LCAiaWQiOiAiMDAxYTg0MGQtNjQ3Mi00Mzc0LTk1ZDctYTE1YTAxNmEyNmNkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.153:8080#%D0%98%D1%80%D0%B0%D0%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
+vmess://eyJhZGQiOiAiNjIuMTQ2LjIzNS4xOTMiLCAidiI6ICIyIiwgInBzIjogIlx1MDQyNFx1MDQyMFx1MDQxMyIsICJwb3J0IjogMjgwMTEsICJpZCI6ICJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.144:8080#%D0%98%D1%80%D0%B0%D0%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.93.173.60:990#%D0%91%D0%BE%D0%BB%D0%B8%D0%B2%D0%B8%D1%8F
+vmess://eyJhZGQiOiAiOC4yMTguMTk5LjExMSIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDEzXHUwNDNlXHUwNDNkXHUwNDNhXHUwNDNlXHUwNDNkXHUwNDMzIiwgInBvcnQiOiA4MDgwLCAiaWQiOiAiZjU1ZGI0MmQtZWU1Mi00YTQ3LTg4MGItNmY3YjEyM2FiMjIyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
