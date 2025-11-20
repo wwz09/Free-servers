@@ -35,10 +35,10 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-trojan://0311306e-56d4-4aa1-bde5-8cede7fcd3e4@138.124.30.8:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/138.124.30.8=443#%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8%D1%8F
-trojan://8f58ba37-a117-4ad3-9422-37b62e01d2e6@77.91.74.6:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/77.91.74.6=443#%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?sni=www.nintendogames.net#%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@58.152.18.124:443?allowInsecure=0&sni=www.nintendogames.net#%D0%93%D0%BE%D0%BD%D0%BA%D0%BE%D0%BD%D0%B3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.58:990#%D0%9C%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE
+vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjEyNCIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDI0XHUwNDIwXHUwNDEzIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUwNDEzXHUwNDNlXHUwNDNkXHUwNDNhXHUwNDNlXHUwNDNkXHUwNDMzIiwgImFkZCI6ICIxMDMuMjQzLjI2LjIwOSIsICJwb3J0IjogIjEwMDg2IiwgInR5cGUiOiAiaHR0cCIsICJpZCI6ICJjNWVjMmUzZi1jMDU4LTQ2YTgtYTE0OC0xODMxODI0YmI5NGIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIxMDMuMjQzLjI2LjIwOSIsICJ0bHMiOiAiIn0=
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
