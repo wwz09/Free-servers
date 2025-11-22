@@ -35,10 +35,10 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#United+Kingdom
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.124.55:3169?sni=www.nintendogames.net#Japan
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAid2VzdF9hLmdhb2dyb3VwLmJpZCIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiZWYwMDRjZmEtYjQ2My00NDczLTk3ZGYtNGYwZGE0NDczYWUwIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9jdHp4dndzIiwgImhvc3QiOiAid2VzdF9hLmdhb2dyb3VwLmJpZCIsICJ0bHMiOiAidGxzIn0=
-trojan://1a758d17-149a-47f3-9336-d1cc33232cc9@91.103.253.193:443?path=/Free-VPN-CF-Geo-Project/91.103.253.193=443&security=tls&host=joss.gpj1.web.id&fp=chrome&type=ws&sni=joss.gpj1.web.id#Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0bFVFQzkxYzFkOG9lQ2x6RGJZcFhB@45.93.94.237:8618#Israel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpORFJ5U0lBQkFSYkVyTklWc0NOVmt5WUFIaUJ6aHZlVA==@23.95.75.146:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#India
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#Cyprus
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
