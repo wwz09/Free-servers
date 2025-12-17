@@ -35,11 +35,10 @@
  <h4>ノード リスト: (ここには一部のノードのみが表示されます。すべてのノードを表示するにはアプリをダウンロードしてください)</h4>
     
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU5OTk5XHU2ZTJmIiwgImFkZCI6ICJlNjZlY2FiZS10N2gzNDAtdHE5bzhkLTFkM2J3LmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsICJwb3J0IjogIjgwIiwgImlkIjogIjBmY2Y1YTdhLWUxYjctMTFlYy1hMzUyLWYyM2M5MWNmYmJjOSIsICJhaWQiOiAiMiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAidGxzIjogIiIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJlNjZlY2FiZS10N2gzNDAtdHE5bzhkLTFkM2J3LmhrdC5nb3RvY2hpbmF0b3duLm5ldCJ9
-trojan://e2722c0fb503f8a592436c12bce0509a@160.16.131.243:2760?sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC
-vmess://eyJhZGQiOiAiNDcuMjQyLjE0MC41MiIsICJ2IjogIjIiLCAicHMiOiAiXHU5OTk5XHU2ZTJmIiwgInBvcnQiOiAzNDgxNSwgImlkIjogIjFhNDZiNjZjLTZiYTktNGU5Yy1hYTBiLTBlYmFjMmI2OWUzMiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#%E3%83%AA%E3%83%88%E3%82%A2%E3%83%8B%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD
-trojan://90y2l3mu48d10uy3ibad@195.154.202.25:58290?sni=ads.x5.ru#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%85%B1%E5%92%8C%E5%9B%BD
+trojan://e2722c0fb503f8a592436c12bce0509a@160.16.87.174:3169?sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC
+vmess://eyJhZGQiOiAiNTcuMTI5LjI4LjIxMyIsICJ2IjogIjIiLCAicHMiOiAiXHUzMGQ1XHUzMGU5XHUzMGYzXHUzMGI5XHU1MTcxXHU1NDhjXHU1NmZkIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZmFwZW5nLm9yZyIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyJ9
+trojan://BxceQaOe@58.152.30.31:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF
+vmess://eyJhZGQiOiAiOTEuMTM0LjguMTAwIiwgInYiOiAiMiIsICJwcyI6ICJcdTMwZDVcdTMwZTlcdTMwZjNcdTMwYjlcdTUxNzFcdTU0OGNcdTU2ZmQiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJrYW1wb25nLm9yZyIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyJ9
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>
