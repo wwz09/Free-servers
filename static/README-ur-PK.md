@@ -35,11 +35,11 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNW9zWmcyNjl2NXpIcFlqcjF4WTlz@151.242.251.137:8080#Iran
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.227.93:2760?allowInsecure=1&sni=www.nintendogames.net#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04=@103.253.74.94:31348#Thailand
-vmess://eyJhZGQiOiAiMjMuMjcuMjguMTUiLCAidiI6ICIyIiwgInBzIjogIkphcGFuIiwgInBvcnQiOiA0NzI4LCAiaWQiOiAiOGQyMTUzZDEtODhmNC00OGJkLWFjNjMtYjY1YjBkZGJkNjYyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMTUuMjA0LjY0LjIxMSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIxIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImthbXBvbmcub3JnIiwgInBhdGgiOiAibGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+vmess://eyJhZGQiOiAiMTQ2LjU2LjExMi4xMTAiLCAidiI6ICIyIiwgInBzIjogIlNvdXRoIEtvcmVhIiwgInBvcnQiOiA4ODg4LCAiaWQiOiAiZTdjMzAyZjMtOTBkNi00MmRkLTlkN2QtOTRhMzY4M2EzNzA3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMjMuMjcuMjguMTUiLCAidiI6ICIyIiwgInBzIjogIkphcGFuIiwgInBvcnQiOiA1NzM1LCAiaWQiOiAiODdjNTA3MDItNzFjZi00N2NhLWFlZTQtYWIzMDRkMjg4MzllIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNDVmMmMxZC1hMzE3LTQ1YTgtYjIzMC1lNDIwNTY2YTdmNjI=@69.30.251.122:51004#United+States
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>
