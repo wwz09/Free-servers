@@ -36,10 +36,10 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-vmess://eyJhZGQiOiAiY2dyb3VwLm5vZGU1LnYubm9kZWxpc3QtYWlycG9ydC5jb20iLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBcdTRmYzRcdTUyZDJcdTUxODhcdTVkZGVcdTZjZTJcdTcyNzlcdTUxNzBBbWF6b25cdTY1NzBcdTYzNmVcdTRlMmRcdTVmYzMiLCAicG9ydCI6IDY1NDIsICJpZCI6ICI4ZjNhODM1Yy04YTQ1LTQ4MGQtYWUzNS0xZGViMmM1MmRjYWUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiY2dyb3VwLm5vZGU1LnYubm9kZWxpc3QtYWlycG9ydC5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxXHU2ZTViXHU2YzVmXHU1ZTAyIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAidHVubmVsMS5xcWE2NzguY29tIiwgInBvcnQiOiAiNDcwODQiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjNmYzMzMTBkLWZkODQtNDkzMy1iMzcwLThjYjJkNTY1ZmFiOSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogInR1bm5lbDEucXFhNjc4LmNvbSIsICJ0bHMiOiAiIn0=
-trojan://688abcd9-0ff0-49f8-baa1-6a23403bd0e7@cdnfire.xiaomispeed.com:25501?allowInsecure=1&sni=cdnfire.xiaomispeed.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU4MmYxXHU1NmZkIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICI4Mi4xOTguMjQ2Ljk3IiwgInBvcnQiOiAiMTgwIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiJ9
+trojan://47f867f8-45bb-43be-aa13-b99ed8f55c7d@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
+trojan://f363c8b4-45cc-463b-959d-9ff613cbe2cd@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
+trojan://BxceQaOe@58.152.53.219:443?sni=t.me%252Fripaojiedian#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+trojan://4843e94d205f3893f588255a591abe94@58.152.18.147:443?security=tls&sni=www.nintendogames.net#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
