@@ -35,10 +35,10 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#United+States
-vmess://eyJhZGQiOiAiNDcuMjQ0LjEyMC4xOTciLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogNDQ4NjcsICJpZCI6ICI4NDVlNmIwOC0yOTE5LTQyOTAtYWRlMC01ZGM3ZGNlYTU5Y2EiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsICJ0bHMiOiAiIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#United+States
-trojan://BxceQaOe@58.152.25.236:443?sni=t.me%252Fripaojiedian#Hong+Kong
+trojan://4843e94d205f3893f588255a591abe94@58.152.18.124:443?allowInsecure=1#Hong+Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Q2JRNGJyeTRvdGZpZks3b2VsNzFOYVhwUEw5cFlKYg==@89.221.225.15:443#Israel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.153:8080#Iran
+trojan://4843e94d205f3893f588255a591abe94@153.121.38.213:3423?allowInsecure=0&sni=www.nintendogames.net#Japan
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>
