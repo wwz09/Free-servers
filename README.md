@@ -36,11 +36,13 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&sni=io.ozone.ru#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&sni=web.max.ru#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU0ZTJkXHU1NmZkIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICJ2MTIuaGRhY2QuY29tIiwgInBvcnQiOiAiMzA4MTIiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgImFpZCI6IDAsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiYXV0byIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?security=tls&sni=ozon.ru#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2Y2Q1XHU1NmZkIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICIxNDEuMTEuMjEuMjE5IiwgInBvcnQiOiAiNTA1MjEiLCAiaWQiOiAiN2I0YzY3OTUtM2JlNS00YTRlLWIyMzQtMDdhNDZmNTgwYzQ1IiwgImFpZCI6IDAsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiYXV0byIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAidGxzIn0=
 ss://YWVzLTI1Ni1nY206ZzRKdHBrdXhrd1JINGpoag==@iepl.huli168.com:19822#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E7%94%B5%E4%BF%A1IDC%E6%9C%BA%E6%88%BF
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?security=tls&sni=ya.ru#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
-vmess://eyJhZGQiOiAiaHd0cWNwLnVob21kZXguc2hvcCIsICJhaWQiOiAwLCAiaG9zdCI6ICJod3RxY3AudWhvbWRleC5zaG9wIiwgImlkIjogImI2MTgyMzQ3LWY2ZGYtNDdlMy05YWM4LWQ0MGE3OTJmMzE5ZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4NDQzLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAiaHd0cWNwLnVob21kZXguc2hvcCJ9
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&sni=io.ozone.ru#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?allowInsecure=0&sni=web.max#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%E7%BE%8E%E5%9B%BD+DXC+Technology
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
