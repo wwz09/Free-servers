@@ -35,10 +35,10 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTQ4LjExMy4xNzYuMTkyIiwgInYiOiAiMiIsICJwcyI6ICJDYW5hZGEiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJmYXBlbmcub3JnIiwgInBhdGgiOiAibGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-vmess://eyJhZGQiOiAiMTUuMjA0LjY0LjIxMSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIxIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImthbXBvbmcub3JnIiwgInBhdGgiOiAibGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-trojan://4843e94d205f3893f588255a591abe94@160.16.85.33:3901?security=tls&sni=www.nintendogames.net#Japan
-trojan://BxceQaOe@16.162.252.227:2673?allowInsecure=1&sni=t.me%252Fripaojiedian#Hong+Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVQU1WdEhtNTR1YWhkNlNpTjVXY0QxNnJzUFNkYWJQRw==@23.95.72.81:443#Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#Lithuania
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:1281?sni=www.nintendogames.net#Japan
+vmess://eyJhZGQiOiAiNTcuMTI5LjI1LjIyIiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2UiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

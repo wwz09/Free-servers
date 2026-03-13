@@ -35,10 +35,10 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTU0LjIxMS44LjU4IiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDQ0MywgImlkIjogImRlOTRjYzBhLTA1OTItNDk2OS1iMWZjLTk3ZWE4ZjBlYTBiMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ1cy5uYmVlLnBwLnVhIiwgInBhdGgiOiAiL2FhIiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjEzMCIsICJ2IjogIjIiLCAicHMiOiAiQWxlbWFuaGEiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJzZXJrYXQub3JnIiwgInBhdGgiOiAibGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#Holanda
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.255.123.166:990#Nig%C3%A9ria
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#Pol%C3%B4nia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#Austr%C3%A1lia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#Holanda
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#EUA
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
