@@ -35,10 +35,10 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#Niederlande
-trojan://BxceQaOe@16.162.252.227:2673?allowInsecure=1&sni=t.me%252Fripaojiedian#Hongkong
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVQU1WdEhtNTR1YWhkNlNpTjVXY0QxNnJzUFNkYWJQRw==@23.95.72.81:443#Kanada
-ss://YWVzLTI1Ni1nY206dkVZK0V0c3YvS1RFTTN2cQ==@167.17.179.87:8388#Kanada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#Ukraine
+vmess://eyJhZGQiOiAiNDcuMjQ0LjEyMC4xOTciLCAidiI6ICIyIiwgInBzIjogIkhvbmdrb25nIiwgInBvcnQiOiA0NDg2NywgImlkIjogIjg0NWU2YjA4LTI5MTktNDI5MC1hZGUwLTVkYzdkY2VhNTljYSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#UK
+vmess://eyJhZGQiOiAiZmFhZmI4YzktdDZyNXMwLXQ3ZHk2dC1qeDVyLmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsICJ2IjogIjIiLCAicHMiOiAiSG9uZ2tvbmciLCAicG9ydCI6IDgwLCAiaWQiOiAiNzNiZmNjMWMtNTgxNC01ZjJhLWI0M2EtM2VmNmFmMDExZGI4IiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImZhYWZiOGM5LXQ2cjVzMC10N2R5NnQtang1ci5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
