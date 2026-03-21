@@ -35,11 +35,11 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#United+States
-ss://YWVzLTI1Ni1nY206QmVkdWZnenRITzNCNUtxZQ==@46.250.254.170:443#United+Kingdom
-trojan://)5,9FW.Kk166@irancell.buzzmuzzpanel.online:443?path=/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=028.electrocellco-cf-028.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=028.eLECtRocEllco-Cf-028.worKErS.dev#United+States
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:4674?security=tls&sni=www.nintendogames.net#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45311#Vietnam
+trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#Singapore
+vmess://eyJhZGQiOiAiNDcuMjQ1LjQyLjkyIiwgImFpZCI6IDAsICJob3N0IjogIm4xNzUzNTk4NDUyLndwZzI3Lnh5eiIsICJpZCI6ICI0ZjIzZWI3Yy1lZjJmLTQzYjAtOTBkZC1mMmI4YTc1OTU0YTUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAicHMiOiAiSmFwYW4iLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@89.46.239.231:990#Romania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5aHJITURnWjJlZ0tmdHZyZWN2a3BVUHFwVVR5YWM3cQ==@195.66.25.220:8388#United+Kingdom
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

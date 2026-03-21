@@ -35,11 +35,11 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?sni=io.ozone.ru#Portugal
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#United+Arab+Emirates
-vmess://eyJhZGQiOiAiMTcyLjIzMy4yMjkuOTEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDE0MTAyLCAiaWQiOiAiMjdiYTg3ZmMtNTgzZi00NzYzLTkwNjAtODNjZjBiOTI2NGRiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaG9sU3R5SEw3RGhyZXdLYnBRYTIw@185.176.221.72:24637#Latvia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDdlOTFlZGY4NDgyNmMz@154.90.62.145:46577#South+Korea
+vmess://eyJhZGQiOiAidjMwLmhkYWNkLmNvbSIsICJhaWQiOiAiMCIsICJob3N0IjogIjUxYWE4ZjcuaGYuZ2xhZG9zLWNvbmZpZy5uZXQiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMzA4MzAiLCAicHMiOiAiSXJhbiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+trojan://IL37892054@steady-lemming.rooster465.autos:443?sni=steady-lemming.rooster465.autos#Australia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#France
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#United+States
+vmess://eyJhZGQiOiAibjE3NTMxMDEyNzIubGllNWQuY3lvdSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA0NDMsICJpZCI6ICI1NjhhM2U3YS1jMTNlLTQyMDUtYWYzMC1lNzVlYzNlNWM3NzgiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibjE3NTMxMDEyNzIubGllNWQuY3lvdSIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
