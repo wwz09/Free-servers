@@ -35,11 +35,11 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-trojan://humanity@www.gossipglove.com:443?sni=www.gossipglove.com&type=ws&path=%2Fassignment&fp=chrome#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#United+States
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:3057?security=tls&sni=www.nintendogames.net#Japan
-vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4yMjciLCAidiI6ICIyIiwgInBzIjogIkNhbmFkYSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
-trojan://IL37892054@steady-lemming.rooster465.autos:443?sni=steady-lemming.rooster465.autos#Australia
+vmess://eyJhZGQiOiAibjE3NjEyMTQ5MDQud3BnMjcueHl6IiwgImFpZCI6IDAsICJob3N0IjogIm4xNzYxMjE0OTA0LndwZzI3Lnh5eiIsICJpZCI6ICI3ZjZmNjRhZS0zNzc4LTQzNGMtYWRmYy05NWNiNjdlZThiNzMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAicHMiOiAiSG9uZyBLb25nIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAibjE3NjEyMTQ5MDQud3BnMjcueHl6IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIn0=
+trojan://ZY07256934@glowing-deer.rooster465.autos:443?allowInsecure=1#South+Korea
+vmess://eyJhZGQiOiAibjE3NjEyOTY4ODAubGllNWQuY3lvdSIsICJhaWQiOiAwLCAiaG9zdCI6ICJuMTc2MTI5Njg4MC5saWU1ZC5jeW91IiwgImlkIjogIjFlZmZhYzRhLWNkYjgtNDcxNy1hMTBjLWRhOTcyNjNjODAyYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJIb25nIEtvbmciLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAibjE3NjEyOTY4ODAubGllNWQuY3lvdSJ9
+trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls&sni=engaging-toucan.rooster465.autos#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjg3MWRiMDJlNWY3ZTJm@57.129.35.242:11201#France
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
