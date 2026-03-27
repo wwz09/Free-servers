@@ -35,10 +35,10 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#United+Kingdom
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=0&sni=ads.x5.ru#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#United+Kingdom
-trojan://humanity@v3.dabache.top:443?allowInsecure=1&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=%2Fassignment%23%E2%9C%85%40AR14N24b%F0%9F%A4%96%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86%2B%D8%B1%D8%A7%D9%87%DA%A9%D8%A7%D8%B1%2B%D8%B1%D9%81%D8%B9%2B%D9%85%D8%B4%DA%A9%D9%84%2B%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%2B%D8%A8%D9%87%2B%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%2F%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%2B%F0%9F%A7%A0%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%2B%23proxy%2B%23v2ray%2B%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.59.180:990#Egypt
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.70.180:1524?sni=www.nintendogames.net&type=tcp&fp=chrome#Japan
+trojan://WF42809561@funky-platypus.rooster465.autos:443?security=tls&sni=funky-platypus.rooster465.autos#Hungary
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>
