@@ -35,10 +35,10 @@
  <h4>ノード リスト: (ここには一部のノードのみが表示されます。すべてのノードを表示するにはアプリをダウンロードしてください)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNTcuMTI5LjI4LjIxNSIsICJ2IjogIjIiLCAicHMiOiAiXHUzMGQ1XHUzMGU5XHUzMGYzXHUzMGI5XHU1MTcxXHU1NDhjXHU1NmZkIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAic2Vya2F0Lm9yZyIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyJ9
-vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTYuMTQxIiwgInYiOiAiMiIsICJwcyI6ICJcdTMwYTJcdTMwZTFcdTMwZWFcdTMwYWIiLCAicG9ydCI6IDQ0MywgImlkIjogImU3ZDcyYThkLTI2ZjItNGI1NC1iMzY2LTBjNDNlMGJjYmE3ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-trojan://4843e94d205f3893f588255a591abe94@160.16.105.192:4006?sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@173.234.29.2:990#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+trojan://4843e94d205f3893f588255a591abe94@160.16.70.180:3423?sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVQU1WdEhtNTR1YWhkNlNpTjVXY0QxNnJzUFNkYWJQRw==@23.95.72.81:443#%E3%82%AB%E3%83%8A%E3%83%80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%BB%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%A0%E5%85%B1%E5%92%8C%E5%9B%BD
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>
