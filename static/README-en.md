@@ -35,10 +35,10 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-trojan://bpb-trojan@russia.com:443?security=tls&sni=vless4.vlessvless.top&type=ws&host=vless4.vlessvless.top&path=%2Ftr%3Fed%3D2560#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZDdiMGQxNGI1OTBiY2Vi@112.197.26.106:26417#Vietnam
-vmess://eyJ2IjogIjIiLCAicHMiOiAiU2luZ2Fwb3JlIiwgImFkZCI6ICI4LjIyMy42My4xODkiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiNDYyZDk2OTQtNjJiNS00NzgxLWEyODctNjFhNDIyYjkyMGU4IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJ0bHMiOiAidGxzIiwgImFscG4iOiAiIiwgInNuaSI6ICJtbjFyYXkuamFnb2FudmlwLnh5eiIsICJwYXRoIjogIi92dmlwIiwgImhvc3QiOiAibW4xcmF5LmphZ29hbnZpcC54eXoifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@173.234.29.2:990#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.97.203.227:990#India
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDk3NDMzNjg4ZTdlZmQ1@163.171.206.24:44233#United+States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#T%C3%BCrkiye
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

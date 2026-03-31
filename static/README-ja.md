@@ -35,10 +35,10 @@
  <h4>ノード リスト: (ここには一部のノードのみが表示されます。すべてのノードを表示するにはアプリをダウンロードしてください)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#%E8%8B%B1%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDk3NDMzNjg4ZTdlZmQ1@163.171.206.24:44233#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-trojan://IL37892054@growing-tuna.rooster465.autos:443?security=tls#%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD
-trojan://IL37892054@caring-ghoul.rooster465.autos:443?security=tls#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+ss://YWVzLTI1Ni1nY206UXpNME5mdU1ObmdiVm5aSw==@144.126.145.77:443#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU4MmYxXHU1NmZkIiwgImFkZCI6ICI4Mi4xOTguMjQ2Ljk3IiwgInBvcnQiOiAiMTgwIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgInRscyI6ICIiLCAiZnAiOiAiIn0=
+trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>

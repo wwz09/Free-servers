@@ -35,10 +35,10 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk3ODA0N2I0N2Y3ZWFi@154.205.154.184:11201#%D0%A1%D0%B5%D0%B9%D1%88%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5+%D0%BE-%D0%B2%D0%B0
-ss://YWVzLTI1Ni1nY206azZydUp1d2dBVXhJcmtIYg==@154.53.63.32:80#%D0%A1%D0%A8%D0%90
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:1524?security=tls&sni=www.nintendogames.net#%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F
+vmess://eyJhZGQiOiAiMTYyLjE5LjI0OC4yMzgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImVkZTI3YTc5LWIwMzktNDkwYi05MzJjLTQ5NWRlNGI2ODg4MCIsICJpbnNlY3VyZSI6ICIwIiwgIm5hbWUiOiAiPj5AY29uZmlnVjJyYXlORzo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiA1NTAsICJwcyI6ICJcdTA0MjRcdTA0NDBcdTA0MzBcdTA0M2RcdTA0NDZcdTA0MzhcdTA0NGYiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOGU0MDkwYmM0NmZkOGE2@163.171.213.47:46282#%D0%A1%D0%A8%D0%90
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
