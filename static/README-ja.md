@@ -35,10 +35,10 @@
  <h4>ノード リスト: (ここには一部のノードのみが表示されます。すべてのノードを表示するにはアプリをダウンロードしてください)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaG9sU3R5SEw3RGhyZXdLYnBRYTIw@185.176.221.72:24637#%E3%83%A9%E3%83%88%E3%83%93%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD
-vmess://eyJhZGQiOiAibjE3NDc2MjQyNjcuNHU5bWEuaWN1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm4xNzQ3NjI0MjY3LjR1OW1hLmljdSIsICJpZCI6ICI4YzVkMTUwYy1iMDQ2LTQ0NDAtODIzMC1lODQ1MDZhMDY1YTMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdTMwYjdcdTMwZjNcdTMwYWNcdTMwZGRcdTMwZmNcdTMwZWIiLCAic2N5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAibjE3NDc2MjQyNjcuNHU5bWEuaWN1IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#%E8%8B%B1%E5%9B%BD
-trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUzMGE0XHUzMGU5XHUzMGYzXHUzMGZiXHUzMGE0XHUzMGI5XHUzMGU5XHUzMGUwXHU1MTcxXHU1NDhjXHU1NmZkIiwgImFkZCI6ICJ2MTIuaGRhY2QuY29tIiwgInBvcnQiOiAiMzA4MTIiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIkJwYmcuQU5HdXN3ZW4udG9wIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%E8%8B%B1%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#%E8%8B%B1%E5%9B%BD
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU4MmYxXHU1NmZkIiwgImFkZCI6ICI4Mi4xOTguMjQ2Ljk3IiwgInBvcnQiOiAiMTgwIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgInRscyI6ICIiLCAiZnAiOiAiIn0=
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>

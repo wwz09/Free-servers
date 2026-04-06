@@ -35,11 +35,11 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-trojan://hCjWaBe5vTkewfiljOL=9FS9DYg0c09c.t@81.29.149.240:18390?security=tls&sni=osl9.solidly.click#The+Netherlands
-trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.199:10369?security=tls&sni=fra4.chasem2026sud.com#United+Kingdom
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#The+Netherlands
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.106.31:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#Russia
-trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.85.33:4674?security=tls&sni=www.nintendogames.net#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#Poland
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.72.205:4937?security=tls&sni=www.nintendogames.net#Japan
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@185.177.238.87:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#Poland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#France
+vmess://eyJ2IjogIjIiLCAicHMiOiAiU291dGggS29yZWEiLCAiYWRkIjogIjE0Ni41Ni4xMTIuMTEwIiwgInBvcnQiOiAiODg4OCIsICJpZCI6ICJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCAiYWlkIjogMCwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJhdXRvIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

@@ -35,11 +35,11 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.162:8080#The+Netherlands
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@86.107.100.13:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#Germany
-trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.20:10369?security=tls&sni=fra35.chasem2026sud.com#United+Kingdom
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#South+Korea
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.59.243.6:990#Singapore
+trojan://strong-secret-pass-777@103.231.73.181:4443?security=tls&sni=103.231.73.181#Japan
+vmess://eyJ2IjogIjIiLCAicHMiOiAiU291dGggS29yZWEiLCAiYWRkIjogIjE0Ni41Ni4xMTIuMTEwIiwgInBvcnQiOiAiODg4OCIsICJpZCI6ICJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCAiYWlkIjogMCwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJhdXRvIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.132.38:3057?security=tls&sni=www.nintendogames.net#Japan
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.124.17:4674?security=tls&sni=www.nintendogames.net#Japan
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>
