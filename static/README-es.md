@@ -35,10 +35,10 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@86.107.100.13:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#Alemania
-trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.59.243.6:990#Singapur
-trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1#Holanda
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTJlZTliY2M5NTcwMDk1@163.171.148.71:11201#Tailandia
+trojan://humanity@172.67.180.92:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#Estados+Unidos
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.132.38:4937?security=tls&sni=www.nintendogames.net#Jap%C3%B3n
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.132.38:3057?security=tls&sni=www.nintendogames.net#Jap%C3%B3n
 trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#Suiza
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>

@@ -35,11 +35,10 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@149.33.3.246:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#United+Kingdom
-trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#Poland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.143:8080#The+Netherlands
+ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg==@194.233.94.119:80#Singapore
+trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#United+Kingdom
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>
