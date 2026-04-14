@@ -35,11 +35,11 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-vmess://eyJhZGQiOiAidmMuZmx5LmRldiIsICJhaWQiOiAzMiwgImhvc3QiOiAidmMuZmx5LmRldiIsICJpZCI6ICIzNTM3OTIxOS02NTM1LTRmMmUtYTRmZS0zZTQ0ZjYxZTBlZWUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZjIiwgInBvcnQiOiA0NDMsICJwcyI6ICJFc3RhZG9zIFVuaWRvcyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJ2Yy5mbHkuZGV2In0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#Estados+Unidos
-trojan://trojan@152.53.60.198:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F#Austria
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaG9sU3R5SEw3RGhyZXdLYnBRYTIw@185.176.221.72:24637#Letonia
-trojan://trojan@152.53.200.98:8444?security=tls&sni=jflsjlaf.pages.dev&insecure=0&allowInsecure=0&type=ws&host=jflsjlaf.pages.dev&path=%2F%2F#Austria
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.143:8080#Holanda
+trojan://413fdb10-a596-4e7c-b081-54243d252894@85.211.192.237:13388?security=tls&sni=www.baidu.com#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YTEwNmFmYzMzZWFhMjYx@148.113.139.160:46534#Canad%C3%A1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#Filipinas
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>

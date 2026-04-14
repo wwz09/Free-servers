@@ -35,11 +35,11 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-vmess://eyJhZGQiOiAiY2h1bmNoZW9uMDMuemdqb2suY29tIiwgImFpZCI6IDAsICJob3N0IjogImNodW5jaGVvbjAzLnpnam9rLmNvbSIsICJpZCI6ICI4MWQ1Y2FjNC1kMDM5LTQ4NzQtOWEyMC1jMzkxZjU4MDAxMmQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAicHMiOiAiXHUwNDIwXHUwNDM1XHUwNDQxXHUwNDNmXHUwNDQzXHUwNDMxXHUwNDNiXHUwNDM4XHUwNDNhXHUwNDMwIFx1MDQxYVx1MDQzZVx1MDQ0MFx1MDQzNVx1MDQ0ZiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
-ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ==@149.102.149.207:443#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
-vmess://eyJhZGQiOiAiMTczLjI0OS4yMDkuMTQ2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIzOTM1YzJkYy1kYmIwLTQzZjctYjM2Ny1mZTg5YWJlODdmZGYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMjAwODYiLCAicHMiOiAiXHUwNDIxXHUwNDI4XHUwNDEwIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
-trojan://trojan@136.244.105.89:82?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZDFiYzU0Njg5ZWQ0Yjc1@119.159.245.24:26739#%D0%9F%D0%B0%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD
+vmess://eyJhZGQiOiAibm9kZS11ay5jb25uZWN0c3VpdGUub3JnIiwgImFpZCI6ICIwIiwgImFscG4iOiAiaDIsaHR0cC8xLjEiLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiIiwgImlkIjogImM0ZWEyMzkxLTA5NWQtNDA3YS05ZGFiLTg1ZmM3MTA0YjY4MSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjA1MyIsICJwcyI6ICJcdTA0MjRcdTA0NDBcdTA0MzBcdTA0M2RcdTA0NDZcdTA0MzhcdTA0NGYiLCAic2N5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.106.99:4937?security=tls&sni=www.nintendogames.net#%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.239.225:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%D0%A7%D0%B5%D1%85%D0%B8%D1%8F
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.124.17:4674?security=tls&sni=www.nintendogames.net#%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
