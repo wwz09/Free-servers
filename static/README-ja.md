@@ -35,10 +35,10 @@
  <h4>ノード リスト: (ここには一部のノードのみが表示されます。すべてのノードを表示するにはアプリをダウンロードしてください)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTU4LjUxLjEyMS42MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJzZXJpYnVzLm9yZyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAibGlua3Z3cyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdTMwYWJcdTMwY2FcdTMwYzAiLCAic2N5IjogImF1dG8iLCAic25pIjogInNlcmlidXMub3JnIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-trojan://humanity@104.21.40.34:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTYuMTQxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJlN2Q3MmE4ZC0yNmYyLTRiNTQtYjM2Ni0wYzQzZTBiY2JhN2QiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogNDQzLCAicHMiOiAiXHUzMGEyXHUzMGUxXHUzMGVhXHUzMGFiIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgIm5hbWUiOiAiQ2hhbm5lbCA6IEBGcmVlQ29uZmlnRm9yWW91XHVkODNjXHVkZmY0XHVkODNjXHVkZmYzIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
+trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@nbmrcg0034686rw.cybervena.com:50099#%E5%8F%B0%E6%B9%BE
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.240.185:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#%E3%82%BB%E3%83%AB%E3%83%93%E3%82%A2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#%E8%8B%B1%E5%9B%BD
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>

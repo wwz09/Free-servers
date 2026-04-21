@@ -35,11 +35,11 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.239.4:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%D0%A7%D0%B5%D1%85%D0%B8%D1%8F
-trojan://UNWA6USASAb6=uAAZeZMFd+2uKB4.d5KOm@166.88.197.60:26650?security=tls&sni=sea9.firewallcontract.click#%D0%A1%D0%A8%D0%90
-trojan://WwipNOSqUh49CEapMmIrv6m6AZLf-EC0+T@104.238.162.6:13109?security=tls&sni=ord2.edge-command.click#%D0%A1%D0%A8%D0%90
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@38.180.176.115:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
-vmess://eyJhZGQiOiAicHEtaHVuZ2FyeTEuMDl2cG4uY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI3MDNmNzIyYS00YmRmLTRlOWQtOWFmZC1hNjgxZmRmODdjNzQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzLyIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1MDQxZlx1MDQzZVx1MDQ0MFx1MDQ0Mlx1MDQ0M1x1MDQzM1x1MDQzMFx1MDQzYlx1MDQzOFx1MDQ0ZiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@178.172.212.105:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#%D0%9E%D0%90%D0%AD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg007134n4g.cybervena.com:50099#%D0%A2%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD%D1%8C
+vmess://eyJhZGQiOiAiZjhjMzg0MjgtdDZyNXMwLXQ4anpnMi0xaGQ3di5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAiYWlkIjogMiwgImhvc3QiOiAiZjhjMzg0MjgtdDZyNXMwLXQ4anpnMi0xaGQ3di5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAiaWQiOiAiZjczYzY0YmMtOWU4Yy0xMWVjLWJkN2MtZjIzYzkxM2M4ZDJiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDgwLCAicHMiOiAiXHUwNDEzXHUwNDNlXHUwNDNkXHUwNDNhXHUwNDNlXHUwNDNkXHUwNDMzIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIn0=
+trojan://trojan@136.244.105.89:82?allowInsecure=1&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>

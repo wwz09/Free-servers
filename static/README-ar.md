@@ -35,11 +35,11 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#Colombia
-vmess://eyJhZGQiOiAiNDUuMTUuMTg1LjE3IiwgImhvc3QiOiAiNDUuMTUuMTg1LjE3IiwgImlkIjogImM1MDNhOTZhLWEyZjUtNDg0Ny1hMzFmLTIwYzE3ZWNmM2JlNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBvcnQiOiA4MCwgInBzIjogIkJyYXppbCIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMGY5MGFmOTJiNmMxYTc0@141.95.109.94:11201#France
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@192.142.4.232:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#Philippines
-vmess://eyJ2IjoiMiIsInBzIjoid3d3Ljg1bGEuY29t8J+Hq/Cfh7dGUsKyXzE5fDAuMk1CL3N8R1BUfFRLfFgiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTUiLCJwb3J0IjoiNDQ1NzkiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwiZnAiOiIiLCJwYXRoIjoiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEiLCJob3N0IjoiVFVSSy5ORVQifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#United+Kingdom
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@87.236.146.32:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#Estonia
+trojan://trojan@152.53.200.98:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F%2F#Austria
+trojan://868ecdaf6aed618ec98cf78585672b2b@160.16.85.33:4937?security=tls&sni=www.nintendogames.net#Japan
+vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTguMTQ3IiwgImFpZCI6IDAsICJob3N0IjogImlubmEuY2ZkIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogNDQzLCAicHMiOiAiQ2FuYWRhIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

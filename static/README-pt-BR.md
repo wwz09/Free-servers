@@ -35,11 +35,11 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#Col%C3%B4mbia
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@148.135.195.95:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#EUA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#Reino+Unido
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#Emirados+%C3%81rabes+Unidos
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@bestcf.030101.xyz:443?allowInsecure=1&alpn=http/1.1&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&sni=sni.111000.dynv6.net&type=ws#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMGY5MGFmOTJiNmMxYTc0@141.95.109.94:11201#Fran%C3%A7a
+vmess://eyJhZGQiOiAiMTQ2LjU2LjExMi4xMTAiLCAidiI6ICIyIiwgInBzIjogIkNvcmVpYSBkbyBTdWwiLCAicG9ydCI6IDg4ODgsICJpZCI6ICJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.180.2.141:5499#Bulg%C3%A1ria
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#EUA
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
