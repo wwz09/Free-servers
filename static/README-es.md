@@ -35,11 +35,11 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#Reino+Unido
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#Holanda
-trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.237:10369?security=tls&sni=fra5.chasem2026sud.com#Reino+Unido
-vmess://eyJhZGQiOiAiMTQ5LjMwLjIzMi4xMDMiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjJjMTgwN2NlLTZhNjMtNDQ1MS05YWRkLWE3NzhkMjUwNzE2MCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiAxODM5MywgInBzIjogIkVzdGFkb3MgVW5pZG9zIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.122:8080#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099#Taiw%C3%A1n
+trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?security=tls&sni=nl-4.tr202507.com#Holanda
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZmYxNDIzZjYxZmZlNjcz@38.54.59.16:11201#Egipto
+trojan://BxceQaOe@58.152.25.253:443?sni=t.me/ripaojiedian#Hong+Kong
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>

@@ -35,11 +35,11 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#The+Netherlands
-vmess://eyJhZGQiOiAiMTUyLjY3LjguMjA1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI5ZGI0YzcwOC1hZWY4LTQzNTktODIxYi0zOGU0Nzk5MGJlMGQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInBzIjogIkluZGlhIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#United+Kingdom
-trojan://humanity@www.calmlunch.com:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&type=ws#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#United+Kingdom
+vmess://eyJ2IjogIjIiLCAicHMiOiAiU2luZ2Fwb3JlIiwgImFkZCI6ICIxNDkuODguMjMuMjAyIiwgInBvcnQiOiAiMTgwMDAiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhZXMtMTI4LWdjbSIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgInRscyI6ICIifQ==
+trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#Singapore
+ss://YWVzLTI1Ni1nY206NW1DSDQ2MjRRZmxPMWNGUg==@185.111.156.33:80#Poland
+ss://YWVzLTI1Ni1nY206MTRDTEJhRkJxd3F4Qkp5Ng==@66.94.125.178:80#United+States
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

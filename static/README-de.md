@@ -35,11 +35,11 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Njc1Y2JmNjJkNmEzYTRm@57.129.95.45:11201#Frankreich
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=0&sni=ads.x5.ru#Deutschland
-vmess://eyJhZGQiOiAiMjEzLjE4My41NC4yNDMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImQ3ZjU2Njg4LTU2YTAtNDQ4Yy1iYzA0LWZkODNjNmFjMTdkMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlJ1c3NsYW5kIiwgInNjeSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.47.255.22:990#Puerto+Rico
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#Marokko
+vmess://eyJhZGQiOiAiaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInYiOiAiMiIsICJwcyI6ICJIb25na29uZyIsICJwb3J0IjogODAsICJpZCI6ICIxYjljNDYwZS1mMDI2LTExZWYtYjczNy1mMjNjOTFjZmJiYzkiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#USA
+trojan://humanity@v3.dabache.top:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@89.46.239.231:990#Rum%C3%A4nien
+trojan://413fdb10-a596-4e7c-b081-54243d252894@85.211.192.237:13388?security=tls&sni=www.baidu.com#UK
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

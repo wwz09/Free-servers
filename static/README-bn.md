@@ -35,11 +35,11 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.152:8080#The+Netherlands
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#Colombia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.1.230:990#Mexico
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#Germany
 trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@saas.sin.fan:443?allowInsecure=1&alpn=http/1.1&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&sni=sni.111000.dynv6.net&type=ws#United+States
-vmess://eyJhZGQiOiAibjE3NjEyOTY4ODkuNHU5bWEuaWN1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm4xNzYxMjk2ODg5LjR1OW1hLmljdSIsICJpZCI6ICI1ZmRjNmFiMS04MzQ3LTQxMWMtOWJiZi1mYmMzZWE4NTNkMmYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIkhvbmcgS29uZyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
-trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.105:10369?type=tcp&sni=fra32.chasem2026sud.com#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@n8mrcg004676x9e.cybervena.com:50099#Taiwan
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#United+Kingdom
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>

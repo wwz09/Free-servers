@@ -35,11 +35,11 @@
  <h4>노드 목록: (여기에는 일부 노드만 표시됩니다. 모든 노드를 보려면 앱을 다운로드하세요.)</h4>
     
 ```
-trojan://868ecdaf6aed618ec98cf78585672b2b@160.16.132.38:4019?security=tls&sni=www.nintendogames.net#Japan
-vmess://eyJ2IjoiMiIsInBzIjoid3d3Ljg1bGEuY29t8J+Hq/Cfh7dGUsKyXzE5fDAuMk1CL3N8R1BUfFRLfFgiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTUiLCJwb3J0IjoiNDQ1NzkiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwiZnAiOiIiLCJwYXRoIjoiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEiLCJob3N0IjoiVFVSSy5ORVQifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#France
-vmess://eyJhZGQiOiAiMTQ5LjMwLjIzMi4xMDMiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjJjMTgwN2NlLTZhNjMtNDQ1MS05YWRkLWE3NzhkMjUwNzE2MCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiAxODM5MywgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMGY5MGFmOTJiNmMxYTc0@141.95.109.94:11201#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.124:8080#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.157:8080#The+Netherlands
+trojan://humanity@chatgpt.com:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.143.32:990#Peru
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>

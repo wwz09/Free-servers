@@ -35,11 +35,11 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099#Taiwan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTRjZGVlMTBmOGIyNWNl@57.129.95.38:11201#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaG9sU3R5SEw3RGhyZXdLYnBRYTIw@185.176.221.72:24637#Latvia
-trojan://humanity@104.18.11.110:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTJlZTliY2M5NTcwMDk1@163.171.148.71:11201#Thailand
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@111.248.66.243:50099#Taiwan
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiODQuMTcuNDEuMiIsICJwb3J0IjogIjE4MDAwIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYWVzLTEyOC1nY20iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.124:8080#United+Kingdom
+vmess://eyJhZGQiOiAiNDUuODkuNTIuMjA3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImlkIjogImFjNGMxMmM1LTQ1ZjItNDM5OC1hNzE4LTk5ODM5NDFlZGUyYiIsICJuZXQiOiAidGNwIiwgInBvcnQiOiAzOTY1MSwgInBzIjogIlRcdTAwZmNya2l5ZSIsICJzY3kiOiAiYXV0byIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiNjcuMjIwLjcyLjIzNyIsICJwb3J0IjogIjIyMzI0IiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJhaWQiOiAiMSIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>
