@@ -35,11 +35,11 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#Switzerland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXQzBHYmlDazY3SzhuSERhREhtWUlY@159.223.236.36:19582#The+Netherlands
-trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@cmcc.090227.xyz:443?security=tls&sni=cm22-bgphhh.pages.dev&type=ws&host=cm22-bgphhh.pages.dev&path=%2F#United+States
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#The+Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppZE12b2V3clN5TEx2RXZQMDNrOXpS@138.68.153.223:46576#United+Kingdom
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMzAyN2M5MzFhZTA3YmNl@57.129.69.122:27130#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.2.182:990#Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#South+Africa
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MWQ2NjU1ZDM2MjVmZDE0@185.244.208.150:11201#Hong+Kong
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>

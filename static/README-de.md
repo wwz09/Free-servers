@@ -35,11 +35,11 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@n8mrcg005964vnc.cybervena.com:50099#Taiwan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.124:8080#UK
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVFx1MDBmY3JrZWkiLCAiYWRkIjogIjQ1Ljg5LjUyLjIwNyIsICJwb3J0IjogMzk2NTEsICJpZCI6ICJhYzRjMTJjNS00NWYyLTQzOTgtYTcxOC05OTgzOTQxZWRlMmIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIiwgImFscG4iOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#UK
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#Vereinigte+Arabische+Emirate
+vmess://eyJ2IjoiMiIsInBzIjoid3d3Ljg1bGEuY29t8J+Hq/Cfh7dGUsKyXzMzfDAuM01CL3N8R1BU4oG6fFlUfFRLfE5GfFh8SGlzdG9yeXxb5Y6f55SffOS9j+WuheaLqOWPt10iLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJwb3J0IjoiNDQ1NzkiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwiZnAiOiIiLCJwYXRoIjoiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjE/ZWQ9MjU2MCIsImhvc3QiOiJBWkVSQi5ORVQifQ==
+vmess://eyJhZGQiOiAiNDcuOTAuMjQ0LjE1MyIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICI2NWUyYTk4NS1hZDIwLTQ0ODYtYTdlYy1iNjdiMjBlZTU2YWYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzIiwgInBvcnQiOiAiODQ0MyIsICJwcyI6ICJVU0EiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDk3NDMzNjg4ZTdlZmQ1@163.171.206.24:44233#USA
+trojan://humanity@www.multiplydose.com:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#USA
+trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?security=tls&sni=nl-4.tr202507.com#Niederlande
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
