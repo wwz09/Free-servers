@@ -35,11 +35,11 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#USA
-vmess://eyJ2IjogIjIiLCAicHMiOiAiSXJhbiIsICJhZGQiOiAidjEyLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODEyIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImRkREZIaGouOTIyOTIyLlNob3AiLCAicGF0aCI6ICIvUmtVVWJxaEE5R0paQlJPakwzUTV2VHltciIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#UK
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#UK
-trojan://187dda4498be9ac4f28db939d5940185@160.16.124.17:4674?security=tls&sni=www.nintendogames.net#Japan
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#Deutschland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZmYxNDIzZjYxZmZlNjcz@38.54.59.16:11201#%C3%84gypten
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@188.126.76.159:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#Schweden
+trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#USA
+trojan://humanity@www.multiplydose.com:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#USA
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
