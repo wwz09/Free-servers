@@ -35,15 +35,15 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MjY3MTY0N2FmMGNmZmEw@38.242.222.183:11201#Germany
-trojan://1234567890@148.253.215.61:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+Kingdom
-vmess://eyJhZGQiOiAiMzUuMjQwLjIyNS4yMyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzVkZDY2ODAtNjRhZC00ZjA0LTk5NTItNDlkOTQ5ODRmOWViIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI4ODgwIiwgInBzIjogIlNpbmdhcG9yZSIsICJzY3kiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-trojan://1234567890@74.119.192.89:2083?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJY0hodWNJV2lKaGZsZUthQjduX2F3@141.98.17.63:65443#Thailand
-trojan://1234567890@94.159.104.23:443?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001287h3p.cybervena.com:50099#Taiwan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@61.231.19.71:50099#Taiwan
-vmess://eyJhZGQiOiAiMTAuYTQwMC50b3AiLCAiYWlkIjogMCwgImhvc3QiOiAiMTAuYTQwMC50b3AiLCAiaWQiOiAiNjkxZWJmZTctNzU2YS00YjdkLTgzNmEtZjI5MmVmM2IyMTQ2IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0NzQyLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICIxMC5hNDAwLnRvcCJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47392#Ukraine
+vmess://eyJhZGQiOiAiNjcuMjIwLjcyLjIzNyIsICJhaWQiOiAiMSIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMjMyNCIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+trojan://1234567890@220.78.7.17:18001?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#South+Korea
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#United+States
+trojan://1234567890@14.57.222.213:20880?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#South+Korea
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVFx1MDBmY3JraXllIiwgImFkZCI6ICI0NS44OS41Mi4yMDciLCAicG9ydCI6IDM5NjUxLCAiaWQiOiAiYWM0YzEyYzUtNDVmMi00Mzk4LWE3MTgtOTk4Mzk0MWVkZTJiIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAidGxzIjogIiIsICJhbHBuIjogIiJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZTRhNmZkMjIwOWY2MmE3@185.67.125.109:11201#India
+trojan://1234567890@104.248.136.46:2053?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#Germany
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>
