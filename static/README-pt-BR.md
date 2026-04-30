@@ -35,11 +35,11 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#Singapura
-trojan://UNWA6USASAb6=uAAZeZMFd+2uKB4.d5KOm@166.88.197.60:26650?security=tls&sni=sea9.firewallcontract.click#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#Espanha
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@192.142.4.232:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#Filipinas
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YmZlZTEzODhlOTYwNTM3@51.89.117.154:11201#Reino+Unido
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#Reino+Unido
-vmess://eyJhZGQiOiAiOTQuMjMyLjI0Ny4xNjUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjllOTFkMTlhLWM3M2YtNDI3Ni1hZGJjLWIzMzdjMzc0MjU5YyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDU2NTMiLCAicHMiOiAiQXVzdHJcdTAwZTFsaWEiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#EUA
+trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=%2Fassignment#EUA
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
