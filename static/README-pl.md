@@ -35,15 +35,15 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#United+States
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQXVzdHJhbGlhIiwgImFkZCI6ICJlZmFuLmRuc2VmYW4wNDg4MS5jb20iLCAicG9ydCI6ICI3NzU0IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI3Y2Q5NmRiZS1lY2VjLTQ5MzctOWUwNS04N2FiNzBhZjJmMzAiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJlZmFuLmRuc2VmYW4wNDg4MS5jb20iLCAidGxzIjogIiJ9
-trojan://1234567890@93.123.84.194:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#Bulgaria
-trojan://1234567890@165.22.89.207:443?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#Germany
-trojan://1234567890@159.69.223.33:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=/?https://t.me/WangCai2🇨🇳=&sni=kfm-bn0.pages.dev&type=ws#Germany
-trojan://1234567890@138.124.230.45:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Norway
-trojan://1234567890@57.129.47.55:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#France
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#Bulgaria
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#Poland
+vmess://eyJhZGQiOiAidjYuaGRhY2QuY29tIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAzMDgwNiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+trojan://1234567890@118.47.197.17:10088?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#South+Korea
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.80.73:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F&sni=sni.111000.dynv6.net&type=ws#United+States
+trojan://1234567890@162.19.243.185:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@1.161.245.168:50099#Taiwan
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#United+States
+trojan://1234567890@144.31.118.170:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#United+States
+trojan://1234567890@185.219.84.221:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Germany
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

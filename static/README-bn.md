@@ -35,15 +35,15 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-trojan://1234567890@57.129.47.47:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#France
-vmess://eyJhZGQiOiAiNDcuMjQzLjEzNS43NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMTM3NTk4NWUtMzM0YS00YzI1LThmNjQtNTJhMTgyYmM4MDM3IiwgImluc2VjdXJlIjogIjEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL05vdGlmX0NoYXQiLCAicG9ydCI6IDU1MTg1LCAicHMiOiAiSG9uZyBLb25nIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAibmFtZSI6ICI+PkBmbHl2MnJheTo6SEs6OkhLOjpISzo6SEs6OkhLIn0=
-trojan://humanity@172.64.152.23:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.118.10:8388#United+States
 trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#Austria
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMGY5MGFmOTJiNmMxYTc0@141.95.109.94:11201#France
-trojan://1234567890@46.225.208.108:2053?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=kfm-bn0.pages.dev&path=/?https://t.me/WangCai2🇨🇳=&sni=kfm-bn0.pages.dev&type=ws#Iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#United+Kingdom
-trojan://1234567890@163.5.63.129:443?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZWM0ZTZmOWU5NTRhZWFk@119.159.245.24:29700#Pakistan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#Ukraine
+vmess://eyJhZGQiOiAiNDUuMTUuMTg1LjE3IiwgImhvc3QiOiAiNDUuMTUuMTg1LjE3IiwgImlkIjogImM1MDNhOTZhLWEyZjUtNDg0Ny1hMzFmLTIwYzE3ZWNmM2JlNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBvcnQiOiA4MCwgInBzIjogIkJyYXppbCIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#United+Kingdom
+trojan://1234567890@144.31.85.72:443?allowInsecure=0&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=/?ed=2560#United+States
+trojan://1234567890@104.248.136.46:2053?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#Germany
+trojan://1234567890@109.120.134.104:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F#Russia
+vmess://eyJhZGQiOiAidXNhYXBwMS5qaXN1eXVuLnRvcCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ1c2FhcHAxLmppc3V5dW4udG9wIiwgImlkIjogIjRiODBhYTg2LTQzNTQtNDBiYi1kMmEzLTQ3MTI2Y2ZmMGJlYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdXNhdm0iLCAicG9ydCI6ICIyMDUzIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImF1dG8iLCAic25pIjogInVzYWFwcDEuamlzdXl1bi50b3AiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>
