@@ -35,11 +35,11 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNjEuMjQ1LjExLjYwIiwgImhvc3QiOiAiNjEuMjQ1LjExLjYwIiwgImlkIjogImEzZTNhNzEwLTc5ZjgtNGFlMC1iODNjLTYwN2FhYjQwZDE5NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBvcnQiOiA4MCwgInBzIjogIlBoaWxpcHBpbmVzIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-trojan://humanity@www.ignitelimit.com:443?sni=www.ignitelimit.com&allowInsecure=1&type=ws&path=%2Fassignment&fp=chrome#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#Norway
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.243.216:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#Czechia
-trojan://humanity@162.159.17.189:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#The+Netherlands
+vmess://eyJhZGQiOiAicHEtaHVuZ2FyeTEuMDl2cG4uY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI3MDNmNzIyYS00YmRmLTRlOWQtOWFmZC1hNjgxZmRmODdjNzQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzLyIsICJwb3J0IjogIjgwIiwgInBzIjogIlBvcnR1Z2FsIiwgInNjeSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.122:8080#United+Kingdom
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.147.29:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&sni=sni.111000.dynv6.net&type=ws#United+States
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.180.2.141:5499#Bulgaria
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

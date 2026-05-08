@@ -35,11 +35,11 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTUyLjY3LjguMjA1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI5ZGI0YzcwOC1hZWY4LTQzNTktODIxYi0zOGU0Nzk5MGJlMGQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1MDBjZG5kaWEiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@130.0.234.160:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#Ucr%C3%A2nia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#Marrocos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MWQ2NjU1ZDM2MjVmZDE0@185.244.208.150:11201#Hong+Kong
-vmess://eyJhZGQiOiAiY2VmOTFkN2EtdDcwZjQwLXRvOHhuMy1sNG52LmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsICJhaWQiOiAyLCAiaG9zdCI6ICJjZWY5MWQ3YS10NzBmNDAtdG84eG4zLWw0bnYuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgImlkIjogIjE0NjllMDllLTAyN2MtMTFlYy1hMGZjLWYyM2M5MTNjOGQyYiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4MCwgInBzIjogIkhvbmcgS29uZyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaG9sU3R5SEw3RGhyZXdLYnBRYTIw@185.176.221.72:24637#Let%C3%B4nia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#Reino+Unido
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.124.17:4674?security=tls&sni=www.nintendogames.net#Jap%C3%A3o
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQzdhUXY5RHNFTmFWZkt6VFBES1lW@212.192.14.226:41968#R%C3%BAssia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#EUA
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>

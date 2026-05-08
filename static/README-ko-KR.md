@@ -35,11 +35,11 @@
  <h4>노드 목록: (여기에는 일부 노드만 표시됩니다. 모든 노드를 보려면 앱을 다운로드하세요.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.80:990#Panama
-vmess://eyJhZGQiOiAiMTA0LjE3Ljc3Ljc3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInYycmF5MS5kb3phcHAueHl6IiwgImlkIjogIjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsICJpbnNlY3VyZSI6ICIxIiwgIm5hbWUiOiAiQGNoaWxsZ3V5X3ZwbiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbE1uc1pVTjQvIiwgInBvcnQiOiA4NDQzLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJzY3kiOiAibm9uZSIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICJ2MnJheTEuZG96YXBwLnh5eiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#Latvia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#The+Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#United+Kingdom
+ss://YWVzLTI1Ni1nY206OTkzOTRjZmViZTZjMDkwNg==@185.141.219.110:30312#T%C3%BCrkiye
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw=@89.44.197.181:31348#Bulgaria
+vmess://eyJhZGQiOiAiNjYuMTYzLjExNy41OCIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyMjMyNCIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.148:8080#United+Kingdom
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>
