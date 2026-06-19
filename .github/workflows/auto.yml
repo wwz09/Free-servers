@@ -31,23 +31,27 @@ jobs:
       - name: Fetch upstream
         run: git fetch upstream
 
-      - name: Merge upstream changes
+      - name: Merge upstream changes (兼容无关联历史)
         run: |
-          git checkout main  # 切换到要同步的分支
-          # 尝试合并上游更改，如果有冲突则解决冲突
-          git merge --no-edit upstream/main || (
-            echo "检测到冲突，尝试自动解决..."
-            # 这里可以添加自定义的冲突解决策略
-            git checkout --theirs .  # 使用上游版本覆盖冲突文件
+          git checkout main
+          # 添加 --allow-unrelated-histories 解决无关联历史报错
+          git merge --no-edit --allow-unrelated-histories upstream/main || (
+            echo "检测到冲突，使用上游文件全部覆盖"
+            git checkout --theirs .
             git add .
-            git commit -m "自动解决上游同步冲突"
+            # 仅当存在变更时才提交，无变更直接退出不报错
+            if [[ -n "$(git status --porcelain)" ]]; then
+              git commit -m "自动解决上游同步冲突，全量采用上游文件"
+            else
+              echo "无文件变更，跳过提交"
+              exit 0
+            fi
           )
 
       - name: Push changes
         run: |
-          # 尝试推送，如果失败则拉取最新代码后再次尝试
           git push origin main || (
-            echo "推送失败，尝试拉取最新代码并重试..."
+            echo "推送失败，拉取本地最新并重试"
             git pull --rebase origin main
             git push origin main
           )
