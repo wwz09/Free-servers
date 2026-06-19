@@ -32,10 +32,28 @@
  <blockquote>
  <p style="text-align: center;">Makan -> tidur -> node pengujian. </p>
  </blockquote>
- <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
+ <h4>Daftar node: (Maksimal 20 node ditampilkan di sini. Node gratis lainnya bisa didapatkan di aplikasi.)</h4>
     
 ```
-
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United+States
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.106:8443?encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#United+States
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#The+Netherlands
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.119:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#United+States
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn7-39.vk-cdnvideo.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&encryption=none&headerType=none&fp=safari&type=tcp#Romania
+trojan://humanity@188.114.98.0:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#The+Netherlands
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#United+Kingdom
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.97:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#Czechia
+vless://deecd21a-a24f-444d-b92a-2c8e41a6b05b@191.44.118.101:443?&security=reality&flow=xtls-rprx-vision&pbk=69_I9Wm_vP5wQUbiQhdejWS9yLlNYLFjcnF59G-0GAU&sid=31e36d0ac3355472&fp=chrome&sni=www.microsoft.com&type=tcp&headerType=none&host=www.microsoft.com&path=%2F#Brazil
+trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#United+States
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.86:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#Czechia
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.84:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#Czechia
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.135:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#The+Netherlands
+vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.237:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#T%C3%BCrkiye
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.130:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=ams1.fromblancwithlove.com&fp=chrome&insecure=1&allowInsecure=1#The+Netherlands
+vless://dbfa97b8-f4fb-4687-96dc-a5a2aebfae11@95.85.243.239:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=est01.port-server.online&fp=firefox&pbk=aNbj5QBUxwKIRnh9Z_0ZA-FmDELZKLb1YMUpId3OCU8&sid=9902cda1645757ea&type=tcp&headerType=none#Czechia
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@47.79.85.185:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=%2F&Host=tjsp.hhxaf.cc.cd#United+States
+trojan://humanity@172.67.155.199:443?type=ws&security=tls&path=/assignment&sni=www.calmloud.com&fp=chrome&insecure=0&allowInsecure=0#United+States
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

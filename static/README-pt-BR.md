@@ -32,14 +32,28 @@
  <blockquote>
  <p style="text-align: center;">Comer -> dormir -> testar nós. </p>
  </blockquote>
- <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
+ <h4>Lista de nós: (No máximo 20 nós são exibidos aqui. Outros nós gratuitos estão disponíveis no app.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%C3%81frica+do+Sul
-trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1#Holanda
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@bestcf.030101.xyz:443?allowInsecure=1&alpn=http/1.1&host=sni.111000.dynv6.net&path=/?proxyip=ip.111000.de5.net:443&sni=sni.111000.dynv6.net&type=ws#EUA
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#Reino+Unido
-vmess://eyJ2IjogIjIiLCAicHMiOiAiUG9ydHVnYWwiLCAiYWRkIjogIjQ1LjEyLjEzMi4xODMiLCAicG9ydCI6ICI4MCIsICJpZCI6ICI3MDNmNzIyYS00YmRmLTRlOWQtOWFmZC1hNjgxZmRmODdjNzQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIjQ1LjEyLjEzMi4xODMiLCAicGF0aCI6ICIvdm1lc3MvIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
+vmess://eyJhZGQiOiAiODkuMTY3LjgyLjEwMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNDhlYWJkMzctNTAwZC00MDNmLThlOGYtNzE1ZDFlMTdiZmZkIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjg4ODAiLCAicHMiOiAiQWxlbWFuaGEiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+trojan://SpDMjT=8y4jUQLnwzdfsauMMcLv51NBwEB@79.108.162.56:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=79.108.162.56#Espanha
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.12.222:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#
+trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.77.21.104:443?path=/&security=tls&insecure=0&host=tjsp.hhxaf.cc.cd&type=ws&allowInsecure=0&sni=tjsp.hhxaf.cc.cd#Hong+Kong
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@89.222.123.120:8443?encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#Reino+Unido
+vless://0b342486-d7c8-46fd-893a-5901225089d4@45.198.87.244:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#Indon%C3%A9sia
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#Fran%C3%A7a
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.31:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#Su%C3%A9cia
+vless://394f6981-a782-4779-9a85-e6cf22935d93@121.127.43.215:8443?encryption=none&security=tls&sni=qro-mx-01.fromblancwithlove.com&type=tcp#M%C3%A9xico
+vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&security=reality&sid=79a1e14b&sni=yahoo.com&type=tcp#It%C3%A1lia
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.21:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#Su%C3%A9cia
+vless://ae852d97-85f5-45cf-82a4-254eba345480@cdn.cdnjst.org:443?security=reality&type=tcp&packetEncoding=xudp&sni=cdn.cdnjst.org&fp=chrome&flow=xtls-rprx-vision&sid=a120&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&encryption=none#EUA
+vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.228.24:8443?encryption=none&security=tls&sni=bog-co-01.fromblancwithlove.com&type=tcp#Col%C3%B4mbia
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@64.186.246.93:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#EUA
+vless://f26de170-f15a-47e0-a7ff-84bf96abd158@www.speedtest.net:443?path=/eyJqdW5rIjoib29TVUZMQTYwY0RDRiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=lumosconfig.codmdemonyt1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=LumosCONFIG.CoDmdemONYT1.woRkeRs.DEv#
+vless://039a1658-e86e-475f-a3a4-67cc249acada@nl4.panel11.ru:443?security=reality&encryption=none&pbk=n4TFeuXAigmWJ9sXqnyicRkw3vcXy27ARfvhhsA61kI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl4.panel11.ru&sid=0bd0285f0c4f8f05#Irlanda
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.75:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#Reino+Unido
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
