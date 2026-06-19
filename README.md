@@ -36,22 +36,20 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-vless://deecd21a-a24f-444d-b92a-2c8e41a6b05b@191.44.118.101:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=69_I9Wm_vP5wQUbiQhdejWS9yLlNYLFjcnF59G-0GAU&security=reality&sid=31e36d0ac3355472&sni=www.microsoft.com&type=tcp#%E5%B7%B4%E8%A5%BF+%E5%9C%A3%E4%BF%9D%E7%BD%97Host1Plus%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.50:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.157:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#%E8%8D%B7%E5%85%B0+V2CROSS.COM
 vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.180:8443?allowInsecure=1&sni=ams1.fromblancwithlove.com&security=tls#%E8%8D%B7%E5%85%B0+V2CROSS.COM
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.221:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B+V2CROSS.COM
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.200:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
+vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.235:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B+V2CROSS.COM
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.106:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B+V2CROSS.COM
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.96:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#%E8%8D%B7%E5%85%B0+V2CROSS.COM
+trojan://MiTiVPN@151.101.110.219:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACFastly%E8%8A%82%E7%82%B9
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.13:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E8%8D%B7%E5%85%B0+V2CROSS.COM
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.83:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B+V2CROSS.COM
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.42:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%E8%8D%B7%E5%85%B0+V2CROSS.COM
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.99:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B+V2CROSS.COM
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.104:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B+V2CROSS.COM
+vless://794c31c8-2a8f-43a4-a087-469b675b673d@167.233.141.199:13512?type=tcp&path=/news/34343&host=http://snap.io&headerType=http&security=none#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.57:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&security=tls#%E6%8D%B7%E5%85%8B+V2CROSS.COM
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.25:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.68:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%E8%8D%B7%E5%85%B0+V2CROSS.COM
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.116:8443?&security=tls&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&path=%2F#%E6%8D%B7%E5%85%8B+V2CROSS.COM
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.49:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#%E8%8D%B7%E5%85%B0+V2CROSS.COM
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.111:8443?allowInsecure=1&sni=ams1.fromblancwithlove.com&security=tls#%E8%8D%B7%E5%85%B0+V2CROSS.COM
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.88:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B+V2CROSS.COM
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.82:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B+V2CROSS.COM
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.67:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%E8%8D%B7%E5%85%B0+V2CROSS.COM
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.69:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E6%8D%B7%E5%85%8B+V2CROSS.COM
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.144.82:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://s75Gtmy56sptTA39hmBH965YYx4ZgfQR_I@103.125.219.70:443?security=tls&sni=103.125.219.70#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
