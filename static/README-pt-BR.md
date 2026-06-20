@@ -35,23 +35,22 @@
  <h4>Lista de nós: (No máximo 20 nós são exibidos aqui. Outros nós gratuitos estão disponíveis no app.)</h4>
     
 ```
-trojan://humanity@141.101.90.101:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#EUA
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.12:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#Holanda
-vmess://eyJhZGQiOiAiNjcuMjIwLjcyLjIzNyIsICJhaWQiOiAiMSIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAyMjMyNCwgInBzIjogIkVVQSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-vless://039a1658-e86e-475f-a3a4-67cc249acada@nl2.panel11.ru:443?security=reality&encryption=none&pbk=N1HRDSdKHqdbSX_N5SUfFiokXcN-jQzu-Na244bA21I&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl2.panel11.ru&sid=c64556c616970b14#B%C3%A9lgica
-trojan://humanity@chatgpt.com:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#EUA
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.120:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#Ch%C3%A9quia
-trojan://humanity@208.103.161.101:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#EUA
-vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.231:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#Turquia
-trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.27.99:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EuExqpNB141gtIjbCmU0yyurbBqiLtGjDg-n95JIuig&security=reality&sid=28415a7918168947&sni=1.oncloudnineservicestreang.com&type=tcp#Dinamarca
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.202:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#EUA
-trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%C3%81frica+do+Sul
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#Reino+Unido
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.72:8443?encryption=none&fp=chrome&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#Holanda
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.96:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#Ch%C3%A9quia
-vless://4d3c389c-8477-4875-aa65-dabf2c303de8@116.203.78.220:14099?security=none&type=tcp&headerType=http&path=%2F&host=telewebion.com&packetEncoding=xudp&encryption=none#Alemanha
+vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.10:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#Finl%C3%A2ndia
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.97:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#Ch%C3%A9quia
+vless://394f6981-a782-4779-9a85-e6cf22935d93@156.146.52.69:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#Turquia
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#Fran%C3%A7a
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.241.7:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kt-3Y5U6yLWiLB_RijhceKo01lYAVosWRZbhS05YpCY&security=reality&sid=7d6203949764f921&sni=yourcloud.ldtp.com&type=tcp#EUA
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#Coreia+do+Sul
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.70:8443?encryption=none&fp=chrome&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#EUA
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.124:8443?encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#Holanda
+vmess://eyJhZGQiOiAiNTEuMTk1LjIzNS43MSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNTllMjhmNzgtYzMxYi00NjEzLTlkOWYtMWU2NzMyYTMxZjQ2IiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyMDUyIiwgInBzIjogIkZyYW5cdTAwZTdhIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.169:8443?allowInsecure=1&encryption=none&fp=safari&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#Rom%C3%AAnia
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@yx.cloudflare.182682.xyz:443?path=/&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.232:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#Su%C3%A9cia
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.248:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#Ucr%C3%A2nia
+hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000?insecure=1&security=tls&sni=cn.cremedelamer.com#EUA
+vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.165:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#Finl%C3%A2ndia
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.18:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#Holanda
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>

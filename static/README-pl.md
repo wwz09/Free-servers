@@ -35,23 +35,22 @@
  <h4>Lista węzłów: (Tutaj wyświetlanych jest maksymalnie 20 węzłów. Pozostałe bezpłatne węzły są dostępne w aplikacji.)</h4>
     
 ```
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.70:8443?encryption=none&fp=chrome&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#United+States
-hysteria2://43bcba7d-cd22-379c-a7da-2e8eafecbc78@188.119.65.33:443?security=tls&sni=u711540us261.wagahaha.xyz#Russia
-vless://1281ef13-f1cd-493b-903e-4c2f4ffe1eba@78.40.117.131:443?security=reality&encryption=none&pbk=Dgu9RaToLbQcM1NCf_pS3ezHj6LsBQSYu50zWs5A6Qk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=ikea.com&sid=57cc65bfd5ef7465#Russia
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.16.92.229:8443?path=/&security=tls&encryption=none&insecure=0&host=srv55.hamiibar.com&fp=chrome&type=ws&allowInsecure=0&sni=srv55.hamiibar.com#
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#The+Netherlands
-vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=bero-3.bexum.fun#Germany
-vless://f68435e2-ac00-4374-8c03-c1d36e171088@88.119.176.126:1443?security=reality&type=tcp&packetEncoding=xudp&sni=loveit.kupivodku.top&fp=firefox&flow=xtls-rprx-vision&sid=0441f3e34348cb45&pbk=bFPeOJxOvbEHD7JyojURPDzrY4HNYiVh1rqVeIFSRGk&encryption=none#Lithuania
-trojan://humanity@104.16.7.70:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.88:8443?encryption=none&fp=chrome&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#The+Netherlands
-vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.50:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#Ukraine
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.34.124:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.164:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#Romania
-vless://53821f3c-5b03-456a-89f3-f8379f130752@57.128.81.193:443?security=reality&encryption=none&pbk=fXdtB8vImCUJMQBLcCNK7p1v3rVzx6HllaDLk8Vc4EU&headerType=none&fp=firefox&type=tcp&sni=www.samsung.com&sid=239dcd11#France
-vless://e9ba40f7-4ab8-4885-8a2d-f7decff555cb@nb.381209.xyz:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=L3IbrhYgXNRkRHYFtjkrXxQz48WxoaD77TIHJj-QS2I&security=reality&sid=b9ae0f639a2097&sni=www.kisrating.com&type=tcp#United+Kingdom
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.66.236.81:443?insecure=1&security=tls#Germany
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.221:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#United+Kingdom
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@62.60.155.0:443?security=reality&encryption=none&pbk=YD3G553bQP0uWuyYDY9ZvhLCmfF9tmKUo8MRuALEFUw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraph.co.uk&sid=deee73#Iran
+vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&security=reality&sid=b9988c11&sni=www.google.com&type=tcp#Canada
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.251:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#Ukraine
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.72:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#United+States
+vmess://eyJhZGQiOiAiZGU1LnRhc2tmbG93aHViLm9yZyIsICJhaWQiOiAiMCIsICJhbHBuIjogImgzLGgyLGh0dHAvMS4xIiwgImZwIjogIiIsICJob3N0IjogImRlNS50YXNrZmxvd2h1Yi5vcmciLCAiaWQiOiAiMDFjY2ZhN2EtOGRlNy00NTFkLWJkNDEtMTk1N2FjYWJhMTVmIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3JlYWx0aW1lIiwgInBvcnQiOiAiMjA4NyIsICJwcyI6ICJGcmFuY2UiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiZGU1LnRhc2tmbG93aHViLm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
+vmess://eyJhZGQiOiAiMTA0LjE3Ljc3Ljc3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInYycmF5MS5kb3phcHAueHl6IiwgImlkIjogIjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbE1uc1pVTjQvIiwgInBvcnQiOiAiODQ0MyIsICJwcyI6ICIiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICJ2MnJheTEuZG96YXBwLnh5eiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#South+Africa
+vless://200309bc-7f3d-4db1-9492-d01295c84319@45.155.169.91:52859/?type=tcp&encryption=none&flow=#France
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.210:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#United+Kingdom
+vless://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?security=reality&encryption=none&pbk=KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=8c09fb78b12f#Russia
+vmess://eyJhZGQiOiAiNjkuODQuMTgyLjQ5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLnp1bGEudXBsYW9kLW11c2ljLmlyLiIsICJpZCI6ICJmODk3NTg3MS1hN2EwLTQ5MDYtODgzNS1hMjNjMTI1OGNhMWUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBjcyI6ICIiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.77.21.104:443?path=/&security=tls&host=tjsp.hhxaf.cc.cd&type=ws&sni=tjsp.hhxaf.cc.cd#Hong+Kong
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@149.28.159.222:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#Singapore
+vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?path=%2Fws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#Thailand
+trojan://humanity@104.19.229.21:443?path=//assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#
+ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E=@47.79.144.115:40003#United+States
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.165:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#Ukraine
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>
