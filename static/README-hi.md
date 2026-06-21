@@ -35,23 +35,22 @@
  <h4>नोड सूची: (यहां अधिकतम 20 नोड दिखाए जाते हैं। अन्य मुफ्त नोड ऐप में प्राप्त करें)</h4>
     
 ```
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.68:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#United+States
-ss://YWVzLTEyOC1nY206M3B4MHdteDBlODExNDVnNTY4Z2E=@69.164.240.86:10880#United+States
-vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4yMTQiLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE4MCIsICJwcyI6ICJVbml0ZWQgS2luZ2RvbSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@154.17.16.176:443?allowInsecure=1&sni=s5.868001.xyz&type=ws&host=s5.868001.xyz&path=/proxyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.008500.xyz:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.31:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#Sweden
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.93:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#The+Netherlands
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca13.speedmeter.shop:8880?encryption=none&security=tls&type=grpc#France
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top#Argentina
-vless://394f6981-a782-4779-9a85-e6cf22935d93@121.127.43.215:8443?encryption=none&security=tls&sni=qro-mx-01.fromblancwithlove.com&type=tcp#Mexico
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.163:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#Romania
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=%2Fvless%2F&security=&encryption=none&type=ws#France
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#United+Kingdom
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.183:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=ams1.fromblancwithlove.com#The+Netherlands
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.88:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#Czechia
-trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#
-vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&sid=05fdaa8a05be46a9&type=tcp&headerType=none#United+Kingdom
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp#Italy
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@89.222.123.120:8443?encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#United+Kingdom
+vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@211.49.57.179:443?sni=s5.868001.xyz&type=ws&host=s5.868001.xyz&path=/proxyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#South+Korea
+vless://c6e7823a-a3b3-42af-ae75-7882c2d6c5b3@5.45.184.133:13379?encryption=none&path=%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN&security=none&type=ws#Germany
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.110:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#The+Netherlands
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.133:443?encryption=none&type=tcp&security=reality&headerType=none&sni=cdn4-35.yahoo.com&fp=firefox&insecure=1&allowInsecure=1&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&sid=7e77e7e2cf2b7a79&flow=xtls-rprx-vision#Ukraine
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.139:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn3-87.vk-cdnvideo.com&fp=chrome&insecure=1&allowInsecure=1#The+Netherlands
+vless://1a5d6dea-3769-43b1-a39d-7225cf01b2bd@185.147.127.101:40443?security=reality&encryption=none&pbk=a-GLfBU_yhZcBKPODh1zl-Ypj-jm4nYN_fkHBhMGAGs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=d56f#Poland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptemVNWUJKWXA0Qm83bkExcVlMdnY3UUc3M2lndEFBODVudDRwcjhBOW50eDJxaERmWWdSdGlKN2lIN1ZyY25lUUtObXR2cGJzdnZGS1BhVUFUWUVMaTE4aUg1NlR0cjQ=@download.riferoser.icu:56594#Taiwan
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.188:8880?encryption=none&mode=gun&security=tls&type=grpc#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmFhNGVhZDIyZGIxZDdlOGZlYTA2M2I2YWVmY2M3Mw==@172.233.108.250:1083#Spain
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.216.98:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Xb-A55KyH9nwjxKw85wksIUJs9KBGk5B8rLArXGVLiw&security=reality&sid=d9654598d4415f95&sni=service.mycloudsfere.abrdns.com&type=tcp#United+States
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@198.13.37.176:443?security=tls&sni=hhcm.hhxaf.cc.cd&insecure=1&allowInsecure=1&type=ws&host=hhcm.hhxaf.cc.cd&path=%2F#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ==@45.129.96.62:41348#Estonia
+vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTYuMjExIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6IDE4MDAwLCAicHMiOiAiQ2FuYWRhIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

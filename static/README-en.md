@@ -35,23 +35,22 @@
 <h4>Node list: (A maximum of 20 nodes are shown here. More free nodes are available in the app.)</h4>
     
 ```
-vless://967064b5-3272-431e-8dce-9519acfb94be@94.156.179.71:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KS0F6q2PTY1s6y2sH5PdrznYqprIkUBtS1masvcrJjo&security=reality&sid=823257b7b9ab9d02&sni=de2.zestful.bond&type=tcp#Bulgaria
-trojan://O4O8.Ew+ujFX6GJBQ=xQr.heGwux0GYHqk@45.61.52.243:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=45.61.52.243#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.143:443#The+Netherlands
-trojan://humanity@172.66.44.211:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#United+States
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United+States
-vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@211.49.57.161:443?encryption=none&security=tls&sni=s5.868001.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=s5.868001.xyz&path=%2F#South+Korea
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.72:8443?encryption=none&fp=chrome&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#The+Netherlands
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@173.245.59.162:443?path=/udfyfws&security=tls&encryption=none&host=octopusss5.info&fp=chrome&type=ws&sni=octopusss5.info#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001269pz2.cybervena.com:50099#Taiwan
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?encryption=none&mode=gun&security=tls&type=grpc#France
-vless://394f6981-a782-4779-9a85-e6cf22935d93@ams1.fromblancwithlove.com:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#The+Netherlands
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.4:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#Sweden
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@cdn9-33.vk-cdnvideo.com:8443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1#Romania
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@198.13.37.176:443?security=tls&sni=hhcm.hhxaf.cc.cd&insecure=1&allowInsecure=1&type=ws&host=hhcm.hhxaf.cc.cd&path=%2F#Japan
-vless://394f6981-a782-4779-9a85-e6cf22935d93@156.146.52.119:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#T%C3%BCrkiye
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#United+Kingdom
-vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#United+Kingdom
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.38:8443?encryption=none&fp=chrome&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#United+States
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.68:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#The+Netherlands
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#The+Netherlands
+vless://04e28e6c-7a6c-4ec7-bed2-3da8f7c9edce@45.130.125.126:2053?path=/eyJqdW5rIjoiTG1BbkpIVHV2S21jNjRNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ2LjEwMy4xMTMuMTU4Il19?ed&security=tls&alpn=http/1.1&encryption=none&host=bpb-expo--10rayly4zy.expo.app&fp=chrome&type=ws&sni=BpB-expO--10RaYly4zY.EXPO.App#Seychelles
+vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.174:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#Finland
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#The+Netherlands
+vless://394f6981-a782-4779-9a85-e6cf22935d93@212.102.48.217:8443?encryption=none&security=tls&sni=mad-es.fromblancwithlove.com&type=tcp#Spain
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.71:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.160.132.178:443?encryption=none&type=ws&security=tls&path=%2Ffp&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0#Japan
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.180.197.41:8080#The+Netherlands
+vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.10:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#Finland
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.67.71.247:443?encryption=none&fp=chrome&host=octopusss5.info&path=%2Fudfyfws&security=tls&sni=octopusss5.info&type=ws#United+States
+trojan://humanity@104.18.152.97:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#United+Kingdom
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?encryption=none&host=amooaliii.net&path=/jdhfyws&security=tls&sni=amooaliii.net&type=ws#United+States
+vless://a12b0d31-f599-498e-b76e-8558a14b766b@47.79.144.103:25242?path=/a12b0d31&security=none&encryption=none&type=ws#United+States
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

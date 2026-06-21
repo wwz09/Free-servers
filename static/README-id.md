@@ -35,23 +35,22 @@
  <h4>Daftar node: (Maksimal 20 node ditampilkan di sini. Node gratis lainnya bisa didapatkan di aplikasi.)</h4>
     
 ```
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.240.44:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de1.fromblancwithlove.com#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#United+Kingdom
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.123:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#Sweden
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.myfymain.com:8880?encryption=none&mode=gun&security=tls&type=grpc#France
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.71:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#United+States
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@172.104.80.248:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=%2F&Host=hhcm.hhxaf.cc.cd#Japan
-vless://659a9075-d5ab-4fd2-bf34-b37043fae832@162.159.13.71:443?sni=nbhhh.mrcool.kdns.fr&type=ws&host=nbhhh.mrcool.kdns.fr&path=/proxyip=dc844a1f.tp15333.ip.090227.xyzfp=chrome&security=tls#
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.162:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn7-39.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0#Romania
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.209:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#United+States
-trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#Switzerland
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.60.231:443?allowInsecure=1&encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Dchrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca12.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&type=grpc#France
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.83:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#United+States
-trojan://humanity@www.multiplydose.com:443?allowInsecure=1&host=www.multiplydose.com&path=%2F%2Fassignment&security=tls&type=ws#
-vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.215.80:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#T%C3%BCrkiye
-vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?security=none&encryption=none&headerType=none&type=tcp#Finland
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#France
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#France
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.110:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#The+Netherlands
+vmess://eyJhZGQiOiIyMy4xNDEuMjA0LjEzMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNjg1YTBiZi0yNDEzLTQ1ZDItZGMwMC1jMDI4MTM4N2MyNDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyOTYzMyIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgMzY3Iiwic2N5IjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.110:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#Ukraine
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.112:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#The+Netherlands
+vless://ea0a2f27-7e22-4337-820b-6703eca2d7b4@103.109.234.138:443?type=tcp&fp=firefox&flow=xtls-rprx-vision&sni=google.com&headerType=none&security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8#Australia
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.75:8443?encryption=none&fp=chrome&security=tls&sni=cdn7-39.vk-cdnvideo.com&type=tcp#The+Netherlands
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.83:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#Czechia
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@yx.cloudflare.182682.xyz:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@89.222.123.120:8443?encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#United+Kingdom
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.76:8880?mode=gun&security=none&encryption=none&type=grpc#France
+trojan://humanity@104.20.6.134:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.149.209:443?allowInsecure=1&encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.111:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&security=reality&sid=7a3f9e2b1c8d4f6a&sni=it.s3-cloud.xyz&type=tcp#United+Kingdom
+vless://53821f3c-5b03-456a-89f3-f8379f130752@57.128.81.193:443?security=reality&encryption=none&pbk=fXdtB8vImCUJMQBLcCNK7p1v3rVzx6HllaDLk8Vc4EU&headerType=none&fp=firefox&type=tcp&sni=www.samsung.com&sid=239dcd11#France
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>
