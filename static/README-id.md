@@ -35,23 +35,23 @@
  <h4>Daftar node: (Maksimal 20 node ditampilkan di sini. Node gratis lainnya bisa didapatkan di aplikasi.)</h4>
     
 ```
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.26:443?security=reality&encryption=none&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=jp.s3-cloud.org&sid=7a3f9e2b1c8d4f6a#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#Germany
-trojan://humanity@104.20.6.134:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@172.104.81.253:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=%2F&Host=tjsp.hhxaf.cc.cd#Japan
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.70:8443?encryption=none&fp=chrome&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#United+States
-vless://6aa91885-dc17-4d70-a58b-ccc29dd71b04@proxy.netraidly.ru:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=qq&pbk=mimJ_uInBYERt8TayjrHu5Kmq4b1ko39G6WD72SUkGw&sid=75cf&type=tcp&headerType=none#Brazil
-vless://06b65903-406d-4a41-8400-6fd5c0ee7798@saas.sin.fan:2096?encryption=none&security=tls&sni=sp.linuxdododo.ccwu.cc&fp=random&insecure=0&allowInsecure=0&type=ws&path=%2F#
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.82:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#Czechia
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.254:22231?security=tls&type=tcp&packetEncoding=xudp&sni=r1.mizulina.top&fp=chrome&flow=xtls-rprx-vision&encryption=none#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmFhNGVhZDIyZGIxZDdlOGZlYTA2M2I2YWVmY2M3Mw==@172.233.108.250:1083#Spain
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca15.myfymain.com:8880?encryption=none&mode=gun&security=tls&type=grpc#France
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.190:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#Sweden
-vmess://eyJhZGQiOiAiMTUyLjY3LjguMjA1IiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDgwLCAicHMiOiAiSW5kaWEiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAiMTUyLjY3LjguMjA1IiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@159.195.151.6:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#Denmark
-trojan://6c862415-30d2-4813-8e49-42e99a0bd415@188.164.248.122:443?path=/us-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#The+Netherlands
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.183:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=ams1.fromblancwithlove.com#The+Netherlands
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?path=/hdgrbws&security=tls&encryption=none&host=terazhediii.info&type=ws&sni=terazhediii.info#United+States
+ss://YWVzLTEyOC1nY206SlZTdXVpYjR5ZHZZOG03dTZqRWxUWWJlUk84eWdKNEhpOElxNzMzQnFBa0Y=@168.138.175.92:9888#Singapore
+vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@104.16.92.229:8443?path=/&security=tls&encryption=none&insecure=0&host=srv55.hamiibar.com&fp=chrome&type=ws&allowInsecure=0&sni=srv55.hamiibar.com#
+trojan://humanity@8.6.112.0:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2Fassignment#Austria
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@130.162.130.105:443?path=/&security=tls&host=tjsp.hhxaf.cc.cd&fp=chrome&type=ws&sni=tjsp.hhxaf.cc.cd#South+Korea
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@da.mfa.gov.ua:443?path=/&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#United+States
+vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?security=none&encryption=none&headerType=none&type=tcp#Finland
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.16.72.251:443?security=tls&alpn=&fp=random&sni=hhlfy.twiladaphne.ndjp.net&type=ws&path=/&host=hhlfy.twiladaphne.ndjp.net#
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.226:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#Ukraine
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.148:8443?security=tls&type=tcp&packetEncoding=xudp&sni=cdn9-33.vk-cdnvideo.com&fp=chrome&encryption=none#The+Netherlands
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.157:8443?allowInsecure=1&sni=ams1.fromblancwithlove.com&security=tls#The+Netherlands
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.69:8443?sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#Czechia
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.68:8880?encryption=none&security=tls&type=grpc#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#The+Netherlands
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.110:8443?allowInsecure=1&sni=ams1.fromblancwithlove.com&security=tls#The+Netherlands
+vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#Russia
+vless://870d3183-17a1-4a87-9021-e12e3ac2939f@tr.go-vpn.club:443?security=reality&encryption=none&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=ed7b9bdfedb9b8e5#T%C3%BCrkiye
+trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&insecure=0&ech=54.mk+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#United+States
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>
