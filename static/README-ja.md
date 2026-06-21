@@ -35,23 +35,26 @@
  <h4>ノード リスト: (ここには最大20個のノードのみ表示されます。その他の無料ノードはアプリで取得できます)</h4>
     
 ```
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.44:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.130:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=ams1.fromblancwithlove.com#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.180:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
-vless://fe52cfb4-8261-4c85-8278-e4bf4057bde1@46.8.230.9:50785?security=none&encryption=none&headerType=none&type=tcp#%E3%83%AD%E3%82%B7%E3%82%A2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%E8%8B%B1%E5%9B%BD
-vmess://eyJhZGQiOiAiNDcuMjQ0LjEyMC4xOTciLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIjQ3LjI0NC4xMjAuMTk3IiwgImlkIjogIjQ1YjgzNTE5LTljNGYtNDA1Mi1hMTFiLTAyZTAxN2I2MzZkNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiAzNjcwMywgInBzIjogIlx1OTk5OVx1NmUyZiIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-trojan://humanity@104.16.7.70:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=cdn3-87.vk-cdnvideo.com#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.83:8443?encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#%E8%8B%B1%E5%9B%BD
-ss://YWVzLTI1Ni1nY206N051QjBZNW0zYU56a0tNS2xGb013a2lhanN1NkYzNmM5b2s0VktFWm5CND0=@162.19.254.232:2083#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%85%B1%E5%92%8C%E5%9B%BD
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.93:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca32.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%85%B1%E5%92%8C%E5%9B%BD
-vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.172:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E5%85%B1%E5%92%8C%E5%9B%BD
-vless://e0de62c9-f317-4275-b7e5-8da7b7fa9bc6@77.110.127.191:9443?path=%2Fpourya&security=&encryption=none&type=ws#%E3%83%AC%E3%83%90%E3%83%8E%E3%83%B3%E5%85%B1%E5%92%8C%E5%9B%BD
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@185.224.3.42:10443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo&security=reality&sni=www.cloudflare.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AAT
+trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&type=tcp&packetEncoding=xudp&sni=amd.com&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&encryption=none#%E3%83%AA%E3%83%88%E3%82%A2%E3%83%8B%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.120:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#%E3%83%81%E3%82%A7%E3%82%B3%E5%85%B1%E5%92%8C%E5%9B%BD
+ss://YWVzLTEyOC1nY206d2NqTW5pQ09EZmh6MjZQN0wyQnZwRURRZmhvZ2JGVGw=@161.129.71.148:17913#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?mode=gun&security=none&encryption=none&type=grpc#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%85%B1%E5%92%8C%E5%9B%BD
+vless://aa3415b8-f471-47c4-8159-7681d645c8ca@198.186.131.222:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=b6n3d22n.qcwdcq.workers.dev&path=%2F&security=tls&sni=b6n3d22n.qcwdcq.workers.dev&type=ws#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.20:443?encryption=none&host=amoosamiii.net&path=%2Fpoiuyws&security=tls&sni=amoosamiii.net&type=ws#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%85%B1%E5%92%8C%E5%9B%BD
+vless://8a38623a-3e7f-5598-bdc9-894cbad4c5b6@172.65.111.43:22?security=none&type=tcp&headerType=http&path=%2F%40monacoVPN%40monacoVPN%40monacoVPN%40monacoVPN&method=GET#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+trojan://humanity@199.181.197.111:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&&host=www.calmloud.com&type=ws&&sni=www.calmloud.com#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#%E8%8B%B1%E5%9B%BD
+vless://336ab676-47c5-4d11-99a2-29441457e94e@82.158.120.24:443?security=reality&encryption=none&pbk=m0laydpddP-MhAgDbMB_QGrSk4-nrIvDSoIHK_Q8Uy4&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a796a1f52722b3a5#%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3
+trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=130.94.114.217#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#%E8%8B%B1%E5%9B%BD
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@103.106.228.175:8009#%E6%97%A5%E6%9C%AC
+trojan://humanity@104.20.6.134:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?encryption=none&mode=gun&security=tls&type=grpc#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%85%B1%E5%92%8C%E5%9B%BD
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.164:8443?allowInsecure=1&encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>

@@ -35,23 +35,26 @@
  <h4>노드 목록: (여기에는 최대 20개 노드만 표시됩니다. 다른 무료 노드는 앱에서 받을 수 있습니다.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#United+Kingdom
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca12.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#France
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.118:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#Czechia
-vless://7d876627-abf5-4865-8ff4-03f37d49de5d@bero-3.bexum.fun:9443?security=tls&type=tcp&packetEncoding=xudp&sni=bero-3.bexum.fun&fp=chrome&flow=xtls-rprx-vision&encryption=none#Germany
-vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.52:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#Ukraine
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#France
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.93:8443?allowInsecure=1&sni=ams1.fromblancwithlove.com&security=tls#The+Netherlands
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.167:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#Romania
-vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4zNyIsICJhaWQiOiAwLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTgwIiwgInBzIjogIlVuaXRlZCBLaW5nZG9tIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#United+Kingdom
-vmess://eyJhZGQiOiAiMTA0LjE4LjE5Ljk5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInZ5dnp5aGd6LmNvbSIsICJpZCI6ICJiNGE2NTYxMS00OTY5LTQyYjItYmM3NC01NzY4Yjk0MGJkOWUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIiIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICJ2eXZ6eWhnei5jb20iLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.12:8443?security=tls&type=tcp&packetEncoding=xudp&sni=ams1.fromblancwithlove.com&fp=chrome&encryption=none#Sweden
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.204:8443?encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#United+States
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@124.156.208.160:443?security=tls&sni=tjsp.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=tjsp.hhxaf.cc.cd&path=%2F#Japan
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@79.137.207.130:443?security=reality&type=tcp&packetEncoding=xudp&sni=lvz.de&fp=firefox&flow=xtls-rprx-vision&sid=ea7acce8b971&spx=%2F&pbk=5NHgGSXmIyLoslNxkfnH9ZUojx_WafjIhllNUEAhIwc#Germany
-vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.35:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=ea10cd5686751ec5&sni=storage.yandex.net&type=tcp#Taiwan
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.130519.xyz:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#United+States
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?mode=gun&security=none&encryption=none&type=grpc#France
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.138:8443?encryption=none&type=tcp&security=tls&headerType=none&sni=cdn7-09.vk-cdnvideo.com&fp=chrome&insecure=0&allowInsecure=0#The+Netherlands
+vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=d515d6cfdfe60b02&sni=storage.yandex.net&type=tcp#Mauritius
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&packetEncoding=xudp&encryption=none#Italy
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#France
+vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.235.74:8443?encryption=none&security=tls&sni=tlv-il.fromblancwithlove.com&type=tcp#Israel
+vmess://eyJhZGQiOiAidmlwMy5zYW5haWVoZGFzdGkuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInBsYXkuZ29vZ2xlLmNvbSIsICJpZCI6ICI2YzVmY2FlMy0xNmU4LTRhOTMtYjI4ZS0wNTU4OGQ1ZDkzNDIiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjE1NDYiLCAicHMiOiAiR2VybWFueSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
+vless://360c46b7-afe1-4e86-bfe1-ba09b5fcd8a6@grinoree.ru:8443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=2715592069f36fe7&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&encryption=none#Indonesia
+vless://d6fc11f0-74c7-4e37-9119-8b1090b54cfb@109.61.18.135:40732?encryption=none&type=tcp&security=reality&headerType=none&sni=www.wechat.com&fp=chrome&insecure=1&allowInsecure=1&pbk=V-fTxzejwmP5x9rjQR5i1IE7WrSn-syZq9Qp41jukFE&sid=a7&spx=/qEkmsqpbLOu9tps#Hungary
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.219.56:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EIlnBMyH--EIasnzGPJAAFSP5WM_4FNU4ktFUQI0O00&security=reality&sid=a13edee689fca1da&sni=cdn2.swaginozip.fun&type=tcp#United+States
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.215:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#The+Netherlands
+vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.111:8443?allowInsecure=1&sni=ams1.fromblancwithlove.com&security=tls#The+Netherlands
+trojan://humanity@104.16.174.36:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+vless://7d876627-abf5-4865-8ff4-03f37d49de5d@bero-3.bexum.fun:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bero-3.bexum.fun&type=tcp#Germany
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.72:8443?encryption=none&fp=chrome&security=tls&sni=cdn7-09.vk-cdnvideo.com&type=tcp#The+Netherlands
+vless://eedcee2e-7517-4162-852d-b21b864b8e3f@195.74.93.254:443?security=reality&type=tcp&packetEncoding=xudp&sni=web.max.ru&fp=chrome&flow=xtls-rprx-vision&sid=247fd6dab1a34a48&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&encryption=none#Romania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#Philippines
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.133:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#Sweden
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.152.241:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#United+States
+vmess://eyJhZGQiOiAiMTcyLjEwNC44MC42NiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAyMjMyNCwgInBzIjogIkphcGFuIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>

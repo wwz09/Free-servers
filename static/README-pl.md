@@ -35,23 +35,26 @@
  <h4>Lista węzłów: (Tutaj wyświetlanych jest maksymalnie 20 węzłów. Pozostałe bezpłatne węzły są dostępne w aplikacji.)</h4>
     
 ```
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.215:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#The+Netherlands
-trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.194:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#The+Netherlands
-trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-vless://43488128-319e-f480-64ea-0acdc712e2a8@139.84.236.5:443?security=reality&encryption=none&pbk=UkoqOh9VtAhhMrlKY3wAmijgjCrLIKMZT-An0NjrHng&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.alibaba.com&sid=8d17b7ebab7b99d7#South+Africa
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#Germany
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.132:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#Sweden
+vless://e274d81c-6118-44cf-8864-06b3dc83e0c0@95.85.231.0:443?security=reality&encryption=none&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=musicboss.eu&sid=197e9c7abe#Czechia
+vless://8525fe74-67e6-4a55-8a26-95f227bd1384@68.183.65.82:2083?path=/&security=tls&encryption=none&insecure=0&host=lucky-sky-0104.alvlirm444.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=lucky-sky-0104.alvlirm444.workers.dev#Germany
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.99:8443?&security=tls&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&path=%2F#Czechia
+trojan://humanity@8.6.112.0:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2Fassignment#Austria
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca15.myfymain.com:8880?encryption=none&security=tls&type=grpc#France
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.4:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#Sweden
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.147.236:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#Taiwan
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#South+Korea
+vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.89:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#Mauritius
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#United+Kingdom
+trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#United+States
+trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@162.249.126.96:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#United+States
 vless://394f6981-a782-4779-9a85-e6cf22935d93@46.246.34.172:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#Finland
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@nexusmods.com:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.28:443?security=reality&encryption=none&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=jp.s3-cloud.org&sid=7a3f9e2b1c8d4f6a#United+Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#United+States
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.69:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#Czechia
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.53:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#The+Netherlands
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@130.162.130.105:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#South+Korea
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@185.229.190.245:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&fp=chrome&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#The+Netherlands
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@youxuan.cf.090227.xyz:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?mode=gun&security=none&encryption=none&type=grpc#France
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@172.104.86.229:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=%2F&Host=tjsp.hhxaf.cc.cd#Japan
+vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv3.yunus.guru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Aiyev_-czR8WG7l15BQDsHL7VwJVQe3W7SEfxbRk0W4&security=reality&sid=b28896ec1669a951&sni=rezerv3.yunus.guru&type=tcp#The+Netherlands
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#Bulgaria
+vless://9cd65844-3f28-4081-8d70-b5c61815f45d@t-panel.wasmer.app:443?alpn=http%2F1.1&encryption=none&host=t-panel.wasmer.app&path=%2Fws%2F9cd65844-3f28-4081-8d70-b5c61815f45d&security=tls&sni=t-panel.wasmer.app&type=ws#France
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

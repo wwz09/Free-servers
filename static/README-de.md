@@ -35,23 +35,26 @@
  <h4>Knotenliste: (Hier werden maximal 20 Knoten angezeigt. Weitere kostenlose Knoten erhalten Sie in der App.)</h4>
     
 ```
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@217.142.254.144:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#Japan
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.249.212:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#UK
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#UK
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.5:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#Schweden
-vless://394f6981-a782-4779-9a85-e6cf22935d93@121.127.43.215:8443?encryption=none&security=tls&sni=qro-mx-01.fromblancwithlove.com&type=tcp#Mexiko
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.220:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#Ukraine
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.180:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#Niederlande
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.120:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=3ca620a7ed5f3196#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqRjlvZTdpaWJqbkd2VkVyZXhSaU4z@195.133.2.2:34898#Russland
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.200:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#Brasilien
-vless://82a7f52c-f047-4f8c-b913-3ea1f29bdb38@it-8.flowersred.ru:443?security=reality&encryption=none&pbk=5pj_m0SB8p5ah-Jc7QZrF5iEVeeLyZY8fWM6OZWj5FM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com#Russland
-vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.162:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#Schweden
-trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&security=reality&sid=b9988c11&sni=www.google.com&type=tcp#Kanada
-vless://dbfa97b8-f4fb-4687-96dc-a5a2aebfae11@est01.port-server.online:443?security=reality&type=tcp&packetEncoding=xudp&sni=est01.port-server.online&fp=firefox&flow=xtls-rprx-vision&sid=9902cda1645757ea&pbk=aNbj5QBUxwKIRnh9Z_0ZA-FmDELZKLb1YMUpId3OCU8&encryption=none#Tschechien
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@gco1.speedmeter.shop:8880?encryption=none&security=none&type=grpc#USA
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.88:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#Tschechien
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#UK
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@130.162.130.105:443?path=/&security=tls&host=tjsp.hhxaf.cc.cd&fp=chrome&type=ws&sni=tjsp.hhxaf.cc.cd#S%C3%BCdkorea
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@104.43.91.69:443?allowInsecure=0&encryption=none&flow=xtls-rprx-vision&fp=edge&headerType=none&insecure=0&security=tls&sni=r1.mizulina.top&type=tcp#Singapur
+trojan://humanity@chatgpt.com:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#USA
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.12:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#Niederlande
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#Frankreich
+vless://394f6981-a782-4779-9a85-e6cf22935d93@45.159.12.194:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#Schweden
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca12.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&type=grpc#Frankreich
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@news.microsoft.com:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&fp=chrome&type=ws&allowInsecure=0&sni=amoosamiii.net#USA
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.165:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn3-87.vk-cdnvideo.com&type=tcp#Ukraine
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@89.222.123.121:8443?encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#UK
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.218:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#Ukraine
+vless://f83d8e60-f039-45c8-95d2-2a44c59025f6@freetg.strettenvpn.com:9999?encryption=none&security=none&type=tcp#Russland
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.165:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#Rum%C3%A4nien
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.226:8443?allowInsecure=1&encryption=none&security=tls&sni=cdn9-33.vk-cdnvideo.com&type=tcp#Ukraine
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1REpYUnBtaTNpeXF4UTc5UGZLdjNC@195.93.253.240:14130#Niederlande
+vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#USA
+trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#USA
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@144.31.171.99:4443?encryption=none&security=tls&type=grpc#USA
+vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.55.241:8443?encryption=none&security=tls&sni=pl1.fromblancwithlove.com&type=tcp#Polen
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
