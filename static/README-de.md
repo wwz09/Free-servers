@@ -35,17 +35,19 @@
  <h4>Knotenliste: (Hier werden maximal 20 Knoten angezeigt. Weitere kostenlose Knoten erhalten Sie in der App.)</h4>
     
 ```
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.56:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#Indonesien
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.4.159:2053?path=/&security=tls&insecure=0&type=ws&allowInsecure=0&sni=hhcm.hhxaf.cc.cd#USA
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.38.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2🇨🇳#Niederlande
-vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@83.243.86.117:10443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo#Deutschland
-vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&sid=05fdaa8a05be46a9&type=tcp&headerType=none#UK
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.188.140:80?type=ws&security=none&fp=chrome&path=/Telegram🇨🇳+@WangCai2&host=s5.868001.xyz#USA
-trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?allowInsecure=1&security=tls&sni=www.lateralio.click#UK
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@154.81.141.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#Seychellen
-vmess://eyJhZGQiOiAiMTA3LjE3My4yNy4yMTkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImYwYTJmYmU1LTI5YmYtNDY4Yy1kZGMxLWI1MjQ1NTJkMWEyMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIveW91dHViZSIsICJwb3J0IjogIjY2NjYiLCAicHMiOiAiS2FuYWRhIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIjEwNy4xNzMuMjcuMjE5IiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.167:8880?encryption=none&mode=gun&security=tls&type=grpc#Frankreich
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#Frankreich
+trojan://humanity@141.193.213.11:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#USA
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.33:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&security=reality&sid=7a3f9e2b1c8d4f6a&sni=jp.s3-cloud.org&type=tcp#UK
+vmess://eyJhZGQiOiAiNjYuMTYzLjExNy41OCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMjIzMjQiLCAicHMiOiAiVVNBIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca26.myfymain.com:8880?encryption=none&mode=gun&security=tls&type=grpc#Frankreich
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca28.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#Frankreich
+vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@211.49.57.161:443?encryption=none&security=tls&sni=s5.868001.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=s5.868001.xyz&path=%2F#S%C3%BCdkorea
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?encryption=none&mode=gun&security=tls&type=grpc#Frankreich
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.67.215.140:80?encryption=none&host=s5.868001.xyz&path=Telegram🇨🇳+@WangCai2&security=none&type=ws#Russland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#T%C3%BCrkei
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001269pz2.cybervena.com:50099#Taiwan
+vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bero-3.bexum.fun&type=tcp#Deutschland
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@8.34.70.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#S%C3%BCdkorea
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#Frankreich
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

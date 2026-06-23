@@ -36,19 +36,16 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?encryption=none&type=grpc&security=reality&mode=gun&sni=c.primarymaster.online&fp=firefox&insecure=1&allowInsecure=1&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&sid=c56c3ba3b9f676c5#%E6%8D%B7%E5%85%8B+V2CROSS.COM
-trojan://VGBzLm49=M_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&headerType=none&type=tcp&sni=185.126.236.190#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-vless://monacoVPN@172.65.111.43:22?encryption=none&security=none&type=tcp&headerType=http&path=%2F%40monacoVPN%40monacoVPN%40monacoVPN%40monacoVPN#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://82bcfd17-37d2-4bf2-be7f-c338b8e959b0@84.32.209.210:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=statusdetector404.ru&fp=chrome&pbk=Zq6qL8R76CWAsWlI1m_684JcC6Jw_kFAZNshxfjivB0&sid=6ba85179e30d4fc2&type=tcp&headerType=none#%E7%AB%8B%E9%99%B6%E5%AE%9B+V2CROSS.COM
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cloudflare.czkcdn.cn:443?path=/&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.119.151:80?path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%E7%BE%8E%E5%9B%BD+Fastly%E8%8A%82%E7%82%B9
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?encryption=none&host=max-gb1.global.ssl.fastly.net&path=/&security=none&type=ws#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.118.151:80?path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%E7%BE%8E%E5%9B%BD+Fastly%E8%8A%82%E7%82%B9
-trojan://O4O8.Ew+ujFX6GJBQ=xQr.heGwux0GYHqk@45.61.52.243:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=45.61.52.243#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.2.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%E7%BE%8E%E5%9B%BD+Fastly%E5%85%A8%E7%90%83Anycast%E8%8A%82%E7%82%B9
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@104.254.140.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM
-vmess://eyJhZGQiOiAiMTYwLjI1MC4yNDcuNzAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidmFyemVzaDMuY29tIiwgImlkIjogImQ3YzEzZTEwLTJiYTktNDY3Ny1hODc3LWQ5ZTlkMTczODM5NCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBjcyI6ICIiLCAicG9ydCI6ICI0OTE3OCIsICJwcyI6ICJcdTRlOWFcdTU5MmFcdTU3MzBcdTUzM2EgVjJDUk9TUy5DT00iLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.24.151:80?path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%E7%BE%8E%E5%9B%BD+%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%B7%9E%E6%B4%9B%E6%9D%89%E7%9F%B6Fastly%E8%8A%82%E7%82%B9
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.1:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%E7%BE%8E%E5%9B%BD+Fastly%E5%85%A8%E7%90%83Anycast%E8%8A%82%E7%82%B9
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@199.232.197.131:80?allowInsecure=0&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.120.151:80?path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%E6%B3%95%E5%9B%BD+Fastly%E8%8A%82%E7%82%B9
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.109.223:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACFastly%E8%8A%82%E7%82%B9
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@77.74.228.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=Telegram#%E6%B3%A2%E6%96%AF%E5%B0%BC%E4%BA%9A%E5%92%8C%E9%BB%91%E5%A1%9E%E5%93%A5%E7%BB%B4%E9%82%A3+V2CROSS.COM
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%E7%BE%8E%E5%9B%BD+Fastly%E5%85%A8%E7%90%83Anycast%E8%8A%82%E7%82%B9
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
