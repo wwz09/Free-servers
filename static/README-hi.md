@@ -35,22 +35,21 @@
  <h4>नोड सूची: (यहां अधिकतम 20 नोड दिखाए जाते हैं। अन्य मुफ्त नोड ऐप में प्राप्त करें)</h4>
     
 ```
-vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443?security=reality&type=tcp&packetEncoding=xudp&sni=max.ru&fp=chrome&flow=xtls-rprx-vision&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&encryption=none#Russia
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#United+States
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.76.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Hong+Kong
-vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.46:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&sid=ea10cd5686751ec5&type=tcp&headerType=none#Taiwan
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.158:8443?encryption=none&type=ws&security=tls&path=%2F&host=srv03.perfectbulk.info&sni=srv03.perfectbulk.info&fp=chrome&insecure=0&allowInsecure=0#Seychelles
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#United+Kingdom
-vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&host=/?BIA_TELEGRAM@vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#United+Kingdom
-vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#Mexico
-trojan://MiTiVPN@151.101.56.6:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=cdn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#United+States
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?encryption=none&type=ws&security=tls&path=%2Fhdgrbws&host=terazhediii.info&sni=terazhediii.info&fp=chrome&insecure=0&allowInsecure=0#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoMkdOUDZ4enNzMHhRNWtmN0JOY0pJ@46.224.2.35:47199#Iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#United+Kingdom
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?path=%2Fvws%2F&security=tls&encryption=none&insecure=0&host=bab-6.site&fp=chrome&type=ws&allowInsecure=0&sni=bab-6.site#France
-vless://f90cc83a-97ce-446d-8f80-30d3eef3351c@144.31.30.69:2443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#United+States
-vless://8224aa92-4a38-4756-a7d9-a9e7cde12a31@103.166.127.195:448?security=reality&encryption=none&pbk=nE2H52_rX3dHXENKxpHFDfZPKP40AjGoHyJv9olrr20&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=124107a81dcd5199#Hong+Kong
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@104.238.29.241:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=helsinki.fi&fp=firefox&pbk=uHgXn92PmJ1ilszzwK2LHKvoC5dwhqYVhfKT_JW7JHM&sid=40a5eaec20abf1&type=tcp&headerType=none#United+Kingdom
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United+States
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.130.219:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#United+States
+trojan://humanity@104.16.174.117:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.17.4.159:2053?path=/&security=tls&insecure=0&type=ws&allowInsecure=0&sni=hhcm.hhxaf.cc.cd#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#Taiwan
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca28.myfymain.com:8880?authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&encryption=none&mode=gun&security=tls&type=grpc#France
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.131.7.140:80?path=/Telegram🇨🇳+@WangCai2&security=none&encryption=none&host=s5.868001.xyz&fp=chrome&type=ws#The+Netherlands
+trojan://humanity@www.creationlong.org:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#United+Kingdom
+vless://6e41151e-ae07-4ea6-910e-7a3986b7bc0d@31.76.38.18:7443?Telegram=@armindone,@armindone,@armindone,@armindone&security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=d82fb387#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:443#The+Netherlands
+trojan://MiTiVPN@167.82.101.251:443?path=/nl=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=cdn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#United+States
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.96.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Australia
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

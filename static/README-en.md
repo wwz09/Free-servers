@@ -35,22 +35,21 @@
 <h4>Node list: (A maximum of 20 nodes are shown here. More free nodes are available in the app.)</h4>
     
 ```
-trojan://humanity@chatgpt.com:443/?type=ws&host=www.gossipglove.com&path=/assignment&security=tls&sni=www.gossipglove.com#
-vless://b95dd8e5-2758-408f-be99-9362eecee609@pl.fantoff.online:443?Telegram=@kurdconfig&Telegram=@kurdconfig&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BoWKSM1aSfcTRgKX_kZYPlauG0jLIqku3zPBAiHpUgs&security=reality&sid=5ea7e22e889dabc5&sni=yahoo.com&type=tcp#Brazil
-vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e&spx=/&type=tcp&headerType=none#Russia
 trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#Japan
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#United+States
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.151.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.008500.xyz:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
-vmess://eyJhZGQiOiIxNjAuMjUwLjI0Ny43MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidmFyemVzaDMuY29tIiwiaWQiOiJkN2MxM2UxMC0yYmE5LTQ2NzctYTg3Ny1kOWU5ZDE3MzgzOTQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0OTE3OCIsInBzIjoi5pyq55+lIFZNRVNTLTQwNSB8IGZyZWUtbm9kZXMiLCJzY3kiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#T%C3%BCrkiye
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.41.190:443?encryption=none&type=ws&security=tls&path=%2F&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0#
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.102.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+States
-vless://f465fe94-87f4-448b-abc3-4855d2351a3a@82.26.94.213:443?encryption=none&type=tcp&security=reality&headerType=none&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&sid=cd8971da5a669139&flow=xtls-rprx-vision#United+Kingdom
-trojan://MiTiVPN@151.101.56.6:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=cdn-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#United+States
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443?allowInsecure=0&path=/&security=tls&sni=tjsp.hhxaf.cc.cd&type=ws#
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.131.211.140:80/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&encryption=none&flow=&host=s5.868001.xyz&path=/Telegram#The+Netherlands
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.150.130:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
+vless://fc71fffb-3743-4cfe-9edb-c8cb513e9146@199.232.245.208:443?path=/&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#United+States
+vless://4bf9601f-87e8-4250-a4e4-250bf54c5db4@104.16.75.224:8443?encryption=none&type=ws&security=tls&path=%2Fapi%2Fv1&host=splash.ariyuz.org&sni=splash.ariyuz.org&insecure=0&allowInsecure=0#
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.3.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@152.70.239.74:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#South+Korea
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@147.90.234.133:443#United+States
+trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#
+trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.11:443?security=tls#Japan
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.136.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Canada
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?path=%2Fjdhfyws&security=tls&encryption=none&host=amooaliii.net&fp=chrome&type=ws&sni=amooaliii.net#United+States
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#United+States
+vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=chrome&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#Czechia
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United+States
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

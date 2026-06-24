@@ -35,22 +35,21 @@
  <h4>Knotenliste: (Hier werden maximal 20 Knoten angezeigt. Weitere kostenlose Knoten erhalten Sie in der App.)</h4>
     
 ```
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.241.7:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kt-3Y5U6yLWiLB_RijhceKo01lYAVosWRZbhS05YpCY&sid=7d6203949764f921&sni=yourcloud.ldtp.com#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#Norwegen
-vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&host=OV-Italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#Frankreich
-trojan://humanity@104.17.121.71:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@172.67.74.2:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#USA
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#Frankreich
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.133.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Spanien
-trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.253.175.16:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@147.90.234.133:443#USA
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.60:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#Indonesien
-vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@104.17.148.22:2083?allowInsecure=1&encryption=none&host=yousef.varzesh.dpdns.org&path=%2F&security=tls&sni=yousef.varzesh.dpdns.org&type=ws#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@www.cnae.top:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#USA
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.152.241:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#USA
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#Frankreich
-trojan://humanity@45.130.125.96:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#Seychellen
+trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.127:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#Vereinigte+Arabische+Emirate
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#UK
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.126:8880/?encryption=none&flow=&security=tls&type=grpc#Frankreich
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#UK
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.78.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Hongkong
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.79.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Hongkong
+vless://20000020-3063-1376-f000-f6c850c0a020@109.73.65.116:493?type=tcp&headerType=none&security=reality&encryption=none&sni=louisvuitton.com&fp=firefox&pbk=hoJugHeT_SOHhybvTE5gEEgEqsar9KrDtC5uP5qi5GY&sid=31cf122180c019f7&flow=xtls-rprx-vision#UK
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.60:8880?encryption=none&security=none&type=grpc#Frankreich
+vless://b90b424c-6053-415c-8547-16f996331d63@134.255.252.76:9999?security=reality&encryption=none&pbk=_kcz60zlz7bBTIXtK11MgHIrnVBF9sTJnU2MiLCwDF8&headerType=none&fp=chrome&spx=%2FN5rLmYZAAhURETl&type=tcp&sni=varzesh3.com&sid=0731#Deutschland
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#Niederlande
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.137.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Kanada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.118.10:8388#USA
+trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.lateralio.click#UK
+trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#USA
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

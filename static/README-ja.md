@@ -35,22 +35,21 @@
  <h4>ノード リスト: (ここには最大20個のノードのみ表示されます。その他の無料ノードはアプリで取得できます)</h4>
     
 ```
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%85%B1%E5%92%8C%E5%9B%BD
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.158:443?path=%2Ffp%3Fed%3D512&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=ios&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%E3%82%BB%E3%83%BC%E3%82%B7%E3%82%A7%E3%83%AB
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.109.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E6%97%A5%E6%9C%AC
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-004.fastervpn.world:443?insecure=1&security=tls&sni=vpn-us-004.fastervpn.world#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#%E3%83%89%E3%82%A4%E3%83%84%E9%80%A3%E9%82%A6%E5%85%B1%E5%92%8C%E5%9B%BD
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.70.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.171.151:80?path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.102.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@138.124.113.18:443?security=reality&type=tcp&packetEncoding=xudp&sni=iamsterdam.com&fp=firefox&flow=xtls-rprx-vision&sid=0aafc7b3b9&pbk=1RFs75L42oUjmgEKqahFVrKKN52cosDkrWskT053D3o&encryption=none#%E3%82%AE%E3%83%AA%E3%82%B7%E3%83%A3%E5%85%B1%E5%92%8C%E5%9B%BD
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.63.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E8%8B%B1%E5%9B%BD
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.235:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD
-vless://aa73f723-81a2-4b7a-b110-81c5d753e75b@144.31.190.188:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=ru-1.videoproeditor.com&type=tcp#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@104.238.29.241:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=helsinki.fi&fp=firefox&pbk=uHgXn92PmJ1ilszzwK2LHKvoC5dwhqYVhfKT_JW7JHM&sid=40a5eaec20abf1&type=tcp&headerType=none#%E8%8B%B1%E5%9B%BD
-vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=bero-3.bexum.fun#%E3%83%89%E3%82%A4%E3%83%84%E9%80%A3%E9%82%A6%E5%85%B1%E5%92%8C%E5%9B%BD
-vless://7dc8bd4d-5c5d-4391-82d9-2424b16ec2a3@46.151.26.41:443?encryption=none&security=none&type=tcp#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.67.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3
+trojan://humanity@104.18.152.97:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@octopusss5.info:443?path=/udfyfws&security=tls&encryption=none&host=octopusss5.info&fp=chrome&type=ws&sni=octopusss5.info#
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.86.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3%E7%8E%8B%E5%9B%BD
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%E8%8B%B1%E5%9B%BD
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.241.7:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=kt-3Y5U6yLWiLB_RijhceKo01lYAVosWRZbhS05YpCY&security=reality&sid=7d6203949764f921&sni=yourcloud.ldtp.com&type=tcp#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%85%B1%E5%92%8C%E5%9B%BD
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.12.31.140:80?type=ws&security=none&fp=chrome&path=Telegram🇨🇳&host=s5.868001.xyz#%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2
+trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.125:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%E3%82%A2%E3%83%A9%E3%83%96%E9%A6%96%E9%95%B7%E5%9B%BD%E9%80%A3%E9%82%A6
+vless://ecd7aeca-2e37-4761-93e7-7cf4c2ff55bf@2.27.22.238:110?security=none&encryption=none&headerType=none&type=tcp#%E8%8B%B1%E5%9B%BD
+vless://6e41151e-ae07-4ea6-910e-7a3986b7bc0d@31.76.38.18:7443?Telegram=@armindone,@armindone,@armindone,@armindone&security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=d82fb387#%E8%8B%B1%E5%9B%BD
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.66.219:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@5.255.110.147:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&security=reality&sid=4fa44664f6a566d3&sni=nll.scroogethebest.com&type=tcp#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.145.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vmess://eyJhZGQiOiAiMTA0LjE4LjE5Ljk5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInZ5dnp5aGd6LmNvbSIsICJpZCI6ICJiNGE2NTYxMS00OTY5LTQyYjItYmM3NC01NzY4Yjk0MGJkOWUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIiIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICJ2eXZ6eWhnei5jb20iLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>

@@ -35,22 +35,21 @@
  <h4>Список узлов: (Здесь отображается не более 20 узлов. Остальные бесплатные узлы доступны в приложении.)</h4>
     
 ```
-vless://a12b0d31-f599-498e-b76e-8558a14b766b@47.79.144.103:25242?encryption=none&security=none&type=ws&path=/a12b0d31#%D0%A1%D0%A8%D0%90
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@45.77.21.104:443?type=ws&security=tls&path=/&host=tjsp.hhxaf.cc.cd&sni=tjsp.hhxaf.cc.cd&insecure=0&allowInsecure=0#%D0%93%D0%BE%D0%BD%D0%BA%D0%BE%D0%BD%D0%B3
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.66.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%D0%A1%D0%A8%D0%90
-vless://36562b99-aadd-4e38-b566-24e0d219b1d6@195.63.133.145:443?security=none&encryption=none&type=ws#%D0%A4%D0%A0%D0%93
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@135.84.73.140:80?host=s5.868001.xyz&path=Telegram🇨🇳+@WangCai2&security=none&type=ws#%D0%A1%D0%A8%D0%90
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
-vless://ecd7aeca-2e37-4761-93e7-7cf4c2ff55bf@2.27.22.238:110?security=none&encryption=none&headerType=none&type=tcp#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
-vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443?security=reality&type=tcp&packetEncoding=xudp&sni=uk.bvps.cloud&fp=chrome&flow=xtls-rprx-vision&sid=60debb3ab744d8ce&pbk=j5qmR8E9er-0n5zZbK6s_SdvYm-tYlraXVYm49ArWS8&encryption=none#%D0%A1%D0%A8%D0%90
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.55.151:80?allowInsecure=1&type=ws&host=max-gb1.global.ssl.fastly.net&path=/?https://t.me/WangCai2🇨🇳#%D0%A1%D0%A8%D0%90
-trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#
-vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdg-1.fromblancwithlove.com#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.34.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%D0%A1%D0%A8%D0%90
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
-trojan://humanity@104.16.174.117:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%D0%A1%D0%A8%D0%90
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?mode=gun&security=none&encryption=none&type=grpc#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.87:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%D0%9E%D0%90%D0%AD
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.42.98:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
+vless://b92ed761-7503-40fc-ab5d-b7d164cf9758@194.116.236.15:443?encryption=none&type=tcp&security=reality&headerType=none&sni=varzesh3.com&fp=chrome&insecure=1&allowInsecure=1&pbk=k6u9NGgIiiz2k4N73VIwNu7BnNJUH9ub0NKxOGv40CI&sid=8c7f585e7e7b243e&spx=/bzg87wrYin5v5lV#%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.217:8080#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.250:443?encryption=none&type=tcp&security=reality&headerType=none&sni=enterprisekitten.com&fp=firefox&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F
+trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&path=%2Fassignment&security=tls&type=ws#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@www.cnae.top:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#%D0%A1%D0%A8%D0%90
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.146.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#%D0%A1%D0%A8%D0%90
+vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=&pbk=%2DsirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&security=reality&sid=a852&sni=deepl.com&type=tcp#%D0%98%D0%BD%D0%B4%D0%BE%D0%BD%D0%B5%D0%B7%D0%B8%D1%8F
+trojan://humanity@45.130.125.160:443?alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#%D0%A1%D0%B5%D0%B9%D1%88%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5+%D0%BE-%D0%B2%D0%B0
+vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e&spx=/&type=tcp&headerType=none#%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUmQ9SVhram96TUVLTGVHUl8wcTA5anR3bHk1SjJsYTJP@172.234.202.34:24833#%D0%A1%D0%A8%D0%90
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:443?security=tls&type=tcp&packetEncoding=xudp&sni=r1.mizulina.top&fp=chrome&flow=xtls-rprx-vision&encryption=none#%D0%A1%D0%A8%D0%90
+vless://833f628c-1d6b-4dd1-89c9-40a8320f1a2c@144.31.159.84:443?flow=xtls-rprx-vision&fp=firefox&pbk=e3pn9C1M3g6zh0CMZS3L-GuDH71NNUcoy18quvlgfWw&security=reality&sid=165b0fe73e74&sni=www.nvidia.com&type=tcp#%D0%A1%D0%A8%D0%90
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>

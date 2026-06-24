@@ -35,22 +35,21 @@
  <h4>Lista węzłów: (Tutaj wyświetlanych jest maksymalnie 20 węzłów. Pozostałe bezpłatne węzły są dostępne w aplikacji.)</h4>
     
 ```
-vless://caa3af29-3b04-4099-9772-c64a1b7cca34@45.43.75.199:7443?security=reality&type=tcp&packetEncoding=xudp&sni=chat.deepseek.com&fp=chrome&flow=xtls-rprx-vision&sid=be0ce047&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&encryption=none#United+Kingdom
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#France
-vless://66031b35-3a36-4fc1-9225-b7c39a7b4453@52.76.240.5:35349?security=reality&encryption=none&pbk=3r4wYm2KaeRLbvchgFhhCNvY1qeM3-fUz91UrX5kry8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=4806f5b119797c#Singapore
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.245:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=enterprisekitten.com&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#Spain
-vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#United+States
-vless://7dc8bd4d-5c5d-4391-82d9-2424b16ec2a3@46.151.26.41:443?encryption=none&security=none&type=tcp#The+Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#United+Kingdom
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.254:22231?allowInsecure=1&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#United+Kingdom
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.69.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#United+Kingdom
-trojan://humanity@104.18.152.54:443?path=/assignment&security=tls&alpn=h3,h2&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@octopusss5.info:443?path=/udfyfws&security=tls&encryption=none&host=octopusss5.info&fp=chrome&type=ws&sni=octopusss5.info#
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.67.71.247:443?encryption=none&fp=chrome&host=octopusss5.info&path=%2Fudfyfws&security=tls&sni=octopusss5.info&type=ws#United+States
-trojan://humanity@172.64.147.166:443?host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#United+States
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.44.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#United+States
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?path=/udfyfws&security=tls&encryption=none&host=octopusss5.info&type=ws&sni=octopusss5.info#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@52.76.97.123:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Singapore
+trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.123:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#United+Arab+Emirates
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.130.125.126:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=1&host=vangoghhh.info&type=ws&allowInsecure=1&sni=vangoghhh.info#Seychelles
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-tw-002.fastervpn.world#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C3.4MB%2Fs%20%7C%20%E7%A6%8F%E5%88%A9%E5%A7%AC%3A%20https%3A%2F%2Ft.me%2Ffuliji_Arrest
+vless://6e41151e-ae07-4ea6-910e-7a3986b7bc0d@31.76.38.18:7443?Telegram=@armindone,@armindone,@armindone,@armindone&security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=d82fb387#United+Kingdom
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@store.ubi.com:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYngxRnc3bUVOQ2Q3dlpNdm9yUVo1@193.29.139.227:8080#The+Netherlands
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.134:8880?encryption=none&security=tls&type=grpc#France
+vless://2e146372-aafa-42e6-aaa6-b2a7185225ce@64.188.91.92:443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fast.gazladder.work&sid=b415b8d7a6106ace#United+States
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.86.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Sweden
+vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#Lithuania
+trojan://p=Xuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S@37.235.49.118:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#Iceland
+vless://e64100fd-773d-4cc6-adbe-a4c94876d07a@45.131.214.45:443?encryption=none&type=grpc&security=reality&fp=chrome&pbk=ID6lMOmt7BiuPHjZkoLSWNR9ONmB6b4L9skIIFjtXxU&sni=d.primarymaster.online#Egypt
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.252:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=enterprisekitten.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#Spain
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

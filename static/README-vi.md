@@ -35,22 +35,21 @@
  <h4>Danh sách nút: (Tối đa 20 nút được hiển thị tại đây. Các nút miễn phí khác có thể lấy trong ứng dụng.)</h4>
     
 ```
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.221:8880?encryption=none&mode=gun&security=tls&type=grpc#France
-vless://@Net2ray@89.144.145.247:6666?security=none&encryption=none&headerType=none&type=tcp#Iran
-trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls&sni=38.54.64.247&type=tcp#United+States
-vless://539dccf8-7ad6-4787-bb6c-c416b896ecaf@45.130.125.221:8443?encryption=none&type=ws&security=tls&path=%2F&host=ssl.myblog.org.tr&sni=ssl.myblog.org.tr&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#Seychelles
-vless://e52fedb7-befe-4615-a53e-89d446f74bf4@80.78.244.21:80?path=/rutube&security=none&encryption=none&host=rutube.globaledgenet.com&type=ws#Russia
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.128.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#South+Africa
-vless://2e146372-aafa-42e6-aaa6-b2a7185225ce@64.188.91.92:443?security=reality&type=tcp&packetEncoding=xudp&sni=fast.gazladder.work&fp=chrome&flow=xtls-rprx-vision&sid=b415b8d7a6106ace&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&encryption=none#United+States
-vless://f82944fe-9863-494a-9a2d-0f3120a774c6@82.22.53.30:448?security=reality&encryption=none&pbk=0B7XMJC-mBqvUkf_on0wPZeW1iVmZIbEPVyvz-V_jRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=60d7a9bbacadc0fb#United+Kingdom
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.17.121.98:443?encryption=none&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#France
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.112.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Germany
-trojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#The+Netherlands
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.16.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+States
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#France
+vless://7d876627-abf5-4865-8ff4-03f37d49de5d@bero-3.bexum.fun:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bero-3.bexum.fun&type=tcp#Germany
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.myfymain.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#France
+trojan://humanity@45.130.125.96:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#Seychelles
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#South+Korea
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-tw-002.fastervpn.world#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C3.4MB%2Fs%20%7C%20%E7%A6%8F%E5%88%A9%E5%A7%AC%3A%20https%3A%2F%2Ft.me%2Ffuliji_Arrest
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.181.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+States
+vless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=f34818a561dfd1fe&flow=xtls-rprx-vision#Hong+Kong
+vless://2c53af1c-c440-38f0-94f1-8bc32a4274f8@138.68.150.88:443?security=reality&encryption=none&pbk=SAgG_t0cdKBPSvJzlIjrwTRjtBjfaUZnpYWhXyxEHSg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=learn.microsoft.com&sid=2fe2afb9c7978f36#United+Kingdom
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca37.myfymain.com:8880?encryption=none&mode=gun&security=tls&type=grpc#France
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Russia
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.241.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Italy
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.10.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Singapore
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca35.myfymain.com:8880?authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&encryption=none&mode=gun&security=tls&type=grpc#France
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?path=/&security=tls&alpn=h3,h2&encryption=none&host=po.fastbrokencompony.com&fp=chrome&type=ws&sni=po.fastbrokencompony.com#United+States
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?path=/vless/&security=none&encryption=none&host=OV-Italy1.09vpn.com&type=ws#France
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

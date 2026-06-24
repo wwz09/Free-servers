@@ -35,22 +35,21 @@
  <h4>Daftar node: (Maksimal 20 node ditampilkan di sini. Node gratis lainnya bisa didapatkan di aplikasi.)</h4>
     
 ```
-vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?security=reality&encryption=none&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=05fdaa8a05be46a9#United+Kingdom
-trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Germany
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#France
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#United+Kingdom
-vless://539dccf8-7ad6-4787-bb6c-c416b896ecaf@45.130.125.221:8443?encryption=none&type=ws&security=tls&path=%2F&host=ssl.myblog.org.tr&sni=ssl.myblog.org.tr&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#Seychelles
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#France
-vless://612c872d-1370-4109-8644-f0755f97e33f@89.23.107.137:443?encryption=none&fp=chrome&pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs&security=reality&sid=1680&sni=www.samsung.com&type=tcp#The+Netherlands
-trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Seychelles
-trojan://humanity@172.64.147.166:443?host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#United+States
-vless://a5f3e5f5-ffa4-43dd-84b6-20aedd1a843e@37.49.224.32:443?security=reality&encryption=none&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dev.max.ru&sid=c338fe2b01cf271a#The+Netherlands
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?mode=gun&security=none&encryption=none&type=grpc#France
-vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?encryption=none&type=tcp&security=reality&headerType=none&sni=www.cloudflare.com&fp=chrome&insecure=1&allowInsecure=1&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&flow=xtls-rprx-vision#United+States
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#United+States
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?security=reality&encryption=none&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=2.oncloudnineservicestreang.com&sid=d8d3dc6c3ca45dd4#Denmark
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.245:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=enterprisekitten.com&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#Spain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#United+Kingdom
+trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&type=ws#
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.33:443?security=reality&encryption=none&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp.s3-cloud.org&sid=7a3f9e2b1c8d4f6a#United+Kingdom
+trojan://humanity@sourceforge.net:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#
+vless://970ffe5a-2c53-4b94-af3f-c95ddd417c1c@112.121.184.10:26057?security=reality&encryption=none&pbk=ipkmPcrX6VD4_cB3kS4DigWSP9FcU6TPXpkWM5m-jEw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=videos.apple.com&sid=e4fb5619#Hong+Kong
+vmess://eyJhZGQiOiAiMTQ5Ljg4LjIzLjIwMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAxODAwMCwgInBzIjogIlNpbmdhcG9yZSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.21.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+States
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#The+Netherlands
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@138.124.113.18:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1RFs75L42oUjmgEKqahFVrKKN52cosDkrWskT053D3o&security=reality&sid=0aafc7b3b9&sni=iamsterdam.com&type=tcp#Greece
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.0.35:80?path=/&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#United+States
+vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?security=reality&type=tcp&packetEncoding=xudp&sni=sellflow.org&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#%F0%9F%87%A8%F0%9F%87%ADCH_4%7C1.5MB%2Fs%20%7C%20%E7%A6%8F%E5%88%A9%E5%A7%AC%3A%20https%3A%2F%2Ft.me%2Ffuliji_Arrest
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.66.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+States
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.29:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#United+Kingdom
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#United+States
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.161.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+States
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>
