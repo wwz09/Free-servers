@@ -35,22 +35,20 @@
  <h4>نوڈ کی فہرست: (یہاں زیادہ سے زیادہ 20 نوڈز دکھائے جاتے ہیں۔ دیگر مفت نوڈز ایپ میں حاصل کریں)</h4>
     
 ```
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#France
-vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.20:443?encryption=none&host=amoosamiii.net&path=%2Fpoiuyws&security=tls&sni=amoosamiii.net&type=ws#United+States
-vless://3559f1f7-7d70-46c9-82db-d2b46269300b@109.120.185.230:443?security=reality&encryption=none&pbk=1BdgrQ_esOEya01sDCBYK4MGpJgaUhssHQG-aWJkyFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dipvpn.ru#Russia
-vless://c84c80cc-d88b-4ca4-9fe9-0c26c05a781e@45.131.4.246:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#The+Netherlands
-vless://7644900c-e379-4c21-b51d-f7ef7d5b197f@104.21.7.223:2053?path=/eyJqdW5rIjoiSGpXczRnb3pUWDVnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=masterserver1-pki.mahshidddd.workers.dev&fp=chrome&type=ws&sni=mAstErseRVEr1-PKi.MaHSHIDdDd.WorkeRs.dEV#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.158:443?encryption=none&allowInsecure=0&type=ws&fp=chrome&security=tls&sni=t1s1.rittbo.kdns.fr&path=/fp#Seychelles
-trojan://Aimer@167.68.4.199:2053?host=epge.muarua.filegear-sg.me&path=%2F&security=tls&sni=epge.muarua.filegear-sg.me&type=ws#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388#United+States
-trojan://humanity@104.18.152.225:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-vless://2989973f-817d-4eaf-b9d3-3be2505fa2ab@37.49.224.32:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dev.max.ru&fp=chrome&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&sid=c338fe2b01cf271a&type=tcp&headerType=none#The+Netherlands
-vless://539dccf8-7ad6-4787-bb6c-c416b896ecaf@45.130.125.221:8443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=ssl.myblog.org.tr&fp=chrome&type=ws&allowInsecure=0&sni=ssl.myblog.org.tr#Seychelles
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@149.28.142.169:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#Singapore
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca36.speedmeter.shop:8880?encryption=none&security=tls&type=grpc#France
-vless://d096c0b7-2205-478f-9e2f-0c8366e5a2b8@185.14.184.90:2087?path=%2F&security=tls&encryption=none&insecure=0&host=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=3byyf8q0.qnts33mtgi0ebq9tjd34.workers.dev#The+Netherlands
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#Russia
-trojan://humanity@81.255.155.10:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#France
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.38.151:80?encryption=none&host=max-gb1.global.ssl.fastly.net&path=%2F&security=none&type=ws#The+Netherlands
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@tjsp.hhxaf.cc.cd:443?fp=chrome&path=%2F&security=tls&type=ws#
+trojan://GTCCjtvCtuy03-aV1mwF0OkG2q6yL+Fc5K@198.52.244.10:443?fp=chrome&security=tls&sni=198.52.244.10&type=tcp#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@138.2.87.237:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#Singapore
+trojan://humanity@5.10.214.56:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#Philippines
+trojan://humanity@216.24.57.7:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#United+Kingdom
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca28.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#United+States
+trojan://humanity@www.calmlunch.com:443?allowInsecure=1&fp=chrome&host=www.calmlunch.com&path=%2Fassignment&security=tls&type=ws#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#United+Kingdom
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.132.151:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/?https://t.me/WangCai2🇨🇳&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#Spain
+trojan://O4O8.Ew%2BujFX6GJBQ%3DxQr.heGwux0GYHqk@45.61.52.243:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#United+States
+vless://aa73f723-81a2-4b7a-b110-81c5d753e75b@144.31.190.188:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&security=reality&sid=6d6f13013d3e1d0c&sni=ru-1.videoproeditor.com&type=tcp#United+States
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

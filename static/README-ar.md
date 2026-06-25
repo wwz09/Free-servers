@@ -35,22 +35,20 @@
  <h4>قائمة العقد: (يتم عرض 20 عقدة كحد أقصى هنا. تتوفر العقد المجانية الأخرى في التطبيق)</h4>
     
 ```
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.42.98:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.130.219:80?encryption=none&security=none&fp=chrome&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#United+States
-vless://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=&pbk=%2DsirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&security=reality&sid=a852&sni=deepl.com&type=tcp#Indonesia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#United+Kingdom
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.090227.xyz:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#United+Kingdom
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@159.195.151.6:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#Denmark
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#United+States
-vless://3dc30f8b-e411-4f68-9fda-73b63d920e1a@67.159.52.159:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=S2Fe4Ft_uGGNGVShoyrKHED3VaoRfjLQxDBD3LaNbgc&security=reality&sid=9350a4f6c01e987a&sni=deepl.com&type=tcp#United+States
-trojan://humanity@104.18.152.225:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.12.222:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Spain
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.85.151:80?path=/?https://t.me/WangCai2🇨🇳&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#Sweden
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#United+Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#United+States
-trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#
+vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.alibaba.com&fp=chrome&insecure=1&allowInsecure=1&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&sid=c906f73d3ba8211f&flow=xtls-rprx-vision#Romania
+vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#United+States
+vless://356ccb34-22cc-4446-a137-072bc60d65ca@45.196.224.103:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#Hong+Kong
+trojan://humanity@165.215.250.14:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.52.152:8443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#United+States
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United+States
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.117.151:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#United+Kingdom
+hy2://b95dd8e5-2758-408f-be99-9362eecee609@files.fantoff.online:10808/?security=tls&sni=files.fantoff.online#Brazil
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388#United+States
+vless://45c8d20e-0222-4b16-8d21-37318456b980@47.79.149.248:38388?security=reality&encryption=none&pbk=xHaPe5SLprSSqGccSor5d3tCRuwyowBwFeYrVXoSz3w&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=6ba85179e30d4fc2#United+States
+vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.41:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ea10cd5686751ec5#Taiwan
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#France
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.47.19:443?encryption=none&type=ws&security=tls&path=%2F&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0#
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

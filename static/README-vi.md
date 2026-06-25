@@ -35,22 +35,20 @@
  <h4>Danh sách nút: (Tối đa 20 nút được hiển thị tại đây. Các nút miễn phí khác có thể lấy trong ứng dụng.)</h4>
     
 ```
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.131:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=enterprisekitten.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&headerType=none#Spain
-vless://0e49e208-e09e-49bc-afee-2907e5419107@usa.ldtp.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=usa.ldtp.com&fp=firefox&flow=xtls-rprx-vision&sid=df2becfa7b040c78&pbk=N--0r-eUKZ-23lmSHvsC4ywFbsAWRahFtxv_N02AgFY&encryption=none#United+States
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@188.114.97.6:8443?path=%2F&security=tls&encryption=none&insecure=0&host=srv71.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv71.perfectbulk.info#The+Netherlands
-vless://ea0a2f27-7e22-4337-820b-6703eca2d7b4@103.109.234.138:443?encryption=none&type=tcp&security=reality&headerType=none&sni=google.com&fp=firefox&insecure=1&allowInsecure=1&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&flow=xtls-rprx-vision#Australia
-vless://7691de10-83e2-44fd-a2fa-0f31aad8efef@216.227.161.153:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&sid=cd8971da5a669139&type=tcp&headerType=none#United+States
-vless://c84c80cc-d88b-4ca4-9fe9-0c26c05a781e@all.nexuschat.fun:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#
-trojan://humanity@198.202.211.1:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@146.235.16.191:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#Singapore
-trojan://d5VIifAZlI.VX459mxBPZ0skFQ2JP6BvHy@130.94.97.33:443?security=tls#United+States
-vmess://eyJhZGQiOiAiMTA0LjE2LjAuMCIsICJhaWQiOiAwLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjk1ZDJjNDYxLTYxZjUtNGRhZS1iYzc0LTRkMTBjZTFmNjIzNiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3MtZ29uZ3lpIiwgInBvcnQiOiA0NDMsICJwcyI6ICIiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAiZ29uZ3lpbG0uZHBkbnMub3JnIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.126:8880?mode=gun&security=none&encryption=none&type=grpc#France
-vless://@Net2ray@45.84.157.122:5555?security=none&encryption=none&headerType=none&type=tcp#Iran
-trojan://humanity@www.calmlunch.com:443?allowInsecure=1&fp=chrome&host=www.calmlunch.com&path=%2Fassignment&security=tls&type=ws#
-trojan://humanity@104.18.152.246:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#United+Kingdom
-vless://3727b0ac-9f3e-4da8-895e-33f739e9d9bb@104.27.78.203:2083?encryption=none&fp=chrome&host=fhfhfhf.kathykroger.workers.dev&path=%2F&security=tls&sni=fhfhfhf.kathykroger.workers.dev&type=ws#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.180.39:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
+vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@50.114.55.14:10001?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.icloud.com&pbk=7qP6YKWx5CJXia1qjQoIcD7FRjUBbioaioioI729D34&sid=2afe4310#Singapore
+trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#
+vless://c9ec8f14-3e9b-44a0-a1cd-0b1d270c4556@31.76.82.3:8080?encryption=none&host=progressiya-vpn.online&path=%2Fdda12c57317ed12178061db1b799ebd2&security=none&type=ws#United+Kingdom
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&insecure=0&allowInsecure=0&type=ws&host=po.fastbrokencompony.com&path=%2F#Seychelles
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.252:443?encryption=none&type=tcp&security=reality&headerType=none&sni=enterprisekitten.com&fp=chrome&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#Spain
+vless://f82944fe-9863-494a-9a2d-0f3120a774c6@82.22.53.30:448?security=reality&encryption=none&pbk=0B7XMJC-mBqvUkf_on0wPZeW1iVmZIbEPVyvz-V_jRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=60d7a9bbacadc0fb#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#United+Kingdom
+trojan://humanity@141.101.90.101:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#United+States
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@38.47.105.76:443?fp=chrome&host=tjsp.hhxaf.cc.cd&path=%2F&security=tls&sni=tjsp.hhxaf.cc.cd&type=ws#Japan
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.219.56:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EIlnBMyH--EIasnzGPJAAFSP5WM_4FNU4ktFUQI0O00&security=reality&sid=a13edee689fca1da&sni=cdn2.swaginozip.fun&type=tcp#United+States
+vless://115936e4-4a2f-45b5-bcda-a572ef2982aa@94.183.234.41:10020?encryption=none&security=none&type=tcp#Iran
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#The+Netherlands
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

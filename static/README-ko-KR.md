@@ -35,22 +35,20 @@
  <h4>노드 목록: (여기에는 최대 20개 노드만 표시됩니다. 다른 무료 노드는 앱에서 받을 수 있습니다.)</h4>
     
 ```
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.126:8880?mode=gun&security=none&encryption=none&type=grpc#France
-trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080#United+Kingdom
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.68:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#Philippines
-vless://ad73ff14-a0e3-46d1-adc0-02ca29a32485@18.153.81.34:443?security=none&encryption=none&headerType=none&type=tcp#Germany
-hy2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?security=tls&sni=fta.fontanvpn.com#Poland
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.129:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3FBIA_TELEGRAM%40vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Spain
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#South+Korea
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.73.151:80?&type=ws&headerType=none&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Japan
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-tw-002.fastervpn.world#%E2%9D%93Other_1%7C4.1MB%2Fs%20%7C%20%E6%9B%B4%E5%A4%9A%E8%8A%82%E7%82%B9%3A%20https%3A%2F%2Ft.me%2Fbyxiaoxi
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#France
-vless://ea0a2f27-7e22-4337-820b-6703eca2d7b4@103.109.234.138:443?encryption=none&type=tcp&security=reality&headerType=none&sni=google.com&fp=firefox&insecure=1&allowInsecure=1&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&flow=xtls-rprx-vision#Australia
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.47.45:2083?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=wk1.f1w.de5.net&path=%2F&security=tls&sni=wk1.f1w.de5.net&type=ws#United+States
-vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@144.31.217.99:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&security=reality&sni=google.com&type=tcp#United+States
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca25.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM@vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&type=grpc#France
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@yx.cloudflare.182682.xyz:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.194.219:80?path=/&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#United+Kingdom
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.110:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#United+Kingdom
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.128.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@103.106.228.175:8009#Japan
+trojan://humanity@104.18.152.204:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#France
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.127.151:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#Canada
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#France
+vless://6ec6da0f-008b-43fa-899d-d5cf147fe13a@download.riferoser.icu:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=q42m1wg11kZLyRtjaKus8T-NNl1vriRG3V1eVTL6ICc&sid=1b8d2fb1eec1&sni=www.tradingview.com#Taiwan
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca21.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#France
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.55.151:80?allowInsecure=1&type=ws&host=max-gb1.global.ssl.fastly.net&path=/?https://t.me/WangCai2🇨🇳#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#United+States
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>

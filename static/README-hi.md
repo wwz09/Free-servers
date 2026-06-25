@@ -35,22 +35,20 @@
  <h4>नोड सूची: (यहां अधिकतम 20 नोड दिखाए जाते हैं। अन्य मुफ्त नोड ऐप में प्राप्त करें)</h4>
     
 ```
-vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@5.129.236.132:443?security=reality&encryption=none&pbk=L78hKnIWL5jdxw3R2NcY725t8QMqAfX8rGdYI46cFgs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ams-01.gni-daed.ru&sid=a8399289e18af5f4#Russia
-vless://2989973f-817d-4eaf-b9d3-3be2505fa2ab@37.49.224.32:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dev.max.ru&fp=chrome&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&sid=c338fe2b01cf271a&type=tcp&headerType=none#The+Netherlands
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.13:443?security=reality&type=tcp&sni=it.s3-cloud.xyz&fp=chrome&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY#United+Kingdom
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.208.113.157:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2dgS9vJTywAfGZmlkuzDIIXLUR-E1A-0na8_W--ruUc&security=reality&sid=5be8210215&sni=parisjetaime.com&type=tcp#Russia
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#France
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cdn.9889888.xyz:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
-vless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#Hong+Kong
-vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTYuMjExIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE4MDAwIiwgInBzIjogIkNhbmFkYSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIjU3IiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vmess://eyJhZGQiOiAiMTcyLjEwNC44MC42NiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAyMjMyNCwgInBzIjogIkphcGFuIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.118.10:8388#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#United+States
-trojan://humanity@162.159.17.189:443?path=/assignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.147.236:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#United+States
-trojan://GTCCjtvCtuy03-aV1mwF0OkG2q6yL+Fc5K@207.126.167.162:443?security=tls#United+States
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.101.151:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/?ed=2560#United+States
-vless://dd69a4bb-511d-481d-8841-66cf22395bd3@104.16.155.224:2096?path=/?u=3050496406&security=tls&encryption=none&insecure=0&host=nova-pearl-wave-2d86.nova-4220cc.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-pearl-wave-2d86.nova-4220cc.workers.dev#
+vless://a5f3e5f5-ffa4-43dd-84b6-20aedd1a843e@37.49.224.32:443?security=reality&encryption=none&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dev.max.ru&sid=c338fe2b01cf271a#The+Netherlands
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.82.0.1:80?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#United+States
+vless://2e146372-aafa-42e6-aaa6-b2a7185225ce@fll.gazladder.work:443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fll.gazladder.work&sid=b415b8d7a6106ace#United+States
+trojan://humanity@199.181.197.36:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&&host=www.calmloud.com&type=ws&&sni=www.calmloud.com#United+States
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@144.24.73.232:443?path=/&security=tls&insecure=0&host=tjsp.hhxaf.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=tjsp.hhxaf.cc.cd#South+Korea
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUmQ9SVhram96TUVLTGVHUl8wcTA5anR3bHk1SjJsYTJP@172.234.202.34:24833#United+States
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.153.151:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#India
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#United+States
+trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.42.98:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
+trojan://humanity@104.18.152.54:443?path=/assignment&security=tls&alpn=h3,h2&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#
+vless://57d94cf7-ca36-4c2a-bec5-90cf38588cda@15.223.121.250:41087?security=reality&encryption=none&pbk=aoGL5vNnsEuKoBXQFXyHTxjvcdAn3SxT4qUgV6aJxnw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=190d259bbd40d4c3#Canada
+vless://8a38623a-3e7f-5598-bdc9-894cbad4c5b6@172.65.111.43:22?security=none&type=tcp&headerType=http&path=%2F%40monacoVPN%40monacoVPN%40monacoVPN%40monacoVPN&method=GET#United+States
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
