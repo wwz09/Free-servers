@@ -36,18 +36,18 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.ignitelimit.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-ss://YWVzLTI1Ni1nY206cCtzc2xUdlBSNWpVdUVDWndqYVRMWmlJbUpQVG5jL0J0NG43YytoMXZ5Zz0=@85.198.9.136:443#%E4%BC%8A%E6%9C%97+V2CROSS.COM
-trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.117:443?security=tls#%E5%B8%8C%E8%85%8A+V2CROSS.COM
-vless://5b9fbae6-4aef-4282-b14d-3ebdb19d532c@185.94.29.67:2048?path=/&security=none&encryption=none&host=ads.x5.ru&type=ws#%E8%8D%B7%E5%85%B0+V2CROSS.COM
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.120.94.30:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime07.workers.dev&path=/&security=none&type=ws#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.127:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%E5%B8%8C%E8%85%8A+V2CROSS.COM
-vless://7d14f1cf-3740-4fbd-a31c-6f7d078f97d7@109.69.218.217:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=_BMcBaQjBV5AXRtl7yWxV6vYR8Jm7nfwXY6VhltMtBo&security=reality&sni=www.engage.edgedoor.ink&type=tcp#%E6%AF%94%E5%88%A9%E6%97%B6+V2CROSS.COM
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.97:443?security=tls#%E5%B8%8C%E8%85%8A+V2CROSS.COM
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.71:443?security=tls#%E5%B8%8C%E8%85%8A+V2CROSS.COM
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.105:443?security=tls&sni=#%E5%B8%8C%E8%85%8A+V2CROSS.COM
-vless://083471bf-bbf4-4e1d-8953-912b8d3b6255@82.202.177.144:5269?security=reality&encryption=none&pbk=hx1gkWBL2ixtwQSGXEvLT1Yz8GBsCFWriz_WLzLQNHQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=max.ru&sid=4eb166dbed98e63d#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@nexusmods.com:443?allowInsecure=1&encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJSU14Rk15cTNGd3lQZDIxVUdXZ21OSkNBaVlOOW0ydk9v@91.108.254.252:18982#%E4%BC%8A%E6%8B%89%E5%85%8B+V2CROSS.COM
+trojan://humanity@104.18.152.208:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnV0JnbUtiOEFMMXVSSzBqWjQ0QW9PUGFDNWxWVE9IWm1p@91.108.254.104:13683#%E4%BC%8A%E6%8B%89%E5%85%8B+V2CROSS.COM
+trojan://zK=0KfL3IG+sNNZL-J7d0Nonu4wFBx8MOy@172.235.229.227:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%E7%BE%8E%E5%9B%BD+Akamai%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8CDN%E7%BD%91%E7%BB%9C%E8%8A%82%E7%82%B9
+trojan://humanity@104.17.121.71:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&sni=38.60.202.163&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=1#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
+trojan://humanity@104.16.174.121:443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&insecure=0&allowInsecure=0#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@104.20.6.134:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&Host=www.calmloud.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443/?type=tcp&security=tls#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+vless://7b3c9cec-6a21-4d57-b9c9-383d519e0b27@another-cf.dnsyes.kawaii520.icu:443?path=/gateway/ws/a8d2f91c&security=tls&encryption=none&insecure=0&host=tt86554he5f4jb8ezvry6v8us.another-appleid.ccwu.cc&fp=chrome&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&allowInsecure=0&sni=tt86554he5f4jb8ezvry6v8us.another-appleid.ccwu.cc#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>

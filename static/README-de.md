@@ -35,22 +35,21 @@
  <h4>Knotenliste: (Hier werden maximal 20 Knoten angezeigt. Weitere kostenlose Knoten erhalten Sie in der App.)</h4>
     
 ```
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.254:22231?allowInsecure=1&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#USA
-vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?path=/proxyip&security=tls&encryption=none&host=nbhhh.mrcool.kdns.fr&allowinsecure=0&type=ws&sni=nbhhh.mrcool.kdns.fr#
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.250:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Spanien
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#Frankreich
-trojan://f922fa0f-3311-4368-85ff-cf65e727c854@space.byu.id.yxls.eu.cc:443?fp=chrome&path=%2Fbr-orcl&security=tls&type=ws#
-vmess://eyJhZGQiOiAiNDcuMjQ0LjEyMC4xOTciLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIjQ3LjI0NC4xMjAuMTk3IiwgImlkIjogIjQ1YjgzNTE5LTljNGYtNDA1Mi1hMTFiLTAyZTAxN2I2MzZkNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiAzNjcwMywgInBzIjogIkhvbmdrb25nIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.13:8443/?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=reality&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net&type=tcp#Philippinen
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.30:8880?host=vms.lifetime58.workers.dev&path=%2F&type=ws#Deutschland
-vless://00e94078-bb1e-49aa-8567-e1b3b2843150@172.67.195.229:443?allowInsecure=1&encryption=none&fp=chrome&host=rapid-hat-441d.platovpn.workers.dev&path=%2F&security=tls&sni=rapid-hat-441d.platovpn.workers.dev&type=ws#USA
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.229:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#Philippinen
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.149.209:443?allowInsecure=1&encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkbzFEWi1fUXZrRldYenNqY193OGVUNS1UZVlQNlUzUQ==@62.60.255.11:8388#Hongkong
-vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?security=none&encryption=none&headerType=none&type=tcp#Deutschland
-vless://5d5b12de-0da5-3243-f674-e75a691053f3@104.18.12.149:443?security=tls&sni=daltun.daltunads.workers.dev&insecure=1&fp=chrome&type=ws&path=%2Fsync&host=daltun.daltunads.workers.dev&packetEncoding=xudp&encryption=none#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@47.80.60.254:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#USA
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@87.199.192.73:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Lt6X7qMkqASgQr2ErbaUbowSn2ylRuON8BsOjmZv6Qw&security=reality&sid=b197d7f830dc8062&sni=rezerv19.yunus.guru&type=tcp#Polen
+vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&path=/ws&host=aIs.SpEeDtEsT.nEt&sni=v2ray.simspeedup.com#Thailand
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.126:8880?encryption=none&mode=gun&security=tls&type=grpc#Frankreich
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.203:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#Philippinen
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cloudflare-ip.mofashi.ltd:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.207:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#Indonesien
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#UK
+trojan://humanity@216.24.57.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#USA
+vless://3727b0ac-9f3e-4da8-895e-33f739e9d9bb@104.27.78.43:2083?encryption=none&fp=chrome&host=fhfhfhf.kathykroger.workers.dev&path=%2F&security=tls&sni=fhfhfhf.kathykroger.workers.dev&type=ws#
+vless://5bf12aea-0a92-41fb-ab2d-0e034b9f57a2@194.238.79.150:443?encryption=none&path=/sequre/ws&security=tls&sni=194.238.79.150.fwqfw783rg2dad.website&type=ws#UK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#Philippinen
+vless://65488bcf-8573-44ee-9b4f-9abf4390acca@65.109.218.60:2080?encryption=none&security=none&type=tcp#Finnland
+vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?alpn=h2&encryption=none&fp=chrome&security=tls&sni=cdg-1.fromblancwithlove.com&type=tcp#Frankreich
+vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4yMzMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMTgwLCAicHMiOiAiVUsiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.142:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#Philippinen
+vless://7d876627-abf5-4865-8ff4-03f37d49de5d@37.114.48.146:9443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=bero-3.bexum.fun&type=tcp#Deutschland
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

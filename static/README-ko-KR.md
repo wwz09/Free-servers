@@ -35,22 +35,21 @@
  <h4>노드 목록: (여기에는 최대 20개 노드만 표시됩니다. 다른 무료 노드는 앱에서 받을 수 있습니다.)</h4>
     
 ```
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443/?type=tcp&security=tls#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#United+Kingdom
-vless://7d14f1cf-3740-4fbd-a31c-6f7d078f97d7@109.69.218.217:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=_BMcBaQjBV5AXRtl7yWxV6vYR8Jm7nfwXY6VhltMtBo&security=reality&sni=www.engage.edgedoor.ink&type=tcp#Belgium
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#United+Kingdom
-vless://158d03db-e5d7-4540-a31c-b2daa7aa4964@vpnv1.aspidnet.xyz:443?security=reality&type=tcp&packetEncoding=xudp&sni=web.max.ru&fp=chrome&flow=xtls-rprx-vision&sid=247fd6dab1a34a48&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&encryption=none#Kazakhstan
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?path=/udfyfws&security=tls&encryption=none&host=octopusss5.info&type=ws&sni=octopusss5.info#United+States
-vmess://eyJhZGQiOiAiMTA3LjE3My4yNy4yMTkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImYwYTJmYmU1LTI5YmYtNDY4Yy1kZGMxLWI1MjQ1NTJkMWEyMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIveW91dHViZSIsICJwb3J0IjogIjY2NjYiLCAicHMiOiAiQ2FuYWRhIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiMTA3LjE3My4yNy4yMTkiLCAidGVzdF9uYW1lIjogIlVTNyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#United+Kingdom
-trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Seychelles
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.22:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#United+Kingdom
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-tw-002.fastervpn.world#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C1.7MB%2Fs%20%7C%20%E7%A6%8F%E5%88%A9%E5%A7%AC%3A%20https%3A%2F%2Ft.me%2Ffuliji_Arrest
-vless://61a8c373-453a-45bb-8b8c-03529de2cebb@141.193.213.10:2087?path=/&security=tls&encryption=none&insecure=0&host=nova-pearl-core-8aa5.nova-90ad65.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nova-pearl-core-8aa5.nova-90ad65.workers.dev#United+States
-trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?allowInsecure=0&security=tls#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#United+Kingdom
-trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@47.80.60.254:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#United+States
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.223:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#Philippines
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.22.155:443?security=reality&encryption=none&pbk=Mg3ZxHNUFbX96q1HpS3WReeM7rnhEsXXtlEzxALeTDc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=2.oncloudnineservicestreang.com&sid=d8d3dc6c3ca45dd4#Denmark
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#United+States
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca30.mysilipdir.com:8880?encryption=none&mode=gun&security=tls&type=grpc#France
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@194.87.31.22:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=%2DFQM2tUbpiBjwjgla2mwkSkFhFIKQU0FQOvRi0ZD_mY&security=reality&sid=540f5784c2481b5a&sni=mishaduck.duckdns.org&type=tcp#The+Netherlands
+vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.0.7:443?encryption=none&type=ws&host=sertraline.adaspoloandco.com&path=/download.php&security=tls&fp=chrome&sni=sertraline.adaspoloandco.com#
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#France
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#United+Kingdom
+vless://7fc0fd86-79a9-48dd-87e8-669758e9ffa8@185.48.251.195:448?type=tcp&security=reality&pbk=ncuqENP8uAV8w18kOQJlfWCC7dWjnUY1UY_5Iwtf21o&fp=chrome&sni=www.samsung.com&sid=181c8972132cca60#Hong+Kong
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.107:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#Philippines
+trojan://GTCCjtvCtuy03-aV1mwF0OkG2q6yL+Fc5K@207.126.167.241:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=207.126.167.241#United+States
+trojan://humanity@172.64.155.209:443?host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#United+States
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.249:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=enterprisekitten.com&fp=qq&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#Spain
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>

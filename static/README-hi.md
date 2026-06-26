@@ -35,22 +35,21 @@
  <h4>नोड सूची: (यहां अधिकतम 20 नोड दिखाए जाते हैं। अन्य मुफ्त नोड ऐप में प्राप्त करें)</h4>
     
 ```
-trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#Austria
-hysteria2://9794d18f-9280-3553-a7a5-a23da75aca76@31.59.129.225:443?security=tls&sni=u691611us1218.csgfw.top#Iran
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.61:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#Philippines
-vless://6e41151e-ae07-4ea6-910e-7a3986b7bc0d@31.76.38.18:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=icloud.com&type=tcp#United+Kingdom
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.247:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Spain
-vless://a5f3e5f5-ffa4-43dd-84b6-20aedd1a843e@37.49.224.32:443?security=reality&encryption=none&pbk=QWxSKVguwUnPvmYaOR4DvxpmVxCJfPEaipbjdAfAbG4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dev.max.ru&sid=c338fe2b01cf271a#The+Netherlands
-vless://7bd180e8-1142-4387-93f5-03e8d750a896@62.210.172.147:443?encryption=none&host=python-graysongon.wasmer.app&path=%2F7bd180e8&security=tls&sni=python-graysongon.wasmer.app&type=ws#France
-trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Seychelles
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@146.235.16.191:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#Singapore
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.60:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=reality&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net&type=tcp#Philippines
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443/?type=grpc&encryption=none&flow=&security=tls&sni=sca12.afterdomain.shop#
-trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.117:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#United+Arab+Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptemVNWUJKWXA0Qm83bkExcVlMdnY3UUc3M2lndEFBODVudDRwcjhBOW50eDJxaERmWWdSdGlKN2lIN1ZyY25lUUtObXR2cGJzdnZGS1BhVUFUWUVMaTE4aUg1NlR0cjQ=@download.riferoser.icu:56594#Taiwan
-vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@108.162.192.75:443?path=/rsedgws&security=tls&encryption=none&host=shegeftihaaa.net&fp=chrome&type=ws&sni=shegeftihaaa.net#United+States
-trojan://humanity@198.202.211.1:443?path=/assignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#United+States
+vless://6ae44ad9-c2cb-4bdf-8e48-6c01fa646372@45.89.106.101:40443/?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=f6MOnGRTqdns7Lut75DSrnFZeiiZ4N04gnj5m-l7KnM&security=reality&sid=54ce&sni=deepl.com&type=tcp#Indonesia
+vless://8a38623a-3e7f-5598-bdc9-894cbad4c5b6@172.65.111.43:22?security=none&type=tcp&headerType=http&path=%2F%40monacoVPN%40monacoVPN%40monacoVPN%40monacoVPN&method=GET#United+States
+vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.223:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-7.ariyuz.org#
+vless://06b65903-406d-4a41-8400-6fd5c0ee7798@162.159.40.181:2096?path=/proxyip=ProxyIP.JP.cmliussss.net&security=tls&encryption=none&insecure=1&host=sp.linuxdododo.ccwu.cc&fp=chrome&type=ws&allowInsecure=1&sni=sp.linuxdododo.ccwu.cc#
+trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?allowInsecure=0&security=tls#France
+vless://c27538ca-d170-4182-87e5-aee87c8a0c4a@188.114.97.6:443?encryption=none&security=tls&sni=small-voice-c4c5.itsnewrzan.workers.dev&insecure=0&allowInsecure=0&type=ws&host=small-voice-c4c5.itsnewrzan.workers.dev&path=%2Fproxyip%3D40.233.87.120#The+Netherlands
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=r1.mizulina.top&type=tcp#United+States
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.55:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#Philippines
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@octopusss5.info:443?path=/udfyfws&security=tls&encryption=none&host=octopusss5.info&fp=chrome&type=ws&sni=octopusss5.info#United+States
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@23.26.193.73:2040?security=reality&type=tcp&sni=tradingview.com&fp=qq&sid=53197c66aef53c44&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&encryption=none#United+States
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.112:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#Philippines
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#France
+trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#Japan
+vless://2c745da3-f69f-4268-810e-389e935412e9@167.104.55.25:35401?security=none&encryption=none&headerType=none&type=tcp#United+States
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.99:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#Philippines
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

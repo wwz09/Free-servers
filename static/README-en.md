@@ -35,22 +35,21 @@
 <h4>Node list: (A maximum of 20 nodes are shown here. More free nodes are available in the app.)</h4>
     
 ```
-trojan://humanity@104.18.12.149:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.247:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Spain
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?path=/&security=tls&alpn=h3,h2&encryption=none&host=po.fastbrokencompony.com&fp=chrome&type=ws&sni=po.fastbrokencompony.com#
-vless://ea89bb52-cd5e-4b4a-981a-5dbe66c9adcd@31.133.0.240:2053?path=/lib/tag/mfp&security=tls&encryption=none&insecure=0&host=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev&type=ws&allowInsecure=0&sni=nrfiqiut.vmimv9k58ynejo2errhz.workers.dev#Poland
-trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#Austria
-vless://673c6260-9d1c-4520-8729-55ed458092a2@ok.miyuu6.top:6060?encryption=none&headerType=http&host=Ponisha.io&path=%2F&security=none&type=tcp#Iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#United+Kingdom
-trojan://AOf2wz166x@manager.xyzxz.qzz.io:443?security=tls&sni=manager.xyzxz.qzz.io&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=manager.xyzxz.qzz.io&path=/42002/mehdi#
-trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls#United+States
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@108.162.193.162:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#United+States
-vless://8525fe74-67e6-4a55-8a26-95f227bd1384@104.26.14.160:2083?encryption=none&fp=chrome&host=muddy-leaf-e8c4.alvlirm3636.workers.dev&path=%2Fproxyip%3D45.150.108.59%2C80.178.58.56%2C185.162.127.54&security=tls&sni=muddy-leaf-e8c4.alvlirm3636.workers.dev&type=ws#
-vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.41:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ea10cd5686751ec5#Taiwan
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.32:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#Philippines
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001269pz2.cybervena.com:50099#Taiwan
-vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni45NyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxODAiLCAicHMiOiAiVW5pdGVkIEtpbmdkb20iLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.30:8880?host=vms.lifetime58.workers.dev&path=%2F&type=ws#Germany
+vless://b9cd0054-e289-a643-071b-e38cc7b6cf23@peekconfigg.vipserver1-39d.workers.dev:443?path=/sync&security=tls&encryption=none&insecure=0&host=peekconfigg.vipserver1-39d.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=peekconfigg.vipserver1-39d.workers.dev#
+trojan://Mitivpn@151.101.56.6:443?path=/de=mitivpn&security=tls&alpn=h2&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#United+States
+vless://ff19693c-11f3-4df9-8713-79a85a5ca090@82.40.23.19:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sellflow.org&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#United+Kingdom
+vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni45IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6IDE4MCwgInBzIjogIlVuaXRlZCBLaW5nZG9tIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.127:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#Philippines
+vless://d27a232b-de94-4204-9bae-b0c243c6b93c@167.82.101.251:443?path=/&security=tls&encryption=none&insecure=0&host=newip.global.ssl.fastly.neT.&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#United+States
+vmess://eyJhZGQiOiAiMTQ5Ljg4LjIzLjIwMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAxODAwMCwgInBzIjogIlNpbmdhcG9yZSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://ff19693c-11f3-4df9-8713-79a85a5ca090@159.195.150.101:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3FBIA_TELEGRAM%40vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sellflow.org#Denmark
+vless://77c911b4-c1c8-4c07-9e73-4d3523046280@fl-1.ladaclubs.xyz:443/?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Fhl5LbHHu05uMYcE2_uyFONbSkibFf4rpfI4RmamjG4&security=reality&sid=9dab89379839&sni=fl-1.ladaclubs.xyz&type=tcp#United+States
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.22:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#United+Kingdom
+trojan://humanity@104.20.6.134:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&Host=www.calmloud.com#
+trojan://humanity@sourceforge.net:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.57:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#Philippines
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#United+States
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

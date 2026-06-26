@@ -35,22 +35,21 @@
  <h4>নোড তালিকা: (এখানে সর্বোচ্চ 20টি নোড দেখানো হয়। অন্যান্য বিনামূল্যের নোড অ্যাপে পাওয়া যাবে)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#United+Kingdom
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@hy3.466688.xyz:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FQiangLieTuiJian#Japan
-ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E=@47.79.144.115:40003#United+States
-trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443/?type=tcp&security=tls#United+Kingdom
-hysteria2://9794d18f-9280-3553-a7a5-a23da75aca76@104.168.76.175:443?security=tls&sni=u691611uecd0918ds173.sspcccdn.xyz#Canada
-vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443?security=reality&encryption=none&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.cdnjst.org&sid=a120#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#United+States
-trojan://humanity@104.18.152.219:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#France
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@146.235.16.191:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#United+Kingdom
-vless://665c11ef-4723-4396-a8a1-45d013e68e6b@103.112.71.228:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=bootnl1.strangerwhale.fun&type=tcp#China
-trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.123:443?security=tls#United+Arab+Emirates
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.248:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=enterprisekitten.com&fp=qq&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#Spain
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#United+Kingdom
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.126:8880?encryption=none&mode=gun&security=tls&type=grpc#France
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#Taiwan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#United+Kingdom
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?encryption=none&security=none&type=tcp#Ukraine
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@45.130.125.126:443?path=/au-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#Seychelles
+trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#
+vless://c5e739fb-aa7b-48ca-adca-34c95dadf2e1@now.nexuschat.fun:8080?security=reality&encryption=none&pbk=C8CAcJj1DrSOv9T3tLmzSoimfsC1hpqqVl8QV2wxUzE&headerType=none&fp=chrome&spx=/gxOh3mH3HkEfGfF&type=tcp&sni=aws.amazon.com&sid=3e66066052#Germany
+vless://2e146372-aafa-42e6-aaa6-b2a7185225ce@64.188.91.92:443?security=reality&encryption=none&pbk=j97RCvxVfMu5XWcXuAc4s8TnBTdl8PQrNFrZDQpAkng&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fast.gazladder.work&sid=b415b8d7a6106ace#United+States
+vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4yNTAiLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE4MCIsICJwcyI6ICJVbml0ZWQgS2luZ2RvbSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://5501b359-cd6c-431f-b478-f9ded18e4d6a@188.114.97.6:2053?path=%2FeyJqdW5rIjoiZzdoR3kxczdkcUxmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=wandering-field-030c.hsusudjfifjdhxccv.workers.dev&type=ws&allowInsecure=0&sni=WAnDERINg-FIelD-030c.HSuSudJFifjDHxCCv.WorkeRS.Dev#The+Netherlands
+vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTYuMjExIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6IDE4MDAwLCAicHMiOiAiQ2FuYWRhIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZnNjU0RjYi1TZUVxcVJiLm9telZHZ1ZnTnBYaDNiQTF1@67.219.106.119:26286#Australia
+vless://fc8a0708-951a-4027-860f-2a154ebc4dd7@172.67.78.254:2083?path=%2F&security=tls&encryption=none&insecure=0&host=crimson-king-301d.nexoxnet.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=crimson-king-301d.nexoxnet.workers.dev#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#United+States
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>

@@ -35,22 +35,21 @@
  <h4>Danh sách nút: (Tối đa 20 nút được hiển thị tại đây. Các nút miễn phí khác có thể lấy trong ứng dụng.)</h4>
     
 ```
-vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@pol-01.gni-daed.ru:443?encryption=none&type=tcp&security=reality&headerType=none&sni=pol-01.gni-daed.ru&fp=chrome&insecure=1&allowInsecure=1&pbk=L78hKnIWL5jdxw3R2NcY725t8QMqAfX8rGdYI46cFgs&sid=a8399289e18af5f4&flow=xtls-rprx-vision#Brazil
-vless://5da16620-0386-4da3-a252-12a6380ed1a6@server3.pegibol940.workers.dev:443?encryption=none&host=server3.pegibol940.workers.dev&path=%2FeyJqdW5rIjoiUHRlMEpuSzRFY1EyeUUwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSIsIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0%253D&security=tls&type=ws#
-trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#United+Kingdom
-vless://481969d4-60bc-48ab-9e34-82e6922a4aaa@ip.dnswish.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=ip.dnswish.com&fp=chrome&flow=xtls-rprx-vision&sid=11d7e6e5a3d76a9d&pbk=PBCl9OfRnF_aviBb-bODLQDU3NuUDKKx0NGvYD3ZpgU&encryption=none#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#United+Kingdom
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.60:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#Indonesia
-vless://8525fe74-67e6-4a55-8a26-95f227bd1384@147.185.161.152:2087?encryption=none&fp=chrome&host=weathered-brook-18b6.alvlirm741.workers.dev&path=/proxyip=212.193.35.100,185.218.0.16,83.147.255.88,138.124.255.49,185.147.26.135,79.174.80.62,185.72.145.79,82.146.38.33&security=tls&sni=weathered-brook-18b6.alvlirm741.workers.dev&type=ws#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#France
-vless://06b65903-406d-4a41-8400-6fd5c0ee7798@162.159.40.181:2096?path=/proxyip=ProxyIP.JP.cmliussss.net&security=tls&encryption=none&insecure=1&host=sp.linuxdododo.ccwu.cc&fp=chrome&type=ws&allowInsecure=1&sni=sp.linuxdododo.ccwu.cc#
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?security=reality&type=tcp&packetEncoding=xudp&sni=vindobona.org&fp=chrome&flow=xtls-rprx-vision&sid=08&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&encryption=none#Austria
-vless://fb37aadd-b957-4462-8738-80c55d77a52d@91.107.252.109:8080?encryption=none&security=none&type=tcp#Germany
-vless://ff19693c-11f3-4df9-8713-79a85a5ca090@208.69.78.205:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3ACH
-vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.20:443?path=%2Fpoiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#United+States
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#Taiwan
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?path=/&security=tls&alpn=h3,h2&encryption=none&host=po.fastbrokencompony.com&fp=chrome&type=ws&sni=po.fastbrokencompony.com#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#United+Kingdom
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.180:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&type=tcp&headerType=none#Philippines
+vless://c61a813a-3429-4a20-8b7f-f7a3cd795b24@45.134.21.8:8443?security=tls&type=ws&ech=godotengine.org+udp://208.67.220.220:443&host=ft76mv43.b1gqbrn7f2j6degb6bgs.workers.dev&fp=chrome&sni=ft76mv43.b1gqbrn7f2j6degb6bgs.workers.dev&path=/data/list/out.php?ed=2560&encryption=none#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#United+Kingdom
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@da.mfa.gov.ua:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@146.235.16.191:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#Singapore
+trojan://humanity@43.169.18.179:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#Singapore
+trojan://humanity@104.18.152.208:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#United+States
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.184:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#Indonesia
+vless://1cb91b20-49cc-59ff-8393-91808a4deede@144.124.253.4:8443?encryption=none&type=tcp&security=reality&fp=random&sni=www.ozon.ru&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff#United+Kingdom
+vmess://eyJhZGQiOiAiMTg2LjI0NC4yMDguNzgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImI3ZDkzNTQ5LTBmM2YtNGFmMi05ZjRkLTQzNDA4NjdhMjNiNCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjMwMDIyIiwgInBzIjogIkJyYXppbCIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.97:8443/?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=reality&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net&type=tcp#Philippines
+trojan://humanity@104.18.152.210:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.205:8880?mode=gun&security=none&encryption=none&type=grpc#France
+vmess://eyJhZGQiOiAiMzguMTEwLjEuMjQ2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIxODAwMCIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
