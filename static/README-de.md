@@ -35,22 +35,20 @@
  <h4>Knotenliste: (Hier werden maximal 20 Knoten angezeigt. Weitere kostenlose Knoten erhalten Sie in der App.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.118.10:8388#USA
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@144.124.251.49:443?security=reality&type=tcp&packetEncoding=xudp&sni=rezerv21.yunus.guru&fp=chrome&flow=xtls-rprx-vision&sid=e2b15b73af31a6a4&pbk=Qsx1iAU8A1meJ2Pz8QbEcX1iGckyw4f6-mxZ3ZyJ8HI&encryption=none#UK
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.27.99:443?security=reality&encryption=none&pbk=EuExqpNB141gtIjbCmU0yyurbBqiLtGjDg-n95JIuig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1.oncloudnineservicestreang.com&sid=28415a7918168947#D%C3%A4nemark
-vless://28201cd6-c2a9-4703-a31b-eaf31ecb18fd@104.16.100.66:8880?encryption=none&security=none&type=ws&host=summer-butterfly-cbc8.26-971.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.250:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Spanien
-trojan://O4O8.Ew+ujFX6GJBQ%3DxQr.heGwux0GYHqk@207.126.167.150:443/?type=tcp&security=tls#USA
-trojan://humanity@165.215.250.14:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#USA
-trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&sni=38.60.202.163#USA
-trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#Schweiz
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#USA
-ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E=@47.79.144.115:40003#USA
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.194:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#Indonesien
-trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.17.121.43:443?host=space.byu.id.yxls.eu.cc&path=%2Fbr-orcl&security=tls&sni=space.byu.id.yxls.eu.cc&type=ws#
-vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?path=/poiuyws&security=tls&encryption=none&insecure=0&host=amoosamiii.net&type=ws&allowInsecure=0&sni=amoosamiii.net#USA
-trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.250:443?security=tls&sni=fra250.clientfirewall.click#UK
-vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#USA
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.181:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#Indonesien
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.37:8880?mode=gun&security=none&encryption=none&type=grpc#Frankreich
+vless://b3bd8d0e-3cbe-4241-a4f1-e3dd0a9e432c@104.16.75.224:443?encryption=none&type=ws&security=tls&path=%2Fpage%3D2&sni=server-ir-3.ariyuz.org&insecure=0&allowInsecure=0#
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&fp=chrome&type=tcp&sni=yahoo.com&sid=0e#Finnland
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.24.73:443#D%C3%A4nemark
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#USA
+trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=www.ignitelimit.com&path=%2Fassignment#USA
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.76:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=reality&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net&type=tcp#Philippinen
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.877774.xyz:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:443?security=tls&encryption=none&insecure=0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#Russland
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.180.39:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#USA
+trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.60:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=reality&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net&type=tcp#Philippinen
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

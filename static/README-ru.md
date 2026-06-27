@@ -35,22 +35,20 @@
  <h4>Список узлов: (Здесь отображается не более 20 узлов. Остальные бесплатные узлы доступны в приложении.)</h4>
     
 ```
-trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.130:443?security=tls#%D0%9E%D0%90%D0%AD
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.13.222:443?security=tls&type=ws&path=%2Fudfyfws&host=octopusss5.info&packetEncoding=xudp&sni=octopusss5.info&fp=chrome&encryption=none#
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.110:8880?mode=gun&security=none&encryption=none&type=grpc#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
-trojan://6c862415-30d2-4813-8e49-42e99a0bd415@188.164.248.122:443?security=tls&sni=space.byu.id.yxls.eu.cc&type=ws&path=/us-gllc&Host=space.byu.id.yxls.eu.cc#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
-trojan://humanity@104.16.174.121:443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&insecure=0&allowInsecure=0#
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.216.98:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Xb-A55KyH9nwjxKw85wksIUJs9KBGk5B8rLArXGVLiw&sid=d9654598d4415f95&sni=service.mycloudsfere.abrdns.com#%D0%A1%D0%A8%D0%90
-trojan://humanity@104.16.174.6:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@172.67.74.2:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#%D0%A1%D0%A8%D0%90
-vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=/vless/&security=none&encryption=none&host=akamaized.net&type=ws&note=#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
-trojan://GTCCjtvCtuy03-aV1mwF0OkG2q6yL+Fc5K@207.126.167.162:443?security=tls#%D0%A1%D0%A8%D0%90
-vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.41:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ea10cd5686751ec5#%D0%A2%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD%D1%8C
-vless://612c872d-1370-4109-8644-f0755f97e33f@83.97.78.13:443?security=reality&encryption=none&pbk=GzOdZG9TCQSrZV7ivcmOq9tKWUf37QnoTxSHf32OfAs&headerType=none&fp=firefox&type=tcp&sni=www.samsung.com&sid=1680#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.241.66.76:14605#%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F
-vless://690b6997-198a-49d2-8cef-e4c70efc2288@104.21.75.46:443?path=%2F&security=tls&encryption=none&insecure=0&host=bold-term-2b48.stary3989.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=bold-term-2b48.stary3989.workers.dev#
-vless://15b84012-d261-4b4c-807a-061bb4a901fd@116.80.58.239:39975?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&security=reality&sni=cloudcircus.jp&type=tcp#%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?path=/&security=tls&alpn=h3,h2&encryption=none&host=po.fastbrokencompony.com&fp=chrome&type=ws&sni=po.fastbrokencompony.com#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#
+vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.0.7:443?encryption=none&type=ws&host=sertraline.adaspoloandco.com&path=/download.php&security=tls&fp=chrome&sni=sertraline.adaspoloandco.com#
+vless://06b65903-406d-4a41-8400-6fd5c0ee7798@162.159.40.181:2096?encryption=none&fp=chrome&host=sp.linuxdododo.ccwu.cc&path=/proxyip=ProxyIP.JP.cmliussss.net&security=tls&sni=sp.linuxdododo.ccwu.cc&type=ws#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.227.134:443?&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws&headerType=none&host=t1s1.rittbo.kdns.fr&path=%2F#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@mfa.gov.ua:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#%D0%A1%D0%A8%D0%90
+trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.117:443?security=tls#%D0%9E%D0%90%D0%AD
+trojan://humanity@199.181.197.36:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&&host=www.calmloud.com&type=ws&&sni=www.calmloud.com#%D0%A1%D0%A8%D0%90
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@207.148.112.179:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?type=ws&security=tls&host=po.fastbrokencompony.com&sni=po.fastbrokencompony.com&path=%2F&encryption=none#%D0%A1%D0%B5%D0%B9%D1%88%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5+%D0%BE-%D0%B2%D0%B0
+vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=ead3d6f82a9d&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&encryption=none#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
