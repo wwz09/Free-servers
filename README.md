@@ -36,19 +36,23 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.125:443?security=tls&sni=#%E5%B8%8C%E8%85%8A+V2CROSS.COM
-trojan://Mitivpn@151.101.242.172:80?type=ws&security=none&path=/ed=mitivpn&host=4-4-3-mitivpn.global.ssl.fastly.net#%E6%84%8F%E5%A4%A7%E5%88%A9+%E7%B1%B3%E5%85%B0Fastly%E8%8A%82%E7%82%B9
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-004.fastervpn.world:443?insecure=1&security=tls&sni=vpn-us-004.fastervpn.world#%E7%BE%8E%E5%9B%BD+Amazon+EC2%E6%9C%8D%E5%8A%A1%E5%99%A8
-trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.130:443?security=tls#%E5%B8%8C%E8%85%8A+V2CROSS.COM
-vless://ef5e8ad2-9f17-4337-b4b3-9a91ea96f115@45.95.0.219:46292?security=none&encryption=none&headerType=none&type=tcp#%E6%AC%A7%E7%9B%9F+V2CROSS.COM
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?security=tls#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
-trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.250:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=fra250.clientfirewall.click#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.131:443?security=tls#%E5%B8%8C%E8%85%8A+V2CROSS.COM
-vless://caa3af29-3b04-4099-9772-c64a1b7cca34@45.43.75.199:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chat.deepseek.com&sid=be0ce047#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.117.69:443/?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#%E7%BE%8E%E5%9B%BD+%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?security=tls#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@fi.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.93:443?security=tls#%E5%B8%8C%E8%85%8A+V2CROSS.COM
+trojan://OccIqeORGQwiNkwS@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#%E5%8D%B0%E5%BA%A6+V2CROSS.COM
+trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.127:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%E5%B8%8C%E8%85%8A+V2CROSS.COM
+vless://3adac494-0eb1-4d89-a187-b2181691444d@skk.moe:8880?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&type=ws&headerType=&host=tiny-lake-bbf1.369-766.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.120:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%E5%B8%8C%E8%85%8A+V2CROSS.COM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.143:17283#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.71:443?security=tls#%E5%B8%8C%E8%85%8A+V2CROSS.COM
+trojan://humanity@141.193.213.21:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#%E7%BE%8E%E5%9B%BD+RF+Engineering
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.119:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%E5%B8%8C%E8%85%8A+V2CROSS.COM
+trojan://humanity@104.20.6.134:443?host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.227.134:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.43:8443/?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=e3d38cee79d4f94c&sni=storage.yandex.net&type=tcp#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.250:443?security=tls&sni=fra250.clientfirewall.click#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.130:8443?type=tcp&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&security=reality&flow=xtls-rprx-vision&encryption=none&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0&fp=chrome#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?encryption=none&host=cnmfangbinxing.cnmfangbinxing-f.workers.dev&path=%2F&security=none&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>

@@ -35,23 +35,25 @@
  <h4>Knotenliste: (Hier werden maximal 20 Knoten angezeigt. Weitere kostenlose Knoten erhalten Sie in der App.)</h4>
     
 ```
-trojan://humanity@81.255.155.10:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#Frankreich
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJdDJOaUJic0h2dmhxVTVhR0VaMnBJ@5.253.59.156:32140#Singapur
-vmess://eyJhZGQiOiAiNDcuMjUwLjQ1LjIzNCIsICJhaWQiOiAwLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjgwMDM5YjRkLWJhYzAtNGY4OS04MmM3LTU0ZmFkM2IwYTFlYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiA4NjEzLCAicHMiOiAiTWFsYXlzaWEiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-trojan://humanity@45.130.125.0:443?path=%2Fassignment&security=tls&alpn=http/1.1&host=www.calmloud.com&fp=chrome&allowinsecure=0&type=ws&sni=www.calmloud.com#Seychellen
-vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.46:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ea10cd5686751ec5#Taiwan
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@154.64.235.157:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd#USA
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@mfa.gov.ua:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#USA
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#USA
-vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=j5qmR8E9er-0n5zZbK6s_SdvYm-tYlraXVYm49ArWS8&security=reality&sid=60debb3ab744d8ce&sni=uk.bvps.cloud&type=tcp#USA
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.190:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=e3d38cee79d4f94c&sni=storage.yandex.net&type=tcp#Mauritius
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.214:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none#Mauritius
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#USA
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.133:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none#Mauritius
-vless://e277ac9b-3225-3381-a9fb-3585419f7142@love.ns.cloudflare.com:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=media14.ftmsoft.com&path=%2Fmedia14&security=tls&sni=media14.ftmsoft.com&type=ws#
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=%2F&security=none&encryption=none&type=ws#Polen
-vless://10a6b923-e349-4594-92bb-d81a6245aaec@188.114.97.4:443?path=/download.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#Niederlande
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.8:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=reality&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net&type=tcp#Philippinen
+vless://6d06761b-8103-41cb-af1b-5a3b32b0eedc@163.128.99.219:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=safari&pbk=nnUS7C7-QQntfoyBI7_Ym2DYIJX8ULNjHkKk9Zr8dRs&sid=3a8657890bb824a2&type=tcp&headerType=none#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+vless://fc8a0708-951a-4027-860f-2a154ebc4dd7@172.67.78.254:2083?path=%2F&security=tls&encryption=none&insecure=0&host=crimson-king-301d.nexoxnet.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=crimson-king-301d.nexoxnet.workers.dev#USA
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.55:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none#Mauritius
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.42.163:443?host=tjsp.hhxaf.cc.cd&path=%2F&security=tls&sni=tjsp.hhxaf.cc.cd&type=ws#
+vless://af1e0692-6c91-4d61-bc6b-108f2e897c37@193.233.174.195:27331?security=none&encryption=none&headerType=none&type=tcp#Russland
+trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click#%C3%96sterreich
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoa2FzYjVjVnJzNGpFMThqQ0VKeEI0R3I1NWhWR1cyNHkzNWdVOUdJSWV5VDMxRnc=@213.226.68.8:31348#Deutschland
+vless://f6f44df3-d229-4dd8-a944-e7bc3a4c6b94@96.62.214.87:29745?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=zSOPQOHAiacl2VMETsLXTE_Gln5ECllb6YKy1oyv1V0&sid=c3&type=tcp&headerType=none#USA
+trojan://humanity@45.130.125.96:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#Seychellen
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?security=tls&type=tcp&packetEncoding=xudp&sni=r1.mizulina.top&fp=chrome&flow=xtls-rprx-vision&encryption=none#USA
+vless://c29d39bd-92a4-45db-bb61-56013998617c@104.18.109.147:80?encryption=none&host=www.speedtest.net.www.1google.com.bing.com.visa.com.tls.xv98.ip-ddns.com&path=%2Ftelegram-xv2ry2&security=none&type=ws#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.42.98:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#Frankreich
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.201:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none#Mauritius
+vmess://eyJhZGQiOiAiMTUyLjY3LjguMjA1IiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDgwLCAicHMiOiAiSW5kaWVuIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogIjE1Mi42Ny44LjIwNSIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+trojan://humanity@104.17.121.71:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#
+vmess://eyJhZGQiOiAibXl2cHNob3N0aW5nLm5hbWUubmciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibXl2cHNob3N0aW5nLm5hbWUubmciLCAiaWQiOiAiOTY0MDhmOWEtZGYwMy00NDhiLWI3ZTQtZWM4ZTJjMjE2NjgyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcyIsICJwb3J0IjogIjgwIiwgInBzIjogIlVTQSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIm15dnBzaG9zdGluZy5uYW1lLm5nIiwgInRlc3RfbmFtZSI6ICIxNiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.112:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#Philippinen
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.36.20:443?fp=chrome&host=hhcm.hhxaf.cc.cd&path=%2F&security=tls&sni=hhcm.hhxaf.cc.cd&type=ws#
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

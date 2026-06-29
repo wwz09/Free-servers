@@ -35,23 +35,25 @@
  <h4>قائمة العقد: (يتم عرض 20 عقدة كحد أقصى هنا. تتوفر العقد المجانية الأخرى في التطبيق)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNjcuMjIwLjcyLjIzNyIsICJhaWQiOiAiMSIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAyMjMyNCwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#France
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.180.39:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
-vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@145.239.137.250:58748?security=none&type=tcp&headerType=http&path=%2F&host=e1roj9ul.divarcdn.com%2C%20e1roj9ul.alibaba.io%2C%20e1roj9ul.splus.io%2C%20e1roj9ul.cafebazaar.io%2C%20e1roj9ul.yjc.io&packetEncoding=xudp&encryption=none#France
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.5.231:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#United+Kingdom
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.148:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=reality&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net&type=tcp#Philippines
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM&sid=273940fba6ad8250&sni=5.oncloudnineservicestreang.com#Denmark
-vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=/vless/&security=none&encryption=none&host=akamaized.net&type=ws#France
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@www.shopify.com:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=/&Host=tjsp.hhxaf.cc.cd#
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.204:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none#Mauritius
-vmess://eyJhZGQiOiAiNDcuMjUwLjQ1LjIzNCIsICJhaWQiOiAwLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjgwMDM5YjRkLWJhYzAtNGY4OS04MmM3LTU0ZmFkM2IwYTFlYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiA4NjEzLCAicHMiOiAiTWFsYXlzaWEiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.57:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none#Mauritius
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.103:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none#Mauritius
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@83.243.86.117:10443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo#Germany
+vless://0cdfc4e0-67aa-40a9-8749-387bf9e11fd9@65.109.186.44:45026?security=none&type=tcp&packetEncoding=xudp&encryption=none#Finland
+vless://276733b9-25c8-47b0-b651-b18cd4909128@132.243.213.174:37037?encryption=none&security=none&type=tcp#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.10.87:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#
+vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?type=tcp&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&security=reality&flow=xtls-rprx-vision&encryption=none&sni=google.com&sid=0e&fp=chrome&spx=/#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.25:443?type=ws&encryption=none&security=tls&host=t1s1.rittbo.kdns.fr&insecure=0&sni=t1s1.rittbo.kdns.fr&allowInsecure=0#
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.242:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none#Mauritius
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#Australia
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.196:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none#Mauritius
 vless://f46bee2a-6c4a-11f1-9b97-54db13ea7d40@176.125.241.221:443?security=reality&encryption=none&pbk=wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.blocket.se#Ukraine
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@da.mfa.gov.ua:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.244:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none#Mauritius
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.59:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none#Mauritius
+vless://5d5b12de-0da5-3243-f674-e75a691053f3@104.18.12.149:443?security=tls&sni=daltun.daltunads.workers.dev&insecure=1&fp=chrome&type=ws&path=%2Fsync&host=daltun.daltunads.workers.dev&packetEncoding=xudp&encryption=none#
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.229:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none#Mauritius
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#United+States
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.188:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none#Mauritius
+vless://7e6a38f4-7150-4eff-ae68-579852357ddb@13.40.188.81:443?security=none&encryption=none&headerType=none&type=tcp#United+Kingdom
+trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=%2Fassignment&security=tls&type=ws#
+trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.117:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#United+Arab+Emirates
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.167.243.30:8880?type=ws&host=vms.lifetime55.workers.dev#United+States
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>
