@@ -36,22 +36,19 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-vless://3e06720a-86f0-49b9-8f00-062681e3b385@vip.bcjdvip.com:14007?security=reality&type=tcp&packetEncoding=xudp&sni=apple.com&fp=safari&flow=xtls-rprx-vision&sid=1d89ebb78c&pbk=wybFjQzLnkKIaaTEhwp_N9UXU8miqds9U__P971YHlU#%E9%A6%99%E6%B8%AF+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vless://06b65903-406d-4a41-8400-6fd5c0ee7798@162.159.40.181:2096?encryption=none&fp=chrome&host=sp.linuxdododo.ccwu.cc&path=%2Fproxyip%3DProxyIP.JP.cmliussss.net&security=tls&sni=sp.linuxdododo.ccwu.cc&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://Mitivpn@151.101.0.0:80?type=ws&security=none&path=/ed=mitivpn&host=3-mitivpn.global.ssl.fastly.net#%E7%BE%8E%E5%9B%BD+Fastly%E5%85%A8%E7%90%83Anycast%E8%8A%82%E7%82%B9
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.119:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%E5%B8%8C%E8%85%8A+V2CROSS.COM
+vless://3e06720a-86f0-49b9-8f00-062681e3b385@vip.bcjdvip.com:14010?security=reality&type=tcp&packetEncoding=xudp&sni=apple.com&fp=edge&flow=xtls-rprx-vision&sid=1ebaa8ea57a71ffc&pbk=PT1gw9B5majPBH2_qST-vymli9f6RlTmvGS2gPtdhF8#%E9%A6%99%E6%B8%AF+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 vless://3e06720a-86f0-49b9-8f00-062681e3b385@vip.bcjdvip.com:14008?security=reality&type=tcp&packetEncoding=xudp&sni=apple.com&fp=firefox&flow=xtls-rprx-vision&sid=8e5d94464f&pbk=WQP0QFc9RlOg7TDAI2i_VNQEtFwB_5kE5AKykeIipm0#%E9%A6%99%E6%B8%AF+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.87:443?security=tls#%E5%B8%8C%E8%85%8A+V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.143:17283#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443/?type=tcp&security=tls#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+trojan://Mitivpn@151.101.110.219:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACFastly%E8%8A%82%E7%82%B9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJLWJQM2xGaC5kVEczWGl0RjdYdFZLODNDWjdySTJVdD1u@45.32.122.179:23027#%E6%96%B0%E5%8A%A0%E5%9D%A1+Choopa%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.52.152:8443?encryption=none&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://3e06720a-86f0-49b9-8f00-062681e3b385@vip.bcjdvip.com:14006?security=reality&type=tcp&packetEncoding=xudp&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&sid=ff5ebee2264c&pbk=XPLe-686APp5RHaiFHZDTJsf1kMo-aMZuKjKeHmdyEM#%E9%A6%99%E6%B8%AF+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.120:443?security=tls#%E5%B8%8C%E8%85%8A+V2CROSS.COM
+trojan://humanity@104.17.121.9:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.71:443?security=tls#%E5%B8%8C%E8%85%8A+V2CROSS.COM
+trojan://Mitivpn@151.101.242.172:80?type=ws&security=none&path=/ed=mitivpn&host=4-4-3-mitivpn.global.ssl.fastly.net#%E6%84%8F%E5%A4%A7%E5%88%A9+%E7%B1%B3%E5%85%B0Fastly%E8%8A%82%E7%82%B9
+trojan://63872b0d-87dd-4474-b690-92773af2922e@kkvlvvq-a.catcat321.com:20035?security=tls&sni=hk.catxstar.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#%E8%8B%B1%E5%9B%BD+Technicolor+SA
 vless://3e06720a-86f0-49b9-8f00-062681e3b385@vip.bcjdvip.com:14004?security=reality&type=tcp&packetEncoding=xudp&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&sid=22c485f4000241&pbk=zSt5a1vs3C3oxm3fSUB_egA98IO3XZr7JGzE6OdMTz8#%E9%A6%99%E6%B8%AF+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.97:443?security=tls#%E5%B8%8C%E8%85%8A+V2CROSS.COM
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.93:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%E5%B8%8C%E8%85%8A+V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyX05SZS0rV1JxMnpWcU1wQ25KdFRFU2xUOFd5ZmZIeUZ5@38.54.80.160:16292#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
-vless://b26ec0f4-6c92-45f7-b287-2a664abf1963@104.16.75.223:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-7.ariyuz.org#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls&headerType=none&type=tcp#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
-vless://3e06720a-86f0-49b9-8f00-062681e3b385@vip.bcjdvip.com:14009?security=reality&type=tcp&packetEncoding=xudp&sni=apple.com&fp=safari&flow=xtls-rprx-vision&sid=6a1a47&pbk=CAFHM6x5kO2ofkpEDelcOJlZ4i6Kw4ZlDNIfdV6ptUw#%E9%A6%99%E6%B8%AF+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
