@@ -35,24 +35,23 @@
  <h4>قائمة العقد: (يتم عرض 20 عقدة كحد أقصى هنا. تتوفر العقد المجانية الأخرى في التطبيق)</h4>
     
 ```
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.131:8880?mode=gun&security=none&encryption=none&type=grpc#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#United+Kingdom
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.27:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#Indonesia
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.129:8880?encryption=none&mode=gun&security=tls&type=grpc#France
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.149.209:443?allowInsecure=1&encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cloudflare-dns.com:2095?allowInsecure=0&sni=cnmfangbinxing.cnmfangbinxing-s.workers.dev&type=ws&host=cnmfangbinxing.cnmfangbinxing-s.workers.dev&path=/fp=randomized#
-trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
-vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.20:443?encryption=none&host=amoosamiii.net&path=%2Fpoiuyws&security=tls&sni=amoosamiii.net&type=ws#United+States
-trojan://humanity@www.calmlunch.com:443/?type=ws&path=/assignment&security=tls&fp=chrome#
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.14.137:443?encryption=none&host=shegeftihaaa.net&path=/rsedgws&security=tls&sni=shegeftihaaa.net&type=ws#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.152.241:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#United+States
-vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf3.466688.xyz:443?encryption=none&security=tls&sni=cfoo-146.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560#
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#United+States
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&insecure=0&allowInsecure=0&type=ws&host=po.fastbrokencompony.com&path=%2F#Seychelles
-vless://737678dc-cc15-4643-85a4-ca9359df1aa4@104.25.3.165:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=patient-moon-c61f.ggfsa55.workers.dev#
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.74:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=reality&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net&type=tcp#Philippines
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.158:8443?encryption=none&fp=chrome&host=srv03.perfectbulk.info&path=%2F&security=tls&sni=srv03.perfectbulk.info&type=ws#Seychelles
-trojan://humanity@104.16.174.44:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#United+States
+vless://d44fc964-652c-4790-bfdc-be9ae1e281f3@45.198.80.187:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#Indonesia
+vless://05f7b98c-3cd4-4f15-cb80-ac38e1c08a96@31.220.31.67:443?encryption=none&security=tls&sni=us2.wxgqlfx.icu&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=us2.wxgqlfx.icu&path=%2FTG%40wxgqlfx#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#United+Kingdom
+vmess://eyJhZGQiOiAiM2gta2F6YWtoc3RhbjEuMDl2cG4uY29tIiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgImlkIjogIjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBvcnQiOiA4MCwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf9.466688.xyz:443?encryption=none&security=tls&sni=cfoo-146.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560#
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.61:8443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=2cfb5a0ae8ab0cb0&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&encryption=none#Philippines
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#France
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.40.79:2083?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
+vless://c27538ca-d170-4182-87e5-aee87c8a0c4a@188.114.97.6:443?encryption=none&security=tls&sni=small-voice-c4c5.itsnewrzan.workers.dev&insecure=0&allowInsecure=0&type=ws&host=small-voice-c4c5.itsnewrzan.workers.dev&path=%2Fproxyip%3D40.233.87.120#The+Netherlands
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.129:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#Mauritius
+vless://c87950b3-f132-450a-bec6-e9e91fc9d8bc@193.23.219.140:56453?encryption=none&security=none&type=tcp#Germany
+vless://c29d39bd-92a4-45db-bb61-56013998617c@104.18.109.147:80?encryption=none&host=www.speedtest.net.www.1google.com.bing.com.visa.com.tls.xv98.ip-ddns.com&path=%2Ftelegram-xv2ry2&security=none&type=ws#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.090227.xyz:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+trojan://humanity@www.calmlunch.com:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#
+vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@89.125.119.48:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EtkZdJxEpbkpER7tXmp2DnuozvILY4xIQymfBrsMJwo&security=reality&sni=mamakoko.morrisis.net&type=tcp#Ireland
+trojan://humanity@45.130.125.2:443?path=%2Fassignment&security=tls&insecure=0&host=Www.cReaTIOnLONG.OrG&type=ws&allowInsecure=0&sni=Www.cReaTIOnLONG.OrG#Seychelles
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

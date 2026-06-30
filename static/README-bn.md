@@ -35,24 +35,23 @@
  <h4>নোড তালিকা: (এখানে সর্বোচ্চ 20টি নোড দেখানো হয়। অন্যান্য বিনামূল্যের নোড অ্যাপে পাওয়া যাবে)</h4>
     
 ```
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.93:8880?mode=gun&security=none&encryption=none&type=grpc#France
-vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.70:2096?encryption=none&type=ws&security=tls&path=/proxyip&host=sp.linuxdododo.ccwu.cc&sni=sp.linuxdododo.ccwu.cc&fp=chrome&insecure=0&allowInsecure=0#
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=/&security=tls&encryption=none&insecure=0&host=srv75.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv75.perfectbulk.info#Seychelles
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#United+Kingdom
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.45.218:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca25.speedmeter.shop:8880?encryption=none&mode=gun&security=tls&type=grpc#France
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.47.19:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
-vless://c87950b3-f132-450a-bec6-e9e91fc9d8bc@193.23.219.140:56453?security=none&encryption=none&headerType=none&type=tcp#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJLWJQM2xGaC5kVEczWGl0RjdYdFZLODNDWjdySTJVdD1u@45.32.122.179:23027#Singapore
-vless://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv20.yunus.guru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=GF61aR_em1Xb3bNpwaO86PMEsAi4tuNfinnTDnrC4CE&security=reality&sid=664d93f83ca49830&sni=rezerv20.yunus.guru&type=tcp#Ireland
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.14:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=e3d38cee79d4f94c&sni=storage.yandex.net&type=tcp#Mauritius
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@da.mfa.gov.ua:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#United+States
+vmess://eyJhZGQiOiAiNjYuMTYzLjExNy41OCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAyMjMyNCwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.40.49:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
+vless://70252937-5c61-4fb0-8656-d1a16261b795@188.114.97.6:2096?path=%2Fshalana&security=tls&encryption=none&insecure=0&host=group.shalana.xyz&type=ws&allowInsecure=0&sni=group.shalana.xyz#The+Netherlands
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@213.35.127.18:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd#Singapore
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.250:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&type=tcp&headerType=none#Philippines
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTN1NkdjZWkwNE55WGJyV0xLYTBN@5.230.184.16:443#Germany
+trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.160.132.178:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#Japan
 vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.89:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=d515d6cfdfe60b02&sni=storage.yandex.net&type=tcp#Mauritius
-vmess://eyJhZGQiOiAiMTQ5Ljg4LjIzLjIwNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAxODAwMCwgInBzIjogIlNpbmdhcG9yZSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.1:8880?mode=gun&security=none&encryption=none&type=grpc#France
-vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?security=none&encryption=none&headerType=none&type=tcp#Germany
-ss://YWVzLTI1Ni1nY206OWYzZDFhNmQzMTQ2ODU5OQ==@195.133.23.164:32012#Russia
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.73:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&type=tcp&headerType=none#Philippines
-vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?encryption=none&type=grpc&security=reality&sni=c.primarymaster.online&fp=firefox&insecure=1&allowInsecure=1&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&sid=c56c3ba3b9f676c5#Czechia
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#France
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.137:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#Philippines
+trojan://humanity@199.181.197.212:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&&host=www.calmloud.com&type=ws&&sni=www.calmloud.com#United+States
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.97:443?security=tls#United+Arab+Emirates
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>
