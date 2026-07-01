@@ -36,18 +36,18 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.127:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%E5%B8%8C%E8%85%8A+V2CROSS.COM
-trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.120:443?security=tls#%E5%B8%8C%E8%85%8A+V2CROSS.COM
-vless://b3bd8d0e-3cbe-4241-a4f1-e3dd0a9e432c@104.16.75.224:443?encryption=none&type=ws&security=tls&path=%2Fpage%3D2&sni=server-ir-3.ariyuz.org&insecure=0&allowInsecure=0#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.52.134:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-hysteria2://9794d18f-9280-3553-a7a5-a23da75aca76@23.166.40.27:443?alpn=h3&hopinterval=30s&mport=30000-32000&security=tls&sni=u691611u2e827823s79.sspcccdn.xyz#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.130:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#%E5%B8%8C%E8%85%8A+V2CROSS.COM
-vmess://eyJhZGQiOiAiMTU0LjM3LjIyMy41NiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjFhYzVjODItMDBhNC00MDBiLWJiMjAtNTMwYzkxYjdjNWJiIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi9RUXF1bi03Mzc4MDU0NDMiLCAicGNzIjogIiIsICJwb3J0IjogIjUyMDgwIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBWMkNST1NTLkNPTSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443?allowInsecure=0&security=tls#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.105:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%E5%B8%8C%E8%85%8A+V2CROSS.COM
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@support.zoom.us:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=/sg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.80:28061#%E5%8D%B0%E5%BA%A6+V2CROSS.COM
+vless://10a6b923-e349-4594-92bb-d81a6245aaec@109.120.176.17:443?path=/download.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://b3bd8d0e-3cbe-4241-a4f1-e3dd0a9e432c@104.16.75.214:443?path=/page=2&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=server-ir-3.ariyuz.org#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.26.4.60:443?encryption=none&type=ws&security=tls&path=/&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.117:443?security=tls#%E5%B8%8C%E8%85%8A+V2CROSS.COM
+trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.125:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#%E5%B8%8C%E8%85%8A+V2CROSS.COM
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.119:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%E5%B8%8C%E8%85%8A+V2CROSS.COM
+trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?security=tls#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?security=tls&sni=185.137.157.151&type=tcp#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
 ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw==@chengbai02.ascwt179.com:13223#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.240.147.113:14605#%E5%8D%B0%E5%BA%A6+V2CROSS.COM
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?security=tls#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
+hysteria2://f872264a-664a-4b6a-84e8-516a39099860@134.195.101.199:443?allowInsecure=1&insecure=1&security=tls&sni=www.apple.com#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>

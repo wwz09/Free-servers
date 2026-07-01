@@ -35,22 +35,23 @@
  <h4>Lista węzłów: (Tutaj wyświetlanych jest maksymalnie 20 węzłów. Pozostałe bezpłatne węzły są dostępne w aplikacji.)</h4>
     
 ```
-trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?security=tls#South+Korea
-trojan://humanity@45.130.125.96:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#Seychelles
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.245:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Spain
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&fp=chrome&host=unnes.ac.id.yxls.eu.cc&path=/ca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#United+Kingdom
-trojan://humanity@104.16.174.44:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
-vless://8224aa92-4a38-4756-a7d9-a9e7cde12a31@103.166.127.195:448?security=reality&encryption=none&pbk=nE2H52_rX3dHXENKxpHFDfZPKP40AjGoHyJv9olrr20&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=124107a81dcd5199#Hong+Kong
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.speedmeter.shop:8880?encryption=none&mode=gun&security=tls&type=grpc#France
-vless://e314349a-7e56-4a3e-9318-eda62b5d6bd3@138.252.100.85:32351?encryption=none&security=none&type=ws&path=/#EPODONIOS
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.129:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#Mauritius
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.163:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=e3d38cee79d4f94c&sni=storage.yandex.net&type=tcp#Mauritius
-trojan://humanity@216.24.57.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#United+States
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@57.129.137.57:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=/&security=tls&sni=vpn47.cc.cd&type=ws#France
-vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#United+States
-vless://9794d18f-9280-3553-a7a5-a23da75aca76@23.94.36.26:443?encryption=none&type=tcp&headerType=&fp=firefox&host=s5016.wagahaha.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u691611us5016.wagahaha.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#Canada
-trojan://humanity@104.18.8.83:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#United+Kingdom
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@174.136.205.24:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#United+States
+vless://0047a8bc-0025-4d45-899b-c75c669f3ede@cherry-nll-01.live:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&security=reality&sid=6f15101ff2cc4887&sni=storage.yandex.net&type=tcp#Seychelles
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@193.219.99.177:8443?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=vpn47.cc.cd&path=%2F#United+Kingdom
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#United+States
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.16.174.3:443?path=/jdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&fp=chrome&type=ws&allowInsecure=0&sni=JoinProxyVPN11.amooaliii.net#
+trojan://humanity@104.26.14.137:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+trojan://humanity@104.16.174.117:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#
+vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=j5qmR8E9er-0n5zZbK6s_SdvYm-tYlraXVYm49ArWS8&security=reality&sid=60debb3ab744d8ce&sni=uk.bvps.cloud&type=tcp#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.42.182:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+trojan://humanity@141.101.90.101:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#United+States
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Russia
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.133:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&type=tcp&headerType=none#Philippines
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.42.44:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#United+States
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.87:443?security=tls#United+Arab+Emirates
+trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.123:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#United+Arab+Emirates
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=/vless/#Mexico
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@131.186.25.156:2087?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#South+Korea
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

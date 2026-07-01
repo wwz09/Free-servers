@@ -35,22 +35,23 @@
 <h4>Node list: (A maximum of 20 nodes are shown here. More free nodes are available in the app.)</h4>
     
 ```
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.5.231:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2Ffp%3Dchrome&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
-trojan://humanity@104.20.6.134:443?security=tls&sni=www.calmloud.com&type=ws&path=/assignment&Host=www.calmloud.com#
-vmess://eyJhZGQiOiAiNjcuMjIwLjcyLjIzNyIsICJhaWQiOiAiMSIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAyMjMyNCwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://8224aa92-4a38-4756-a7d9-a9e7cde12a31@103.166.127.195:448?security=reality&encryption=none&pbk=nE2H52_rX3dHXENKxpHFDfZPKP40AjGoHyJv9olrr20&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=124107a81dcd5199#Hong+Kong
-vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#United+States
-vless://73eed38e-09ea-4c07-aa95-c53684400d68@91.107.160.130:33819?security=none&type=tcp&packetEncoding=xudp&encryption=none#Germany
-vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&host=ov-italy1.09vpn.com&type=ws&allowInsecure=0&sni=ov-italy1.09vpn.com#France
-vless://55a5044d-5b35-405f-971c-ea7aacaafcb4@185.137.157.72:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=z6_OFl0jskilOOxkQcUcdQOCS4-LVndwFF9i7kIOPzg&security=reality&sid=d23753491eefde7e&sni=www.nvidia.com&type=tcp#United+Kingdom
-trojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#The+Netherlands
-vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?encryption=none&security=tls&type=ws&path=/vless/#Mexico
-trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.13.222:443?encryption=none&fp=chrome&host=octopusss5.info&path=%2Fudfyfws&security=tls&sni=octopusss5.info&type=ws#
-vmess://eyJhZGQiOiIxMzguMjUyLjEwMC44NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMzE0MzQ5YS03ZTU2LTRhM2UtOTMxOC1lZGE2MmI1ZDZiZDMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjE4NzQ2IiwicHMiOiJFUE9ET05JT1MiLCJzY3kiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#United+Kingdom
-trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.120:443?security=tls#United+Arab+Emirates
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@213.35.127.18:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd#Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaU9NQlU1SUR2SmNGcXlOUGJSallS@137.74.119.18:10443#France
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.17.121.98:443?encryption=none&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#
+vless://2bbcaede-7820-4a21-8357-c86aec278c4e@107.189.5.203:444?encryption=none&host=play.google.com&path=%2FA2&security=none&type=ws#Luxembourg
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@47.80.60.254:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#United+States
+trojan://humanity@104.20.6.134:443?host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?encryption=none&fp=chrome&host=terazhediii.info&path=%2Fhdgrbws&security=tls&sni=terazhediii.info&type=ws#United+States
+vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=none&type=tcp&packetEncoding=xudp&encryption=none#Russia
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.85:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#United+Arab+Emirates
+vless://9794d18f-9280-3553-a7a5-a23da75aca76@s5369.okgg.top:443?encryption=none&type=tcp&headerType=&fp=firefox&host=cfae50a4s5368.wagahaha.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u691611ucfae50a4s5368.wagahaha.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#Japan
+trojan://humanity@104.16.174.44:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
+trojan://aR9EJWEB2Jp3m6xKJK%3DCt7kLyqFSU-iDBR@92.119.35.120:443?security=tls&headerType=none&type=tcp#United+Arab+Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#United+Kingdom
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@www.speedtest.net:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.101:443?path=/proxyip&security=tls&encryption=none&insecure=0&host=nbhhh.mrcool.kdns.fr&type=ws&allowInsecure=0&sni=nbhhh.mrcool.kdns.fr#
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443?flow=xtls-rprx-vision&fp=firefox&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#Belarus
+trojan://humanity@199.181.197.176:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&&host=www.calmloud.com&type=ws&&sni=www.calmloud.com#United+States
+vless://9794d18f-9280-3553-a7a5-a23da75aca76@108.61.163.234:443?encryption=none&type=tcp&headerType=&fp=firefox&host=45517d37s7122.gogocs.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u691611u45517d37s7122.gogocs.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#Japan
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

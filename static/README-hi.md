@@ -35,22 +35,23 @@
  <h4>नोड सूची: (यहां अधिकतम 20 नोड दिखाए जाते हैं। अन्य मुफ्त नोड ऐप में प्राप्त करें)</h4>
     
 ```
-trojan://humanity@199.181.197.212:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#United+States
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.36.5:443?host=hhcm.hhxaf.cc.cd&path=%2F&security=tls&sni=hhcm.hhxaf.cc.cd&type=ws#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@64.176.35.237:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#Japan
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&fp=chrome&host=unnes.ac.id.yxls.eu.cc&path=/ca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#United+Kingdom
-vmess://eyJhZGQiOiIxMzguMjUyLjEwMC44NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlMzE0MzQ5YS03ZTU2LTRhM2UtOTMxOC1lZGE2MmI1ZDZiZDMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjE4NzQ2IiwicHMiOiJFUE9ET05JT1MiLCJzY3kiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-trojan://afbcd89a-5a90-4a44-a42a-be08f444aa3f@blog.webex.com:443?host=unnes.ac.id.yxls.eu.cc&path=%2Fbr-orcl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#United+States
-ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw==@chengbai02.ascwt179.com:13223#Hong+Kong
-trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.42.44:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#United+States
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?encryption=none&host=octopusss5.info&path=%2Fudfyfws&security=tls&sni=octopusss5.info&type=ws#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@47.80.60.254:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#United+States
-vmess://eyJhZGQiOiAiMTQwLjgzLjUxLjE2MSIsICJhaWQiOiAwLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAianAwMi5hMGEueHl6IiwgImlkIjogIjY3MzNjMzU3LWJhMTEtNGU5Zi1mMDBmLTdkODdmMjc3NmZmOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvY2N0djEzLm0zdTgiLCAicG9ydCI6IDI1Njg2LCAicHMiOiAiSmFwYW4iLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.249:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Spain
-vless://7fc0fd86-79a9-48dd-87e8-669758e9ffa8@185.48.251.195:448?encryption=none&fp=chrome&pbk=ncuqENP8uAV8w18kOQJlfWCC7dWjnUY1UY_5Iwtf21o&security=reality&sid=181c8972132cca60&sni=www.samsung.com&type=tcp#Hong+Kong
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.227.134:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
-vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@bypass.ch-gt-01.com:8443?security=reality&encryption=none&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d515d6cfdfe60b02#Mauritius
+vless://9e13f74e-3ad7-437d-aba6-5def3c42b046@64.49.44.87:19107?security=reality&encryption=none&pbk=rdfVgNqwK528X1X4ZdKe9abvTm7yMICZ5FRUmdYLF14&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=bedc231e12dd39#%E6%9C%AA%E7%9F%A5%20VLESS-434%20%7C%20free-nodes
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.877774.xyz:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@129.153.70.168:4433?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=vpn47.cc.cd&path=%2F#United+States
+vless://52faee73-e0fe-4661-992d-67259257170f@uk-gthost-01.com:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ea10cd5686751ec5#Taiwan
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.158:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&type=tcp&headerType=none#Philippines
+trojan://f922fa0f-3311-4368-85ff-cf65e727c854@space.byu.id.yxls.eu.cc:443?fp=chrome&path=%2Fbr-orcl&security=tls&type=ws#
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@62.60.155.0:443?security=reality&type=tcp&packetEncoding=xudp&sni=telegraph.co.uk&fp=chrome&flow=xtls-rprx-vision&sid=deee73&pbk=YD3G553bQP0uWuyYDY9ZvhLCmfF9tmKUo8MRuALEFUw&encryption=none#Iran
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United+States
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.194:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#Indonesia
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?encryption=none&mode=gun&security=tls&type=grpc#France
+trojan://humanity@104.26.14.137:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.5.231:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2Ffp%3Dchrome&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
+vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?security=none&type=tcp&headerType=http&path=%2F&host=e1roj9ul.divarcdn.com%2C%20e1roj9ul.alibaba.io%2C%20e1roj9ul.splus.io%2C%20e1roj9ul.cafebazaar.io%2C%20e1roj9ul.yjc.io&packetEncoding=xudp&encryption=none#France
+trojan://humanity@199.181.197.36:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&&host=www.calmloud.com&type=ws&&sni=www.calmloud.com#United+States
+trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&host=www.ignitelimit.com&allowinsecure=0&type=ws&sni=www.ignitelimit.com#
+vmess://eyJhZGQiOiAieWcyLnlna2trLmRwZG5zLm9yZyIsICJhaWQiOiAwLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uenVsYS51cGxhb2QtbXVzaWMuaXIuIiwgImlkIjogImY4OTc1ODcxLWE3YTAtNDkwNi04ODM1LWEyM2MxMjU4Y2ExZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4MCwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://10a6b923-e349-4594-92bb-d81a6245aaec@109.120.176.17:443?path=/download.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#Russia
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

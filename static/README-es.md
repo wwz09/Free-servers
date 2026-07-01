@@ -35,22 +35,23 @@
  <h4>Lista de nodos: (Aquí se muestran como máximo 20 nodos. Los demás nodos gratuitos se obtienen en la app.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.80:28061#India
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.3.141:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
-vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni45IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6IDE4MCwgInBzIjogIlJlaW5vIFVuaWRvIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080#Reino+Unido
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cloudflare-ip.mofashi.ltd:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
-trojan://humanity@104.16.174.44:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@154.223.16.96:6697#Colombia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#Reino+Unido
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@211.49.57.179:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=%2F&Host=tjsp.hhxaf.cc.cd#Corea+del+Sur
-hysteria2://f872264a-664a-4b6a-84e8-516a39099860@134.195.101.199:443?allowInsecure=1&insecure=1&security=tls&sni=www.apple.com#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZnNjU0RjYi1TZUVxcVJiLm9telZHZ1ZnTnBYaDNiQTF1@67.219.106.119:26286#Australia
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=/vless/&security=none&type=ws#Francia
-vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#Estados+Unidos
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?mode=gun&security=none&encryption=none&type=grpc#Francia
-vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?allowInsecure=1&encryption=none&security=tls&sni=cdg-1.fromblancwithlove.com&type=tcp#Francia
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.36.166:8443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@79.124.7.236:444?fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#Bulgaria
+vmess://eyJhZGQiOiAiMTcyLjEwNC44MC42NiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAyMjMyNCwgInBzIjogIkphcFx1MDBmM24iLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+trojan://humanity@165.215.250.14:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#Estados+Unidos
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.21.206:2083?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@54.199.97.220:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#Jap%C3%B3n
+vless://2bbcaede-7820-4a21-8357-c86aec278c4e@car2.carcloudsix.site:444?path=/A2&security=none&encryption=none&host=play.google.com&type=ws#Luxemburgo
+vless://a48c736e-d3de-47b8-a6eb-ef1d6fd34c63@84.201.172.67:2777?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&security=reality&sid=0f4dacf08722a29f&sni=ads.x5.ru&type=tcp#Rusia
+trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.125:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#Emiratos+%C3%81rabes+Unidos
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#Turqu%C3%ADa
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-tw-002.fastervpn.world#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C1.6MB%2Fs%20%7C%20%E7%A6%8F%E5%88%A9%E5%A7%AC%3A%20https%3A%2F%2Ft.me%2Ffuliji_Arrest
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.117:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none#Mauricio
+trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls#Jap%C3%B3n
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#Reino+Unido
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?encryption=none&security=none&type=grpc#Francia
+vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?encryption=none&type=grpc&security=reality&sni=c.primarymaster.online&fp=firefox&insecure=1&allowInsecure=1&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&sid=c56c3ba3b9f676c5#Chequia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#Holanda
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>

@@ -35,22 +35,23 @@
  <h4>Lista de nós: (No máximo 20 nós são exibidos aqui. Outros nós gratuitos estão disponíveis no app.)</h4>
     
 ```
-trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.71:443?security=tls#Emirados+%C3%81rabes+Unidos
-trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKeDJIS0pLN2tpdGk4NmU4QW5RSWJY@46.224.2.35:47199#Ir%C3%A3
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.32:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#Filipinas
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#Fran%C3%A7a
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.41.190:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
-vless://10a6b923-e349-4594-92bb-d81a6245aaec@188.114.97.4:443?path=/download.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#Holanda
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#Holanda
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#Reino+Unido
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.3.141:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&encryption=none&mode=gun&security=tls&type=grpc#Fran%C3%A7a
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.208:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=e3d38cee79d4f94c&sni=storage.yandex.net&type=tcp#Maur%C3%ADcio
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.216:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=e3d38cee79d4f94c&sni=storage.yandex.net&type=tcp#Maur%C3%ADcio
-trojan://humanity@165.215.250.14:443?security=tls&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=www.calmlunch.com&path=%2Fassignment#EUA
-ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw==@chengbai02.ascwt179.com:13223#Hong+Kong
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca30.mysilipdir.com:8880?encryption=none&mode=gun&security=tls&type=grpc#Fran%C3%A7a
+vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=j5qmR8E9er-0n5zZbK6s_SdvYm-tYlraXVYm49ArWS8&security=reality&sid=60debb3ab744d8ce&sni=uk.bvps.cloud&type=tcp#EUA
+vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4yNTAiLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE4MCIsICJwcyI6ICJSZWlubyBVbmlkbyIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.156:443?security=tls#Reino+Unido
+trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#Reino+Unido
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@211.49.57.179:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=%2F&Host=tjsp.hhxaf.cc.cd#Coreia+do+Sul
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.249:8880?encryption=none&mode=gun&security=tls&type=grpc#Fran%C3%A7a
+vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?security=reality&encryption=none&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&host=mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn&headerType=none&fp=chrome&type=tcp&sni=prod.de-node-01.security-sbrf.ru&sid=db04ce8bdb8900f1#Reino+Unido
+trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.105:443?security=tls#Emirados+%C3%81rabes+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#Reino+Unido
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@156.244.8.155:5004#EUA
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.200:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&type=tcp&headerType=none#Filipinas
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?allowInsecure=0&security=tls#Reino+Unido
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@154.223.16.96:6697#Col%C3%B4mbia
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.42.98:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.193:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#Maur%C3%ADcio
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
