@@ -35,23 +35,21 @@
  <h4>Lista de nós: (No máximo 20 nós são exibidos aqui. Outros nós gratuitos estão disponíveis no app.)</h4>
     
 ```
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@de.ko.prod.n7.homes:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=3ca620a7ed5f3196#EUA
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#Eslov%C3%A1quia
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.130519.xyz:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
-trojan://humanity@104.18.152.210:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-vless://ae83f4a6-7fd3-4168-9f42-1260fc601155@104.16.106.213:8880?encryption=none&security=none&type=ws&host=shy-mud-e936.15-bb9.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@store.ubi.com:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.202:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#EUA
-trojan://humanity@104.18.152.175:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
-vless://59dc27e9-6b31-738d-eb04-bd66dc037892@ansooyefilter.up.railway.app:443?encryption=none&security=tls&type=ws&host=ansooyefilter.up.railway.app&path=/ws/59dc27e9-6b31-738d-eb04-bd66dc037892&sni=ansooyefilter.up.railway.app&fp=chrome&alpn=http/1.1#EUA
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@108.160.132.132:443?fp=chrome&host=tjsp.hhxaf.cc.cd&path=%2F&security=tls&sni=tjsp.hhxaf.cc.cd&type=ws#Jap%C3%A3o
-trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.18.153.10:443?path=/br-orcl&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@79.124.7.236:444?fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#Bulg%C3%A1ria
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@211.49.57.175:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd#Coreia+do+Sul
-trojan://humanity@216.24.57.7:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#EUA
-trojan://humanity@104.20.42.250:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.25:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.42.163:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=/&Host=tjsp.hhxaf.cc.cd#
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.246.109.191:34045?type=tcp&security=reality&encryption=none&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&alpn=http%252F1.1&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0&headerType=none&allowInsecure=1#Holanda
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.2:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/au-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#EUA
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#EUA
+trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#
+vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?alpn=h2&encryption=none&security=tls&type=tcp#Fran%C3%A7a
+vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.14.85:443?path=/download.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.223:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top&type=tcp#EUA
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#EUA
+trojan://humanity@188.114.96.4:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&type=ws&allowInsecure=1&sni=www.calmloud.com#Holanda
+vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=none&encryption=none&headerType=none&fp=chrome&type=tcp#Let%C3%B4nia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#Holanda
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@172.64.33.162:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#EUA
+trojan://humanity@212.183.88.136:443/?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#%C3%81ustria
+trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.85:443?security=tls#Emirados+%C3%81rabes+Unidos
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>

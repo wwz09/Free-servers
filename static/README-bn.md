@@ -35,23 +35,21 @@
  <h4>নোড তালিকা: (এখানে সর্বোচ্চ 20টি নোড দেখানো হয়। অন্যান্য বিনামূল্যের নোড অ্যাপে পাওয়া যাবে)</h4>
     
 ```
-vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#United+States
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#France
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@www.speedtest.net:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#
-trojan://humanity@104.20.6.134:443?host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@146.235.16.191:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#Singapore
-vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.38:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&security=reality&sid=ea10cd5686751ec5&sni=storage.yandex.net&type=tcp#Taiwan
-vless://b5f0b820-7f31-9e69-16af-aa2030d38bca@rvg-production-cae2.up.railway.app:443?encryption=none&security=tls&sni=rvg-production-cae2.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=rvg-production-cae2.up.railway.app&path=/ws/b5f0b820-7f31-9e69-16af-aa2030d38bca#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.53.65:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
-vless://4889ee33-74e5-4819-86d8-b2a1a5bc8f46@34.213.172.16:22189?security=reality&type=tcp&packetEncoding=xudp&sni=www.tesla.com&fp=firefox&flow=xtls-rprx-vision&sid=47b6d14ff477fe59&pbk=5tUZskKOCKpjz3j7hmuYaQHNfE1QRtZI9P62qvSs1GY&encryption=none#United+States
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@211.49.57.161:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=%2F&Host=hhcm.hhxaf.cc.cd#South+Korea
-vless://356ccb34-22cc-4446-a137-072bc60d65ca@bypass.fr-gt-01.com:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&sid=f34818a561dfd1fe&flow=xtls-rprx-vision#Hong+Kong
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#Bulgaria
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@82.64.152.55:20304?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=vpn47.cc.cd&path=%2F#France
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@91.196.33.216:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZrTR1U8J1h4XtIzjKLznaMY6U_fogsndbuHlJmK-Ti4&security=reality&sni=u.malleev.ru&type=tcp#Russia
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.149.209:443?allowInsecure=1&encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
-trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#Switzerland
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.3.141:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=cdg-1.fromblancwithlove.com#France
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.130519.xyz:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#United+States
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca11.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#France
+vless://a0addfd6-969a-43ea-a3ea-c2392b2e06a8@157.22.183.74:19984?path=/&security=none&encryption=none&host=/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN&type=ws#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.101:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443#Denmark
+trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.150.130:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.130.125.126:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#Seychelles
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.241.66.76:14605#Italy
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#
+hysteria2://f872264a-664a-4b6a-84e8-516a39099860@134.195.101.199:443?allowInsecure=1&insecure=1&security=tls&sni=www.apple.com#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#United+Kingdom
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@83.243.86.117:10443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo#Germany
+vless://2bbcaede-7820-4a21-8357-c86aec278c4e@car2.carcloudsix.site:444?path=/A2&security=none&encryption=none&host=play.google.com&type=ws#Luxembourg
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>

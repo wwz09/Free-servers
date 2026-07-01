@@ -35,23 +35,21 @@
  <h4>Lista węzłów: (Tutaj wyświetlanych jest maksymalnie 20 węzłów. Pozostałe bezpłatne węzły są dostępne w aplikacji.)</h4>
     
 ```
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&host=c7dabe95.proxy-978.pages.dev&path=/&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.8.123:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@www.cnae.top:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#United+States
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.71:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=e3d38cee79d4f94c&sni=storage.yandex.net&type=tcp#Mauritius
-trojan://humanity@199.181.197.143:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&&host=www.calmloud.com&type=ws&&sni=www.calmloud.com#United+States
-vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&fp=chrome&host=unnes.ac.id.yxls.eu.cc&path=/ca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#United+Kingdom
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.93:8880?encryption=none&mode=gun&security=tls&type=grpc#France
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.158:8443?encryption=none&type=ws&security=tls&path=%2F&host=srv03.perfectbulk.info&sni=srv03.perfectbulk.info&fp=chrome&insecure=0&allowInsecure=0#Seychelles
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#The+Netherlands
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@38.75.221.242:443?security=tls&sni=tjsp.hhxaf.cc.cd&type=ws&path=%2F&Host=tjsp.hhxaf.cc.cd#United+States
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#France
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.150.130:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
-trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#Philippines
-vless://fb4f96af-267f-47c1-80ba-7c763a7b0e09@167.86.83.211:443?encryption=none&fp=chrome&pbk=Yl5jwwGZthEomnp0eVtZXcted62akm7G5pGDGv1zKn0&security=reality&sid=b00c2b8d68c6c1&sni=www.yahoo.com&type=grpc#Germany
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.162.198.43:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#United+States
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.180:8443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=e3d38cee79d4f94c&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&encryption=none#Mauritius
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&packetEncoding=xudp&encryption=none#Italy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUmQ9SVhram96TUVLTGVHUl8wcTA5anR3bHk1SjJsYTJP@172.234.202.34:24833#United+States
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.70:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=nbhhh.mrcool.kdns.fr&path=/proxyip&sni=nbhhh.mrcool.kdns.fr&fp=chrome#
+trojan://humanity@104.16.174.37:443?allowInsecure=1&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@158.101.132.216:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#Japan
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.60:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#Indonesia
+vless://f6431ff1-dec0-4a6c-be4a-ce917913b589@83.243.86.117:10443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=WeShDM0MdunM6N8btrY8tXlL0GT1Ah-0jcplNQf9FEo#Germany
+vless://baeb9020-8fcd-444c-b95d-f76507816e6d@138.124.67.165:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=nl-root.sworkingvpn.com&type=tcp#Ukraine
+vless://3b25e77f-e46e-43b0-b2f2-d5d9660e5246@163.128.99.194:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=safari&pbk=qQ12uczE0IuwcNF2CXk-XfS8u8p4e9ADS8u0ufIccXQ&sid=a35c5d9c853afea0&type=tcp&headerType=none#SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?alpn=h2&encryption=none&security=tls&type=tcp#France
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@79.124.7.236:444?fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#Bulgaria
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#United+Kingdom
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.150.130:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>
