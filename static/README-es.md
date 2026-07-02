@@ -35,23 +35,24 @@
  <h4>Lista de nodos: (Aquí se muestran como máximo 20 nodos. Los demás nodos gratuitos se obtienen en la app.)</h4>
     
 ```
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@79.124.7.236:444?fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#Bulgaria
-vmess://eyJhZGQiOiAiMTcyLjEwNC44MC42NiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAyMjMyNCwgInBzIjogIkphcFx1MDBmM24iLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-trojan://humanity@165.215.250.14:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#Estados+Unidos
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.21.206:2083?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@54.199.97.220:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#Jap%C3%B3n
-vless://2bbcaede-7820-4a21-8357-c86aec278c4e@car2.carcloudsix.site:444?path=/A2&security=none&encryption=none&host=play.google.com&type=ws#Luxemburgo
-vless://a48c736e-d3de-47b8-a6eb-ef1d6fd34c63@84.201.172.67:2777?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HyxhIAJ1VbVX77n76vXAps81yWRVbKCr8AC_71sM5Ao&security=reality&sid=0f4dacf08722a29f&sni=ads.x5.ru&type=tcp#Rusia
-trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.125:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#Emiratos+%C3%81rabes+Unidos
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#Turqu%C3%ADa
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-tw-002.fastervpn.world#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C1.6MB%2Fs%20%7C%20%E7%A6%8F%E5%88%A9%E5%A7%AC%3A%20https%3A%2F%2Ft.me%2Ffuliji_Arrest
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.117:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=e3d38cee79d4f94c&type=tcp&headerType=none#Mauricio
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls#Jap%C3%B3n
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#Reino+Unido
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?encryption=none&security=none&type=grpc#Francia
-vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?encryption=none&type=grpc&security=reality&sni=c.primarymaster.online&fp=firefox&insecure=1&allowInsecure=1&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&sid=c56c3ba3b9f676c5#Chequia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#Reino+Unido
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#Holanda
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.13.222:443?encryption=none&fp=chrome&host=octopusss5.info&path=%2Fudfyfws&security=tls&sni=octopusss5.info&type=ws#
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#Holanda
+vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#Holanda
+trojan://humanity@104.16.174.46:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.229.94.221:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Singapur
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.60:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#Indonesia
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@45.130.125.126:443?host=space.byu.id.yxls.eu.cc&path=%2Fau-do&security=tls&sni=space.byu.id.yxls.eu.cc&type=ws#Seychelles
+trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?security=tls#Corea+del+Sur
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#Reino+Unido
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#Estados+Unidos
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.247:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Espa%C3%B1a
+vless://f188ec3b-e055-4eed-ae62-97403931d4e2@54.91.34.214:2053?security=reality&encryption=none&pbk=L0bhr3K-aQCLq4aVrDTBQa6N62T7XbCsFhWnbStdWyc&headerType=none&fp=chrome&spx=/PLrixVCDuf2x7bu&type=tcp&sni=www.intel.com&sid=835db5c67c00#Estados+Unidos
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@108.162.193.162:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#Estados+Unidos
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?encryption=none&host=shegeftihaaa.net&path=%2Frsedgws&security=tls&sni=shegeftihaaa.net&type=ws#Eslovaquia
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.0.0:443?path=/fp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
+trojan://humanity@2.144.21.112:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Ir%C3%A1n
+vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4yMzMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMTgwLCAicHMiOiAiUmVpbm8gVW5pZG8iLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>

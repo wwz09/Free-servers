@@ -35,23 +35,24 @@
  <h4>Daftar node: (Maksimal 20 node ditampilkan di sini. Node gratis lainnya bisa didapatkan di aplikasi.)</h4>
     
 ```
-vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.135:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#Indonesia
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.151.132.228:19034?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=vpn47.cc.cd&path=%2F#United+States
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.98.235:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#The+Netherlands
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?security=tls#United+Kingdom
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.146.66:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca10.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#France
-vmess://eyJhZGQiOiAiNDcuMjUwLjE0OS41MSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiOTY2NTI4MGMtYTNkMS00YWFiLWVmOWYtYTNhNDk3MzM3ZDkxIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLzk2NjUyODBjIiwgInBvcnQiOiAiNTAwMTgiLCAicHMiOiAiTWFsYXlzaWEiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls#Japan
-vless://10a6b923-e349-4594-92bb-d81a6245aaec@109.120.176.17:443?path=/download.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#Russia
-vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.18.47.140:2096?encryption=none&fp=chrome&host=sp.linuxdododo.ccwu.cc&path=%2Fproxyip%3DProxyIP.JP.cmliussss.netfp%3Drandom&security=tls&sni=sp.linuxdododo.ccwu.cc&type=ws#
-trojan://humanity@104.26.14.137:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-vmess://eyJhZGQiOiAiMTU0LjM3LjIyMy41NiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNjhiZDA0YTEtMDU0Ny00NmE2LWNkYjItYzhhYzNmY2UxZTY3IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNDMyMDMiLCAicHMiOiAiQ2FuYWRhIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
-vless://9794d18f-9280-3553-a7a5-a23da75aca76@s5370.okgg.top:443?encryption=none&type=tcp&headerType=&fp=firefox&host=cfae50a4s5368.wagahaha.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u691611ucfae50a4s5368.wagahaha.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUmQ9SVhram96TUVLTGVHUl8wcTA5anR3bHk1SjJsYTJP@172.234.202.34:24833#United+States
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.92:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&type=tcp&headerType=none#Philippines
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&insecure=0&allowInsecure=0&type=ws&host=po.fastbrokencompony.com&path=%2F#Seychelles
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.46.67:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+trojan://humanity@104.19.230.21:443?allowInsecure=1&fp=chrome&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#
+vless://c8753751-7ac4-4a6a-b9d5-7a80a5c3d57d@104.19.119.133:443?encryption=none&security=tls&sni=lInGerinG-cElL-0027.aHOOrAarmIOn.WoRkERS.DeV&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=lingering-cell-0027.ahooraarmion.workers.dev&path=/eyJqdW5rIjoibWZGUmx6dXNESmpYQkxZUiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==?ed=2560#
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.153.159:443?path=/fp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#Australia
+vless://caa3af29-3b04-4099-9772-c64a1b7cca34@45.43.75.199:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chat.deepseek.com&sid=be0ce047#United+Kingdom
+vless://8ea09611-4e24-49f9-8b2a-25974d8ebf8c@mag3.portal-guard.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&security=reality&sid=4326&sni=mag3.portal-guard.com&type=tcp#United+Kingdom
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-tw-002.fastervpn.world#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C4.0MB%2Fs%20%7C%20%E6%9B%B4%E5%A4%9A%E8%8A%82%E7%82%B9%3A%20https%3A%2F%2Ft.me%2Fbyxiaoxi
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@193.123.232.91:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#South+Korea
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@217.142.230.253:587?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=vpn47.cc.cd&path=%2F#Japan
+trojan://humanity@104.18.152.97:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#
+hysteria2://9794d18f-9280-3553-a7a5-a23da75aca76@23.166.40.27:443?alpn=h3&hopinterval=30s&mport=30000-32000&security=tls&sni=u691611u2e827823s79.sspcccdn.xyz#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.158:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=ios&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Seychelles
+trojan://humanity@45.130.125.2:443?path=%2Fassignment&security=tls&insecure=0&host=Www.cReaTIOnLONG.OrG&type=ws&allowInsecure=0&sni=Www.cReaTIOnLONG.OrG#Seychelles
+vless://d312730d-e1f3-4fe4-a907-f9077ba62b5d@by.verymad.net:26146?encryption=none&fp=chrome&pbk=gX3_zVtbvWNZH7lXyrsBBCcyCVKkkr_LMw9JRqpAmmQ&security=reality&sid=d4f2a3a536b962&sni=www.vk.ru&spx=/UQmrtcbSPy1IqFX&type=tcp#Russia
+vless://0e79a7b6-8c72-4573-8688-101af4667bc5@api-hub-f15f35-edg.rtre7431.workers.dev:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=API-HuB-f15F35-EdG.RtRE7431.woRKERs.dEV&type=ws&allowInsecure=0&sni=ApI-HuB-F15f35-edG.rTre7431.wOrkERs.dev#
+ss://YWVzLTEyOC1nY206SlZyc0xMTjF0a044b1haTw==@chengbai02.ascwt179.com:13223#Hong+Kong
+vless://ec5d6408-23f6-4a78-ad39-7237ff366469@38.54.33.177:28722#Thailand
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

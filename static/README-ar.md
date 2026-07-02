@@ -35,23 +35,24 @@
  <h4>قائمة العقد: (يتم عرض 20 عقدة كحد أقصى هنا. تتوفر العقد المجانية الأخرى في التطبيق)</h4>
     
 ```
-vless://10a6b923-e349-4594-92bb-d81a6245aaec@188.114.97.4:443?encryption=none&security=tls&sni=sertraline.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sertraline.adaspoloandco.com&path=/download.php#The+Netherlands
-vless://b783c6d6-3a0f-4c13-bbd1-86bf1ec4d94d@104.238.31.71:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=unitbook.net&sid=6ba85179e30d4fc2#United+Kingdom
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.162.196.3:2083?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#France
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.32:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2cfb5a0ae8ab0cb0#Philippines
-vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.16.154:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.231.108.76:443/?insecure=1&security=tls#Japan
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.157:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=e3d38cee79d4f94c&sni=storage.yandex.net&type=tcp#Mauritius
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#United+Kingdom
-vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.175:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0&type=tcp&headerType=none#Philippines
-vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.30:8443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=e3d38cee79d4f94c&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&encryption=none#Mauritius
-trojan://humanity@104.21.40.34:443?security=tls&sni=www.multiplydose.com&type=ws&path=/assignment&Host=www.multiplydose.com#
-trojan://humanity@104.18.152.208:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@209.38.46.202:8443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=/&security=tls&sni=vpn47.cc.cd&type=ws#United+States
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?encryption=none&security=none&type=grpc#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#United+Kingdom
+vmess://eyJhZGQiOiAiMTQ5Ljg4LjIzLjIwNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAxODAwMCwgInBzIjogIlNpbmdhcG9yZSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e&spx=/&type=tcp&headerType=none#Russia
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.185:8443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=e3d38cee79d4f94c&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&encryption=none#Mauritius
+vless://356ccb34-22cc-4446-a137-072bc60d65ca@45.196.224.79:8443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=f34818a561dfd1fe#Hong+Kong
+trojan://humanity@45.130.125.32:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#Seychelles
+vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.145:8443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=2cfb5a0ae8ab0cb0&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&encryption=none#Philippines
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZnNjU0RjYi1TZUVxcVJiLm9telZHZ1ZnTnBYaDNiQTF1@67.219.106.119:26286#Australia
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#United+Kingdom
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@146.235.16.191:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#Singapore
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.38.47:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F#
+vless://7896c501-248f-4068-bc2f-363c91ba5122@45.198.87.14:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7&type=tcp&headerType=none#Indonesia
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.18.45.137:443?encryption=none&host=amooaliii.net&path=/jdhfyws&security=tls&sni=amooaliii.net&type=ws#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#United+States
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.18:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=e3d38cee79d4f94c&sni=storage.yandex.net&type=tcp#Mauritius
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#France
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.46.226:8443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443/?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#Hong+Kong
+trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=%2Fassignment&security=tls&type=ws#
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>
