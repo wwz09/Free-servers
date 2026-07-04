@@ -35,23 +35,20 @@
  <h4>Lista de nós: (No máximo 20 nós são exibidos aqui. Outros nós gratuitos estão disponíveis no app.)</h4>
     
 ```
-vless://969dee57-c8a8-4639-866f-2831c672dcd1@vip2.firelinkvpn.shop:8443?security=reality&encryption=none&pbk=rfGoDoJdPrfhxrdL2neDnkGFuV3R4UjKJZPWbfXIvCg&headerType=none&fp=qq&spx=%2F&type=tcp&sni=play.google.com&sid=91b8#Ir%C3%A3
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.44.198:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#Fran%C3%A7a
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmloud.com#Holanda
-trojan://humanity@104.26.14.137:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.143:17283#Holanda
-vless://ca6a7a70-4d44-433f-b727-1ed22ae7bf23@198.41.223.1:443?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=proxy.nyarvex.kdns.fr&path=/proxy&security=tls&sni=proxy.nyarvex.kdns.fr&type=ws#
-vless://ea9b76e2-3b93-4f6f-9fd5-441082de0a1c@34.201.63.79:2053?encryption=none&fp=chrome&pbk=dV6O_qJsz93umq7BzAqvlnM8rEwaCFBrPlYSSkmCwQk&security=reality&sid=11&sni=www.intel.com&spx=/vHk1jzWMqDVbGEa&type=tcp#EUA
-vless://EarnMoneyarz-ZoRo@155.103.69.33:42841?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=dzQmB-5PshfbZ228GO154TnSIcKV1HvG8sAhzlLn_zo&sid=a00ad308&spx=/50S8MSimAOoof6r&type=tcp&headerType=none#EUA
-trojan://humanity@199.181.197.111:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&&host=www.calmloud.com&type=ws&&sni=www.calmloud.com#EUA
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.090227.xyz:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#EUA
-vmess://eyJhZGQiOiAiYmVzdGNmLjAzMDEwMS54eXoiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uenVsYS51cGxhb2QtbXVzaWMuaXIuIiwgImlkIjogImY4OTc1ODcxLWE3YTAtNDkwNi04ODM1LWEyM2MxMjU4Y2ExZSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicGNzIjogIiIsICJwb3J0IjogIjgwIiwgInBzIjogIiIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAidmNuIjogIiJ9
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#R%C3%BAssia
-trojan://humanity@43.169.18.179:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#Singapura
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.240.147.113:14605#%C3%8Dndia
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca31.speedmeter.shop:8880?encryption=none&security=tls&type=grpc#Fran%C3%A7a
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@8.219.155.125:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Singapura
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#Reino+Unido
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#EUA
+vless://f1e24501-c905-4b91-a029-3a3370bc7312@fl-cdn.ru:443?security=reality&encryption=none&pbk=UVteEq1YeqUTm7WIGPDUwQ3pegxSSWR9CBCXglsVLAU&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=fl-cdn.ru&sid=7a3f9e2b1c8d4f6a#EUA
+vless://43488128-319e-f480-64ea-0acdc712e2a8@51.158.62.94:443?security=reality&encryption=none&pbk=nUl4-UbSlrf8sCY4QNCKF3dMmgWLWJbgeziVqwfklhU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.laposte.fr&sid=ad3c6641d540b4e1#Fran%C3%A7a
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.26.4.60:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
+vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#EUA
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls#Reino+Unido
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.52.251:2083?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#Holanda
+trojan://PI36027154@moved-osprey.rooster465.autos:443?security=tls&sni=moved-osprey.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#Hong+Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZnNjU0RjYi1TZUVxcVJiLm9telZHZ1ZnTnBYaDNiQTF1@67.219.106.119:26286#Austr%C3%A1lia
+trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.18.153.10:443?path=/br-orcl&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?security=tls&sni=fta.fontanvpn.com#Pol%C3%B4nia
+trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#
+vless://a90f60c0-6566-44cf-a99f-5aaf213b72dc@91.98.19.171:2053?encryption=none&fp=chrome&headerType=none&pbk=8_j56AZHntUSXrvIhdensgf1VhC0S9lxizLkec4zX00&security=reality&sid=d40e7c9920906dbd&sni=play.google.com&type=tcp#Ir%C3%A3
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
