@@ -36,16 +36,26 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A+V2CROSS.COM
-vless://659a9075-d5ab-4fd2-bf34-b37043fae832@39.107.252.182:443?encryption=none&host=nbhhh.mrcool.kdns.fr&path=/proxyip=Telegram-WangCai2🇨🇳&security=tls&sni=nbhhh.mrcool.kdns.fr&type=ws#%E5%8C%97%E4%BA%AC%E5%B8%82+%E9%98%BF%E9%87%8C%E4%BA%91
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.52.134:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf6.466688.xyz:2095?encryption=none&security=none&fp=chrome&type=ws&host=cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev&path=/@https://t.me/QiangLieTuiJian#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.211:8449?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@celestara.biz:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=/#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.244:8449?insecure=1&obfs=&obfs-password=&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf3.466688.xyz:2095?encryption=none&security=none&fp=chrome&type=ws&host=cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev&path=/@https://t.me/QiangLieTuiJian#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.240.147.113:14605#%E5%8D%B0%E5%BA%A6+V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJLWJQM2xGaC5kVEczWGl0RjdYdFZLODNDWjdySTJVdD1u@45.32.122.179:23027#%E6%96%B0%E5%8A%A0%E5%9D%A1+Choopa%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.227.134:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.40.79:2083?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?fp=chrome&security=tls&sni=149.104.104.58&type=tcp#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#%E5%8D%B0%E5%BA%A6+V2CROSS.COM
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.153.159:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://dc5b7653-70dd-4d5e-966f-3b595049a204@104.21.18.48:80?security=none&sni=ez-a2fb15.sina-noraianfard-2015.workers.dev&type=ws&host=ez-a2fb15.sina-noraianfard-2015.workers.dev&path=/&fp=chrome&allowInsecure=0#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://6b504c50-8535-44cf-8e4e-f8ee674a922e@cf10.466688.xyz:8880?encryption=none&security=none&type=ws&host=old-moon-16d0.156-a25.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net@https://t.me/QiangLieTuiJian#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.207:8449?insecure=1&obfs=&obfs-password=&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vless://5c6c1e0f-de3e-4f18-9d6c-c09405e51dd8@199.181.197.253:80?path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=none&encryption=none&insecure=0&host=zeus-panel-my3fph.zeus-2fx348.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-my3fph.zeus-2fx348.workers.dev#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.150:8449?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.179:8449?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?security=none&type=tcp&headerType=http&path=%2F&host=it.fifapes.monster&packetEncoding=xudp&encryption=none#%E4%BC%8A%E6%9C%97+V2CROSS.COM
+vmess://eyJhZGQiOiAiMTA0LjE3Ljc3Ljc3IiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9sTW5zWlVONC8iLCAicG9ydCI6IDg0NDMsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJ2MnJheTEuZG96YXBwLnh5eiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf2.466688.xyz:2095?encryption=none&security=none&fp=chrome&type=ws&host=cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev&path=/@https://t.me/QiangLieTuiJian#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf5.466688.xyz:2095?encryption=none&security=none&fp=chrome&type=ws&host=cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev&path=/@https://t.me/QiangLieTuiJian#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf9.466688.xyz:2095?encryption=none&security=none&fp=chrome&type=ws&host=cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev&path=/@https://t.me/QiangLieTuiJian#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.206:8449?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E5%8D%97%E9%9D%9E+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
