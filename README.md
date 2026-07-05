@@ -36,17 +36,26 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.160:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.250:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.143:17283#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.243:8449?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E5%8D%97%E9%9D%9E+V2CROSS.COM
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.254:8449?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.227.134:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.129:8449?insecure=1&obfs=&obfs-password=&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E5%8D%97%E9%9D%9E+V2CROSS.COM
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.166:8449?insecure=1&obfs=&obfs-password=&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E5%8D%97%E9%9D%9E+V2CROSS.COM
-trojan://humanity@104.20.6.134:443?security=tls&sni=www.calmloud.com&type=ws&path=%2Fassignment&Host=www.calmloud.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyX05SZS0rV1JxMnpWcU1wQ25KdFRFU2xUOFd5ZmZIeUZ5@38.54.80.160:16292#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@193.168.175.56:14605#%E8%8D%B7%E5%85%B0+V2CROSS.COM
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.52.134:8443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#%E5%8D%B0%E5%BA%A6+V2CROSS.COM
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.234:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.141:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.231:8449?insecure=1&obfs=&obfs-password=&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vless://17239063-e23e-4e3d-8217-cafa67124003@104.21.67.141:8080?encryption=none&security=none&sni=zeus-panel-j9dmh2.zeus-2zgd21.workers.dev&type=ws&host=zeus-panel-j9dmh2.zeus-2zgd21.workers.dev&path=/#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.182:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vmess://eyJhZGQiOiAicGxhbmIubW9qY24uY29tIiwgImFpZCI6IDAsICJhbGxvd0luc2VjdXJlIjogIjEiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiNDQ1ZWI3Y2UyZDY2YzM0MzA5ZDJlMWRhY2JlYWYzYjkubW9iZ3NsYi50YmNhY2hlLmNvbSIsICJpZCI6ICIwZGI4YjY5OS01NDhkLTRlZDgtYjcyMC02MTk0NzgzZWNjOWUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMTY2NDQsICJwcyI6ICJcdTRlOWFcdTU5MmFcdTU3MzBcdTUzM2EgVjJDUk9TUy5DT00iLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.181:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.252:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.239:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://0d9cc99b-d11a-43b8-8613-dc8ef04a326b@54.167.105.123:2053?encryption=none&fp=chrome&headerType=none&pbk=%2Ddvaet5vTdRvWpkf_1wY2HcWuHDMHK_A_19tUq3QQRQ&security=reality&sid=a8434c33&sni=www.inel.com&spx=%2Ff6jRSVG0fvHWE7y&type=tcp#%E7%BE%8E%E5%9B%BD+%E5%BC%97%E5%90%89%E5%B0%BC%E4%BA%9A%E5%B7%9E%E9%98%BF%E4%BB%80%E6%9C%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://humanity@104.18.152.54:443?path=/assignment&security=tls&alpn=h3,h2&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@m247-fi-01.live:443?encryption=none&type=tcp&security=reality&headerType=none&sni=storage.yandex.net&fp=chrome&insecure=1&allowInsecure=1&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a&flow=xtls-rprx-vision#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.215:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vless://9e72bb88-d361-4462-8ee3-3d4567be7c3d@cf4.466688.xyz:80?encryption=none&security=none&type=ws&host=tiantizmlb.dpdns.org&path=/pyip?https://t.me/QiangLieTuiJian#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.237:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.239:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#%E5%8D%97%E9%9D%9E+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
