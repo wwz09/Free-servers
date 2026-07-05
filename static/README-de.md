@@ -35,23 +35,24 @@
  <h4>Knotenliste: (Hier werden maximal 20 Knoten angezeigt. Weitere kostenlose Knoten erhalten Sie in der App.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@103.241.66.76:14605#Italien
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@91.107.139.23:2000?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=vpn47.cc.cd&path=%2F#Deutschland
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@5.10.214.151:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#Deutschland
-trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=149.104.104.58#USA
-ss://2022-blake3-aes-256-gcm:fnvo82p9y4AKykZXyIFtnodFy6fQmWnVlI2SvGleOB0=@167.150.100.115:27755#EPODONIOS
-vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&host=%2F%3FBIA_TELEGRAM%40ShadowProxy66&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#Rum%C3%A4nien
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.42.98:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.131:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#UK
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?mode=gun&security=none&encryption=none&type=grpc#Frankreich
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.193:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#USA
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.249:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#USA
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.135:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#USA
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.253:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#USA
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.229.69:9090#Malaysia
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.12.31.46:443?path=/&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Rum%C3%A4nien
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.6.211:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Niederlande
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#UK
+trojan://humanity@104.18.152.54:443?path=/assignment&security=tls&alpn=h3,h2&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#S%C3%BCdkorea
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@172.67.74.2:443?path=/rsedgws&security=tls&encryption=none&host=shegeftihaaa.net&fp=chrome&type=ws&sni=shegeftihaaa.net#USA
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.249:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#USA
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.205:8449?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#USA
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.165:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#USA
+vmess://eyJhZGQiOiAiNjkuODQuMTgyLjQ5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLnp1bGEudXBsYW9kLW11c2ljLmlyLiIsICJpZCI6ICJmODk3NTg3MS1hN2EwLTQ5MDYtODgzNS1hMjNjMTI1OGNhMWUiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBjcyI6ICIiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJVU0EiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uenVsYS51cGxhb2QtbXVzaWMuaXIuIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.198:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#USA
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#USA
+vless://b8794f67-80d9-4124-8fc5-2d2ce5516573@50.7.177.179:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYL1z7PNyo6LqYLeZpXa50FnK9eEu7o18KHRhOlST1w&security=reality&sid=bd72&sni=deepl.com&type=tcp#Niederlande
+hysteria2://cb887032-0447-4216-be3c-7333ecdcda9a@172.96.141.4:52738?insecure=1&security=tls&sni=api.push.apple.com#USA
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.0.0:443?path=%2Ffp%3Dchrome&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
+vless://a0addfd6-969a-43ea-a3ea-c2392b2e06a8@157.22.183.74:19984?path=/&security=none&encryption=none&host=/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN/Begoo_VPN&type=ws#USA
+vless://17930cee-cbea-484b-ad7f-7b8062825fee@45.145.56.145:1932?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=www.vk.com&type=tcp#Israel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#UK
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#S%C3%BCdkorea
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

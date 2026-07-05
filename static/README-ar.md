@@ -35,23 +35,24 @@
  <h4>قائمة العقد: (يتم عرض 20 عقدة كحد أقصى هنا. تتوفر العقد المجانية الأخرى في التطبيق)</h4>
     
 ```
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.41.202:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#United+States
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Russia
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.44.180:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@m247-fi-01.live:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a&type=tcp&headerType=none#Indonesia
+trojan://humanity@141.193.213.21:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#United+States
+trojan://humanity@216.24.57.7:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#United+States
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.240:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#United+States
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.164:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#United+States
-vless://d44fc964-652c-4790-bfdc-be9ae1e281f3@45.198.80.187:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&host=Telegram-NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP---NitruVIP&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=28047c78b3f5ee2c#Indonesia
-trojan://humanity@188.114.97.57:443?host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#The+Netherlands
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.244:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#United+Kingdom
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#South+Korea
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.145:17283#The+Netherlands
-vless://21c1132b-068c-46fb-880e-3268f6a30e7f@178.215.238.148:8443?security=reality&encryption=none&pbk=Crjd0I6hcasRXZcfNf7cs-YtJLpQ8u-t1CbwHIDAciU&host=/?BIA_TELEGRAM@V2raySaman&headerType=none&fp=chrome&type=tcp&sni=eh.vk.com&sid=478dc6#United+States
-vless://55f7d143-a594-4a91-b030-f227039f85ef@cdg-1.fromblancwithlove.com:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=cdg-1.fromblancwithlove.com#France
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.211:8449?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+States
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.249:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#The+Netherlands
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#France
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.168:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#United+States
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.226.149.72:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=/&security=tls&sni=vpn47.cc.cd&type=ws#The+Netherlands
-ss://2022-blake3-aes-256-gcm:fnvo82p9y4AKykZXyIFtnodFy6fQmWnVlI2SvGleOB0=@167.150.100.115:27755#EPODONIOS
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.37.237:8443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.226.185.55:8443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=/&security=tls&sni=vpn47.cc.cd&type=ws#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#India
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.178:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@www.ntu.edu.sg:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-001.fastervpn.world:443?insecure=1&security=tls&sni=vpn-fr-001.fastervpn.world#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#The+Netherlands
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#United+States
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.129:8449?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+States
+trojan://humanity@8.6.112.0:443?security=tls&sni=www.multiplydose.com&type=ws&path=/assignment&Host=www.multiplydose.com#Austria
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

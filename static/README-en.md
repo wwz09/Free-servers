@@ -35,23 +35,24 @@
 <h4>Node list: (A maximum of 20 nodes are shown here. More free nodes are available in the app.)</h4>
     
 ```
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.254:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#United+Kingdom
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.166:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.1.37:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
-vless://c1842b1d-433d-4576-ab60-7603fd3dcc55@blog.webex.com:443?path=%2Fau-do&security=tls&encryption=none&insecure=0&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=blog.webex.com.yxls.eu.cc#United+States
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#France
-vless://c416332e-2bde-4806-ac02-8f021c6e8f68@www.visa.com.br:2087?host=bbc.zjxc.de5.net&path=%2F%3Fproxyip%3Dproxyip.oracle.fxxk.dedyn.io&security=tls&sni=bbc.zjxc.de5.net&type=ws#
-vless://bd449f7a-95aa-4920-9af0-cd6b5d4cb5f1@176.222.54.252:26690?encryption=none&security=none&type=tcp&headerType=none#The+Netherlands
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?allowInsecure=0&security=tls#United+Kingdom
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=&encryption=none&host=de.vpnbase.net&type=ws#France
-trojan://humanity@104.16.174.117:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
-vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?encryption=none&type=grpc&security=tls&sni=gco1.afterdomain.shop&alpn=h2&insecure=0&allowInsecure=0#
-vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&sid=05fdaa8a05be46a9&type=tcp&headerType=none#United+Kingdom
-trojan://humanity@45.130.125.75:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#Seychelles
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.230:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#United+States
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@165.232.81.187:2053?encryption=none&fp=chrome&host=vpn47.cc.cd&path=/&security=tls&sni=vpn47.cc.cd&type=ws#The+Netherlands
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?security=tls&sni=space.byu.id.yxls.eu.cc&type=ws&path=/au-do&Host=space.byu.id.yxls.eu.cc#
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#The+Netherlands
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United+States
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?path=/vless/&security=none&encryption=none&host=OV-Germany1.09vpn.com&type=ws#France
+vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.121:8443?encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=google.com&type=tcp#United+States
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.226.185.55:8443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=/&security=tls&sni=vpn47.cc.cd&type=ws#The+Netherlands
+vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@de.ko.prod.n7.homes:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&host=@ProxyVPN11&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=3ca620a7ed5f3196#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.16.154:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.218:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#United+Kingdom
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.252:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#United+States
+trojan://humanity@104.18.8.83:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.240:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#United+States
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.18.45.137:443?encryption=none&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.121.10:2096?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#The+Netherlands
+vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&security=reality&sid=b9988c11&sni=www.google.com&type=tcp#Canada
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@104.248.173.190:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#United+Kingdom
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@185.66.68.72:443?flow=xtls-rprx-vision&fp=firefox&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&security=reality&sni=www.wikihow.com&type=tcp#Belarus
+hysteria2://a8a5b34d-fe46-487d-bd6a-d9f3101525fd@46.17.40.117:51385?insecure=1&security=tls&sni=music.apple.com#Russia
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

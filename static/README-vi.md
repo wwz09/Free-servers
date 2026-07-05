@@ -35,23 +35,24 @@
  <h4>Danh sách nút: (Tối đa 20 nút được hiển thị tại đây. Các nút miễn phí khác có thể lấy trong ứng dụng.)</h4>
     
 ```
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@167.71.199.136:443?path=/&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&type=ws&allowInsecure=0&sni=vpn47.cc.cd#Singapore
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca14.speedmeter.shop:8880?mode=gun&security=none&encryption=none&type=grpc#France
-trojan://PI36027154@rich-mule.rooster465.autos:443?allowInsecure=1&security=tls#Singapore
-vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.101:2096?encryption=none&type=ws&security=tls&path=/proxyip&host=sp.linuxdododo.ccwu.cc&sni=sp.linuxdododo.ccwu.cc&fp=chrome&insecure=0&allowInsecure=0#
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375#Luxembourg
-trojan://humanity@45.130.125.96:443?security=tls&sni=www.calmloud.com&type=ws&path=/assignment&Host=www.calmloud.com#Seychelles
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#United+Kingdom
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.178:8449?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+States
-vless://72edcaa1-685e-4022-9576-273746529e1f@37.18.14.97:25567?security=reality&type=tcp&packetEncoding=xudp&sni=iv.kommersant.ru&fp=chrome&flow=xtls-rprx-vision&sid=a5bd715847213387&pbk=tsxzBG6xHNl1Nu8XPpd3hWk_zPGrpFrv2Z-difc3nGY&encryption=none#Russia
-vless://4f013568-a58b-4b04-b5dd-4d52bf1c33a4@141.193.213.21:443?insecure=0&sni=amoosamiii.net&type=ws&host=amoosamiii.net&path=%2Fpoiuyws&encryption=none&security=tls&allowInsecure=0#United+States
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.229:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#United+Kingdom
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.221:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#United+States
-vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.2:2096?path=%2Fproxyip&security=tls&encryption=none&host=sp.linuxdododo.ccwu.cc&fp=chrome&type=ws&sni=sp.linuxdododo.ccwu.cc#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.32.239:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@79.137.207.130:443?type=tcp&headerType=none&security=reality&encryption=none&sni=lvz.de&fp=firefox&pbk=5NHgGSXmIyLoslNxkfnH9ZUojx_WafjIhllNUEAhIwc&sid=ea7acce8b971&spx=%2F&flow=xtls-rprx-vision#Germany
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@46.101.238.160:443?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#Germany
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@8.219.155.125:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Singapore
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?mode=gun&security=none&encryption=none&type=grpc#France
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.180:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#United+States
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.150:8449?insecure=1&obfs=&obfs-password=&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+States
+trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s#United+States
+hysteria2://a8a5b34d-fe46-487d-bd6a-d9f3101525fd@172.96.141.4:50581?insecure=1&security=tls&sni=api.push.apple.com#United+States
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.231:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#United+States
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United+States
+vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&security=reality&sid=c906f73d3ba8211f&sni=www.leboncoin.fr&type=tcp#United+Kingdom
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.3.141:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.251:443?security=reality&type=tcp&packetEncoding=xudp&sni=enterprisekitten.com&fp=firefox&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#Spain
+vless://bd449f7a-95aa-4920-9af0-cd6b5d4cb5f1@176.222.54.252:26690?encryption=none&security=none&type=tcp&headerType=none#The+Netherlands
+vless://a1472a7d-ca70-4490-a5a5-81537599861c@cherry-lt-01.live:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&security=reality&sid=2cfb5a0ae8ab0cb0&sni=storage.yandex.net&type=tcp#Indonesia
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#United+States
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443/?type=tcp&encryption=none&flow=&security=tls&sni=cdg-1.fromblancwithlove.com&alpn=h2&allowInsecure=1#France
+vless://c416332e-2bde-4806-ac02-8f021c6e8f68@www.visa.com.br:2087?host=bbc.zjxc.de5.net&path=%2F%3Fproxyip%3Dproxyip.oracle.fxxk.dedyn.io&security=tls&sni=bbc.zjxc.de5.net&type=ws#
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.209.158:443?path=/&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#The+Netherlands
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

@@ -35,23 +35,24 @@
  <h4>Daftar node: (Maksimal 20 node ditampilkan di sini. Node gratis lainnya bisa didapatkan di aplikasi.)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNDcuMjQ0LjEyMC4xOTciLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI4NDVlNmIwOC0yOTE5LTQyOTAtYWRlMC01ZGM3ZGNlYTU5Y2EiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsICJwb3J0IjogNDQ4NjcsICJwcyI6ICJIb25nIEtvbmciLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-vless://a2919d43-b36b-4c34-af88-36bdc6f8e01d@212.193.153.93:443?path=/v1/data/sync/&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=s58794.cdn.ngenix.net#Russia
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@18.138.34.221:443?security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Singapore
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.121.10:2096?encryption=none&fp=chrome&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&type=ws#The+Netherlands
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@91.107.139.23:2000?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=vpn47.cc.cd&path=%2F#Germany
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?security=tls&sni=space.byu.id.yxls.eu.cc&type=ws&path=/au-do&Host=space.byu.id.yxls.eu.cc#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.2:443?path=/&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&sni=t1s1.rittbo.kdns.fr#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.41.198:8443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.36.166:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@youxuan.cf.090227.xyz:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.directdnsai.shop:8880?authority=v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&mode=gun&security=tls&type=grpc#France
-vless://1bd98268-1a22-4cf9-804d-b8a7650b1304@45.134.217.32:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rYwYudDb69CwjAJNw5KTFqJnRwwADgDMDpjv9KESjEY&security=reality&sid=f5c14a97040a38bf&sni=gr1.panel11.ru&type=tcp#Uzbekistan
-vless://cfb5b3d3-c094-4222-99e8-53faa787c857@193.93.194.120:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dgrcO3r5wkEjcsWdEsNtgtWCe9vER6mgADXYclWXVxg&security=reality&sid=8de54d32a8d3fdf9&sni=site.rumedia-cdn.com&type=tcp#Russia
-vless://af1e0692-6c91-4d61-bc6b-108f2e897c37@193.233.174.195:27331?security=none&encryption=none&headerType=none&type=tcp#Russia
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.228:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#United+States
-vmess://eyJhZGQiOiAiMTcyLjEwNC44MC42NiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAyMjMyNCwgInBzIjogIkphcGFuIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=/odiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#United+States
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@66.234.150.231:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#United+States
+hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.131.248.82:443/?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapore
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.23.143.23:34045?type=tcp&headerType=none&security=reality&fp=chrome&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#United+States
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.228:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#United+States
+vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@aleIT.locations-sub.com:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com#France
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.31:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#Saudi+Arabia
+vmess://eyJhZGQiOiAiMTA0LjE3LjEyNC4xNzkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uenVsYS51cGxhb2QtbXVzaWMuaXIuIiwgImlkIjogImY4OTc1ODcxLWE3YTAtNDkwNi04ODM1LWEyM2MxMjU4Y2ExZSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI4MCIsICJwcyI6ICIiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uenVsYS51cGxhb2QtbXVzaWMuaXIuIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.162:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#United+States
+trojan://nsKBtW4V7LPHG5.iSySU8_pNM88Gkxz7eE@64.176.74.241:443?security=tls#Poland
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.11.57:2083?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.222:8449?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.60.167:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#Ukraine
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.249:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Spain
+vless://52faee73-e0fe-4661-992d-67259257170f@45.206.0.49:8443?security=reality&encryption=none&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ea10cd5686751ec5#Taiwan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#The+Netherlands
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.52.134:8443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#The+Netherlands
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>
