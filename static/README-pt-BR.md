@@ -35,26 +35,26 @@
  <h4>Lista de nós: (No máximo 20 nós são exibidos aqui. Outros nós gratuitos estão disponíveis no app.)</h4>
     
 ```
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?security=reality&type=raw&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#Fran%C3%A7a
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.212:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#EUA
-vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=elenaaaaaaaaaa.cloudns.pro.&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY&security=none&type=ws#Holanda
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.202:8449?security=tls&sni=sni.fi-m247-02.com#EUA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%C3%81frica+do+Sul
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.53.65:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#EUA
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.218:8449?allowInsecure=0&insecure=0&security=tls&sni=sni.fi-m247-02.com#EUA
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@yx.cloudflare.182682.xyz:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.129:8449?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2#EUA
-vless://9ef1d60d-9e38-49c5-9405-131e11be1f9c@muddy-shadow-8905.qara-atayi-1.workers.dev:2086?security=none&type=ws&path=/eyJqdW5rIjoiVGtvRGR4TXdHSzdseGpZWCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==?ed=2560&host=muddy-shadow-8905.qara-atayi-1.workers.dev&packetEncoding=xudp&encryption=none#
-trojan://humanity@104.16.174.121:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.193:8449?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FQiangLieTuiJian#EUA
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.138.128:443?security=tls&type=ws&path=/sg-amz&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome&encryption=none#
-trojan://humanity@104.17.25.173:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#
-vless://27fa0b14-1360-4376-826f-d6be3f7e7636@nodejs.org:443?path=/eyJqdW5rIjoiZ3U3MGx2S20iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=ez-16d6b5.alialo87.workers.dev&fp=chrome&type=ws&sni=Ez-16D6b5.AliAlO87.wORKErS.DEv#
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?path=/au-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#
-trojan://humanity@104.18.152.233:443?alpn=http%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqMUhhVUFOVlJkQjVsdFNxaExZUFdt@45.83.181.155:14475#Reino+Unido
-vless://daff1228-8d1a-4812-a57a-09604faa5e0c@45.195.137.228:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=cf9d145ad8f1ea55&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#Maur%C3%ADcio
-trojan://0ab59a11983d4ce7862d156c164d927d@188.114.96.3:443?alpn=http%2F1.1&fp=chrome&path=%2FeyJqdW5rIjoicFlpMlNNRHl3bkdYOSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ%3D%3D%3Fed%3D2560&security=tls&sni=fasT-ROute-dd4e2D.fREEfIremo7964.WoRKerS.dev&type=ws#Holanda
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.229.69:9090#Mal%C3%A1sia
+vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.41:443?security=tls&type=ws&path=/proxyip&host=nbhhh.mrcool.kdns.fr&packetEncoding=xudp&sni=nbhhh.mrcool.kdns.fr&fp=chrome&encryption=none#
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.254:8449?insecure=1&security=tls&sni=sni.fi-m247-02.com#EUA
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.146.66:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#EUA
+vless://2864749a-b45d-52c3-0f36-e64224f5480f@137.184.144.221:443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=%2DeUCuBsMq1skQmB5mIy5xptcAYOFtTm5PF0KQugjIGA&security=reality&sid=0963b9822ae8b87e&sni=www.w3schools.com&type=raw#EUA
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#Fran%C3%A7a
+vless://fe3b26ec-4bc0-464d-a7b9-2db72a89846e@104.17.181.19:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=orange-base-2e09.87-c52.workers.dev&packetEncoding=xudp#
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.17.112.113:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.21.235:8443?encryption=none&host=t1s1.rittbo.kdns.fr&path=/fp&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.46.24:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.79:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=d020b987f84eb78a&sni=storage.yandex.net&type=tcp#EUA
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.46.226:8443?security=tls&type=ws&path=/fp=chrome&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome#
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.18.153.10:443?fp=chrome&path=%2Fau-do&security=tls&sni=space.byu.id.yxls.eu.cc&type=ws#
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?path=/jdhfyws&security=tls&encryption=none&host=amooaliii.net&fp=chrome&type=ws&sni=amooaliii.net#EUA
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.21.206:2083?security=tls&type=ws&path=/fp=chrome&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome#
+vless://626b07bd-81c4-4212-be7a-27442a579620@5.180.173.222:448?security=reality&encryption=none&pbk=y4_NnPQc2X8Bj97LpUL9r9xuK-R2pLwjd5cZbBw2HSo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=15052edc8120b63d#R%C3%BAssia
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.3.141:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+trojan://humanity@45.130.125.76:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#Ilhas+Seychelles
+vless://360c46b7-afe1-4e86-bfe1-ba09b5fcd8a6@45.198.87.99:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none%3D%2F%40Telegram-%7C-%40TEHRANARGO-%7C-%40Telegram-%7C-%40TEHRANARGO-%7C-%40Telegram-%7C-%40TEHRANARGO-%7C-%40Telegram-%7C-%40TEHRANARGO-%7C-%40Telegram-%7C-%40TEHRANARGO-%7C-%40TEHRANARGO&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#Indon%C3%A9sia
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.229.60.114:443?insecure=1&security=tls#Singapura
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
