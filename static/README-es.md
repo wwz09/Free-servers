@@ -35,20 +35,18 @@
  <h4>Lista de nodos: (Aquí se muestran como máximo 20 nodos. Los demás nodos gratuitos se obtienen en la app.)</h4>
     
 ```
-vless://e258977b-e413-4718-a3af-02d75492c349@82.21.84.72:443?alpn=http/1.1&ed=2095&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&path=/&security=tls&sni=ww1.aniuge.qzz.io&type=ws#Reino+Unido
-vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@5.255.110.147:443?security=reality&type=tcp&packetEncoding=xudp&sni=nll.scroogethebest.com&fp=chrome&flow=xtls-rprx-vision&sid=4fa44664f6a566d3&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&encryption=none#Holanda
-trojan://humanity@104.16.174.37:443?allowInsecure=1&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&security=reality&sid=6ba85179e30d4fc2&sni=amd.com&type=tcp#Lituania
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.36.73:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
-vless://c7c0e837-d9ac-4211-aee7-1e7691be3be1@78.17.3.113:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=433b9f&pbk=X2H-SQTGBao3eTqP9D3M75dXjfydbhShHbkV9KC6vy4&encryption=none#Irlanda
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#Francia
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.17.239.248:443?alpn=h2,http/1.1&encryption=none&security=tls&sni=sca12.afterdomain.shop&type=grpc#
-trojan://humanity@104.18.152.246:443?security=tls&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&type=ws&host=www.calmloud.com&path=/assignment#
-vless://7f982c75-0875-43f6-8627-14ec30f265cf@69.46.46.30:443?path=/unicorn&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=uni-pro.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=uni-pro.up.railway.app#Estados+Unidos
-trojan://humanity@104.20.6.134:443?security=tls&sni=www.calmloud.com&type=ws&path=/assignment&Host=www.calmloud.com#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.10.87:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
-trojan://humanity@104.18.7.147:443?allowInsecure=1&fp=chrome&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#Estados+Unidos
+hysteria2://35415e5e-3666-4454-8c45-903af0fcddf4@85.120.228.208:47257?allowInsecure=1&insecure=1&security=tls&sni=www.bing.com#Estados+Unidos
+vless://f0db70ae-559e-4cba-aa00-3a04eb04c3e0@fm3.pages.dev:443?encryption=none&fp=chrome&path=%2F&security=tls&sni=fm3.pages.dev&type=ws#Estados+Unidos
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.110.73:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapur
+vless://47df3f6c-c3a0-463b-a6a0-ad4e8494c95b@20.0.105.19:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zNtSqVR2dp454rIsJL8qQ-miOuSIP33Koyqc9gUGdV8&security=reality&sid=60bf01f7&sni=www.cloudflare.com&type=tcp#Reino+Unido
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.24.39:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#Estados+Unidos
+vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@ru-01.gni-daed.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Np5eNpCJdcXe4IvMs0stzE-sMtlphhTnZeuCkhjQXzQ&security=reality&sid=a8389289e18af5f4&sni=ru-01.gni-daed.ru&type=tcp#Suecia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#Holanda
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#India
+vless://40de6299-d792-4868-8a82-411ead0aa943@nl.go-vpn.club:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&security=reality&sid=ed7b9bdfedb9b8e5&sni=gateway.icloud.com&type=tcp#Reino+Unido
+vmess://eyJhZGQiOiAiNjcuMjIwLjg1LjQ2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6IDE4MDAwLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#Reino+Unido
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
