@@ -35,20 +35,22 @@
  <h4>Daftar node: (Maksimal 20 node ditampilkan di sini. Node gratis lainnya bisa didapatkan di aplikasi.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#United+Kingdom
-vmess://eyJhZGQiOiAiNjcuMjIwLjk1LjMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMTgwMDAsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS0F1OWVNbUd3U2hXVFdjdXl5bm1MRTgxUFZrb0tEdlEzZmIyOWRQU2NjMWJNVVc1eTZocHByWHFWV3FTcWpUaTIzNGhGR2REZjNBckN1V3RCdzVGQTZ6VjV3QmdXVFA=@185.5.38.89:57327#United+Kingdom
-vless://a75f5c82-d667-0ce8-d297-30286b054691@ansooyefilter-production-4623.up.railway.app:443?encryption=none&security=tls&type=ws&host=ansooyefilter-production-4623.up.railway.app&path=/ws/a75f5c82-d667-0ce8-d297-30286b054691&sni=ansooyefilter-production-4623.up.railway.app&fp=chrome&alpn=http/1.1#United+States
-vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.26.12.222:443?path=/udfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&fp=chrome&type=ws&allowInsecure=0&sni=octopusss5.info#
-vless://68eee13f-1a7a-4761-b71e-83b997eeccf9@104.17.69.244:443?encryption=none&security=tls&sni=wbz6z.ok7s.ceq.hh.hhyf.kdns.fr&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=wbz6z.ok7s.ceq.hh.hhyf.kdns.fr&path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.11.57:2083?encryption=none&host=t1s1.rittbo.kdns.fr&path=/fp&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.40.79:2083?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
-vless://dc0d0eda-2293-4001-aa03-bd6c9431ed24@ov-italy1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&host=ov-italy1.09vpn.com&type=ws&allowInsecure=0&sni=ov-italy1.09vpn.com#France
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#France
-vless://adeefaa4-3734-4a6d-8e45-3f6c33c8e98c@173.245.59.191:8443?path=/RoBeRt&security=tls&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#United+States
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?security=tls&sni=hy2.123266.xyz#United+States
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.47.69.0:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#Slovakia
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.45.6:443?encryption=none&type=ws&fp=chrome&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc&host=support.zoom.us.yxls.eu.cc&security=tls&insecure=0&path=/sg-amz#United+States
+trojan://PI36027154@rich-mule.rooster465.autos:443?security=tls#Japan
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@da.mfa.gov.ua:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
+vless://2ff7eec6-da48-46ab-b770-5c83400a528c@104.17.170.132:8880?encryption=none&host=icy-glade-ad0f.412.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#
+vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?encryption=none&type=tcp&security=reality&headerType=none&sni=amd.com&fp=chrome&insecure=1&allowInsecure=1&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#Lithuania
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#The+Netherlands
+vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.237.216:80?encryption=none&security=none&type=ws&host=sfsl.ardomains1.dpdns.org&path=%2F#
+trojan://humanity@2.144.21.112:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Iran
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.31.11:80?type=ws&host=Fastapi.Org&path=/#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#United+Kingdom
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.21.36.120:443?encryption=none&fp=chrome&host=octopusss5.info&path=%2Fudfyfws&security=tls&sni=octopusss5.info&type=ws#
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#United+States
+vless://3f3e702b-9ba5-4d21-bc67-0e5fc725df5c@104.19.164.155:2083?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=polished-union-8bed.mmdu1386.workers.dev&path=/eyJqdW5rIjoiOG9CdVJzZU41QSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE5NS4xMzMuNDQuMjEiXX0=&security=tls&sni=poLIsHEd-UniOn-8Bed.MmdU1386.wOrKeRS.dEV&type=ws#
+vless://f6e14309-5cff-4f5d-bce1-06a260159bbe@icook.tw:8880?encryption=none&security=none&type=ws&host=steep-bread-32f0.92-d12.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#United+States
+trojan://humanity@45.130.125.76:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#Seychelles
+vless://6e475ace-9410-5f61-8ea9-f05fadd1f604@x4g-production-213b.up.railway.app:443?path=%2Fws%2F6e475ace-9410-5f61-8ea9-f05fadd1f604&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-213b.up.railway.app&fp=firefox&type=ws&allowInsecure=0&sni=x4g-production-213b.up.railway.app#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.202:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#United+States
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

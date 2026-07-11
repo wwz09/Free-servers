@@ -35,20 +35,22 @@
  <h4>নোড তালিকা: (এখানে সর্বোচ্চ 20টি নোড দেখানো হয়। অন্যান্য বিনামূল্যের নোড অ্যাপে পাওয়া যাবে)</h4>
     
 ```
-trojan://humanity@chatgpt.com:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#
-trojan://humanity@104.18.152.103:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#United+Kingdom
+vless://0977bddb-a758-4033-96dd-57468e02ea81@103.228.168.182:443?path=/photos/register?ed=2560&security=tls&encryption=none&insecure=0&host=4qrnyf6s.5e6pmte8uw52n5ymvwx8.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=4qrnyf6s.5e6pmte8uw52n5ymvwx8.workers.dev#Hong+Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#Norway
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#Bulgaria
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?encryption=none&type=ws&security=tls&path=/download.php&host=chopin.adaspoloandco.com&sni=chopin.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#United+Kingdom
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.29.24:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapore
-trojan://humanity@141.193.213.11:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#United+States
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.19.142.226:443?alpn=h2,http/1.1&encryption=none&security=tls&sni=sca12.afterdomain.shop&type=grpc#
-trojan://humanity@199.181.197.36:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&&host=www.calmloud.com&type=ws&&sni=www.calmloud.com#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.8.42:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#
-trojan://humanity@104.16.174.46:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#United+States
-vless://b320eba7-5380-4bd1-b5e6-32daab16066f@147.135.214.161:3443?encryption=none&fp=chrome&mode=gun&note=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio&security=reality&sni=api.github.com&type=grpc#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#United+Kingdom
-trojan://humanity@216.24.57.6:443?alpn=http%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#United+States
+vless://5c05c433-cc31-53df-ac83-e7f8e6bc71a3@api.amirv2yats.qzz.io:443?allowInsecure=1&encryption=none&host=api.amirv2yats.qzz.io&path=%2Fws%2Famir&security=tls&sni=api.amirv2yats.qzz.io&type=ws#
+vless://b3bd8d0e-3cbe-4241-a4f1-e3dd0a9e432c@104.16.75.224:443?path=%2Fpage%3D2&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=server-ir-3.ariyuz.org#
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#The+Netherlands
+trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZXhOaU4xd0E3ZlZDT1Y4WWRPdkJO@77.83.245.116:9753#Poland
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.27.7.125:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#
+trojan://humanity@45.130.125.76:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#Seychelles
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#Philippines
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#United+Kingdom
+trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#Switzerland
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>

@@ -35,20 +35,22 @@
  <h4>نوڈ کی فہرست: (یہاں زیادہ سے زیادہ 20 نوڈز دکھائے جاتے ہیں۔ دیگر مفت نوڈز ایپ میں حاصل کریں)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#Spain
-vless://dc7940e0-6bff-45e3-853d-4007561803c3@185.155.97.58:45176?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.googletagmanager.com&fp=chrome&pbk=A1Qf_rMG4KDfLzfCK-M5R9qW_0uThfeSosQnv6LBL1M&sid=8433cb66b6c3ab6d&type=tcp#Estonia
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@yx.cloudflare.182682.xyz:443?path=/&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#
-vmess://eyJhZGQiOiAiMTQwLjgzLjUxLjE2MSIsICJhaWQiOiAwLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAianAwMi5hMGEueHl6IiwgImlkIjogIjY3MzNjMzU3LWJhMTEtNGU5Zi1mMDBmLTdkODdmMjc3NmZmOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvY2N0djEzLm0zdTgiLCAicG9ydCI6IDI1Njg2LCAicHMiOiAiSmFwYW4iLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-vmess://eyJhZGQiOiAiMTI5LjE0Ni43Ny4yNDgiLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIjEyOS4xNDYuNzcuMjQ4IiwgImlkIjogImY4MzZjNzM2LTg3ZmMtNGZkZS1hYWJjLTAwODU3ZWNkZmYzZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvY2N0djEzLm0zdTgiLCAicG9ydCI6IDM5NDk1LCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#
-trojan://humanity@141.193.213.21:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#United+States
-trojan://humanity@199.181.197.176:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&&host=www.calmloud.com&type=ws&&sni=www.calmloud.com#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#United+Kingdom
-trojan://humanity@104.18.152.246:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#
-vless://68eee13f-1a7a-4761-b71e-83b997eeccf9@104.18.42.221:443?encryption=none&security=tls&sni=stx4x.gyvz.kj2.hh.hhyf.kdns.fr&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=stx4x.gyvz.kj2.hh.hhyf.kdns.fr&path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F#
-vless://6e475ace-9410-5f61-8ea9-f05fadd1f604@x4g-production-213b.up.railway.app:443?path=/ws/6e475ace-9410-5f61-8ea9-f05fadd1f604&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=x4g-production-213b.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-213b.up.railway.app#United+States
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#France
-vless://68eee13f-1a7a-4761-b71e-83b997eeccf9@104.18.33.171:443?encryption=none&security=tls&sni=wbz6z.ok7s.ceq.hh.hhyf.kdns.fr&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=wbz6z.ok7s.ceq.hh.hhyf.kdns.fr&path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@youxuan.cf.090227.xyz:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#United+States
+vless://47df3f6c-c3a0-463b-a6a0-ad4e8494c95b@20.0.105.19:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zNtSqVR2dp454rIsJL8qQ-miOuSIP33Koyqc9gUGdV8&security=reality&sid=60bf01f7&sni=www.cloudflare.com&type=tcp#United+Kingdom
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@104.21.36.120:443?encryption=none&fp=chrome&host=octopusss5.info&path=%2Fudfyfws&security=tls&sni=octopusss5.info&type=ws#
+vless://74139fb5-fd3f-4133-a34a-b1d85da7a89f@186.246.31.136:443?security=reality&encryption=none&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=ea1058117be12087#Brazil
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.111.185:22222?encryption=none&security=none&type=tcp#United+States
+vless://b3a5f201-eeaf-40c8-909c-72f4860cefc8@172.67.176.31:8080?encryption=none&host=orange-bonus-abd9.dalvandimohammadmahdi.workers.dev&path=/eyJqdW5rIjoiUWtMSnFJZFM2S3JnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6W119&security=none&type=ws#United+States
+vless://ad1f7afa-af80-4878-816d-1196c9ea70f2@51.116.101.212:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6DGUbHZFVqaAbexHjwHPggWgoHgFGyDSp20wuapQRwA&security=reality&sid=e1a78782&sni=www.cloudflare.com&type=tcp#Germany
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp&headerType=http&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&path=%2F#Iran
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?encryption=none&type=ws&security=tls&path=/download.php&host=chopin.adaspoloandco.com&sni=chopin.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0#
+vless://c95f6104-6b19-4f3e-aaa6-a74fec3ee258@168.222.244.66:10277?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=firefox&insecure=1&allowInsecure=1&pbk=5WM9qJQUXyEnE2xaJHvXai6IV7HrBLnuy5s39fcqCAA&sid=7a&spx=%2Fnaranv2ray#United+States
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#Philippines
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.111.185:22224?security=none&type=tcp&packetEncoding=xudp&encryption=none#United+States
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.170.166.30:8880?type=ws&host=vms.lifetime04.workers.dev&path=/#United+Kingdom
+vless://c35050ce-01ab-45a9-91b8-54cec637d0a8@elliot.ns.cloudflare.com:443?path=%2Fudfyfws&security=tls&encryption=none&insecure=0&host=octopusss5.info&type=ws&allowInsecure=0&sni=octopusss5.info#United+States
+trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#New+Zealand
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

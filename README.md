@@ -36,15 +36,23 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.80:28061#%E5%8D%B0%E5%BA%A6+V2CROSS.COM
+vless://63ec2a82-e47c-4782-a89e-9aca2baf17ef@188.114.97.6:443?path=/id-pusat&security=tls&encryption=none&insecure=0&host=quiz.int.vidio.com.ex33r.eu.cc&type=ws&allowInsecure=0&sni=quiz.int.vidio.com.ex33r.eu.cc#%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97+CloudFlare%E8%8A%82%E7%82%B9
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
+vless://d6bbaa54-2fa9-46b9-8f6d-42ccdfc9122b@162.159.39.2:2096?path=%2F&security=tls&encryption=none&insecure=0&host=icy-cloud-71e3.misnaargh.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=icy-cloud-71e3.misnaargh.workers.dev#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.227.134:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.100.11:80?type=ws&host=Fastapi.Org&path=/#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?encryption=none&security=none&type=tcp&headerType=http&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&path=%2F#%E4%BC%8A%E6%9C%97+V2CROSS.COM
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?security=tls#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
+vless://bb070f82-472a-446d-820d-85c5e6d6bc4b@104.21.72.25:80?path=/ZEUS_PANEL_BOT&security=&encryption=none&host=zeus-panel-f6vc9k.hajmeti40-842e.workers.dev&fp=chrome&type=ws&sni=zeus-panel-f6vc9k.hajmeti40-842e.workers.dev#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@www.creationlong.org:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.176.11:80?type=ws&host=Fastapi.Org&path=/#%E5%B7%B4%E8%A5%BF+%E9%87%8C%E7%BA%A6%E7%83%AD%E5%86%85%E5%8D%A2Fastly%E8%8A%82%E7%82%B9
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.97.11:80?type=ws&host=Fastapi.Org&path=/#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://f9a53aa5-774e-4556-b2b7-d8b57b423b97@162.159.21.178:8880?encryption=none&host=yellow-breeze-989b.348-9b8.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#%E5%8D%B0%E5%BA%A6+V2CROSS.COM
+vless://65d3f9b3-d289-4a8e-9c87-90bba156de30@173.245.59.35:443?encryption=none&host=ld.235231.xyz&path=%2F&security=tls&sni=ld.235231.xyz&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.52.134:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vmess://eyJhZGQiOiAibWUuZWNoby1saWNlbnNlLmdyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInBsYXkuZ29vZ2xlLmNvbSIsICJpZCI6ICJmYmQyYjJmMS1hZjRhLTRlNWYtOTU1Ni1hZjM3ZWRlYTlkYjUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIxNDk5MSIsICJwcyI6ICJcdTVmYjdcdTU2ZmQgXHU2Y2Q1XHU1YzE0XHU4MGFmXHU2NWJkXHU2Y2YwXHU1NmUwSEVUWk5FUiIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
-vless://68eee13f-1a7a-4761-b71e-83b997eeccf9@104.18.45.223:443?encryption=none&security=tls&sni=wbz6z.ok7s.ceq.hh.hhyf.kdns.fr&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=wbz6z.ok7s.ceq.hh.hhyf.kdns.fr&path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@120.55.183.176:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi#%E6%B5%99%E6%B1%9F%E7%9C%81%E6%9D%AD%E5%B7%9E%E5%B8%82+%E9%98%BF%E9%87%8C%E4%BA%91BGP%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.38.47:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E5%8C%97%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
-trojan://lcGo9bOwOB8yC7oAAI.TC=rBFs6PfVgCeF@149.28.241.235:443?security=tls&sni=149.28.241.235#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?security=tls#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
+vless://7ebbd929-720a-4782-8c6d-4d77a0a75ee4@cfd4.466688.xyz:443?sni=edge-e47d0df3.pages.dev&type=ws&host=edge-e47d0df3.pages.dev&path=/?ed=2048@https://t.me/QiangLieTuiJianfp=chromefp=chrome&security=tls#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://d028eaf5-c5ef-49a0-85c6-4f4816af8053@104.25.217.123:2086?type=ws&host=misty-bread-fd96.salehinezhadali.workers.dev&path=/eyJqdW5rIjoiZUJZR2pXVFByVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwOS4xMjAuMTU4LjE0OSJdfQ==?ed=2560#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>

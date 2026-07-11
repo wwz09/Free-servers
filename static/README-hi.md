@@ -35,20 +35,22 @@
  <h4>नोड सूची: (यहां अधिकतम 20 नोड दिखाए जाते हैं। अन्य मुफ्त नोड ऐप में प्राप्त करें)</h4>
     
 ```
-vless://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&sid=9a4c7d2f8e1b6a3c&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&encryption=none#Saudi+Arabia
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.41.190:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.32.24.178:443?security=tls&type=ws&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&host=t1s1.rittbo.kdns.fr&fp=chrome&sni=t1s1.rittbo.kdns.fr&path=/&encryption=none#Japan
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Hong+Kong
-trojan://humanity@104.17.121.43:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#
-trojan://humanity@199.181.197.36:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&&host=www.calmloud.com&type=ws&&sni=www.calmloud.com#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.144.82:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@167.179.82.79:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#Japan
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.18.206.22:443?encryption=none&fp=chrome&host=amooaliii.net&path=%2Fjdhfyws&security=tls&sni=amooaliii.net&type=ws#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.158:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Seychelles
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080#Canada
-trojan://humanity@104.16.250.22:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.208.113.157:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2dgS9vJTywAfGZmlkuzDIIXLUR-E1A-0na8_W--ruUc&security=reality&sid=5be8210215&sni=parisjetaime.com&type=tcp#Russia
-vless://079c1b04-7ef9-4c49-8a7a-849a18ba7b9b@83.222.20.64:17910?security=reality&encryption=none&pbk=KUhrhiJBplVCVCrAKP2KjIA_asOgkkvEEAxUJVofjgc&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=8c09fb78b12f#Russia
+vless://e258977b-e413-4718-a3af-02d75492c349@82.21.84.97:443?alpn=http/1.1&ed=2095&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&path=/&security=tls&sni=ww1.aniuge.qzz.io&type=ws#United+Kingdom
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.47.19:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&security=reality&sid=04bc695105689674&sni=4.oncloudnineservicestreang.com&type=tcp#Denmark
+trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@217.154.94.41:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#United+Kingdom
+vless://94a547fc-c789-40fa-82d8-53d9760cc053@45.144.48.114:443?encryption=none&fp=chrome&pbk=VWnyUuQJLQiWPYEvk43ndIPjy_WNVZbO1ItxX0NRnz8&security=reality&sid=db04ce8bdb8900f1&sni=nvidia.com&type=tcp#Poland
+vless://20cefac1-4d7f-4618-97f3-1ffece7135ee@172.67.195.121:443?path=/&security=tls&encryption=none&insecure=0&host=darkwiki20.darkwiki200.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=darkwiki20.darkwiki200.workers.dev#United+States
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.17.28.104:443?path=/sg-amz&security=tls&encryption=none&insecure=1&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=1&sni=support.zoom.us.yxls.eu.cc#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.45.15:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+trojan://humanity@199.181.197.228:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&&host=www.calmloud.com&type=ws&&sni=www.calmloud.com#United+States
+trojan://e2706e57-690b-fd2e-0c53-9c34e1805162@104.20.30.73:443?path=/sync&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=purple-rain-4512.erfan22.workers.dev#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#United+Kingdom
+trojan://humanity@104.18.152.233:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?security=tls#United+Kingdom
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.198:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#Saudi+Arabia
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
