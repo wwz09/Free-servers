@@ -35,19 +35,19 @@
  <h4>Liste des nœuds: (20 nœuds maximum sont affichés ici. Les autres nœuds gratuits sont disponibles dans l'application.)</h4>
     
 ```
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.23.143.23:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#%C3%89tats+Unis
-trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Allemagne
-vless://891710f4-45f3-41b1-99a6-6f1510f83c10@199.232.22.39:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&security=tls&encryption=none&host=pan21.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#Inde
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@172.67.191.52:2053?path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#%C3%89tats+Unis
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@store.ubi.com:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%C3%89tats+Unis
-vless://40de6299-d792-4868-8a82-411ead0aa943@nl.go-vpn.club:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=ed7b9bdfedb9b8e5&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&encryption=none#Royaume-Uni
-trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#Autriche
-vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.22.228.57:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9l18ryEYpf9E-qaQD2HkPfi1n5qfMRDkncpYLcZrdQc&security=reality&sid=b378&sni=stockholmresilience.org&type=tcp#Pays-Bas
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.128:443?security=tls#Royaume-Uni
-trojan://PI36027154@busy-lab.rooster465.autos:443?security=tls&sni=busy-lab.rooster465.autos#Japon
-vless://7ebbd929-720a-4782-8c6d-4d77a0a75ee4@cfd6.466688.xyz:443?encryption=none&security=tls&sni=edge-e47d0df3.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=edge-e47d0df3.pages.dev&path=%2F%3Fed%3D2048%40https%3A%2F%2Ft.me%2FQiangLieTuiJian#
-vmess://eyJhZGQiOiAiOTQuMTMxLjEwOC4zNiIsICJhaWQiOiAwLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjk4NTVmMWYwLWE4MDAtNDBkNC04YjM4LWM3ZDNlYjc5MzAyZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJUdXJxdWllIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-hysteria2://zhangyang@130.61.50.75:6443?insecure=1&security=tls&sni=https%3A%2F%2Fwww.calmloud.com#Allemagne
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.32.24.178:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Japon
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@198.13.60.163:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#Japon
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.32:443#Royaume-Uni
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.72.41:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
+vless://60156344-dbc3-4614-8177-fd337539a473@wasmer-earth.jzy88.top:443?&security=tls&fp=chrome&sni=wasmer-earth.jzy88.top&type=ws&headerType=none&host=wasmer-earth.jzy88.top&path=%2F60156344#
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.129:8880?encryption=none&mode=gun&security=tls&type=grpc#France
+trojan://humanity@216.24.57.1:443/?type=ws&path=%2Fassignment&security=tls&sni=www.creationlong.org#%C3%89tats+Unis
+vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.209.126:443?alpn=h2&encryption=none&security=tls&sni=gco1.afterdomain.shop&type=grpc#%C3%89tats+Unis
+trojan://humanity@sourceforge.net:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#
+trojan://humanity@104.19.230.21:443?allowInsecure=1&fp=chrome&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#
+trojan://humanity@216.24.57.7:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%C3%89tats+Unis
+vless://3ef170be-05d0-479c-9753-aa2f860964ea@153.80.249.227:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&security=reality&sid=a1b2c3d4e5f6&sni=cloudflare.com&type=tcp#%C3%89tats+Unis
+vmess://eyJhZGQiOiAiMzguMTEwLjEuMjQ2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6IDE4MDAwLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>
