@@ -35,26 +35,26 @@
  <h4>Danh sách nút: (Tối đa 20 nút được hiển thị tại đây. Các nút miễn phí khác có thể lấy trong ứng dụng.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#United+Kingdom
-trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#
-vless://cad25dec-01c3-4c2b-8422-eedeefa9a73e@104.21.87.142:8080?security=none&type=ws&path=/&host=zeus-panel-2mp2ud.287et32e3o8ye78.workers.dev&packetEncoding=xudp&encryption=none#
-vless://52322144-50c7-9d9f-6ba9-fdb600000005@104.24.212.83:443?path=/sync&security=tls&encryption=none&insecure=0&host=broad-wind-e1ca.salmanmahigir9508.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=broad-wind-e1ca.salmanmahigir9508.workers.dev#
-vless://df301b32-1152-4526-9a63-beedd93d3156@104.16.27.134:80?security=none&type=ws&path=/&host=vl.dalazhi.cloudns.biz&ed=2048&packetEncoding=xudp&encryption=none#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@www.shopify.com:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#United+States
-vless://914f97ee-1e5e-475d-9f04-fb93ef8585e7@140.233.177.250:55715?encryption=none&security=&type=tcp#United+States
-vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.145.158:80?security=none&type=ws&path=/&host=zyzzzoao.xn--fiqv8j.eu.org&ed=2048&packetEncoding=xudp&encryption=none#United+States
-vless://4a805850-a2c4-42b3-898a-798f0c19c609@37jqbzdg.cf.3666888.xyz:80?security=none&type=ws&path=/sub&host=tqmfs45y.xn--nxa.nyc.mn&packetEncoding=xudp#
-vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf1.466688.xyz:443?security=tls&type=ws&path=/QiangLieTuiJian?ed=2560&host=cfoo-146.pages.dev&packetEncoding=xudp&sni=cfoo-146.pages.dev&fp=chrome&encryption=none#
-vless://8d36dcef-c008-47f1-b8a0-4f63193697f8@WangCai.yunzhongzhuan.com:8880?security=none&type=ws&path=/pyip=Telegram🇨🇳 @WangCai2&host=tiny-union-8d4d.32-c76.workers.dev&packetEncoding=xudp&encryption=none#
-trojan://humanity@www.creationlong.org:443?alpn=http%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#
-trojan://humanity@104.16.174.46:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf2.466688.xyz:2095?security=none&type=ws&path=/@https://t.me/QiangLieTuiJian&host=cnmfangbinxingnmsl.cnm--fangbinxing.workers.dev&packetEncoding=xudp&encryption=none#United+States
-vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@adf.ly:443?security=tls&type=ws&path=/?ed=2560&host=rayan-007.parvin.dpdns.org&packetEncoding=xudp&sni=rAyAn-007.pArViN.DpDnS.OrG&fp=chrome&encryption=none#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#Norway
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.122.18:443?security=tls&type=ws&path=/fp&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#
-vless://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@cfd7.466688.xyz:443?security=tls&type=ws&path=/@https://t.me/QiangLieTuiJian?ed=2048&host=edge-4cb23bf6.pages.dev&packetEncoding=xudp&sni=edge-4cb23bf6.pages.dev&fp=chrome&encryption=none#
-vless://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@cfd8.466688.xyz:443?security=tls&type=ws&path=/@https://t.me/QiangLieTuiJian?ed=2048&host=edge-4cb23bf6.pages.dev&packetEncoding=xudp&sni=edge-4cb23bf6.pages.dev&fp=chrome&encryption=none#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@158.247.198.196:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#South+Korea
+vless://c6d29888-78d5-446a-b2f0-f3968e6d1634@104.16.100.215:8880?security=none&type=ws&path=/&host=lingering-cherry-5f41.42-08a.workers.dev&packetEncoding=xudp&encryption=none#
+vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?security=none&type=tcp&headerType=http&path=%2F&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&packetEncoding=xudp&encryption=none#France
+vless://fba6d1fd-0dab-428d-ae71-0e64c73a6060@104.21.12.116:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=morning-wood-0e8a.28-63e.workers.dev&packetEncoding=xudp&encryption=none#
+vless://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@164.38.155.13:443?encryption=none&security=tls&sni=edge-4cb23bf6.pages.dev&insecure=0&allowInsecure=0&type=ws&host=edge-4cb23bf6.pages.dev&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#United+Kingdom
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@217.154.94.41:443?path=/sg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#United+Kingdom
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.179.153.191:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Singapore
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@173.245.49.30:8880?security=none&type=ws&path=/&host=vms.lifetime36.workers.dev&packetEncoding=xudp&encryption=none#France
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.76.205.158:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#Japan
+trojan://humanity@104.19.229.21:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#United+Kingdom
+vless://a06b22e2-c1c4-4dc8-9337-75574b057975@zeus-panel-666kh0.zeus-yk6jrq.workers.dev:8080?path=/&security=none&encryption=none&insecure=0&host=zeus-panel-666kh0.zeus-yk6jrq.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-666kh0.zeus-yk6jrq.workers.dev#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001287h3p.cybervena.com:50099#Taiwan
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.40.79:2083?security=tls&type=ws&path=/fp=chrome&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome#United+States
+vless://a0b067ac-162d-4237-956d-10b8b471d3f5@54.37.75.187:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&sid=479826bdfc3eb86e&pbk=DHsthrDRMCGcOyJd4xTce_4CCSAJZGwxCdfNrkB_Pgs&encryption=none#France
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0e#Finland
+trojan://XG59623478@stirring-dane.rooster465.autos:443?security=tls&sni=stirring-dane.rooster465.autos#Luxembourg
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#Bulgaria
+vless://25322a43-4ef3-45cc-9e96-db44bcccd7be@skk.moe:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=purple-disk-f68d.14-360.workers.dev&packetEncoding=xudp&encryption=none#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#United+Kingdom
+vless://7ebbd929-720a-4782-8c6d-4d77a0a75ee4@cfd5.466688.xyz:443?security=tls&type=ws&path=/?ed=2048@https://t.me/QiangLieTuiJian&host=edge-e47d0df3.pages.dev&packetEncoding=xudp&sni=edge-e47d0df3.pages.dev&fp=chrome#
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

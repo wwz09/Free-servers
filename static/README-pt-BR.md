@@ -35,26 +35,26 @@
  <h4>Lista de nós: (No máximo 20 nós são exibidos aqui. Outros nós gratuitos estão disponíveis no app.)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#Turquia
-vless://3dc30f8b-e411-4f68-9fda-73b63d920e1a@67.159.52.159:443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&sid=9350a4f6c01e987a&pbk=S2Fe4Ft_uGGNGVShoyrKHED3VaoRfjLQxDBD3LaNbgc&encryption=none#EUA
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?encryption=none&security=&type=ws#Emirados+%C3%81rabes+Unidos
-vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.147.175:80?security=none&type=ws&path=/&host=zyzzzoao.xn--fiqv8j.eu.org&ed=2048&packetEncoding=xudp&encryption=none#EUA
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.40:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime28.workers.dev#Rom%C3%AAnia
-vless://ff7b0b9c-3dfc-400c-ae98-a833373d89ab@zeus-panel-araf9k.kingworkerwfsf.workers.dev:2053?path=/&security=tls&encryption=none&insecure=0&host=zeus-panel-araf9k.kingworkerwfsf.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=zeus-panel-araf9k.kingworkerwfsf.workers.dev#EUA
-vless://09e38b01-3bc2-42ac-bb71-68f8b72b8f19@104.26.6.23:2096?encryption=none&fp=chrome&host=ez-938486.tahakhoshghadam8989.workers.dev&path=%2F&security=tls&sni=ez-938486.tahakhoshghadam8989.workers.dev&type=ws#
-vless://e258977b-e413-4718-a3af-02d75492c349@64.176.42.196:10443?alpn=http%2F1.1&ed=2095&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&path=%2F&security=tls&sni=ww1.aniuge.qzz.io&type=ws#Jap%C3%A3o
-vless://dc5b7653-70dd-4d5e-966f-3b595049a204@104.21.18.48:80?security=none&type=ws&path=/&host=ez-a2fb15.sina-noraianfard-2015.workers.dev&packetEncoding=xudp&sni=ez-a2fb15.sina-noraianfard-2015.workers.dev#
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.145.202:2083?security=tls&type=ws&path=/&host=newwk1.f1w.de5.net&packetEncoding=xudp&sni=newwk1.f1w.de5.net&fp=chrome&encryption=none#EUA
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.229.40:8880?security=none&type=ws&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&host=vms.lifetime61.workers.dev#Arm%C3%AAnia
-vless://532a9115-aee7-4d39-9638-1e5146de075b@172.67.215.39:443?security=tls&type=ws&path=/js/cHlpcC55Z2tray5kcGRucy5vcmc=/&host=muddy-math-c1fc.tmpnriqueau89.workers.dev&packetEncoding=xudp&sni=muddy-math-c1fc.tmpnriqueau89.workers.dev&fp=chrome&encryption=none#EUA
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cf.090227.xyz:2095?security=none&type=ws&path=/&host=cnmfangbinxing.cnmfangbinxing-s.workers.dev&packetEncoding=xudp&sni=cnmfangbinxing.cnmfangbinxing-s.workers.dev&encryption=none#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.52.18:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#EUA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#Reino+Unido
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYkM0M1dlTnh1REFYZG1RWmRrd1Z4@62.133.63.222:48981#Turquia
-vless://af6904c1-4349-4448-8e99-0024824a0c33@sgxi.959555.xyz:10000?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=3b0b73e5&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU#EUA
-vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@81.19.137.144:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=firefox&flow=xtls-rprx-vision&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY#Fran%C3%A7a
-trojan://humanity@172.64.155.209:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#EUA
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.30:8880?security=none&type=ws&path=/&host=vms.lifetime58.workers.dev&packetEncoding=xudp#Alemanha
+vless://773e8749-558a-4459-8efb-5a58b06636ee@zeus-panel-9mo308.kingworkerqwqqw.workers.dev:8080?path=/&security=none&encryption=none&host=zeus-panel-9mo308.kingworkerqwqqw.workers.dev&type=ws&sni=zeus-panel-9mo308.kingworkerqwqqw.workers.dev#EUA
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.251.212.188:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapura
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@34.219.182.57:443?insecure=1&security=tls#EUA
+trojan://humanity@45.130.125.160:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#Ilhas+Seychelles
+vless://1c9daf90-3950-44ac-b06f-4cf9aec63170@free.server14peekconfig.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoiQmFCblN3SmhXYTB3RzVoIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIiwiWzJhMDI6ODk4OjE0Njo2NDo6XSIsIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0=?ed=2560&host=free.server14peekconfig.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=FrEe.SeRVEr14peekCoNfIG.WoRKErS.dEV&fp=chrome&encryption=none#
+vless://d6bbaa54-2fa9-46b9-8f6d-42ccdfc9122b@104.16.241.173:2096?security=tls&type=ws&path=/&host=odd-wildflower-db1b.yasinmohammad.workers.dev&packetEncoding=xudp&sni=odd-wildflower-db1b.yasinmohammad.workers.dev&fp=chrome&encryption=none#
+trojan://humanity@172.64.146.198:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#EUA
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@45.155.71.170:50443?security=reality&type=tcp&packetEncoding=xudp&sni=www.icloud.com&fp=firefox&flow=xtls-rprx-vision&pbk=hp9ht_jsxocTnQEbChb1G3JoDF50x-xDT8UYr66D1TQ#Holanda
+vmess://eyJhZGQiOiAiMTY5LjE5Ny4xNDIuMjIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTgwMDAiLCAicHMiOiAiRVVBIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=#EUA
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.83.2.50:8880?security=none&type=ws&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&host=vms.lifetime28.workers.dev#Ilhas+Seychelles
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@172.64.147.227:443?security=tls&type=ws&path=/QiangLieTuiJian?ed&host=cfoo-146.pages.dev&packetEncoding=xudp&sni=cfoo-146.pages.dev&fp=chrome&encryption=none#EUA
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.21.235:8443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.129:8880?encryption=none&mode=gun&security=tls&type=grpc#Fran%C3%A7a
+trojan://19877587-ed94-4033-88cd-4ac50a5e8718@104.16.148.5:443?fp=chrome&path=%2FWangCai-8&security=tls&sni=dimskiee.biz.id&type=ws#
+vless://c6508e59-dd68-4dc0-b14f-3192e84ef843@13.231.185.74:47381?security=reality&type=tcp&packetEncoding=xudp&sni=www.yahoo.com&fp=firefox&flow=xtls-rprx-vision&sid=67e2075367998314&pbk=kiMGo34R7wN3bHFbY_6MqIHePd7rlnOkxGCt-Ek1Ej0#Jap%C3%A3o
+trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%C3%81ustria
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.1.37:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+vless://7242eccf-5261-4e31-813e-871bfbde90c2@log.bpminecraft.com:8880?encryption=none&host=long-flower-ac0d.176-17e.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&type=ws#
+vless://9b0b4404-f1eb-4551-9b88-e0aac7843c86@earthpro.wasmer.app:443?security=tls&type=ws&path=/9b0b4404&host=earthpro.wasmer.app&packetEncoding=xudp&sni=earthpro.wasmer.app&fp=chrome#Alemanha
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
