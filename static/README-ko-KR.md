@@ -35,18 +35,18 @@
  <h4>노드 목록: (여기에는 최대 20개 노드만 표시됩니다. 다른 무료 노드는 앱에서 받을 수 있습니다.)</h4>
     
 ```
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-tw-002.fastervpn.world#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C1.9MB%2Fs%20%7C%20%E6%9B%B4%E5%A4%9A%E8%8A%82%E7%82%B9%3A%20https%3A%2F%2Ft.me%2Fbyxiaoxi
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.139:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#
-vless://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@166.62.114.13:443?encryption=none&host=edge-4cb23bf6.pages.dev&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=edge-4cb23bf6.pages.dev&type=ws#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.58.87:443?path=/fp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cloudflare-ip.mofashi.ltd:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?encryption=none&type=ws&host=shegeftihaaa.net&path=/rsedgws&security=tls&sni=shegeftihaaa.net#
+vmess://eyJhZGQiOiAiNjcuMjIwLjk1LjMiLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogMTgwMDAsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNjeSI6ICJhZXMtMTI4LWdjbSIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+trojan://XG59623478@growing-oyster.rooster465.autos:443?security=tls#Hong+Kong
 trojan://CF68213490@immune-mullet.rooster465.autos:443?allowInsecure=0&security=tls&sni=immune-mullet.rooster465.autos#Japan
-trojan://CF68213490@intimate-moray.rooster465.autos:443?allowInsecure=0&security=tls&sni=intimate-moray.rooster465.autos#Singapore
-vless://94878fe1-5e8b-4676-9ee0-a90267a596e5@144.31.27.179:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=site.rumedia-cdn.com&fp=chrome&pbk=8jwT95mGT7dW1VkMVt8vtwbWLgHN39tnhnt6PN1FTmU&sid=b08c5eb124a5877e&type=tcp&headerType=none#United+States
-vless://f7f14ab6-b9fb-4285-ae74-f6913332d30e@51.15.18.50:2053?encryption=none&fp=chrome&pbk=OEKOwbvWeIENbRmu5dsuijAdc4CY6qla_W6_hfaOXS4&security=reality&sid=03e21cb7c1aa955f&sni=www.apple.com&type=tcp#France
-vless://526d2855-c7d1-ecf3-e4f8-5a75f77d5bb3@104.245.242.4:993?security=reality&type=tcp&flow=xtls-rprx-vision&sni=cdn.steamstatic.com&fp=firefox&pbk=fp2XmT8otUDkl65Df2h1b5b0oCe0CQiAimPKEMdnwmI#United+States
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&insecure=0&allowInsecure=0&type=ws&host=po.fastbrokencompony.com&path=/#Seychelles
-vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&type=tcp&packetEncoding=xudp&sni=amd.com&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&encryption=none#Lithuania
-trojan://CF68213490@innocent-rattler.rooster465.autos:443?fp=chrome&security=tls&sni=innocent-rattler.rooster465.autos&type=tcp#Japan
+vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@145.239.137.250:58748?security=none&type=tcp&headerType=http&path=%2F&host=e1roj9ul.divarcdn.com%2C%20e1roj9ul.alibaba.io%2C%20e1roj9ul.splus.io%2C%20e1roj9ul.cafebazaar.io%2C%20e1roj9ul.yjc.io&packetEncoding=xudp&encryption=none#France
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.40.49:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#United+States
+vless://663cf772-829c-4bc6-893d-b7d021d42f5b@8.39.125.59:443?encryption=none&fp=chrome&host=vp9.cc.cd&path=/&security=tls&sni=vp9.cc.cd&type=ws#Malaysia
+vless://09c9f597-0c54-40e4-810a-474e1ef4bd6b@195.63.144.164:443?security=reality&encryption=none&pbk=UGKx4Kydrtu6oCJJPXOtR57bzIUIPK9meIy5ubEDHQM&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=94#Germany
+trojan://CF68213490@active-hippo.rooster465.autos:443?allowInsecure=0&security=tls&sni=active-hippo.rooster465.autos#Singapore
+vless://c38dc844-5a64-4544-8d12-c06e6030a1c8@89.125.26.125:8445?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_FzmVXpls1l8mxqqUBJP7BqU7Wd8eO6dCoo_5HW9X20&security=reality&sid=1e7e996a6760f20c&sni=linkvault.fyi&type=tcp#Ireland
+trojan://CF68213490@upward-yak.rooster465.autos:443?security=tls&sni=upward-yak.rooster465.autos#South+Korea
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>
