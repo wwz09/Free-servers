@@ -1,0 +1,91 @@
+
+<div align="center">
+
+**Languages:**
+
+[![English](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](README-en.md)
+[![Arabic](https://img.shields.io/badge/Language-Arabic-red?style=for-the-badge)](README-ar.md)
+[![German](https://img.shields.io/badge/Language-German-red?style=for-the-badge)](README-de.md)
+[![Vietnamese](https://img.shields.io/badge/Language-Vietnamese-red?style=for-the-badge)](README-vi.md)
+[![Indonesian](https://img.shields.io/badge/Language-Indonesian-red?style=for-the-badge)](README-id.md)
+[![Urdu](https://img.shields.io/badge/Language-Urdu-red?style=for-the-badge)](README-ur-PK.md)
+[![Portuguese](https://img.shields.io/badge/Language-Portuguese-red?style=for-the-badge)](README-pt-BR.md)
+[![Spanish](https://img.shields.io/badge/Language-Spanish-red?style=for-the-badge)](README-es.md)
+[![Russian](https://img.shields.io/badge/Language-Russian-red?style=for-the-badge)](README-ru.md)
+[![Polish](https://img.shields.io/badge/Language-Polish-red?style=for-the-badge)](README-pl.md)
+[![Korean](https://img.shields.io/badge/Language-Korean-red?style=for-the-badge)](README-ko-KR.md)
+[![French](https://img.shields.io/badge/Language-French-red?style=for-the-badge)](README-fr.md)
+[![Japanese](https://img.shields.io/badge/Language-Japanese-red?style=for-the-badge)](README-ja.md)
+[![Hindi](https://img.shields.io/badge/Language-Hindi-red?style=for-the-badge)](README-hi.md)
+[![Bangla](https://img.shields.io/badge/Language-Bangla-red?style=for-the-badge)](README-bn.md)
+
+</div>
+<h2>Нажмите, чтобы присоединиться к группе общения Telegram:</h2>
+ <blockquote>
+ <p style="text-align: center;"><a href="https://t.me/shadowrocket_android">https://t.me/shadowrocket_android</a></p>
+ </blockquote>
+ <h2>Бесплатный узел и адрес подписки:</h2>
+ <blockquote>
+ <p style="text-align: center;">Высококачественные узлы обновляются в режиме реального времени каждый день, каждые 6 часов</p>
+ </blockquote>
+ <h4>На этой странице кто-то вручную измерил скорость каждого узла в реальном времени, но все же существуют различия в сетях операторов в разных регионах, и могут быть узлы по таймауту. </h4>
+ <blockquote>
+ <p style="text-align: center;">Есть -> спать -> тестовые узлы. </p>
+ </blockquote>
+ <h4>Список узлов: (Здесь отображается не более 20 узлов. Остальные бесплатные узлы доступны в приложении.)</h4>
+    
+```
+vless://5dc126f0-0cb4-4e98-bfe4-35a0ed8333a5@5.231.31.11:44444?encryption=none&fp=chrome&host=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&type=ws#%D0%A4%D0%A0%D0%93
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?path=/&security=none&encryption=none&type=ws#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+trojan://XG59623478@growing-oyster.rooster465.autos:443?security=tls#%D0%93%D0%BE%D0%BD%D0%BA%D0%BE%D0%BD%D0%B3
+vless://407ecce0-dc85-465f-89f5-e520e9378baf@162.159.49.145:443?encryption=none&security=tls&sni=ld.223350.xyz&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=ld.223350.xyz&path=%2F#
+vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?security=reality&encryption=none&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=42b395462da31c0e#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.12.210:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+vmess://eyJhZGQiOiAiNDYuMjM2LjE5OC42MiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYmUxZTAyNmMtNDRmMS00YzllLWI4MWUtYTg2NDYzYzJiNjY5IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9iZTFlMDI2Yy00NGYxLTRjOWUtYjgxZS1hODY0NjNjMmI2NjkiLCAicG9ydCI6ICI0ODI3NyIsICJwcyI6ICJcdTA0MjRcdTA0MjBcdTA0MTMiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAiMTcyLjExMS4xNDYuNjQiLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzLyIsICJwb3J0IjogODAsICJwcyI6ICJcdTA0MmZcdTA0M2ZcdTA0M2VcdTA0M2RcdTA0MzhcdTA0NGYiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@62.152.56.110:6443?security=reality&encryption=none&pbk=hlJpjNVBd0c3DP2ngqXoaKtgw-0p5PKj5eF9mO_Od3I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=45ba91f179ad1f26#%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.8.42:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+vless://56eba3f8-94f8-48f2-920b-d79bb042d0bb@104.16.107.139:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=&encryption=none&host=lingering-glade-21ce.61-b6f.workers.dev&type=ws#
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@support.zoom.us:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=/sg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#%D0%A1%D0%A8%D0%90
+vmess://eyJhZGQiOiAiMTUyLjY3LjguMjA1IiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDgwLCAicHMiOiAiXHUwNDE4XHUwNDNkXHUwNDM0XHUwNDM4XHUwNDRmIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiMTUyLjY3LjguMjA1IiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://f9d2937a-94e4-444a-95df-103faf1dd3fd@95.181.162.170:444?encryption=none&security=tls&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&path=%2F%40Marisa_kristi#%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@162.159.18.122:443?encryption=none&fp=chrome&host=edt2.yfqh08811.ccwu.cc&path=%2Ffp%3Dchrome&security=tls&sni=edt2.yfqh08811.ccwu.cc&type=ws#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
+trojan://humanity@104.26.14.137:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+```
+<h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
+ <p>QR-код для адреса подписки выше</p>
+ <img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru.png' ширина=250 высота=250>
+ <blockquote style='text-align: center;'>Чтобы получить больше узлов, адреса бесплатной подписки и конверсии подписки, загрузите программное обеспечение приложения общего узла, предоставленное на этом сайте <a href='https://shadowsharing.com'>ShadowShare </a> Использование узла экспорта, поддержка загрузок iOS и Android. Пользователям Android рекомендуется напрямую использовать <a href='https://github.com/Pawdroid/shadowrocket_for_android'>shadowrocket для Android</a> Android Rocket с все свободные узлы встроены. </blockquote>
+ <h4>Рекомендуется отечественным пользователям iOS <a href='https://apps.apple.com/cn/app/shadowshare/id1612647259'>загрузить приложение из App Store</a> и сохранить его как можно скорее. может быть загружен когда-нибудь в будущем.</h4>
+ <h4>Последняя версия высокоскоростного и высококачественного VPN <a href='https://pawdollvpn.com'>PawdollVPN</a> поддерживает платформы Android и iOS. Вы можете загрузить и использовать ее. . Неограниченная бесплатная пробная версия предоставляется в течение ограниченного времени. </h4>
+ <div class="nv-content-wrap enter-content">
+ <h2>Преобразование адресов клиентской подписки, таких как Clash и SS, в один клик:</h2>
+ <p>Если клиент SS/SSR/V2ray не может напрямую использовать ссылку на узел SSR, используйте указанный ниже инструмент, чтобы преобразовать ее в адрес подписки. Затем SSR/SSD/Surge/Quantum/Surfboard/Loon и другие мобильные и компьютерные клиенты. можно использовать здесь:</p>
+ <p><a href="https://acl4ssr-sub.github.io" target="_blank" rel="noreferrer noopener nofollow">https://acl4ssr-sub.github.io</a></p>
+ <h2>Загрузка клиента V2ray/SSR Android для iPhone/ПК</h2>
+ <h3>Загрузка клиента V2Ray</h3>
+ <p>Также предоставляются ссылки для загрузки последних версий клиента V2ray для Windows, клиента V2ray для Android, клиента V2ray для MacOS для компьютеров Apple, клиента V2ray для iOS для iPhone и клиента V2ray для Linux. </p>
+ <h4>Windows7/8/10-<strong>Компьютерный клиент V2ray WinPC</strong>Загрузка программы</h4>
+ <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>Загрузка V2rayN</td><td><a href="https://github. com/2dust/v2rayN/releases" target="_blank" rel="noreferrer noopener">Загрузка с официального сайта</a></td></tr><tr><td>Загрузка V2rayW</td><td> <a href="https://github.com/Cenmrev/V2RayW/releases" target="_blank" rel="noreferrer noopener">Загрузка с официального сайта</a></td></tr><tr><td> Загрузка Clash</td><td><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases" target="_blank" rel="noreferrer noopener">Загрузка с официального сайта</a></td> </tr><tr><td>Загрузка V2rayS</td><td><a href="https://github.com/Shinlor/V2RayS/releases" target="_blank" rel="noreferrer noopener"> Загрузка с официального сайта</a></td></tr><tr><td>Мягкая загрузка</td><td><a href="https://github.com/mellow-io/mellow/releases" target="_blank" rel="noreferrer noopener">Загрузка с официального сайта</a></td></tr><tr><td>Загрузка Qv2ray</td><td><a href= "https://github.com/Qv2ray/Qv2ray" target="_blank" rel="noreferrer noopener">Загрузка с официального сайта</a></td></tr></tbody></table></figure>
+ <h4><strong>Мобильный клиент Android для Android/Xiaomi MIUI/Huawei EMUI-V2ray</strong>Загрузка программы Apk</h4>
+ <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>Загрузка V2rayNG</td><td><a href="https://github. com/2dust/v2rayNG/releases" target="_blank" rel="noreferrer noopener">Загрузка с официального сайта</a></td></tr><tr><td>Загрузка Android Rocket</td><td><a href="https://github.com/Pawdroid/shadowrocket_for_android/releases" target="_blank" rel="noreferrer noopener">Загрузка с официального сайта</a></td></tr><tr> <td>Загрузка BifrostV</td><td><a rel="noreferrer noopener" href="https://www.appsapk.com/downloading/latest/com.github.dawndiy.bifrostv-0.6.8.apk " target="_blank">Загрузка с рынка</a></td></tr><tr><td>Загрузка Clash</td><td><a href="https://github.com/Kr328/ClashForAndroid/releases" target="_blank" rel="noreferrer noopener">Загрузка с официального сайта</a></td></tr><tr><td>Загрузка Kitsunebi</td><td><a rel =" noreferrer noopener" href="https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android" target="_blank">Загрузка с рынка</a></td></tr></tbody></table></figure>
+ <h4><strong>MacOS-V2ray <strong>Компьютер Apple</strong>Клиент</strong>Загрузка программы</h4>
+ <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>Загрузка V2rayU</td><td><a href="https://github. com/yanue/V2rayU/releases" target="_blank" rel="noreferrer noopener">Загрузка с официального сайта</a></td></tr><tr><td>Загрузка V2rayX</td><td> <a href="https://github.com/Cenmrev/V2RayX/releases" target="_blank" rel="noreferrer noopener">Загрузка с официального сайта</a></td></tr><tr><td> Загрузка ClashX</td><td><a href="https://github.com/yichengchen/clashX/releases" target="_blank" rel="noreferrer noopener">Загрузка с официального сайта</a></td> </tr></tbody></table></figure>
+ <h4><strong>Linux</strong>–<strong>Компьютерный клиент V2ray Ubuntu/Centos</strong>Загрузка программы</h4>
+ <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>Загрузка Qv2ray</td><td><a href="https://github. com/Qv2ray/Qv2ray" target="_blank" rel="noreferrer noopener">Загрузка с официального сайта</a></td></tr><tr><td>Мягкая загрузка</td><td><a href ="https://github.com/mellow-io/mellow/releases" target="_blank" rel="noreferrer noopener">Загрузка с официального сайта</a></td></tr><tr><td> Загрузка V2rayL</td><td><a rel="noreferrer noopener" href="https://github.com/jiangxufeng/v2rayL" target="_blank">Официальный документ по установке</a></td></tr></tbody></table></figure>
+ <h4>iOS-<strong>V2ray Apple<strong>Mobile Client</strong>Приложение</strong>Загрузка</h4>
+ <p>На рынке Apple AppStore нет бесплатного клиента V2ray для iOS. В настоящее время доступны платные приложения, такие как Shadowrocket, pepi, i2Ray, Kitsunebi и Quantumult. </p>
+ <h3>Загрузка клиента ShadowsocksR/SSR</h3>
+ <p>ShadowsocksR сокращенно SSR, а также у него есть забавные прозвища, такие как кислый йогурт, розовый самолетик и бумажный самолетик, которые широко используются. </p>
+ <p>Мы собрали адреса загрузки последних версий клиента SSR для Windows, клиента SSR для Android, клиента SSR для MacOS для компьютеров Apple и клиента SSR iOS для телефонов Apple, чтобы поделиться ими со всеми. </p>
+ <h4><strong>Windows7/8/10-<strong>Компьютерный клиент WinPC SSR Small Plane</strong>Загрузка программы</strong></h4>
+ <p><a rel="noreferrer noopener" href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases" target="_blank">Загрузка с официального сайта</a></p>
+ <h4><strong><strong>Мобильный клиент Android для небольших самолетов Android/Xiaomi MIUI/Huawei EMUI-SSR</strong>Загрузка программы Apk</strong></h4>
+ <p><a rel="noreferrer noopener" href="https://github.com/shadowsocksrr/shadowsocksr-android/releases" target="_blank">Загрузка с официального сайта</a></p>
+ <h4><strong><strong>Клиент Apple для компьютеров MacOS-SSR Small Plane</strong>Загрузка программы</strong></h4>
+ <p><a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases" target="_blank" rel="noreferrer noopener">Загрузка с официального сайта</a></p>
+ <h4><strong>iOS-<strong>Мобильное клиентское приложение Apple для малых самолетов SSR</strong></strong>Загрузить</h4>
+ <p>Откройте Apple App Store на iPhone или iPad и найдите Mume, Potatso Lite, FastSocks и Shadowrocket. </p></div>
+    
