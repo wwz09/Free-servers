@@ -35,26 +35,26 @@
  <h4>नोड सूची: (यहां अधिकतम 20 नोड दिखाए जाते हैं। अन्य मुफ्त नोड ऐप में प्राप्त करें)</h4>
     
 ```
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@140.238.58.181:2053?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#Japan
-trojan://NQ26071394@grand-grub.rooster465.autos:443?allowInsecure=0&security=tls&sni=grand-grub.rooster465.autos#Japan
-trojan://CF68213490@sincere-crappie.rooster465.autos:443?security=tls#Japan
-vless://60631b26-691b-40dc-9255-436a9b612754@46.101.172.168:2087?path=%2F&security=tls&encryption=none&insecure=0&host=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=0gnoyqei.muzxslk2hja4hbyckl6p.workers.dev#Germany
-trojan://CF68213490@star-dodo.rooster465.autos:443?security=tls&sni=star-dodo.rooster465.autos#Japan
-trojan://CF68213490@13.115.229.63:443?security=tls&sni=alert-redfish.rooster465.autos#Japan
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.122.18:443?path=/fp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
-vless://a8985e6a-f338-4b44-9a41-f94495603a96@skk.moe:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=&encryption=none&host=dawn-cell-346f.238-df6.workers.dev&type=ws#United+States
-trojan://CF68213490@smooth-lark.rooster465.autos:443?allowInsecure=0&security=tls&sni=smooth-lark.rooster465.autos#South+Korea
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.144.82:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI=@108.181.57.93:8388#United+States
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0e#Finland
-trojan://CF68213490@musical-terrier.rooster465.autos:443?security=tls#Singapore
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.67.170.11:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.25:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
-vless://2428711f-5117-46e9-a2cb-741797a60ed8@hudrososov.blog:443?encryption=none&flow=xtls-rprx-vision&security=reality&fp=qq&pbk=yuKSmrb2MumCllTTmBJiuNTQcGxEaNhqmZVR8dVjLwI&sid=d1c2b3a4&type=tcp&headerType=none#United+Kingdom
-vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTYuMjExIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6IDE4MDAwLCAicHMiOiAiQ2FuYWRhIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.139:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#
-vless://506e4a91-1d05-5683-b84c-2113f673cb19@104.26.3.138:443?path=/id-pusat&security=tls&encryption=none&insecure=0&host=vltj.qzz.io&type=ws&allowInsecure=0&sni=vltj.qzz.io#
+vless://037db5a7-051f-4ac9-844d-703d087a3984@46.101.250.238:8443?encryption=none&fp=chrome&host=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&path=/&security=tls&sni=wvdi9kuh.bqjk41e0gtbj1fg244d7.workers.dev&type=ws#Germany
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#Russia
+trojan://CF68213490@rested-osprey.rooster465.autos:443?fp=chrome&security=tls&sni=rested-osprey.rooster465.autos&type=tcp#Japan
+trojan://CF68213490@alert-redfish.rooster465.autos:443?security=tls&sni=alert-redfish.rooster465.autos#Japan
+vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&security=reality&sid=01d1bf2d4755d40c&sni=deepl.com&type=tcp#United+States
+vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.119:8443?encryption=none&fp=chrome&headerType=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=google.com&type=tcp#United+States
+vless://94878fe1-5e8b-4676-9ee0-a90267a596e5@144.31.27.179:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8jwT95mGT7dW1VkMVt8vtwbWLgHN39tnhnt6PN1FTmU&security=reality&sid=b08c5eb124a5877e&sni=site.rumedia-cdn.com&type=tcp#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.162.198.43:8443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?security=tls#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.32:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@62.113.194.158:1080#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#Australia
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@166.62.108.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime17.workers.dev&packetEncoding=xudp#United+States
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#United+States
+trojan://CF68213490@gentle-mastiff.rooster465.autos:443?security=tls&sni=gentle-mastiff.rooster465.autos#South+Korea
+trojan://humanity@141.101.90.101:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.162.196.3:2083?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#United+States
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@185.8.106.163:443?security=reality&type=tcp&packetEncoding=xudp&sni=fluxorbit-on.ru&fp=chrome&flow=xtls-rprx-vision&sid=5e3ab3ab228625&pbk=sviFnw0hrzXi4Df6Bs4MFFTuBmH2hwvquvFPNzhDcW8#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@195.123.209.159:1080#Latvia
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.130.125.209:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#Seychelles
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

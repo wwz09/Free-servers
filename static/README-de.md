@@ -35,26 +35,26 @@
  <h4>Knotenliste: (Hier werden maximal 20 Knoten angezeigt. Weitere kostenlose Knoten erhalten Sie in der App.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#UK
-trojan://CF68213490@vast-werewolf.rooster465.autos:443?security=tls&sni=vast-werewolf.rooster465.autos#Singapur
-trojan://CF68213490@grateful-owl.rooster465.autos:443?security=tls&sni=grateful-owl.rooster465.autos#Singapur
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@mfa.gov.ua:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#USA
-vless://14f19724-de91-4285-a633-aa8e2caaf812@46.246.92.109:443?security=reality&type=tcp&packetEncoding=xudp&sni=site.rumedia-cdn.com&fp=chrome&flow=xtls-rprx-vision&sid=cd40c992fe4b10c2&pbk=JwL5KoiWkCJI2vMJxyTEplfv-zBAtwxOH8SMbw6QHzY&encryption=none#Schweden
+vless://0d543aed-4e30-4553-b5ac-211419bb0961@185.128.139.11:18244?security=none&encryption=none&headerType=none&type=tcp#Iran
+vless://0bd6aa8d-3bdb-4fa3-893e-75a844e2e409@download.yunzhongzhuan.com:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&security=&encryption=none&host=wispy-cake-ec69.193-bc6.workers.dev&type=ws#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@198.41.223.238:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@188.114.97.4:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#Niederlande
+vmess://eyJhZGQiOiAiODQuMTcuNDEuMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgIm5hbWUiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTIDUwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAxODAwMCwgInBzIjogIlVTQSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Russland
+vless://3290f561-d94d-426e-8e1b-52ab0d441786@173.245.58.162:2096?encryption=none&fp=firefox&host=white-silence-30a2.ali101020.workers.dev&path=%2F&security=tls&sni=white-silence-30a2.ali101020.workers.dev&type=ws#USA
+trojan://OD90375861@fit-calf.rooster465.autos:443?allowInsecure=0&security=tls&sni=fit-calf.rooster465.autos#Irland
+vless://aff6f31d-e503-4a75-b87f-6f2e566ffb88@193.151.150.135:2095?security=none&encryption=none&headerType=none&type=tcp#Iran
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.131.211.136:443?path=/rdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#Niederlande
+trojan://humanity@45.130.125.75:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Seychellen
 vless://663cf772-829c-4bc6-893d-b7d021d42f5b@91.193.59.101:443?encryption=none&host=vp8.cc.cd&path=/&security=tls&sni=vp8.cc.cd&type=ws#UK
-trojan://CF68213490@clear-heron.rooster465.autos:443?allowInsecure=0&security=tls&sni=clear-heron.rooster465.autos#S%C3%BCdkorea
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#Taiwan
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#USA
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.1.37:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
-trojan://CF68213490@logical-koala.rooster465.autos:443?security=tls&sni=logical-koala.rooster465.autos#Singapur
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meowfin.nethcloud.top:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#USA
-vless://d6bbaa54-2fa9-46b9-8f6d-42ccdfc9122b@162.159.39.2:2096?path=%2F&security=tls&encryption=none&insecure=0&host=icy-cloud-71e3.misnaargh.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=icy-cloud-71e3.misnaargh.workers.dev#
-vless://ba49d874-fe02-465d-82d3-ed981dc7694f@188.114.97.7:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&path=%2F&security=tls&sni=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&type=ws#Niederlande
-trojan://CF68213490@star-dodo.rooster465.autos:443?security=tls&sni=star-dodo.rooster465.autos#Japan
-vless://3f03d985-b3a4-4e48-b317-edad1936f4f3@23.27.20.142:48537?path=%2F%40Marisa_kristi&security=tls&encryption=none&insecure=0&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev#USA
-vless://09e38b01-3bc2-42ac-bb71-68f8b72b8f19@104.26.6.23:2096?encryption=none&fp=chrome&host=ez-938486.tahakhoshghadam8989.workers.dev&path=%2F&security=tls&sni=ez-938486.tahakhoshghadam8989.workers.dev&type=ws#
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@104.17.121.110:443?path=/hdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#
-trojan://CF68213490@climbing-frog.rooster465.autos:443?security=tls&sni=climbing-frog.rooster465.autos#S%C3%BCdkorea
-vless://a8890c1b-3622-3106-c4be-d8671be32d2b@summer-meadow-af5b.woowoorrrkk.workers.dev:443?path=/sync&security=tls&encryption=none&insecure=0&host=summer-meadow-af5b.woowoorrrkk.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=summer-meadow-af5b.woowoorrrkk.workers.dev#
+trojan://KV63147582@evolving-baboon.rooster465.autos:443?allowInsecure=0&security=tls&sni=evolving-baboon.rooster465.autos#Deutschland
+vless://1f6531a1-a6eb-4274-9f51-4a0899456fcf@195.254.165.243:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus&pbk=zSjG6wndmLAzE8ykCBXpAm2eh0viWVSy3gt2juXF4EE&security=reality&sid=eaa8&sni=play.google.com&type=tcp#Australien
+vless://663cf772-829c-4bc6-893d-b7d021d42f5b@8.39.125.201:2087?encryption=none&fp=chrome&host=vp8.cc.cd&path=/&security=tls&sni=vp8.cc.cd&type=ws#Malaysia
+vless://89c5493f-9485-85e5-c43f-df0600000000@nameless-moon-7c4d.shafmrhjlos23.workers.dev:443?path=/vasl&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=nameless-moon-7c4d.shafmrhjlos23.workers.dev#
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.15.137:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@163.172.244.41:1080#Frankreich
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.19.34.251:8443?sni=vp28.cc.cd&type=ws&host=vp28.cc.cd&path=/fp=chrome&security=tls#
+trojan://CF68213490@smooth-hornet.rooster465.autos:443?allowInsecure=0&security=tls&sni=smooth-hornet.rooster465.autos#Japan
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

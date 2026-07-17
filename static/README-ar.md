@@ -35,26 +35,26 @@
  <h4>قائمة العقد: (يتم عرض 20 عقدة كحد أقصى هنا. تتوفر العقد المجانية الأخرى في التطبيق)</h4>
     
 ```
-trojan://CF68213490@evolving-mollusk.rooster465.autos:443?security=tls#Japan
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.162.196.3:2083?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#United+States
-trojan://CF68213490@adapting-giraffe.rooster465.autos:443?fp=chrome&security=tls&sni=adapting-giraffe.rooster465.autos&type=tcp#Japan
-trojan://CF68213490@gentle-mastiff.rooster465.autos:443?allowInsecure=0&security=tls&sni=gentle-mastiff.rooster465.autos#South+Korea
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.106.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime54.workers.dev&path=%2F&security=none&type=ws#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.2:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#United+States
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.123.16:22224?encryption=none&headerType=none&type=tcp&security=none#United+States
-trojan://humanity@104.16.174.12:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#
-vless://526d2855-c7d1-ecf3-e4f8-5a75f77d5bb3@104.245.242.4:993?security=reality&type=tcp&packetEncoding=xudp&sni=download.nvidia.com&fp=firefox&flow=xtls-rprx-vision&pbk=mdN58_sSqP17lYoc-cWvIgtHjzb8vlqJv5t24Y9Bnic#United+States
-vless://6fdfdb73-51b0-4a14-89a5-c9355a0e0397@raff-vpn-kz-server1.ru:443?security=reality&encryption=none&pbk=vCxfuNNmogA1DlPkjvmKb7_hSgXqe4MboPfi2s1JZG0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=b318242471ba4f5b#Russia
-trojan://CF68213490@active-hippo.rooster465.autos:443?security=tls&sni=active-hippo.rooster465.autos#Singapore
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.162.198.43:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=/#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.58.87:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2Ffp&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
-trojan://CF68213490@united-molly.rooster465.autos:443?security=tls&sni=united-molly.rooster465.autos#Japan
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.244.132.14:5499#United+States
-vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTYuMTQyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJiNjVhMmQ2OS01NjM0LTQyYTItZTRiZS01NGU4YTYxNzY5MDAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-trojan://CF68213490@relevant-oryx.rooster465.autos:443?security=tls&sni=relevant-oryx.rooster465.autos#Singapore
-trojan://CF68213490@vast-werewolf.rooster465.autos:443?security=tls&sni=vast-werewolf.rooster465.autos#Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#United+Kingdom
-vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&security=reality&sni=aws.amazon.com&type=tcp#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.29:443#United+Kingdom
+vmess://eyJhZGQiOiAibjE3NDc2MjQyNzQuNHU5bWEuaWN1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm4xNzQ3NjI0Mjc0LjR1OW1hLmljdSIsICJpZCI6ICJkOGRhZjUwNy1hNGFjLTRlZWEtODM5OS04ZjBjZDA3MWViNTIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJTaW5nYXBvcmUiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@217.60.248.100:2053?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F#Iran
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.35.13:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#France
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?encryption=none&fp=chrome&host=c7dabe95.proxy-978.pages.dev&path=%2F&security=tls&sni=c7dabe95.proxy-978.pages.dev&type=ws#United+States
+vless://1136f25a-4925-4ba6-9620-771dd9553f92@194.87.69.48:59978?security=reality&encryption=none&pbk=zU3_YlbtgNxg4_mPQzmz3aBCET3vUNbBMYrEztVFs0Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ymail.com&sid=c3a0d1#Russia
+trojan://CF68213490@communal-sunbird.rooster465.autos:443?allowInsecure=0&security=tls&sni=communal-sunbird.rooster465.autos#Japan
+vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.18.237.216:80?encryption=none&security=none&type=ws&host=sfsl.ardomains1.dpdns.org&path=%2F#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.42.54:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
+vless://57bd62cf-5550-4075-8fa3-d4519aae8df0@162.159.40.49:80?security=none&type=ws&path=/eyJqdW5rIjoiRURaNEp6YUhMbVlqdzQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0=&host=silent-feather-8539.sddadad2233122eew.workers.dev&packetEncoding=xudp&encryption=none#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.72.50:443?path=/fp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@172.67.191.52:2053?path=/&security=tls&alpn=h3,h2&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@youxuan.cf.090227.xyz:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#United+States
+trojan://XG59623478@concise-buck.rooster465.autos:443?allowInsecure=1&security=tls&sni=concise-buck.rooster465.autos#Luxembourg
+vless://c280cb0f-a115-403d-8b80-0e979032eb5f@38.107.237.50:33146?security=reality&encryption=none&pbk=Y9QFFxxFgbnKAplJdZK9vgyGTqzeOI_f_A9NzluxU0g&headerType=none&fp=random&spx=%2F&type=tcp&sni=yahoo.com&sid=a796eb22ff924c#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.3.141:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#Austria
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443#Denmark
+vless://bacd8811-1e50-46ec-accf-06149cbdc25d@news.netraidly.ru:40443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=BEJH_omzwWCjagdtfdm9-faqD8aOnoLtc-z1ovRXyVk&host=deepl.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=172e#Russia
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>
