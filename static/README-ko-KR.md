@@ -35,21 +35,21 @@
  <h4>노드 목록: (여기에는 최대 20개 노드만 표시됩니다. 다른 무료 노드는 앱에서 받을 수 있습니다.)</h4>
     
 ```
-trojan://humanity@165.215.250.14:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#United+States
-vless://663cf772-829c-4bc6-893d-b7d021d42f5b@104.19.148.73:2096?encryption=none&fp=chrome&host=vp7.cc.cd&path=/&security=tls&sni=vp7.cc.cd&type=ws#
-trojan://CF68213490@prime-buzzard.rooster465.autos:443?fp=chrome&security=tls&sni=prime-buzzard.rooster465.autos&type=tcp#Singapore
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.45.201:2083?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#United+Kingdom
-trojan://CF68213490@together-impala.rooster465.autos:443?allowInsecure=0&security=tls&sni=together-impala.rooster465.autos#South+Korea
-vless://c73caea8-84e0-53fa-af3b-05e08266514d@69.46.46.22:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=node-7946883854-80433a-production.up.railway.app&path=%2Fws%2Fnebla&security=tls&sni=node-7946883854-80433a-production.up.railway.app&type=ws#United+States
-vless://4a805850-a2c4-42b3-898a-798f0c19c609@e2lsnrlu.cf.3666888.xyz:8080?encryption=none&security=none&type=ws&host=v83wyiv0.cnm.qzz.io&path=%2Fsub#
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443#Denmark
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#United+Kingdom
-vless://7db9bcc1-78f1-455d-944b-3363b867e670@172.64.88.251:8880?encryption=none&host=long-wildflower-3df6.341-165.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#United+States
-trojan://CF68213490@helping-shark.rooster465.autos:443?security=tls&sni=helping-shark.rooster465.autos#South+Korea
-vless://526d2855-c7d1-ecf3-e4f8-5a75f77d5bb3@140.235.168.9:993?security=reality&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=firefox&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko#EPODONIOS
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.153.159:443?path=/fp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#United+States
+trojan://XG59623478@enabling-asp.rooster465.autos:443?fp=chrome&security=tls&sni=enabling-asp.rooster465.autos&type=tcp#Germany
+trojan://CF68213490@musical-terrier.rooster465.autos:443?fp=chrome&security=tls&sni=musical-terrier.rooster465.autos&type=tcp#Singapore
+vless://82ddfe27-2ad0-48cf-92a3-ed12ed426ba7@38.79.154.34:8585?authority=&encryption=none&fp=chrome&pbk=a20AW-pKrDkwITkp3eZ6WC809AYkNqoW1rs4AfLs73Y&security=reality&serviceName=&sid=3dcb65&sni=download.led.samsung.com&spx=/db79788184a60e3&type=grpc#United+States
+trojan://CF68213490@evolving-mollusk.rooster465.autos:443?security=tls#Japan
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@youxuan.cf.090227.xyz:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#United+Kingdom
+trojan://CF68213490@in-oriole.rooster465.autos:443?fp=chrome&security=tls&sni=in-oriole.rooster465.autos&type=tcp#Japan
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@mfa.gov.ua:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#South+Korea
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#United+States
+trojan://humanity@104.21.40.34:443?host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#
+trojan://CF68213490@careful-penguin.rooster465.autos:443?security=tls&sni=careful-penguin.rooster465.autos#Japan
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&encryption=none#South+Korea
+trojan://CF68213490@normal-macaque.rooster465.autos:443?security=tls#Singapore
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>
