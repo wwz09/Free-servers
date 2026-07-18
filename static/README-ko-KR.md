@@ -35,26 +35,26 @@
  <h4>노드 목록: (여기에는 최대 20개 노드만 표시됩니다. 다른 무료 노드는 앱에서 받을 수 있습니다.)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMzguMTEwLjEuMjQ2IiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxODAwMCIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-trojan://CF68213490@lucky-chimp.rooster465.autos:443?fp=chrome&security=tls&sni=lucky-chimp.rooster465.autos&type=tcp#Singapore
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.45.129:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=3.oncloudnineservicestreang.com&fp=chrome&pbk=dp-ncBuRHgZl5O80eHBYhSKo1i9qbt-J7MJ1alyWXmM&sid=1991780b928b292d&type=tcp&headerType=none#Denmark
-vless://df26029b-bffe-4ce2-9246-25b52ed2b1c7@162.159.48.193:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=polished-field-4448.186-705.workers.dev&packetEncoding=xudp&encryption=none#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Taiwan
-trojan://NQ26071394@inviting-ferret.rooster465.autos:443?security=tls&sni=inviting-ferret.rooster465.autos#South+Korea
-vless://cfb74ef3-f868-43c5-b05a-56509e2c948f@162.159.156.214:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=flat-limit-5b5e.472-cf5.workers.dev&packetEncoding=xudp#
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.147.175:443?security=tls&type=ws&path=/pyip=proxyip.sg.cmliussss.net&host=tianshu13.pages.dev&packetEncoding=xudp&sni=tianshu13.pages.dev&fp=chrome&encryption=none#United+States
-vless://6076aad4-c8ab-42ec-a2b7-c67fe5d7f7a8@151.243.93.215:443?alpn=http%2F1.1%2Ch2&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=xn--80aksgi6f.xn----ctbzfboapgel4j.xn--p1ai#Iran
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@139.180.220.7:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#Singapore
-trojan://NQ26071394@free-hare.rooster465.autos:443?security=tls&sni=free-hare.rooster465.autos#Japan
-vless://7b102311-43fd-4e8f-877e-8090623c101d@104.26.5.224:2096?security=tls&type=ws&path=/fp=chrome&host=vp23.cc.cd&packetEncoding=xudp&sni=vp23.cc.cd&fp=chrome#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.35.37:8443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#United+States
-trojan://NQ26071394@flexible-titmouse.rooster465.autos:443?allowInsecure=0&security=tls&sni=flexible-titmouse.rooster465.autos#South+Korea
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.141.232.182:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2#Singapore
-trojan://CF68213490@charming-puma.rooster465.autos:443?security=tls&sni=charming-puma.rooster465.autos#South+Korea
-trojan://humanity@208.103.161.101:443?security=tls&sni=www.creationlong.org&type=ws&path=/assignment&Host=www.creationlong.org#United+States
-vless://663cf772-829c-4bc6-893d-b7d021d42f5b@staticdelivery.nexusmods.com:443?path=/&security=tls&encryption=none&insecure=0&host=vp1.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vp1.cc.cd#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@celestara.biz:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#United+States
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&security=none&type=ws&host=de.vpnbase.net&path=/http#France
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.16.244.196:2083?security=tls&type=ws&path=/&host=vp27.cc.cd&packetEncoding=none&sni=vp27.cc.cd&fp=chrome#
+vless://6c7a6a6a-6a6a-4000-8000-000000000002@ip.sb:443?security=tls&type=ws&path=/?ed=2560&host=bycf.lzjnb.shop&packetEncoding=xudp&sni=bycf.lzjnb.shop&fp=chrome&encryption=none#
+hysteria2://13d29042-ab82-4195-9cd4-2bafc518e201@147.90.235.195:52625?insecure=1&security=tls&sni=apps.apple.com#United+States
+trojan://NQ26071394@gentle-platypus.rooster465.autos:443?security=tls&sni=gentle-platypus.rooster465.autos#South+Korea
+trojan://NQ26071394@musical-mouse.rooster465.autos:443?fp=chrome&security=tls&sni=musical-mouse.rooster465.autos&type=tcp#South+Korea
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#United+Kingdom
+trojan://CF68213490@brief-warthog.rooster465.autos:443?security=tls&sni=brief-warthog.rooster465.autos#Singapore
+trojan://NQ26071394@firm-krill.rooster465.autos:443?security=tls&sni=firm-krill.rooster465.autos#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#United+Kingdom
+vless://fb978279-0a28-4045-8258-e9ab97deaf2b@162.159.39.6:2083?security=tls&type=ws&path=/&host=3da0360c.myblog-2hd.pages.dev&packetEncoding=none&sni=3da0360c.myblog-2hd.pages.dev&fp=chrome#
+trojan://CF68213490@alert-fish.rooster465.autos:443?security=tls&sni=alert-fish.rooster465.autos#Japan
+trojan://NQ26071394@gentle-tuna.rooster465.autos:443?security=tls&sni=gentle-tuna.rooster465.autos#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#United+Kingdom
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?security=tls&sni=#United+Kingdom
+trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls&sni=renewed-chigger.rooster465.autos#The+Netherlands
+vless://fb978279-0a28-4045-8258-e9ab97deaf2b@173.245.58.253:2083?security=tls&type=ws&path=/&host=3da0360c.myblog-2hd.pages.dev&packetEncoding=xudp&sni=3da0360c.myblog-2hd.pages.dev&fp=chrome#United+States
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?encryption=none&type=tcp&security=reality&headerType=none&sni=enterprisekitten.com&fp=chrome&insecure=1&allowInsecure=1&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#Russia
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443#Denmark
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.152.8:2053?security=tls&type=ws&path=/&host=vp30.cc.cd&packetEncoding=none&sni=vp30.cc.cd&fp=chrome#
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.166.80:2053?security=tls&type=ws&path=/&host=vp40.cc.cd&packetEncoding=xudp&sni=vp40.cc.cd&fp=chrome#
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>
