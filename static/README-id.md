@@ -35,26 +35,26 @@
  <h4>Daftar node: (Maksimal 20 node ditampilkan di sini. Node gratis lainnya bisa didapatkan di aplikasi.)</h4>
     
 ```
-vless://ff3e10a8-2a5c-4792-a14e-20fd11b1bed9@31.56.146.93:8443?sni=tradingview.com&fp=chrome&security=reality&flow=xtls-rprx-vision&encryption=none&headerType=none&pbk=8i-67NPZNxTU8dgnF5yKYpijyu4GbQsDOdZSHQjsLGQ&type=tcp#Iran
-vmess://eyJhZGQiOiAibWUuZWNoby1saWNlbnNlLmdyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInBsYXkuZ29vZ2xlLmNvbSIsICJpZCI6ICJmYmQyYjJmMS1hZjRhLTRlNWYtOTU1Ni1hZjM3ZWRlYTlkYjUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIxNDk5MSIsICJwcyI6ICJHZXJtYW55IiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICI4NSIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
-hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&security=tls&sni=www.microsoft.com#The+Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#United+Kingdom
-vless://8742ef5a-20a5-403f-8f6e-99a9cd0f3efb@49.12.102.241:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&security=reality&sid=9e4eced6e98ed4d4&sni=orpheous.ru&type=tcp#Germany
-vless://d61b4e1b-4745-484f-8362-18537825a7af@194.164.217.139:448?encryption=none&security=reality&sni=www.samsung.com&fp=firefox&pbk=fjPED4_A_EQrL8PAuBUi9ChoNbY2OC4mUl7r8zaLoxo&sid=05fdaa8a05be46a9&type=tcp&headerType=none#United+Kingdom
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@193.28.186.215:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#Hong+Kong
-trojan://CF68213490@54.180.139.180:443?fp=chrome&security=tls&sni=enormous-whippet.rooster465.autos&type=tcp#South+Korea
-vless://663cf772-829c-4bc6-893d-b7d021d42f5b@104.18.33.21:2087?security=tls&type=ws&path=/&host=vp7.cc.cd&packetEncoding=none&sni=vp7.cc.cd&fp=chrome#
-trojan://CF68213490@54.178.0.218:443?security=tls&sni=easy-barnacle.rooster465.autos#Japan
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.21.74.63:443?security=tls&type=ws&path=/jdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.58.87:443?path=/fp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#United+States
-trojan://CF68213490@sacred-shepherd.rooster465.autos:443?security=tls&sni=sacred-shepherd.rooster465.autos#Japan
-trojan://NQ26071394@skilled-polliwog.rooster465.autos:443?security=tls&sni=skilled-polliwog.rooster465.autos#Japan
-vless://7b102311-43fd-4e8f-877e-8090623c101d@162.159.38.42:2053?security=tls&type=ws&path=/fp=chrome&host=vp21.cc.cd&packetEncoding=xudp&sni=vp21.cc.cd&fp=chrome#
-vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTYuMTQyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJiNjVhMmQ2OS01NjM0LTQyYTItZTRiZS01NGU4YTYxNzY5MDAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.72.50:443?path=/fp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@198.41.223.238:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=/#
-vless://c95f6104-6b19-4f3e-aaa6-a74fec3ee258@168.222.244.66:10277?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=firefox&insecure=1&allowInsecure=1&pbk=5WM9qJQUXyEnE2xaJHvXai6IV7HrBLnuy5s39fcqCAA&sid=7a&spx=%2Fnaranv2ray#United+States
-vmess://eyJhZGQiOiAiMTI5LjE0Ni4xNDMuODAiLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJkNDYwM2NjMi1lMGVlLTQ2NTEtODNmNS0xZGI1YjcxNjgxNzciLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ4MTExIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+trojan://NQ26071394@capable-dory.rooster465.autos:443?security=tls&sni=capable-dory.rooster465.autos#Singapore
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.45.218:443?security=tls&type=ws&path=/fp=chrome&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#United+Kingdom
+trojan://NQ26071394@gentle-platypus.rooster465.autos:443?security=tls&sni=gentle-platypus.rooster465.autos#South+Korea
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.66.45.6:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#United+States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#India
+trojan://humanity@172.64.147.252:443?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.46.67:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#Japan
+vless://419bfbd4-3097-4cef-a6b3-aebd78506ed7@de.themesh.site:443?security=reality&type=raw&packetEncoding=xudp&sni=de.themesh.site&fp=chrome&flow=xtls-rprx-vision&sid=c98e3dfeb3aff317&pbk=L7JB_3bRdr08McJ2_RNR6thyx1s65gdj6OeLdkJ463s&encryption=none#Bulgaria
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf2.466688.xyz:443?security=tls&type=ws&path=/QiangLieTuiJian?ed=2560&host=cfoo-146.pages.dev&packetEncoding=xudp&sni=cfoo-146.pages.dev&fp=chrome&encryption=none#United+States
+vless://663cf772-829c-4bc6-893d-b7d021d42f5b@91.193.59.101:443?encryption=none&host=vp8.cc.cd&path=/&security=tls&sni=vp8.cc.cd&type=ws#United+Kingdom
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@185.8.106.163:443?security=reality&type=tcp&packetEncoding=xudp&sni=fluxorbit-on.ru&fp=chrome&flow=xtls-rprx-vision&sid=5e3ab3ab228625&pbk=sviFnw0hrzXi4Df6Bs4MFFTuBmH2hwvquvFPNzhDcW8#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cloudflare-ip.mofashi.ltd:443?allowInsecure=0&host=t1s1.rittbo.kdns.fr&security=tls&encryption=none&fp=chrome&insecure=0&type=ws&sni=t1s1.rittbo.kdns.fr&path=/#United+States
+trojan://humanity@172.64.147.24:443?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.40.49:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.46.226:8443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?security=reality&encryption=none&pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5.oncloudnineservicestreang.com&sid=273940fba6ad8250#Denmark
+vless://59eefc04-b831-45cf-8d68-63ca23381171@kzbkjum.cvewfjg.shop:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=4-qE0E0B5ShfnAe0KFM0qRkXJ33rRF39AlHK7MpBzAE&sid=4c5a76834671&type=tcp&headerType=none#Germany
+trojan://CF68213490@loyal-molly.rooster465.autos:443?fp=chrome&security=tls&sni=loyal-molly.rooster465.autos&type=tcp#Japan
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.215.137:443?security=tls&type=ws&path=/&host=vp40.cc.cd&packetEncoding=xudp&sni=vp40.cc.cd&fp=chrome#
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>
