@@ -35,26 +35,26 @@
  <h4>ノード リスト: (ここには最大20個のノードのみ表示されます。その他の無料ノードはアプリで取得できます)</h4>
     
 ```
-trojan://humanity@172.64.146.102:443?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%85%B1%E5%92%8C%E5%9B%BD
-vless://e4dfa054-4b6e-405f-c439-6e4f0b6b700b@104.17.208.223:443?security=tls&type=ws&path=/TG@wxgqlfx&host=40t1.wxgqlfx.vip&packetEncoding=xudp&sni=40t1.wxgqlfx.vip&fp=chrome#
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?security=none&type=ws&path=/http&host=de.vpnbase.net&packetEncoding=xudp&encryption=none#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
-vless://663cf772-829c-4bc6-893d-b7d021d42f5b@91.193.58.47:2053?security=tls&type=ws&path=/&host=vp8.cc.cd&packetEncoding=xudp&sni=vp8.cc.cd&fp=chrome&encryption=none#%E8%8B%B1%E5%9B%BD
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.4.221:8443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#
-vless://8bba3194-4856-46d1-8319-075817d87eb1@fi3.cyphervpn.pro:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi3.cyphervpn.pro&fp=firefox&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&type=tcp&headerType=none#%E8%8B%B1%E5%9B%BD
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.23.143.23:34045?security=reality&type=tcp&packetEncoding=xudp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&sid=e8ab71d0&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&encryption=none#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vless://756e8f39-04e8-436d-b5c6-905d37d9562c@188.114.96.3:2087?security=tls&type=ws&path=/eyJqdW5rIjoiR1BxUFhYR0w1TlBLMTRsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&host=ez-98919a.motoricb.workers.dev&packetEncoding=xudp&sni=ez-98919a.motoricb.workers.dev&fp=chrome&encryption=none#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
+trojan://CF68213490@emerging-weevil.rooster465.autos:443?security=tls#%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC%E5%85%B1%E5%92%8C%E5%9B%BD
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.129.3.157:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#%E3%83%AD%E3%82%B7%E3%82%A2
+trojan://CF68213490@harmless-lab.rooster465.autos:443?security=tls&sni=harmless-lab.rooster465.autos#%E3%83%89%E3%82%A4%E3%83%84%E9%80%A3%E9%82%A6%E5%85%B1%E5%92%8C%E5%9B%BD
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@193.123.233.175:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.162.18:8443?security=tls&type=ws&path=/&host=vp41.cc.cd&packetEncoding=none&sni=vp41.cc.cd&fp=chrome#
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.fbi.gov:2095?security=none&type=ws&path=/&host=cnmfangbinxing-nmsl.cnm-fangbinxing-nmsl.workers.dev&packetEncoding=xudp&sni=cnmfangbinxing-nmsl.cnm-fangbinxing-nmsl.workers.dev#
+vless://c6ba83a7-c4b5-481f-8f71-0f17deff0bf2@billowing-sunset-e340.qaraatayi.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoiVnJ5TkZEWnQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0=?ed=2560&host=billowing-sunset-e340.qaraatayi.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=BIlLOwIng-suNSEt-e340.QaRAaTAyi.worKeRs.deV&fp=chrome&encryption=none#
+trojan://CF68213490@capable-eel.rooster465.autos:443?fp=chrome&security=tls&sni=capable-eel.rooster465.autos&type=tcp#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?mode=gun&security=none&encryption=none&type=grpc#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%85%B1%E5%92%8C%E5%9B%BD
+vless://c280cb0f-a115-403d-8b80-0e979032eb5f@38.107.237.50:33146?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&sid=a796eb22ff924c&pbk=Y9QFFxxFgbnKAplJdZK9vgyGTqzeOI_f_A9NzluxU0g&encryption=none#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vless://3f646f4d-b96e-4ba4-b562-0fd4854391a8@a.bazardam.shop:8080?security=none&type=tcp&headerType=http&path=%2F&host=a.bazardam.shop&packetEncoding=xudp&encryption=none#%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89%E5%85%B1%E5%92%8C%E5%9B%BD
+vless://663cf772-829c-4bc6-893d-b7d021d42f5b@104.18.33.21:2087?security=tls&type=ws&path=/&host=vp7.cc.cd&packetEncoding=none&sni=vp7.cc.cd&fp=chrome#
+hysteria2://e3a5bb40be52de65@q.baoge.me:2328?allowInsecure=1&insecure=1&security=tls&sni=q.baoge.me#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
 vless://58f4e11d-45bb-4b7d-8b33-66bb2eefa97a@104.17.151.126:2096?security=tls&type=ws&path=/&host=nova-river-cloud-1642.mehrshadamiri69.workers.dev&packetEncoding=xudp&sni=nova-river-cloud-1642.mehrshadamiri69.workers.dev&fp=chrome&encryption=none#
-trojan://humanity@104.25.109.237:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@celestara.biz:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#
-vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.28.185:443?security=tls&type=ws&path=/&host=vp25.cc.cd&packetEncoding=none&sni=vp25.cc.cd&fp=chrome#
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443#%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF%E7%8E%8B%E5%9B%BD
-trojan://humanity@172.64.146.116:443?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.146.153:443?security=tls&type=ws&path=/pyip=proxyip.sg.cmliussss.net&host=tianshu13.pages.dev&packetEncoding=xudp&sni=tianshu13.pages.dev&fp=chrome&encryption=none#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vless://663cf772-829c-4bc6-893d-b7d021d42f5b@108.162.198.17:2083?security=tls&type=ws&path=/&host=vp9.cc.cd&packetEncoding=none&sni=vp9.cc.cd&fp=chrome#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vless://9a3de3e0-2a6e-4bb2-81bd-1a4e51dfa110@vpn.renshengxuanze.ccwu.cc:443?security=tls&type=ws&path=/&host=vpn.renshengxuanze.ccwu.cc&packetEncoding=xudp&sni=vpn.renshengxuanze.ccwu.cc&fp=chrome#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@212.192.15.191:443?encryption=none&type=tcp&headerType=&fp=firefox&host=36cf43b9s298.wagahaha.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u695099u36cf43b9s298.wagahaha.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%E9%A6%99%E6%B8%AF
-vless://e3c56988-5261-400f-b21b-6af5fa6efae1@130.49.185.196:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=4ndg8TcyXMWmnEvthjh9mIWJ9mc85jzy_G9D4D5xGxM&security=reality&sid=808a7e8a2e32c697&sni=site.rumedia-cdn.com&type=tcp#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vless://7b102311-43fd-4e8f-877e-8090623c101d@104.19.50.8:8443?security=tls&type=ws&path=/&host=vp34.cc.cd&packetEncoding=none&sni=vp34.cc.cd&fp=chrome#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.58.87:443?path=/fp&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vless://7b102311-43fd-4e8f-877e-8090623c101d@8.35.211.6:2087?security=tls&type=ws&path=/&host=vp26.cc.cd&packetEncoding=none&sni=vp26.cc.cd&fp=chrome#%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2
+trojan://CF68213490@tolerant-rattler.rooster465.autos:443?security=tls#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>

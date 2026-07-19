@@ -35,26 +35,26 @@
  <h4>Knotenliste: (Hier werden maximal 20 Knoten angezeigt. Weitere kostenlose Knoten erhalten Sie in der App.)</h4>
     
 ```
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@91.193.59.122:443?security=tls&type=ws&path=/Telegram🇨🇳 @WangCai2&host=cf11.evan00.dpdns.org&ed=2560&packetEncoding=xudp&sni=cf11.evan00.dpdns.org&fp=chrome&encryption=none#UK
-trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Seychellen
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#USA
-vless://7b102311-43fd-4e8f-877e-8090623c101d@104.26.10.51:2087?security=tls&type=ws&path=/&host=vp42.cc.cd&packetEncoding=none&sni=vp42.cc.cd&fp=chrome#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.36.73:443?security=tls&type=ws&path=/fp=chrome&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome#
-trojan://OD90375861@desired-tahr.rooster465.autos:443?security=tls&sni=desired-tahr.rooster465.autos#Hongkong
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.80.111.60:443?security=tls&type=ws&path=/rdfgtws&host=vangoghhh.info&packetEncoding=xudp&sni=vangoghhh.info&fp=chrome&encryption=none#Deutschland
-vless://612f78a0-65ca-45af-a3ff-7d0f8e9f8655@cf8.466688.xyz:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net@https://t.me/QiangLieTuiJian&host=broken-star-c5ae.446.workers.dev&packetEncoding=xudp&encryption=none#USA
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@de.vrsvpn.com:443?security=reality&encryption=none&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f429ad1f28#Deutschland
-trojan://PD07395842@normal-jay.rooster465.autos:443?fp=chrome&security=tls&sni=normal-jay.rooster465.autos&type=tcp#USA
-trojan://CF68213490@3.36.60.83:443?fp=chrome&security=tls&sni=gentle-mastiff.rooster465.autos&type=tcp#S%C3%BCdkorea
-vless://63f1ce15-1a88-4698-8a0e-59b85d75e607@free.server11peekconfig.workers.dev:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=free.server11peekconfig.workers.dev&path=%2FeyJqdW5rIjoiNDIxWGNPNW5CQXYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OmIwOjY0OjpdIiwiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ%3D%3D&security=tls&sni=FRee.SeRver11pEEkcONFIg.WorkeRS.DEv&type=ws#USA
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.158:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Seychellen
-trojan://NQ26071394@quiet-condor.rooster465.autos:443?security=tls#Deutschland
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.26.4.60:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
-trojan://CF68213490@together-impala.rooster465.autos:443?security=tls&sni=together-impala.rooster465.autos#S%C3%BCdkorea
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@104.129.167.20:443?&security=tls&fp=chrome&sni=cf11.evan00.dpdns.org&type=ws&headerType=none&host=cf11.evan00.dpdns.org&path=/Telegram🇨🇳 @WangCai2#Singapur
-vless://7b102311-43fd-4e8f-877e-8090623c101d@8.35.211.81:2096?security=tls&type=ws&path=/&host=vp37.cc.cd&packetEncoding=xudp&sni=vp37.cc.cd&fp=chrome#Malaysia
-vless://7b102311-43fd-4e8f-877e-8090623c101d@104.19.50.206:2087?security=tls&type=ws&path=/&host=vp18.cc.cd&packetEncoding=xudp&sni=vp18.cc.cd&fp=chrome#
-vless://663cf772-829c-4bc6-893d-b7d021d42f5b@162.159.38.124:2087?security=tls&type=ws&path=/&host=vp8.cc.cd&packetEncoding=none&sni=vp8.cc.cd&fp=chrome#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.41.190:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=/#
+trojan://humanity@chatgpt.com:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com#
+vless://12cb0a24-0438-4980-8617-9c93205895fa@185.193.30.94:443?security=tls&type=ws&path=/&host=kakoolnews.whattodowhatnottodo.workers.dev&packetEncoding=xudp&sni=kakoolnews.whattodowhatnottodo.workers.dev&fp=chrome&encryption=none#UK
+vless://fb978279-0a28-4045-8258-e9ab97deaf2b@104.25.46.11:443?security=tls&type=ws&path=/&host=ourfast.ccwu.cc&packetEncoding=none&sni=ourfast.ccwu.cc&fp=chrome#
+vless://40de6299-d792-4868-8a82-411ead0aa943@144.124.249.252:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=ed7b9bdfedb9b8e5&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&encryption=none#UK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#UK
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.47.19:443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
+trojan://NQ26071394@upward-hedgehog.rooster465.autos:443?security=tls&sni=upward-hedgehog.rooster465.autos#Rum%C3%A4nien
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.0.0:443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.146.129:443?security=tls&type=ws&path=/pyip=proxyip.sg.cmliussss.net&host=tianshu13.pages.dev&packetEncoding=xudp&sni=tianshu13.pages.dev&fp=chrome&encryption=none#USA
+trojan://humanity@172.64.147.24:443?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#USA
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.131.210.88:443?security=tls&type=ws&path=/rdfgtws&host=vangoghhh.info&packetEncoding=xudp&sni=vangoghhh.info&fp=chrome&encryption=none#Niederlande
+vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@91.193.59.11:80?type=ws&host=s5gydl.936.us.ci&path=Telegram🇨🇳 @WangCai2#UK
+vless://d6bbaa54-2fa9-46b9-8f6d-42ccdfc9122b@104.16.241.173:2096?security=tls&type=ws&path=/&host=odd-wildflower-db1b.yasinmohammad.workers.dev&packetEncoding=xudp&sni=odd-wildflower-db1b.yasinmohammad.workers.dev&fp=chrome&encryption=none#
+vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@51.77.214.109:8443?security=tls&type=ws&path=/proxyip=tw.william.us.ci?uuid=f4e91fac-25eb-4d26-a14c-c82c3778a0e4&host=s5gydl.936.us.ci&packetEncoding=xudp&sni=s5gydl.936.us.ci&fp=chrome#Frankreich
+vless://7b102311-43fd-4e8f-877e-8090623c101d@8.39.125.149:2096?security=tls&type=ws&path=/&host=vp30.cc.cd&packetEncoding=xudp&sni=vp30.cc.cd&fp=chrome#Malaysia
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#USA
+ss://2022-blake3-aes-256-gcm:fnvo82p9y4AKykZXyIFtnodFy6fQmWnVlI2SvGleOB0=@167.150.100.115:27755#%F0%9F%87%B8%F0%9F%87%ACSG_15%7C2.2MB%2Fs%7CB007-260618%2001
+trojan://PD07395842@pretty-quail.rooster465.autos:443?fp=chrome&security=tls&sni=pretty-quail.rooster465.autos&type=tcp#Frankreich
+trojan://NQ26071394@wanted-marmoset.rooster465.autos:443?security=tls&sni=wanted-marmoset.rooster465.autos#Australien
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

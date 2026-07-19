@@ -35,26 +35,26 @@
  <h4>Daftar node: (Maksimal 20 node ditampilkan di sini. Node gratis lainnya bisa didapatkan di aplikasi.)</h4>
     
 ```
-vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@s593.gogocs.xyz:443?encryption=none&type=tcp&headerType=&fp=firefox&host=b67c99c6s591.csgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u695099ub67c99c6s591.csgfw.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#Vietnam
-trojan://humanity@172.64.146.1:443?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#United+States
-vless://7b102311-43fd-4e8f-877e-8090623c101d@104.19.48.233:2083?security=tls&type=ws&path=/&host=vp34.cc.cd&packetEncoding=xudp&sni=vp34.cc.cd&fp=chrome#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.24.39:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@173.245.58.75:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#United+States
-vless://931575f0-1079-417c-8a86-bd4f8586ffee@91.134.103.131:43217?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray&security=none#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#Ukraine
-vmess://eyJhZGQiOiAiNGNkbi5uamtycGwuY29tIiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYTA0NDliMzMtZDdmNi00MmE1LThiZGMtM2I1ZTcyN2VjOWY4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICIiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vmess://eyJhZGQiOiAiMTY5LjE5Ny4xNDIuMjIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTgwMDAiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.36.166:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
-trojan://humanity@216.24.57.7:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#United+States
-trojan://NQ26071394@inviting-ferret.rooster465.autos:443?security=tls&sni=inviting-ferret.rooster465.autos#South+Korea
-vmess://eyJhZGQiOiAiZmFtaWx5LmJ1Y2tldC54OS5rZmMtNTIwLmNvbSIsICJhaWQiOiAwLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjFkYzczNTI5LWYwMzAtM2FjNS1hZDY0LWY3NjY2YjlhNTFiYyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTAwMzkiLCAicHMiOiAiVGFpd2FuIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.120:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&host=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=3ca620a7ed5f3196#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:443#United+Kingdom
-vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.215.137:443?security=tls&type=ws&path=/&host=vp40.cc.cd&packetEncoding=xudp&sni=vp40.cc.cd&fp=chrome#
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.14.137:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#
-vless://9c772ed7-2843-4554-9a96-4a88f827de58@cf4.466688.xyz:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net@https://t.me/QiangLieTuiJian&host=nameless-tree-08b8.352.workers.dev&packetEncoding=xudp&encryption=none#
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@84.32.209.210:7443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=statusdetector404.ru&sid=6ba85179e30d4fc2#Germany
+trojan://humanity@172.64.146.127:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@149.28.159.222:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#Singapore
+vless://663cf772-829c-4bc6-893d-b7d021d42f5b@www.leics.police.uk:443?security=tls&type=ws&path=/&host=vp1.cc.cd&packetEncoding=none&sni=vp1.cc.cd&fp=chrome#United+States
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@141.164.45.187:9101#South+Korea
+vless://7ebbd929-720a-4782-8c6d-4d77a0a75ee4@cfd5.466688.xyz:443?security=tls&type=ws&path=/?ed=2048@https://t.me/QiangLieTuiJian&host=edge-e47d0df3.pages.dev&packetEncoding=xudp&sni=edge-e47d0df3.pages.dev&fp=chrome#
+vless://fb978279-0a28-4045-8258-e9ab97deaf2b@91.193.58.178:443?security=tls&type=ws&path=/Telegram🇨🇳+@WangCai2&host=3da0360c.myblog-2hd.pages.dev&packetEncoding=xudp&sni=3da0360c.myblog-2hd.pages.dev&fp=chrome#United+Kingdom
+trojan://NQ26071394@emerging-hagfish.rooster465.autos:443?security=tls&sni=emerging-hagfish.rooster465.autos#United+States
+hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@pl02.auragg.org:443?insecure=1&security=tls&sni=pl02.auragg.org#Finland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#United+Kingdom
+vless://58f4e11d-45bb-4b7d-8b33-66bb2eefa97a@104.17.151.126:2096?security=tls&type=ws&path=/&host=nova-river-cloud-1642.mehrshadamiri69.workers.dev&packetEncoding=xudp&sni=nova-river-cloud-1642.mehrshadamiri69.workers.dev&fp=chrome&encryption=none#
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.49.88:2053?security=tls&type=ws&path=/&host=vp27.cc.cd&packetEncoding=none&sni=vp27.cc.cd&fp=chrome#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.162.196.3:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
+vmess://eyJhZGQiOiAiNjYuMTYzLjExNy41OCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMjIzMjQiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiNzEiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://1443b7a1-7ba9-4ec9-b904-2e867367b5d7@odd-violet-5440.asdgrweeee13.workers.dev:443?encryption=none&security=tls&type=ws#
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@45.130.125.20:443?path=Telegram-mtmvpn&security=tls&encryption=none&insecure=0&host=cf11.evan00.dpdns.org&type=ws&allowInsecure=0&sni=cf11.evan00.dpdns.org#Seychelles
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.67.93.182:443?security=tls&type=ws&path=/fp&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#United+States
+trojan://KV63147582@35.89.158.133:443?security=tls&sni=popular-meerkat.rooster465.autos#United+States
+vless://7b102311-43fd-4e8f-877e-8090623c101d@172.67.71.250:2096?security=tls&type=ws&path=/&host=vp20.cc.cd&packetEncoding=none&sni=vp20.cc.cd&fp=chrome#United+States
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.31.183:2096?security=tls&type=ws&path=/&host=vp29.cc.cd&packetEncoding=none&sni=vp29.cc.cd&fp=chrome#
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption=none&security=none&type=tcp&headerType=http&host=gr1.fifapes.monster&path=%2F#Iran
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>
