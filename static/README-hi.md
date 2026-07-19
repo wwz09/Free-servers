@@ -35,26 +35,26 @@
  <h4>नोड सूची: (यहां अधिकतम 20 नोड दिखाए जाते हैं। अन्य मुफ्त नोड ऐप में प्राप्त करें)</h4>
     
 ```
-trojan://PD07395842@sharing-chipmunk.rooster465.autos:443?fp=chrome&security=tls&sni=sharing-chipmunk.rooster465.autos&type=tcp#United+States
-vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.215.137:443?security=tls&type=ws&path=/&host=vp40.cc.cd&packetEncoding=xudp&sni=vp40.cc.cd&fp=chrome#
-vless://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=47de54e71fee3451&pbk=maES4RMEtsm5emBCixDRa6Y5GvmVwmwZNBL2G4Q03D4&encryption=none#United+States
-vmess://eyJhZGQiOiAiNDcuMjQ0LjEyMC4xOTciLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI4NDVlNmIwOC0yOTE5LTQyOTAtYWRlMC01ZGM3ZGNlYTU5Y2EiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsICJwb3J0IjogNDQ4NjcsICJwcyI6ICJIb25nIEtvbmciLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-trojan://humanity@104.18.152.175:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@103.25.202.114:443?sni=s5gydl.936.us.ci&type=ws&host=s5gydl.936.us.ci&path=/proxyip=tw.william.us.ci?uuid=f4e91fac-25eb-4d26-a14c-c82c3778a0e4fp=chrome&security=tls#Singapore
-vless://7b102311-43fd-4e8f-877e-8090623c101d@8.35.211.62:2083?encryption=none&fp=chrome&host=vp39.cc.cd&path=/&security=tls&sni=vp39.cc.cd&type=ws#Malaysia
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.37.237:8443?security=tls&type=ws&path=/fp=chrome&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome#
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@154.83.2.24:443?security=tls&type=ws&path=/rdfgtws&host=vangoghhh.info&packetEncoding=xudp&sni=vangoghhh.info&fp=chrome&encryption=none#Seychelles
-trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls&sni=wired-tick.rooster465.autos#Ireland
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@172.64.34.119:443?security=tls&type=ws&path=/sea&host=deicl.redstone-vex.sbs&packetEncoding=xudp&sni=deicl.redstone-vex.sbs&fp=chrome&encryption=none#United+States
-vless://7b102311-43fd-4e8f-877e-8090623c101d@104.26.5.224:2096?security=tls&type=ws&path=/fp=chrome&host=vp23.cc.cd&packetEncoding=xudp&sni=vp23.cc.cd&fp=chrome#
-vless://7b102311-43fd-4e8f-877e-8090623c101d@172.67.77.213:443?security=tls&type=ws&path=/&host=vp17.cc.cd&packetEncoding=none&sni=vp17.cc.cd&fp=chrome#United+States
-vless://7b102311-43fd-4e8f-877e-8090623c101d@104.19.151.36:2087?security=tls&type=ws&path=/&host=vp25.cc.cd&packetEncoding=none&sni=vp25.cc.cd&fp=chrome#
-vless://7b102311-43fd-4e8f-877e-8090623c101d@108.162.198.99:2053?security=tls&type=ws&path=/&host=vp22.cc.cd&packetEncoding=none&sni=vp22.cc.cd&fp=chrome#United+States
-trojan://NQ26071394@pretty-mollusk.rooster465.autos:443?security=tls&sni=pretty-mollusk.rooster465.autos#Hong+Kong
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.67.93.182:443?security=tls&type=ws&path=/fp&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#United+States
-vless://7b102311-43fd-4e8f-877e-8090623c101d@103.106.228.126:2053?security=tls&type=ws&path=/&host=vp11.cc.cd&packetEncoding=none&sni=vp11.cc.cd&fp=chrome#Japan
-vless://7b102311-43fd-4e8f-877e-8090623c101d@8.35.211.66:2083?security=tls&type=ws&path=/&host=vp30.cc.cd&packetEncoding=none&sni=vp30.cc.cd&fp=chrome#Malaysia
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@161.118.195.117:8443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Japan
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.146.127:443?security=tls&type=ws&path=/pyip=proxyip.sg.cmliussss.net&host=tianshu13.pages.dev&packetEncoding=xudp&sni=tianshu13.pages.dev&fp=chrome&encryption=none#United+States
+vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@de.ko.prod.n7.homes:8443?security=reality&type=tcp&packetEncoding=xudp&sni=google.com&fp=chrome&sid=3ca620a7ed5f3196&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&encryption=none#United+States
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.190.219.163:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United+States
+vmess://eyJhZGQiOiAiM2gta2F6YWtoc3RhbjEuMDl2cG4uY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzLyIsICJwb3J0IjogIjgwIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.186:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#United+States
+vless://4a805850-a2c4-42b3-898a-798f0c19c609@5xptkkpo.cf.3666888.xyz:2082?security=none&type=ws&path=/sub&host=2hx7vrum.xn--nxa.nyc.mn&packetEncoding=xudp&encryption=none#United+States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@141.164.45.187:8008#South+Korea
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@138.2.87.237:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#Singapore
+vless://f4e91fac-25eb-4d26-a14c-c82c3778a0e4@51.77.214.109:8443?security=tls&type=ws&path=/proxyip=tw.william.us.ci?uuid=f4e91fac-25eb-4d26-a14c-c82c3778a0e4&host=s5gydl.936.us.ci&packetEncoding=xudp&sni=s5gydl.936.us.ci&fp=chrome#France
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.15.137:443?security=tls&type=ws&path=/rsedgws&host=shegeftihaaa.net&packetEncoding=xudp&sni=shegeftihaaa.net&fp=chrome&encryption=none#
+vless://7b102311-43fd-4e8f-877e-8090623c101d@108.162.198.171:8443?security=tls&type=ws&path=/&host=vp29.cc.cd&packetEncoding=none&sni=vp29.cc.cd&fp=chrome#United+States
+vless://7b102311-43fd-4e8f-877e-8090623c101d@172.67.79.116:443?security=tls&type=ws&path=/&host=vp19.cc.cd&packetEncoding=none&sni=vp19.cc.cd&fp=chrome#United+States
+vless://2b2ed3be-36bd-486d-9d04-ebf5b4be7ae9@104.26.13.40:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=twilight-heart-dbd6.220-2bd.workers.dev&packetEncoding=xudp#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.21.206:2083?security=tls&type=ws&path=/fp=chrome&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome#
+vmess://eyJhZGQiOiAiMmNkbi5uamtycGwuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJhMDQ0OWIzMy1kN2Y2LTQyYTUtOGJkYy0zYjVlNzI3ZWM5ZjgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIiIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://7b102311-43fd-4e8f-877e-8090623c101d@162.159.39.78:443?security=tls&type=ws&path=/&host=vp17.cc.cd&packetEncoding=none&sni=vp17.cc.cd&fp=chrome#
+vmess://eyJhZGQiOiAibjE3NDc2MjQyNzQuNHU5bWEuaWN1IiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZDhkYWY1MDctYTRhYy00ZWVhLTgzOTktOGYwY2QwNzFlYjUyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIiIsICJwb3J0IjogNDQzLCAicHMiOiAiU2luZ2Fwb3JlIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.0.0:443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
+trojan://humanity@45.130.125.162:443?path=%2Fassignment&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=www.multiplydose.com&fp=ios&type=ws&allowInsecure=0&sni=www.multiplydose.com#Seychelles
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.141.232.182:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2#Singapore
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
