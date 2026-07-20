@@ -35,26 +35,26 @@
  <h4>노드 목록: (여기에는 최대 20개 노드만 표시됩니다. 다른 무료 노드는 앱에서 받을 수 있습니다.)</h4>
     
 ```
-vless://0a76a766-d141-44b8-944e-dff757d7116f@163.5.153.153:443?security=reality&encryption=none&pbk=aB_2Tcf0A5LoiIEZHztR_l-ZOFeJKxYRH67s_OVQ9C0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=a91045bc#France
-vless://7b102311-43fd-4e8f-877e-8090623c101d@103.106.228.126:2053?security=tls&type=ws&path=/&host=vp11.cc.cd&packetEncoding=none&sni=vp11.cc.cd&fp=chrome#Japan
-trojan://humanity@172.64.146.27:443?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#United+States
-vless://98b6cb05-b5ab-4c82-8683-07de28f796a9@172.67.89.31:2086?security=none&type=ws&path=/eyJqdW5rIjoiRHF6VWU4SmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0&host=holy-glitter-39f9.wwewee2dasdds.workers.dev&packetEncoding=xudp#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#United+Kingdom
-vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&security=tls&sni=ako.pagate.top&type=tcp#South+Korea
-trojan://humanity@104.16.71.213:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#
-vmess://eyJhZGQiOiAiOTQuMTMxLjEwOC4zNiIsICJhaWQiOiAwLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjk4NTVmMWYwLWE4MDAtNDBkNC04YjM4LWM3ZDNlYjc5MzAyZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJUXHUwMGZjcmtpeWUiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-vless://8a955134-3457-432b-848d-7064bb1dbc1f@104.19.149.169:2087?security=tls&type=ws&path=/?u=bugfreenet&host=nova-falcon-garden-a127.rezashokriurmia17.workers.dev&packetEncoding=xudp&sni=nova-falcon-garden-a127.rezashokriurmia17.workers.dev&fp=chrome&encryption=none#
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.udemy.com:2095?security=none&type=ws&path=/fp=randomized&host=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev&packetEncoding=xudp&sni=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev#
-vless://7b102311-43fd-4e8f-877e-8090623c101d@172.67.71.250:2096?security=tls&type=ws&path=/&host=vp20.cc.cd&packetEncoding=none&sni=vp20.cc.cd&fp=chrome#United+States
-vless://7ebbd929-720a-4782-8c6d-4d77a0a75ee4@cfd5.466688.xyz:443?security=tls&type=ws&path=/?ed=2048@https://t.me/QiangLieTuiJian&host=edge-e47d0df3.pages.dev&packetEncoding=xudp&sni=edge-e47d0df3.pages.dev&fp=chrome#United+States
-trojan://NQ26071394@glad-roughy.rooster465.autos:443?security=tls&sni=glad-roughy.rooster465.autos#Hong+Kong
-vless://5f4845b4-11dc-41d6-9508-4ff6a02e36c1@45.131.4.192:80?security=none&type=ws&path=/&host=silent-paper-fa57.fipiyag989.workers.dev&packetEncoding=none#The+Netherlands
-trojan://humanity@104.25.109.237:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#
-vless://663cf772-829c-4bc6-893d-b7d021d42f5b@91.193.58.124:2087?encryption=none&host=vp2.cc.cd&path=%2F&security=tls&sni=vp2.cc.cd&type=ws#United+Kingdom
-trojan://humanity@172.64.149.54:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.14.127:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.170.166.30:8880?security=none&type=ws&path=/&host=vms.lifetime04.workers.dev#United+Kingdom
-vless://afb13fa2-bba2-417f-b8c2-62565f92a78d@104.16.106.213:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=orange-block-5cd1.124-199.workers.dev&packetEncoding=xudp#
+vless://8736d94e-1401-da06-191f-aa7500000000@node-6116129920-9b22ee.mamadmamadi1333-16aa.workers.dev:443?security=tls&type=ws&path=/sync&host=node-6116129920-9b22ee.mamadmamadi1333-16aa.workers.dev&packetEncoding=xudp&sni=node-6116129920-9b22ee.mamadmamadi1333-16aa.workers.dev&fp=chrome&encryption=none#
+trojan://ON38567014@one-quail.rooster465.autos:443?security=tls&sni=one-quail.rooster465.autos#France
+vless://2166fcae-8e93-4f50-d3c4-94c7042767ac@82.158.229.125:11126?encryption=none&security=&type=tcp#Spain
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.24.40.13:443?security=tls&type=ws&path=/fp&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#
+trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#
+vless://0b7a91b4-3a46-4152-a09e-67cfba3b5a5a@support.netraidly.ru:40443?security=reality&encryption=none&pbk=3kFPRhnvODE81XecHw1X7eOwD9Fs1sr8_OCYM2ET7EQ&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2fe7#Brazil
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#India
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo21.fordnsdirect.shop:8880?authority=v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&mode=gun&security=tls&type=grpc#France
+vless://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?security=reality&type=raw&packetEncoding=xudp&sni=www.tesla.com&fp=chrome&flow=xtls-rprx-vision&sid=59625eb3275249ca&pbk=hvyaRhFtrj3cGv1Ya5uXpE256i2PoUi2fOgU0KlvKmI&encryption=none#France
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&type=tcp&packetEncoding=xudp&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&encryption=none#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.72.41:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United+States
+vless://663cf772-829c-4bc6-893d-b7d021d42f5b@188.164.248.77:2083?encryption=none&fp=chrome&host=vp7.cc.cd&path=/&security=tls&sni=vp7.cc.cd&type=ws#The+Netherlands
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@66.81.247.91:443?security=tls&type=ws&path=/rdfgtws&host=vangoghhh.info&packetEncoding=xudp&sni=vangoghhh.info&fp=chrome&encryption=none#United+States
+vless://40de6299-d792-4868-8a82-411ead0aa943@144.124.246.55:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=ed7b9bdfedb9b8e5&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&encryption=none#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099#Taiwan
+vless://fb978279-0a28-4045-8258-e9ab97deaf2b@162.159.45.7:8443?security=tls&type=ws&path=/&host=wefast.ccwu.cc&packetEncoding=xudp&sni=wefast.ccwu.cc&fp=chrome#
+trojan://humanity@2.144.21.112:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Iran
+trojan://CF68213490@capable-eel.rooster465.autos:443?security=tls&sni=capable-eel.rooster465.autos#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.19.206.162:443?security=tls&type=ws&path=/fp&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>

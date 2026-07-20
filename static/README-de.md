@@ -35,26 +35,26 @@
  <h4>Knotenliste: (Hier werden maximal 20 Knoten angezeigt. Weitere kostenlose Knoten erhalten Sie in der App.)</h4>
     
 ```
-vless://7e5964d036b843ff885b86c4d3bfd466@85.159.228.250:25703?encryption=none&security=&type=tcp#Lettland
-vless://663cf772-829c-4bc6-893d-b7d021d42f5b@162.159.32.59:443?sni=vp9.cc.cd&type=ws&host=vp9.cc.cd&path=/fp=chrome&security=tls#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#Ukraine
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.3.141:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
-vless://99eb8d4a-bb06-4a07-a79b-348ac037dc3e@185.163.47.132:443?security=reality&type=tcp&packetEncoding=xudp&sni=console.cloud.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=Ua80Sem5yHVDbRu37u1yYM5vWBzinhru__7ACrvnx1E&encryption=none#Republik+Moldau
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@184.168.47.50:8880?security=none&type=ws&path=/?ed=2560&https://t.me/YouTube@小青科学网🇨🇳&host=vms.lifetime40.workers.dev&packetEncoding=xudp&encryption=none#USA
-trojan://HW85960347@dashing-possum.rooster465.autos:443?security=tls&sni=dashing-possum.rooster465.autos#USA
-vless://7b102311-43fd-4e8f-877e-8090623c101d@162.159.38.133:2053?security=tls&type=ws&path=/&host=vp39.cc.cd&packetEncoding=none&sni=vp39.cc.cd&fp=chrome#
-vless://c29d39bd-92a4-45db-bb61-56013998617c@104.18.109.147:80?security=none&type=ws&path=/Telegram-XV2ry2?ed=2048&host=www.speedtest.net.www.1google.com.bing.com.visa.com.tls.xv98.ip-ddns.com&packetEncoding=xudp#
-vless://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.66:2087?security=tls&type=ws&path=/&host=vp23.cc.cd&packetEncoding=xudp&sni=vp23.cc.cd&fp=chrome#Niederlande
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.156:443?fp=chrome&security=tls&sni=185.137.157.156&type=tcp#UK
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.41.190:2095?security=none&type=ws&path=/&host=cnmfangbinxing.cnmfangbinxing-f.workers.dev&packetEncoding=xudp&encryption=none#
-vless://c3f4ee0c-3c64-466d-ae14-9bcf685e1efd@104.17.178.154:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=shiny-waterfall-fa51.300-c6f.workers.dev&packetEncoding=xudp&encryption=none#
-vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@ad-005.vector9nmb3.info:8443?encryption=none&security=tls&type=ws#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.61:28061#Indien
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.128:443?allowInsecure=1&fp=chrome&security=tls&sni=185.137.157.128&type=tcp#UK
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#UK
-vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@xn--b6gac.eu.org:443/?type=ws&encryption=none&flow=&host=edt2.yfqh08811.ccwu.cc&path=/&security=tls&sni=edt2.yfqh08811.ccwu.cc#USA
-trojan://humanity@104.20.6.134:443?host=www.multiplydose.com&path=%2F%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cdns.doon.eu.org:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.117.112.30:8880?security=none&type=ws&path=/?ed=2560&https://t.me/YouTube@小青科学网🇨🇳&host=vms.lifetime11.workers.dev&packetEncoding=xudp&encryption=none#Frankreich
+vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@162.159.18.122:443?encryption=none&fp=chrome&host=edt2.yfqh08811.ccwu.cc&path=%2Ffp%3Dchrome&security=tls&sni=edt2.yfqh08811.ccwu.cc&type=ws#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#S%C3%BCdafrika
+vless://870d3183-17a1-4a87-9021-e12e3ac2939f@185.181.209.217:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=ed7b9bdfedb9b8e5&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&encryption=none#T%C3%BCrkei
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.19.48.233:2083?security=tls&type=ws&path=/&host=vp34.cc.cd&packetEncoding=xudp&sni=vp34.cc.cd&fp=chrome#
+vless://7b102311-43fd-4e8f-877e-8090623c101d@8.35.211.13:2087?security=tls&type=ws&path=/&host=vp34.cc.cd&packetEncoding=xudp&sni=vp34.cc.cd&fp=chrome#Malaysia
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=4.oncloudnineservicestreang.com&fp=chrome&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&sid=04bc695105689674&type=tcp&headerType=none#D%C3%A4nemark
+trojan://OD90375861@big-bonefish.rooster465.autos:443?fp=chrome&security=tls&sni=big-bonefish.rooster465.autos&type=tcp#Luxemburg
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.170.20:2053?security=tls&type=ws&path=/&host=vp30.cc.cd&packetEncoding=none&sni=vp30.cc.cd&fp=chrome#
+vless://4feb7818-dc02-46cd-b985-abf3fdd0cdc5@cfd4.466688.xyz:443?security=tls&type=ws&path=/@https://t.me/QiangLieTuiJian?ed=2048&host=edge-4cb23bf6.pages.dev&packetEncoding=xudp&sni=edge-4cb23bf6.pages.dev&fp=chrome&encryption=none#
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.146.237:443?security=tls&type=ws&path=/pyip=proxyip.sg.cmliussss.net&host=tianshu13.pages.dev&packetEncoding=xudp&sni=tianshu13.pages.dev&fp=chrome&encryption=none#USA
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@64.186.229.189:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#USA
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.146.66:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#USA
+vless://ecad47b0-249e-0014-adff-e3c8f02b1897@185.93.33.7:443?security=reality&type=tcp&packetEncoding=xudp&sni=auto.quattro-tech.ru&fp=chrome&flow=xtls-rprx-vision&sid=43dcff53849b81e6&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&encryption=none#USA
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#USA
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.146.199:443?security=tls&type=ws&path=/pyip=proxyip.sg.cmliussss.net&host=tianshu13.pages.dev&packetEncoding=xudp&sni=tianshu13.pages.dev&fp=chrome&encryption=none#USA
+trojan://humanity@www.host-tracker.com:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#
+vless://41cbcc75-759f-4707-984e-aea715046830@167.88.167.57:443?security=reality&type=tcp&packetEncoding=xudp&sni=site.rumedia-cdn.com&fp=qq&flow=xtls-rprx-vision&sid=7b661daae97b9789&pbk=vJBCJXM6AYo1zobLsW7-UzJsznfiqzVpz7OphyAbGX0#USA
+trojan://ON38567014@summary-finch.rooster465.autos:443?security=tls&sni=summary-finch.rooster465.autos&type=tcp#Deutschland
+trojan://OD90375861@52.212.156.233:443?fp=chrome&security=tls&sni=wired-tick.rooster465.autos&type=tcp#Irland
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
