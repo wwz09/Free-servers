@@ -35,26 +35,26 @@
  <h4>Список узлов: (Здесь отображается не более 20 узлов. Остальные бесплатные узлы доступны в приложении.)</h4>
     
 ```
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
-trojan://humanity@ip.myip2.qzz.io:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+trojan://PD07395842@choice-worm.rooster465.autos:443?security=tls&sni=choice-worm.rooster465.autos#%D0%93%D0%BE%D0%BD%D0%BA%D0%BE%D0%BD%D0%B3
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@66.235.200.30:8880?security=none&type=ws&path=/&host=vms.lifetime47.workers.dev#%D0%A1%D0%A8%D0%90
+vless://1a0509ce-31e5-c439-40d8-c80500000000@104.17.148.22:443?path=/v2box&security=tls&encryption=none&insecure=0&host=a.testiam13.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=a.testiam13.workers.dev#
+vless://7b102311-43fd-4e8f-877e-8090623c101d@162.159.38.42:2053?security=tls&type=ws&path=/fp=chrome&host=vp21.cc.cd&packetEncoding=xudp&sni=vp21.cc.cd&fp=chrome#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.164:8080#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5.oncloudnineservicestreang.com&fp=chrome&pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM&sid=273940fba6ad8250&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus#%D0%94%D0%B0%D0%BD%D0%B8%D1%8F
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.28.185:443?security=tls&type=ws&path=/&host=vp25.cc.cd&packetEncoding=none&sni=vp25.cc.cd&fp=chrome#
 vless://20e295db-a6af-4006-bfd6-91453f169968@188.114.97.6:443?security=tls&type=ws&path=/eyJqdW5rIjoiSFM1N0lLQmx2UU1qRzlnTiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&host=057.electrocellco-cf-057.workers.dev&packetEncoding=xudp&sni=057.ElecTRocElLco-Cf-057.wOrKeRs.dEv&fp=chrome#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.40:8880?security=none&type=ws&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&host=vms.lifetime09.workers.dev&packetEncoding=xudp&encryption=none#%D0%A1%D0%A8%D0%90
-trojan://humanity@172.64.146.102:443?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#%D0%A1%D0%A8%D0%90
-vless://570f215b-a5f5-437e-82a9-bcd9bb50bf56@198.41.209.68:8443?security=tls&type=ws&path=/proxyip=185.219.132.27?u=4c565566d0&host=nova-luna-garden-62bf.nova-f7df4b.workers.dev&packetEncoding=xudp&sni=nova-luna-garden-62bf.nova-f7df4b.workers.dev&fp=chrome&encryption=none#
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.58.87:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=/fp&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%D0%A1%D0%A8%D0%90
-vless://63f1ef69-92fd-427a-b3e4-98ffddf81ac6@www.speedtest.net:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=young-rice-749e.heliy78750.workers.dev&path=%2FnPKoVRUdyuRZ6jpY%2FYnBiLnlvdXNlZi5pc2VnYXJvLmNvbSxwcm94eWlwLmNtbGl1c3Nzcy5uZXQsbmltYS5uc2NsLmlyLHR1cmsucmFkaWNhbGl6YXRpb24uaXI%3D&security=none&type=ws#
-vless://5659b42c-636f-4563-ac41-87d565d0dd1e@cf9.466688.xyz:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.autumniussss.net&host=autumn-base-0eb9.116-d25.workers.dev&packetEncoding=xudp&encryption=none#
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0+%D0%9A%D0%BE%D1%80%D0%B5%D1%8F
-vless://e11664a1-39e9-4dd8-a432-b712ec423262@104.19.1.100:2082?security=none&type=ws&path=/?ed=2560&host=tianshu.kevqwkt451.workers.dev&packetEncoding=xudp&encryption=none#
-vless://663cf772-829c-4bc6-893d-b7d021d42f5b@91.193.59.101:443?encryption=none&host=vp8.cc.cd&path=%2F&security=tls&sni=vp8.cc.cd&type=ws#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
-vmess://eyJhZGQiOiAiNDUuNzYuMjAyLjQ1IiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDcxYThhNzEtYzY1Ni00ZmI2LWE5MDgtNGU0MmViNzIyNDNkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saWtzdXpjcCIsICJwb3J0IjogNDAxMCwgInBzIjogIlx1MDQyZlx1MDQzZlx1MDQzZVx1MDQzZFx1MDQzOFx1MDQ0ZiIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@icook.hk:443?security=tls&type=ws&path=/?ed=2560fp=chrome&host=misaka.cndyw.ggff.net&packetEncoding=xudp&sni=misaka.cndyw.ggff.net&fp=chrome#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%D0%AE%D0%90%D0%A0
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:104.21.69.164]:2087?security=tls&type=ws&path=/yyru4ludskje&host=ems.arc-time.workers.dev&packetEncoding=xudp&alpn=h3&sni=EMS.Arc-Time.Workers.DEV&fp=chrome#
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.146.28:443?security=tls&type=ws&path=/pyip=proxyip.sg.cmliussss.net&host=tianshu13.pages.dev&packetEncoding=xudp&sni=tianshu13.pages.dev&fp=chrome&encryption=none#%D0%A1%D0%A8%D0%90
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.130.125.126:443?security=tls&type=ws&path=/rdfgtws&host=vangoghhh.info&packetEncoding=xudp&sni=vangoghhh.info&fp=chrome&encryption=none#%D0%A1%D0%B5%D0%B9%D1%88%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5+%D0%BE-%D0%B2%D0%B0
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.limaklhc6.info:8443?encryption=none&security=tls&type=ws#%D0%A1%D0%A8%D0%90
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
+vless://663cf772-829c-4bc6-893d-b7d021d42f5b@162.159.38.124:2087?security=tls&type=ws&path=/&host=vp8.cc.cd&packetEncoding=none&sni=vp8.cc.cd&fp=chrome#
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.128:443?allowInsecure=1&fp=chrome&security=tls&sni=185.137.157.128&type=tcp#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
+vless://1f6531a1-a6eb-4274-9f51-4a0899456fcf@195.254.165.243:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=zSjG6wndmLAzE8ykCBXpAm2eh0viWVSy3gt2juXF4EE&security=reality&sid=eaa8&sni=play.google.com&type=tcp#%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D1%8F
+vless://8a955134-3457-432b-848d-7064bb1dbc1f@172.67.78.2:2053?security=tls&type=ws&path=/?u=bugfreenet&host=nova-falcon-garden-a127.rezashokriurmia17.workers.dev&packetEncoding=xudp&sni=nova-falcon-garden-a127.rezashokriurmia17.workers.dev&fp=chrome&encryption=none#%D0%A1%D0%A8%D0%90
+vless://767b6340-96dc-4aa0-8013-a8af7513d920@singapore.com:8443?security=tls&type=ws&path=/&host=c7dabe95.proxy-978.pages.dev&packetEncoding=xudp&sni=c7dabe95.proxy-978.pages.dev&fp=chrome#
+vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?encryption=none&security=reality&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&mode=gun#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cdns.doon.eu.org:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#%D0%A1%D0%A8%D0%90
+trojan://humanity@159.112.235.52:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#%D0%A1%D0%A8%D0%90
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.44.211:2083?security=tls&type=ws&path=/&host=wk1.f1w.de5.net&packetEncoding=xudp&sni=wk1.f1w.de5.net&fp=chrome#%D0%A1%D0%A8%D0%90
+vless://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.67:443?security=tls&type=ws&path=/&host=vp21.cc.cd&packetEncoding=xudp&sni=vp21.cc.cd&fp=chrome#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+vless://7b102311-43fd-4e8f-877e-8090623c101d@8.39.125.85:2083?security=tls&type=ws&path=/&host=vp12.cc.cd&packetEncoding=xudp&sni=vp12.cc.cd&fp=chrome#%D0%9C%D0%B0%D0%BB%D0%B0%D0%B9%D0%B7%D0%B8%D1%8F
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
