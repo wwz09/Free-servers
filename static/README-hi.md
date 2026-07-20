@@ -35,26 +35,26 @@
  <h4>नोड सूची: (यहां अधिकतम 20 नोड दिखाए जाते हैं। अन्य मुफ्त नोड ऐप में प्राप्त करें)</h4>
     
 ```
-vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@fin1.panel11.ru:443?security=reality&type=tcp&packetEncoding=xudp&sni=fin1.panel11.ru&fp=chrome&flow=xtls-rprx-vision&sid=aaec521b22bbe6cb&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&encryption=none#Seychelles
-vless://8bba3194-4856-46d1-8319-075817d87eb1@nl16.sodahub.online:443?security=reality&type=tcp&packetEncoding=xudp&sni=nl16.sodahub.online&fp=firefox&flow=xtls-rprx-vision&sid=c334408a1056aaf8&pbk=oGgupP3uX0TNyFwuxNYaFj-IQ8EPhCuKfJdaOHiMnV0#Russia
-vless://b08562b0-dbc0-47d1-860d-9435133b25c9@172.64.147.227:443?security=tls&type=ws&path=/QiangLieTuiJian?ed&host=cfoo-146.pages.dev&packetEncoding=xudp&sni=cfoo-146.pages.dev&fp=chrome&encryption=none#United+States
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.146.1:443?security=tls&type=ws&path=/pyip=proxyip.sg.cmliussss.net&host=tianshu13.pages.dev&packetEncoding=xudp&sni=tianshu13.pages.dev&fp=chrome&encryption=none#United+States
-trojan://ON38567014@witty-stallion.rooster465.autos:443?security=tls&sni=witty-stallion.rooster465.autos#Ireland
-vless://7b102311-43fd-4e8f-877e-8090623c101d@162.159.35.218:2053?security=tls&type=ws&path=/&host=vp18.cc.cd&packetEncoding=xudp&sni=vp18.cc.cd&fp=chrome#
-vless://663cf772-829c-4bc6-893d-b7d021d42f5b@7.cf.3666888.xyz:443?security=tls&type=ws&path=/&host=vp1.cc.cd&packetEncoding=none&sni=vp1.cc.cd&fp=chrome#
-trojan://humanity@162.159.91.211:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#
-vless://7b102311-43fd-4e8f-877e-8090623c101d@173.245.58.230:2096?security=tls&type=ws&path=/&host=vp39.cc.cd&packetEncoding=none&sni=vp39.cc.cd&fp=chrome#United+States
-vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@195.16.73.132:443?security=reality&type=tcp&packetEncoding=xudp&sni=no.cache-4d8a.com&fp=chrome&flow=xtls-rprx-vision&sid=9d84de9d9f7b85e9&pbk=7wLv5M4GZGhqMAGVj9zdHyW-RrSRdrYAu1Aaqa8N1nY&encryption=none#Norway
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@91.193.58.201:443?encryption=none&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=vangoghhh.info&type=ws#United+Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#United+States
-trojan://humanity@104.16.174.37:443?allowInsecure=1&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-vless://7b102311-43fd-4e8f-877e-8090623c101d@172.67.75.133:2053?security=tls&type=ws&path=/&host=vp37.cc.cd&packetEncoding=xudp&sni=vp37.cc.cd&fp=chrome#United+States
-vmess://eyJhZGQiOiAibjE3NDc2MjQyNzQuNHU5bWEuaWN1IiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZDhkYWY1MDctYTRhYy00ZWVhLTgzOTktOGYwY2QwNzFlYjUyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJTaW5nYXBvcmUiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://94878fe1-5e8b-4676-9ee0-a90267a596e5@144.31.27.179:443?security=reality&type=raw&packetEncoding=xudp&sni=site.rumedia-cdn.com&fp=chrome&flow=xtls-rprx-vision&sid=b08c5eb124a5877e&pbk=8jwT95mGT7dW1VkMVt8vtwbWLgHN39tnhnt6PN1FTmU&encryption=none#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@43.224.34.216:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#Japan
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.30:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime23.workers.dev&packetEncoding=xudp&sni=212.183.88.30&encryption=none#Austria
-vless://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.76.39.116:443?security=reality&encryption=none&pbk=MKXQ6n6iRohWguhAZqABw5XBiymVYZdK7hX9zua0Ik4&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ag-02.rita-cloud.com&sid=51ef5a427b3615ee#United+Kingdom
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@64.176.61.162:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#Japan
+vless://8bba3194-4856-46d1-8319-075817d87eb1@nl3.cyphervpn.pro:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=nl3.cyphervpn.pro&fp=firefox&flow=xtls-rprx-vision&sid=8f9d033ad6d2cebf&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc#Poland
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.122.18:443?security=tls&type=ws&path=/fp&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.19.145.11:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
+trojan://PD07395842@golden-fox.rooster465.autos:443?fp=chrome&security=tls&sni=golden-fox.rooster465.autos&type=tcp#United+States
+vless://24c2a873-4584-4c53-8679-61029682d0bb@172.67.209.127:8880?encryption=none&security=none&type=ws&host=soft-thunder-bc22.111-f59.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#United+States
+trojan://ON38567014@vast-turkey.rooster465.autos:443?security=tls&sni=vast-turkey.rooster465.autos#Ireland
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.19.32.233:443?security=tls&type=ws&path=/&host=vp13.cc.cd&packetEncoding=none&sni=vp13.cc.cd&fp=chrome#
+vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@fin1.panel11.ru:443/?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&security=reality&sid=aaec521b22bbe6cb&sni=fin1.panel11.ru&type=tcp#Seychelles
+trojan://humanity@202.37.33.80:443?type=ws&security=tls&path=/assignment&host=www.creationlong.org&sni=www.creationlong.org&insecure=0&allowInsecure=0#New+Zealand
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.160.233:2096?security=tls&type=ws&path=/&host=vp26.cc.cd&packetEncoding=none&sni=vp26.cc.cd&fp=chrome#
+vless://df26029b-bffe-4ce2-9246-25b52ed2b1c7@162.159.48.193:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=polished-field-4448.186-705.workers.dev&packetEncoding=xudp&encryption=none#
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.147.131:443?security=tls&type=ws&path=/pyip=proxyip.sg.cmliussss.net&host=tianshu13.pages.dev&packetEncoding=xudp&sni=tianshu13.pages.dev&fp=chrome&encryption=none#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.12.210:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.40.49:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#United+States
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.19.50.8:8443?security=tls&type=ws&path=/&host=vp34.cc.cd&packetEncoding=none&sni=vp34.cc.cd&fp=chrome#
+vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.zen2bswa.info:8443?security=tls&type=ws&path=/&host=ad-004.zen2bswa.info&packetEncoding=xudp&sni=ad-004.zen2bswa.info&fp=chrome&encryption=none#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.55:28061#India
+trojan://ON38567014@fit-calf.rooster465.autos:443?security=tls&sni=fit-calf.rooster465.autos#Ireland
+vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4yNTAiLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE4MCIsICJwcyI6ICJVbml0ZWQgS2luZ2RvbSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://fb978279-0a28-4045-8258-e9ab97deaf2b@8.39.125.78:8443?security=tls&type=ws&path=/&host=wefast.ccwu.cc&packetEncoding=xudp&sni=wefast.ccwu.cc&fp=chrome#Malaysia
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

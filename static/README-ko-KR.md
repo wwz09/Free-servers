@@ -35,26 +35,26 @@
  <h4>노드 목록: (여기에는 최대 20개 노드만 표시됩니다. 다른 무료 노드는 앱에서 받을 수 있습니다.)</h4>
     
 ```
-vless://8736d94e-1401-da06-191f-aa7500000000@node-6116129920-9b22ee.mamadmamadi1333-16aa.workers.dev:443?security=tls&type=ws&path=/sync&host=node-6116129920-9b22ee.mamadmamadi1333-16aa.workers.dev&packetEncoding=xudp&sni=node-6116129920-9b22ee.mamadmamadi1333-16aa.workers.dev&fp=chrome&encryption=none#
-trojan://ON38567014@one-quail.rooster465.autos:443?security=tls&sni=one-quail.rooster465.autos#France
-vless://2166fcae-8e93-4f50-d3c4-94c7042767ac@82.158.229.125:11126?encryption=none&security=&type=tcp#Spain
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.24.40.13:443?security=tls&type=ws&path=/fp&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#
-trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#
-vless://0b7a91b4-3a46-4152-a09e-67cfba3b5a5a@support.netraidly.ru:40443?security=reality&encryption=none&pbk=3kFPRhnvODE81XecHw1X7eOwD9Fs1sr8_OCYM2ET7EQ&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2fe7#Brazil
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#India
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo21.fordnsdirect.shop:8880?authority=v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&mode=gun&security=tls&type=grpc#France
-vless://795d5f5b-318c-49a6-844f-ee2ab63bbe94@35.180.187.82:12228?security=reality&type=raw&packetEncoding=xudp&sni=www.tesla.com&fp=chrome&flow=xtls-rprx-vision&sid=59625eb3275249ca&pbk=hvyaRhFtrj3cGv1Ya5uXpE256i2PoUi2fOgU0KlvKmI&encryption=none#France
-vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&type=tcp&packetEncoding=xudp&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&encryption=none#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.72.41:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United+States
-vless://663cf772-829c-4bc6-893d-b7d021d42f5b@188.164.248.77:2083?encryption=none&fp=chrome&host=vp7.cc.cd&path=/&security=tls&sni=vp7.cc.cd&type=ws#The+Netherlands
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@66.81.247.91:443?security=tls&type=ws&path=/rdfgtws&host=vangoghhh.info&packetEncoding=xudp&sni=vangoghhh.info&fp=chrome&encryption=none#United+States
-vless://40de6299-d792-4868-8a82-411ead0aa943@144.124.246.55:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=ed7b9bdfedb9b8e5&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&encryption=none#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099#Taiwan
-vless://fb978279-0a28-4045-8258-e9ab97deaf2b@162.159.45.7:8443?security=tls&type=ws&path=/&host=wefast.ccwu.cc&packetEncoding=xudp&sni=wefast.ccwu.cc&fp=chrome#
-trojan://humanity@2.144.21.112:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Iran
-trojan://CF68213490@capable-eel.rooster465.autos:443?security=tls&sni=capable-eel.rooster465.autos#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.19.206.162:443?security=tls&type=ws&path=/fp&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#
+vless://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.143:2087/?type=ws&encryption=none&flow=&host=vp24.cc.cd&path=/&security=tls&sni=vp24.cc.cd&alpn=channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpn-channel@networld_vpnchannel@networld_vpn-&fp=chrome#The+Netherlands
+trojan://ON38567014@grown-rhino.rooster465.autos:443?fp=chrome&security=tls&sni=grown-rhino.rooster465.autos&type=tcp#Luxembourg
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.171.126:8443?security=tls&type=ws&path=/&host=vp15.cc.cd&packetEncoding=xudp&sni=vp15.cc.cd&fp=firefox#
+vless://663cf772-829c-4bc6-893d-b7d021d42f5b@104.26.13.217:2087?security=tls&type=ws&path=/&host=vp8.cc.cd&packetEncoding=none&sni=vp8.cc.cd&fp=chrome#
+vless://7b102311-43fd-4e8f-877e-8090623c101d@162.159.35.218:2053?security=tls&type=ws&path=/&host=vp18.cc.cd&packetEncoding=xudp&sni=vp18.cc.cd&fp=chrome#
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@108.162.194.119:443?security=tls&type=ws&path=/sea&host=deicl.redstone-vex.sbs&packetEncoding=xudp&sni=deicl.redstone-vex.sbs&fp=chrome&encryption=none#United+States
+trojan://ON38567014@vast-turkey.rooster465.autos:443?security=tls&sni=vast-turkey.rooster465.autos#Ireland
+vless://c0496281-b45a-48b7-88c8-e281f7935903@pla.allonetworks.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=dev.max.ru&pbk=sM0zI55WTZvcPhpGauMG84bVXeKcdWlavg16JEdAQn8&sid=f69ec2803b8d#Iran
+vless://4e0f4e59-3613-4f0c-b824-7348413d20e6@jyvlryz.cvewfjg.shop:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=250b5976473a&pbk=UE8hUjH1WYwemxIriq5lvtFCnHTdLF817okXr-u7MGs#Canada
+vless://8bba3194-4856-46d1-8319-075817d87eb1@fi3.cyphervpn.pro:443?security=reality&type=tcp&packetEncoding=xudp&sni=fi3.cyphervpn.pro&fp=firefox&flow=xtls-rprx-vision&sid=8f9d033ad6d2cebf&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc#United+Kingdom
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.149.209:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#United+States
+vless://7b102311-43fd-4e8f-877e-8090623c101d@162.159.38.42:2053?security=tls&type=ws&path=/fp=chrome&host=vp21.cc.cd&packetEncoding=xudp&sni=vp21.cc.cd&fp=chrome#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.164:8080#United+Kingdom
+vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.speedtest.net&fp=chrome&flow=xtls-rprx-vision&sid=3d3c1e645f763ee3&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&encryption=none#Canada
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.26.1.53:443?security=tls&type=ws&path=/&host=vp26.cc.cd&packetEncoding=none&sni=vp26.cc.cd&fp=chrome#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001287h3p.cybervena.com:50099#Taiwan
+vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@45.130.125.51:443?path=/jdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&fp=chrome&type=ws&allowInsecure=0&sni=amooaliii.net#Seychelles
+trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#United+States
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>

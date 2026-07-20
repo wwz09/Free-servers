@@ -36,17 +36,18 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?fp=chrome&path=%2Fin-pdr&security=tls&sni=space.byu.id.yxls.eu.cc&type=ws#%E8%8D%B7%E5%85%B0+V2CROSS.COM
-vless://7b102311-43fd-4e8f-877e-8090623c101d@198.41.209.134:2087?security=tls&type=ws&path=/&host=vp36.cc.cd&packetEncoding=none&sni=vp36.cc.cd&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://7b102311-43fd-4e8f-877e-8090623c101d@162.159.39.251:2053?security=tls&type=ws&path=/&host=vp28.cc.cd&packetEncoding=none&sni=vp28.cc.cd&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://9b14cdbe-bcfe-4178-a674-3ad88a7c6f6a@cf3.466688.xyz:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net@https://t.me/QiangLieTuiJian&host=summer-snow-c151.320-3ef.workers.dev&packetEncoding=xudp&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.2:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.153.159:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-ss://YWVzLTI1Ni1nY206OTVjM2QxMTQtNTM3MC0zZTU0LTgzMmEtNWE1YWNjNDkyYjli@1.n.c.5.h.z.q.e.d.fr01-ae5.entry.v51124-5.qpon:20068#%E4%B8%8A%E6%B5%B7%E5%B8%82+%E7%94%B5%E4%BF%A1
-vless://891710f4-45f3-41b1-99a6-6f1510f83c10@167.82.77.173:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&security=tls&encryption=none&insecure=0&host=pan21.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.191.115:443?security=tls&type=ws&path=/&host=vp26.cc.cd&packetEncoding=none&sni=vp26.cc.cd&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@mfa.gov.ua:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.45.7:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+ss://YWVzLTI1Ni1nY206OTVjM2QxMTQtNTM3MC0zZTU0LTgzMmEtNWE1YWNjNDkyYjli@1.n.c.5.h.z.q.e.d.fr01-ae5.entry.v51124-5.qpon:20068#%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%9C%E8%8E%9E%E5%B8%82+%E8%81%94%E9%80%9A
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:443#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.52.134:8443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?host=space.byu.id.yxls.eu.cc&path=%2Fin-pdr&security=tls&sni=space.byu.id.yxls.eu.cc&type=ws#%E8%8D%B7%E5%85%B0+V2CROSS.COM
+trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=149.104.104.58#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://humanity@188.114.98.0:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97+CloudFlare%E8%8A%82%E7%82%B9
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@yx.cloudflare.182682.xyz:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t111.rittbo.kdns.fr&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://424fa201-3f94-479e-b533-d5257cf9a207@89.117.112.4:80?security=none&type=ws&path=/pyip=Telegram🇨🇳 @VPNine1&host=floral-thunder-10d3.82-67d.workers.dev&packetEncoding=xudp&encryption=none#%E7%AB%8B%E9%99%B6%E5%AE%9B+V2CROSS.COM
+vless://d7b8d855-352f-44fd-a20f-7e8ff06d0f66@31.56.146.93:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=8i-67NPZNxTU8dgnF5yKYpijyu4GbQsDOdZSHQjsLGQ&security=reality&sni=tradingview.com&type=tcp#%E4%BC%8A%E6%9C%97+V2CROSS.COM
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@77.110.113.188:443?security=reality&type=raw&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&sid=1559b440&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&encryption=none#%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF+V2CROSS.COM
+trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#%E5%8D%B0%E5%BA%A6+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
