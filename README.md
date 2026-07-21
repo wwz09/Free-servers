@@ -36,19 +36,17 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-vless://bdc00b0d-e5f5-4cde-8414-6eb7ab5af117@51.250.84.76:443?security=reality&encryption=none&pbk=Py03aPnCma9Ip4xCvtBsK77NScUYphSw46RmdjFSvls&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=a374f536afccddfe#%E8%8B%B1%E5%9B%BD+%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%A9%E5%AE%89%E5%85%A8%E9%83%A8
-vless://612f78a0-65ca-45af-a3ff-7d0f8e9f8655@cf5.466688.xyz:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net@https://t.me/QiangLieTuiJian&host=broken-star-c5ae.446.workers.dev&packetEncoding=xudp&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 trojan://IQ68037294@casual-stallion.rooster465.autos:443?security=tls#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-vless://153560b0-1a33-4b44-b059-ca5b22e55c19@corelink.su:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=corelink.su&fp=chrome&pbk=b0y3fVgL8jKbO3cNmh_qCoZWoWRsY6BYc6VDJFkNe2I&sid=b7fc0f11dda97edb&type=tcp&headerType=none#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
-vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100?security=none&type=tcp&packetEncoding=xudp&encryption=none#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-ss://YWVzLTI1Ni1nY206YTE3MmNmMGQtYWU4OS00MmYzLTg1MDUtMGM1MWRhZTI5M2Ex@8.210.171.48:443#%E9%A6%99%E6%B8%AF+%E9%98%BF%E9%87%8C%E4%BA%91
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.45.249:8443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls&sni=38.54.64.247#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
-vless://cbcf2255-6d66-4039-b7d6-c10d6ffc99e7@199.232.222.178:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@172.64.147.29:443?security=tls&type=ws&path=/pyip=proxyip.sg.cmliussss.net&host=tianshu13.pages.dev&packetEncoding=xudp&sni=tianshu13.pages.dev&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@cloudflare.182682.xyz:443?security=tls&type=ws&path=/&host=edt2.yfqh08811.ccwu.cc&packetEncoding=xudp&sni=edt2.yfqh08811.ccwu.cc&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=149.104.104.58#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://IQ68037294@glowing-deer.rooster465.autos:443?allowInsecure=0&security=tls#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+trojan://IQ68037294@still-mastodon.rooster465.autos:443?allowInsecure=1&security=tls&sni=still-mastodon.rooster465.autos#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.46:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vless://7b102311-43fd-4e8f-877e-8090623c101d@60.205.5.16:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vp58.cc.cd&path=Telegram🇨🇳 @VPNine1&security=tls&sni=vp58.cc.cd&type=ws#%E5%8C%97%E4%BA%AC%E5%B8%82+%E9%98%BF%E9%87%8C%E4%BA%91BGP%E6%9C%8D%E5%8A%A1%E5%99%A8
 trojan://IQ68037294@sterling-vervet.rooster465.autos:443?security=tls#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&type=tcp&packetEncoding=xudp&encryption=none#%E5%BE%B7%E5%9B%BD+V2CROSS.COM
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@172.67.74.2:443?security=tls&type=ws&path=/rsedgws&host=shegeftihaaa.net&ed=2048&packetEncoding=xudp&sni=shegeftihaaa.net&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls&sni=38.54.64.247&type=tcp#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
+vless://3d675570-43d2-443e-93bb-29b9d1fdc563@167.172.173.163:58324?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray&security=none#%E5%BE%B7%E5%9B%BD+%E9%BB%91%E6%A3%AE%E5%B7%9E%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8FDigitalOcean%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://OccIqeORGQwiNkwS@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
