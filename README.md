@@ -36,15 +36,12 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@194.87.161.60:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=%2Fv1#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=149.104.104.58#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?security=tls&sni=space.byu.id.yxls.eu.cc&type=ws&path=/in-pdr&Host=space.byu.id.yxls.eu.cc#%E8%8D%B7%E5%85%B0+V2CROSS.COM
-trojan://p2QFnWdKPZt0evve7n-C52fTqRndJa5W@rem.dtr.kotokopolb.ru:443?fp=chrome&path=%2Ftrojan-ws&security=tls&type=ws#%E6%97%A5%E6%9C%AC+V2CROSS.COM
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?path=/&security=tls&encryption=none&insecure=0&host=c7dabe95.proxy-978.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=c7dabe95.proxy-978.pages.dev#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:17623?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&encryption=none#%E6%96%B0%E5%8A%A0%E5%9D%A1+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+ss://YWVzLTI1Ni1nY206RU1JcnVGbDZuTjM3TERReENJd3N0RzA5aGFDQmt5anZaVmpXSU1PUTBKaz0=@94.183.124.95:82#%E4%BC%8A%E6%9C%97+V2CROSS.COM
+trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?path=/in-pdr&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#%E8%8D%B7%E5%85%B0+V2CROSS.COM
+vless://7b102311-43fd-4e8f-877e-8090623c101d@60.205.5.16:443?security=tls&type=ws&path=/Telegram🇨🇳 @VPNine1&host=vp58.cc.cd&ed=2560&packetEncoding=xudp&sni=vp58.cc.cd&fp=chrome&encryption=none#%E5%8C%97%E4%BA%AC%E5%B8%82+%E9%98%BF%E9%87%8C%E4%BA%91BGP%E6%9C%8D%E5%8A%A1%E5%99%A8
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@yx.cloudflare.182682.xyz:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&allowinsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path=/#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 vless://3d675570-43d2-443e-93bb-29b9d1fdc563@167.172.173.163:58324?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray&security=none#%E5%BE%B7%E5%9B%BD+%E9%BB%91%E6%A3%AE%E5%B7%9E%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8FDigitalOcean%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-hysteria2://Uq5DgLZRU6hpn7ydRcePOeOk4i1c2tJIEk3rMZMUobo@144.31.107.101:25447?alpn=h3&insecure=1&security=tls&sni=devideo.h2corp.org#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://8c8d8180-a2c5-4478-a86e-4117f841e88e@31.192.244.42:12683?encryption=none&type=tcp#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-vless://7b102311-43fd-4e8f-877e-8090623c101d@172.67.75.217:2096?security=tls&type=ws&path=/&host=vp14.cc.cd&packetEncoding=xudp&sni=vp14.cc.cd&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
