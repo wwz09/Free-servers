@@ -35,26 +35,26 @@
  <h4>Lista węzłów: (Tutaj wyświetlanych jest maksymalnie 20 węzłów. Pozostałe bezpłatne węzły są dostępne w aplikacji.)</h4>
     
 ```
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.207:443?path=/fp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Seychelles
-hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@fl02.auragg.org:8443?insecure=1&security=tls&sni=fl02.auragg.org#Russia
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@celestara.biz:8443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.38.47:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@104.17.147.109:443?host=octopusss.net&sni=octopusss.net&fp=chrome&encryption=none&insecure=0&allowInsecure=0&type=ws&security=tls&path=/odiyfws#
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@173.245.59.1:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#United+States
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?path=/rdfgtws&security=tls&encryption=none&insecure=1&host=vangoghhh.info&type=ws&allowInsecure=1&sni=vangoghhh.info#The+Netherlands
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@144.24.73.232:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#South+Korea
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@146.56.187.1:8443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#South+Korea
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.1.37:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.12.210:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@168.138.165.174:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#Singapore
-vless://c5389662-95a5-4e51-8bc2-e94d8f42af22@104.16.92.229:80?path=/&security=none&encryption=none&host=ads01-cdn.sabzi.name.ng.&type=ws#
-trojan://OD90375861@18.202.244.191:443?security=tls&sni=fit-calf.rooster465.autos#Ireland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA==@68.168.222.210:1234#United+States
-vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#France
-vless://8bba3194-4856-46d1-8319-075817d87eb1@nl15.sodahub.online:443?security=reality&encryption=none&pbk=oGgupP3uX0TNyFwuxNYaFj-IQ8EPhCuKfJdaOHiMnV0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl15.sodahub.online&sid=c334408a1056aaf8#Ukraine
-hysteria2://71cada65-d23e-418c-88e4-a06188d14689@swe-one.quiet-rogue.site:443?security=tls&sni=swe-one.quiet-rogue.site#Bulgaria
-vless://e4824193-4f54-453b-d037-88368e85ef0e@198.41.209.87:443?alpn=h2,http/1.1&encryption=none&security=tls&sni=gco1.afterdomain.shop&type=grpc#
+trojan://NQ26071394@upward-hedgehog.rooster465.autos:443?security=tls&sni=upward-hedgehog.rooster465.autos#Romania
+trojan://humanity@104.16.174.71:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=www.ignitelimit.com&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#United+States
+trojan://humanity@104.21.40.34:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#
+trojan://NQ26071394@better-silkworm.rooster465.autos:443?fp=chrome&security=tls&sni=better-silkworm.rooster465.autos&type=tcp#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.8.42:443?security=tls&type=ws&path=/fp=chrome&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome#
+vless://594b601b-b807-4998-a44e-9466f92ee4fa@193.111.117.8:1443?security=reality&type=tcp&packetEncoding=xudp&sni=pls.snowfall.top&fp=chrome&flow=xtls-rprx-vision&sid=0441f3e34348cb45&pbk=jtEyL2mfSJ5rlvpMfYgkY6HaleCFRif0DnOOOXNHhxg&encryption=none#United+States
+vless://5b9fa73b-b549-480b-add9-c45e650d236f@104.17.69.244:443?security=tls&type=ws&path=/&host=gddy.hhlfy.de5.net&packetEncoding=xudp&sni=gddy.hhlfy.de5.net&fp=firefox&encryption=none#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.53.65:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#United+States
+trojan://humanity@162.159.91.211:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#
+trojan://ON38567014@popular-meerkat.rooster465.autos:443?fp=chrome&security=tls&sni=popular-meerkat.rooster465.autos&type=tcp#United+States
+vless://fb978279-0a28-4045-8258-e9ab97deaf2b@104.19.33.83:443?security=tls&type=ws&path=/&host=ourfast.ccwu.cc&packetEncoding=none&sni=ourfast.ccwu.cc#
+vless://ba0f90b6-3c3c-4701-b2b6-afe57da05527@usr.sempai.site:443?security=reality&type=tcp&packetEncoding=xudp&sni=usr.sempai.site&fp=firefox&flow=xtls-rprx-vision&pbk=oL0fquzIu8nvRFNp2nKKZ1V93VJBHfYKTHQLHW9vK2s&encryption=none#Lithuania
+vless://12cb0a24-0438-4980-8617-9c93205895fa@185.193.30.94:443?security=tls&type=ws&path=/&host=kakoolnews.whattodowhatnottodo.workers.dev&packetEncoding=xudp&sni=kakoolnews.whattodowhatnottodo.workers.dev&fp=chrome&encryption=none#United+Kingdom
+trojan://IQ68037294@moving-wren.rooster465.autos:443?security=tls&sni=moving-wren.rooster465.autos#Ireland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080#United+Kingdom
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@8.6.112.0:443?security=tls&type=ws&path=/rsedgws&host=shegeftihaaa.net&packetEncoding=xudp&sni=shegeftihaaa.net&fp=chrome&encryption=none#Austria
+trojan://KV63147582@3.76.41.23:443?fp=chrome&security=tls&sni=evolving-baboon.rooster465.autos#Germany
+vless://11e9eea1-b1a9-4f02-a1a1-b24f7664b1cf@104.21.75.235:443?security=tls&type=ws&path=/eyJqdW5rIjoiYW1sczlYWkFHOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&host=ancient-heart-60c5.dpccgizieb.workers.dev&packetEncoding=xudp&sni=ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV&fp=chrome&encryption=none#
+vless://07f9bc85-613f-4a33-8da1-191973c43c0a@app-q0zc4t.user-4gfyh5.workers.dev:443?encryption=none&security=tls&type=ws#
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

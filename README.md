@@ -36,15 +36,16 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-vless://8546bcef-8456-41a2-82bc-d2231b42b769@www.baipiao.eu.org:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=small-tree-9ec0.84-971.workers.dev&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption=none&security=none&type=tcp&headerType=http&host=gr1.fifapes.monster&path=%2F#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.45:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&host=---@sil3nt_network---@sil3nt_network---@sil3nt_network---@sil3nt_network---@sil3nt_network---@sil3nt_network---@sil3nt_network---@sil3nt_network---@sil3nt_network---@sil3nt_network---@sil3nt_network---@sil3nt_network---@sil3nt_network---@sil3nt_network---@sil3nt_network---@sil3nt_network&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#%E5%8D%97%E9%9D%9E+V2CROSS.COM
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.180.39:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F%40NebulaVPNx&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.153.159:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://3d675570-43d2-443e-93bb-29b9d1fdc563@167.172.173.163:58324?security=none&type=tcp&headerType=http&path=/@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray,@Nap_v2ray&host=play.google.com&packetEncoding=xudp&encryption=none#%E5%BE%B7%E5%9B%BD+%E9%BB%91%E6%A3%AE%E5%B7%9E%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8FDigitalOcean%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://humanity@104.26.6.159:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#%E5%8D%B0%E5%BA%A6+V2CROSS.COM
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.52.134:8443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://7b102311-43fd-4e8f-877e-8090623c101d@60.205.5.16:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vp58.cc.cd&path=Telegram🇨🇳 @VPNine1&security=tls&sni=vp58.cc.cd&type=ws#%E5%8C%97%E4%BA%AC%E5%B8%82+%E9%98%BF%E9%87%8C%E4%BA%91BGP%E6%9C%8D%E5%8A%A1%E5%99%A8
-vless://4a1441b0-7bc8-4906-85cf-6b59c256b480@cloudflare.182682.xyz:443?security=tls&type=ws&path=/&host=edt2.yfqh08811.ccwu.cc&packetEncoding=xudp&sni=edt2.yfqh08811.ccwu.cc&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=149.104.104.58#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+ss://YWVzLTI1Ni1nY206RU1JcnVGbDZuTjM3TERReENJd3N0RzA5aGFDQmt5anZaVmpXSU1PUTBKaz0=@94.183.124.95:82#%E4%BC%8A%E6%9C%97+V2CROSS.COM
+hysteria2://aa626cbf-abce-4369-9ad3-c6886312c4fb@bgpt.dd7431c0-38e1-4998-ae2b-dc830b4e6bdb.c946fa3d.demo-chat-airport.com:16883?insecure=1&security=tls#%E7%BE%8E%E5%9B%BD+DXC+Technology
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.227.134:443/?type=ws&encryption=none&flow=&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#%E5%8D%B0%E5%BA%A6+V2CROSS.COM
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.147.104:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://p2QFnWdKPZt0evve7n-C52fTqRndJa5W@rem.dtr.kotokopolb.ru:443?fp=chrome&path=%2Ftrojan-ws&security=tls&type=ws#%E6%97%A5%E6%9C%AC+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>

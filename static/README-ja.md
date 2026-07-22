@@ -35,26 +35,26 @@
  <h4>ノード リスト: (ここには最大20個のノードのみ表示されます。その他の無料ノードはアプリで取得できます)</h4>
     
 ```
-trojan://humanity@45.80.111.7:443?path=/assignment&security=tls&insecure=1&type=ws&allowInsecure=1&sni=www.calmlunch.com#%E3%83%89%E3%82%A4%E3%83%84%E9%80%A3%E9%82%A6%E5%85%B1%E5%92%8C%E5%9B%BD
-trojan://humanity@104.16.90.120:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@youxuan.cf.090227.xyz:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vmess://eyJhZGQiOiAiNDcuMjQ0LjEyMC4xOTciLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIjQ3LjI0NC4xMjAuMTk3IiwgImlkIjogIjQ1YjgzNTE5LTljNGYtNDA1Mi1hMTFiLTAyZTAxN2I2MzZkNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiAzNjcwMywgInBzIjogIlx1OTk5OVx1NmUyZiIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-vless://9e23aaba-5bf2-4810-8369-c9bf2a9979f9@72.146.184.66:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=eb4c4c6a&pbk=CVbYSDZe2130NfbcGVM7P15Xy1LifR1cf0hsJKV_4V0&encryption=none#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-trojan://humanity@104.18.152.73:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@154.83.95.129:443?security=tls&type=ws&path=/fp=chrome&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome#%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2
-trojan://SX95078263@legal-glider.rooster465.autos:443?allowInsecure=1&security=tls&sni=legal-glider.rooster465.autos&type=tcp#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.150.246:2083?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#%E8%8B%B1%E5%9B%BD
-vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@195.16.73.132:443?security=reality&type=tcp&packetEncoding=xudp&sni=no.cache-4d8a.com&fp=chrome&flow=xtls-rprx-vision&sid=9d84de9d9f7b85e9&pbk=7wLv5M4GZGhqMAGVj9zdHyW-RrSRdrYAu1Aaqa8N1nY&encryption=none#%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC%E7%8E%8B%E5%9B%BD
-trojan://humanity@45.130.125.2:443?path=/assignment&security=tls&insecure=0&host=Www.cReaTIOnLONG.OrG&type=ws&allowInsecure=0&sni=Www.cReaTIOnLONG.OrG#%E3%82%BB%E3%83%BC%E3%82%B7%E3%82%A7%E3%83%AB
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.14.137:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#
-vless://27c1d725-629c-4e65-9271-d6f5df82c7e9@xxl.orbit-escape.ru:443?security=reality&type=tcp&packetEncoding=xudp&sni=xxl.orbit-escape.ru&fp=chrome&flow=xtls-rprx-vision&sid=89965a0c305affd3&pbk=HS4Gr-vMqAOKdxn1Qr2Kwvh3UCIgr3eYWOvUTvuhJh4&encryption=none#%E8%8B%B1%E5%9B%BD
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.152.241:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.limaklhc6.info:8443?security=tls&type=ws&path=/&host=ad-013.limaklhc6.info&packetEncoding=xudp&sni=ad-013.limaklhc6.info&fp=chrome#
-trojan://PD07395842@pro-crane.rooster465.autos:443?security=tls#%E8%8B%B1%E5%9B%BD
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@193.28.186.215:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#%E9%A6%99%E6%B8%AF
-trojan://humanity@www.creationlong.org:443?alpn=http%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#
+vless://cf39cbf2-8926-43b5-ba3e-45b975019094@log.bpminecraft.com:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=snowy-feather-39d3.428.workers.dev&packetEncoding=xudp#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@fi.buycloud.app:443?security=reality&type=tcp&packetEncoding=xudp&sni=fi.buycloud.app&fp=qq&flow=xtls-rprx-vision&sid=0a30e2aee95a7571&pbk=V4SeM4OMxXoSKBmmyC5C0kZEhgL33a5vVZBe7ysJ42U&encryption=none#%E3%82%B9%E3%83%AD%E3%83%99%E3%83%8B%E3%82%A2
+trojan://IQ68037294@moral-buzzard.rooster465.autos:443?security=tls&sni=moral-buzzard.rooster465.autos#%E6%97%A5%E6%9C%AC
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.227.60.30:8880?security=none&type=ws&path=/&host=vms.lifetime18.workers.dev#%E3%82%AB%E3%83%8A%E3%83%80
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.udemy.com:2095?security=none&type=ws&path=/fp=randomized&host=cnmfangbinxing.cnmfangbinxing-s.workers.dev&packetEncoding=xudp&sni=cnmfangbinxing.cnmfangbinxing-s.workers.dev#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@161.118.158.9:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#%E6%97%A5%E6%9C%AC
+vmess://eyJhZGQiOiAiNDcuODMuMjIxLjE4NSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNzcxYTU5MGMtNWVhYy01NzMyLWI3OTYtMTcyNTExMzJmOGQyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdTMwYTJcdTMwZTFcdTMwZWFcdTMwYWIiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIkhLNSIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#%E8%8B%B1%E5%9B%BD
+vless://80cead8e-0d28-4b0a-bacd-8005471a5c39@icook.tw:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=flat-fire-40ed.96-042.workers.dev&packetEncoding=xudp#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vless://f989cbf4-40d2-41d2-8a00-1fe4e29b2192@cf5.466688.xyz:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net@https://t.me/QiangLieTuiJian&host=ancient-rice-c180.455-8ad.workers.dev&packetEncoding=xudp&encryption=none#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.20.39.109:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#
+vless://cd554b8c-aff9-45e7-bffb-eb1c4f2a585f@77.239.112.4:3690?encryption=none&type=tcp#%E8%8B%B1%E5%9B%BD
+vless://f7ed4770-81f4-47a1-9490-8b8cd684c97e@wangcai.yunzhongzhuan.com:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=silent-cloud-aa63.324-7d8.workers.dev&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=none&type=ws#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#%E8%8B%B1%E5%9B%BD
+trojan://IQ68037294@together-dingo.rooster465.autos:443?fp=chrome&security=tls&sni=together-dingo.rooster465.autos&type=tcp#%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&fp=chrome&type=ws&allowInsecure=0&sni=octopusss.net#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.26:8080#%E8%8B%B1%E5%9B%BD
+trojan://humanity@172.64.146.102:443?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thankful-piranha.rooster465.autos#%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89
+vless://fb978279-0a28-4045-8258-e9ab97deaf2b@104.20.13.116:443?security=tls&type=ws&path=/&host=ourfast.ccwu.cc&packetEncoding=xudp&sni=ourfast.ccwu.cc&fp=chrome&encryption=none#
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>
