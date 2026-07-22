@@ -35,26 +35,26 @@
  <h4>Daftar node: (Maksimal 20 node ditampilkan di sini. Node gratis lainnya bisa didapatkan di aplikasi.)</h4>
     
 ```
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@celestara.biz:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#United+Kingdom
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@108.162.196.3:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
-vless://4a805850-a2c4-42b3-898a-798f0c19c609@5xptkkpo.cf.3666888.xyz:2082?security=none&type=ws&path=/sub&host=2hx7vrum.xn--nxa.nyc.mn&packetEncoding=xudp&encryption=none#
-vless://58f4e11d-45bb-4b7d-8b33-66bb2eefa97a@104.17.151.126:2096?security=tls&type=ws&path=/&host=nova-river-cloud-1642.mehrshadamiri69.workers.dev&packetEncoding=xudp&sni=nova-river-cloud-1642.mehrshadamiri69.workers.dev&fp=chrome&encryption=none#
-trojan://humanity@43.169.18.179:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#Singapore
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.24.40.13:443?security=tls&type=ws&path=/fp&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#
-vless://12cb0a24-0438-4980-8617-9c93205895fa@216.24.57.6:8443?security=tls&type=ws&path=/&host=kakoolnews.dontstealkakoolnews.workers.dev&packetEncoding=xudp&sni=kakoolnews.dontstealkakoolnews.workers.dev&fp=chrome&encryption=none#United+States
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@de.ko.prod.n7.homes:8443?encryption=none&type=tcp&security=reality&headerType=none&sni=google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196#United+States
-trojan://PD07395842@52.32.130.95:443?security=tls&sni=tidy-gopher.rooster465.autos#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.25:443?security=tls&type=ws&path=/fp=chrome&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome#
-vless://7b102311-43fd-4e8f-877e-8090623c101d@8.35.211.192:2096?security=tls&type=ws&path=/&host=vp36.cc.cd&packetEncoding=xudp&sni=vp36.cc.cd&fp=chrome#Malaysia
-vless://ecfb4271-790e-4011-9364-6e168ed8a82a@76.164.202.210:448?security=reality&encryption=none&pbk=i34zHKfyydOveuaYnjEU4ocu662Wagkf7fIbj9qiQRA&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=9e96f30390d6be81#United+States
-trojan://humanity@45.130.125.75:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#Seychelles
-trojan://IQ68037294@fast-bunny.rooster465.autos:443?security=tls&sni=fast-bunny.rooster465.autos#United+States
-trojan://humanity@216.24.57.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#United+States
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.21.5.137:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&ech=54.mk%2Budp%3A%2F%2F178.22.122.100&type=ws&allowInsecure=0&sni=vangoghhh.info#
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576?security=reality&type=raw&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#United+States
-vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@it01.myxasecure.space:443?security=reality&type=raw&packetEncoding=xudp&sni=it01.myxasecure.space&fp=qq&flow=xtls-rprx-vision&sid=d67ec5a8fc40ebea&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw#Czechia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#United+Kingdom
+vless://bbae962a-b6e9-46e6-990c-6abf13e6b075@fi.buycloud.app:443?security=reality&type=tcp&packetEncoding=xudp&sni=fi.buycloud.app&fp=qq&flow=xtls-rprx-vision&sid=0a30e2aee95a7571&pbk=V4SeM4OMxXoSKBmmyC5C0kZEhgL33a5vVZBe7ysJ42U&encryption=none#The+Netherlands
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.228:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&echfq=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&allowinsecure=0&type=tcp&headerType=none#Hong+Kong
+trojan://IQ68037294@concise-buck.rooster465.autos:443?security=tls&sni=concise-buck.rooster465.autos#Luxembourg
+trojan://HW85960347@54.245.13.147:443?fp=chrome&security=tls&sni=sweeping-insect.rooster465.autos&type=tcp#United+States
+vless://cdb7d825-9892-4d6f-80b8-7add83159dac@43.108.48.169:40701?security=reality&type=tcp&packetEncoding=xudp&sni=amazon.com&fp=chrome&sid=7ef3a8ab2886&pbk=TWuVILeiSXfCSMZPsqNHtRquNALPRaW5Z51I63zdLEA&encryption=none#Singapore
+trojan://humanity@104.18.152.77:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+trojan://IQ68037294@fun-salmon.rooster465.autos:443?security=tls&sni=fun-salmon.rooster465.autos#Singapore
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.37.237:8443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#United+Kingdom
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.149.209:443?allowInsecure=1&encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
+trojan://JA96378052@44.245.11.36:443?allowInsecure=1&fp=chrome&security=tls&sni=careful-cow.rooster465.autos&type=tcp#United+States
+trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#Ireland
+vless://e044297a-304f-40a9-a9fb-d17b744fa781@178.104.225.122:44444?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com.&fp=chrome&sid=f37329647c9a1886&pbk=79ji8OAmCVQTKcJmvf-iqZypOSKwuTD_sbatB4RHXXM&encryption=none#United+Kingdom
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#France
+vless://9fa85900-14f9-4874-89af-eaf7c2fe4885@104.17.170.132:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=summer-hill-7bbd.149-40f.workers.dev&packetEncoding=xudp#
+vless://711c018e-2692-4aa8-93f3-544d83fcd16c@jdvymxi.cvewfjg.shop:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7a76f3c4b9dd&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs#Austria
+trojan://IQ68037294@square-anchovy.rooster465.autos:443?security=tls&sni=square-anchovy.rooster465.autos#Japan
+trojan://KV63147582@pretty-vervet.rooster465.autos:443?allowInsecure=1&fp=chrome&security=tls&sni=pretty-vervet.rooster465.autos&type=tcp#Hong+Kong
+trojan://NQ26071394@79.133.126.190:443?security=tls&sni=renewed-phoenix.rooster465.autos#The+Netherlands
+vless://8742ef5a-20a5-403f-8f6e-99a9cd0f3efb@49.12.102.241:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=orpheous.ru&fp=chrome&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4&type=tcp&headerType=none#Germany
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

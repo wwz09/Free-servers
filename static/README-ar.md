@@ -35,26 +35,26 @@
  <h4>قائمة العقد: (يتم عرض 20 عقدة كحد أقصى هنا. تتوفر العقد المجانية الأخرى في التطبيق)</h4>
     
 ```
-trojan://IQ68037294@whole-grub.rooster465.autos:443?fp=chrome&security=tls&sni=whole-grub.rooster465.autos&type=tcp#Singapore
-trojan://ON38567014@national-stingray.rooster465.autos:443?security=tls&sni=national-stingray.rooster465.autos#Luxembourg
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.186.42:443?security=tls&type=ws&path=/fp&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#United+States
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.12.41:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#
-trojan://IQ68037294@grateful-bedbug.rooster465.autos:443?security=tls&sni=grateful-bedbug.rooster465.autos#Romania
-trojan://PD07395842@united-bedbug.rooster465.autos:443?fp=chrome&security=tls&sni=united-bedbug.rooster465.autos&type=tcp#France
-trojan://IQ68037294@flexible-pony.rooster465.autos:443?security=tls&sni=flexible-pony.rooster465.autos#Japan
-trojan://NQ26071394@44.252.127.212:443?security=tls&sni=better-silkworm.rooster465.autos#United+States
-vless://84e919d1-efc6-48fc-8248-8c3cbfec9f17@tw04.kinomir.fun:40443?security=reality&encryption=none&pbk=IZn3ibz8K1yot2cj4ssmAQHVB--xrcQEc3RCFQUSRiE&headerType=none&fp=chrome&spx=/&type=tcp&sni=deepl.com&sid=2143#Brazil
-vless://23187ddc-16a5-432d-bf4e-dd42a7ae39f7@soskeynets.yunzhongzhuan.com:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=steep-thunder-97fa.108-d10.workers.dev&packetEncoding=xudp&encryption=none#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.19.145.11:443?path=/fp&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#
-trojan://KV63147582@89.39.70.233:443?fp=chrome&security=tls&sni=game-firefly.rooster465.autos&type=tcp#Romania
-trojan://JA96378052@saved-mudfish.rooster465.autos:443?security=tls&sni=saved-mudfish.rooster465.autos#Hong+Kong
-trojan://IQ68037294@just-alpaca.rooster465.autos:443?security=tls&sni=just-alpaca.rooster465.autos#Hong+Kong
-vless://ad85a1ce-3519-4634-9ea1-66c60d3694ba@104.21.12.116:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=little-pond-8731.81-68e.workers.dev&packetEncoding=xudp&encryption=none#
-trojan://humanity@104.25.112.190:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#
-vless://e3c56988-5261-400f-b21b-6af5fa6efae1@130.49.185.196:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=4ndg8TcyXMWmnEvthjh9mIWJ9mc85jzy_G9D4D5xGxM&security=reality&sid=808a7e8a2e32c697&sni=site.rumedia-cdn.com&type=tcp#United+States
-vless://68081c3e-77c2-4d22-81d5-cccedb7ca37b@cf7.466688.xyz:2053?security=tls&type=ws&path=/&host=maoyibai.ccwu.cc&packetEncoding=xudp&sni=maoyibai.ccwu.cc&fp=chrome#
-trojan://NQ26071394@powerful-squid.rooster465.autos:443?security=tls&sni=powerful-squid.rooster465.autos#The+Netherlands
-trojan://XG59623478@193.169.239.76:443?fp=chrome&security=tls&sni=renewed-chigger.rooster465.autos&type=tcp#The+Netherlands
+trojan://CF68213490@balanced-puma.rooster465.autos:443?allowInsecure=1&security=tls&sni=balanced-puma.rooster465.autos&type=tcp#United+States
+trojan://ON38567014@lucky-marmot.rooster465.autos:443?fp=chrome&security=tls&sni=lucky-marmot.rooster465.autos&type=tcp#France
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:8443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#
+trojan://ON38567014@popular-meerkat.rooster465.autos:443?fp=chrome&security=tls&sni=popular-meerkat.rooster465.autos&type=tcp#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@54.251.249.94:8443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#United+Kingdom
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@185.155.97.241:443?security=reality&type=tcp&packetEncoding=xudp&sni=web.max.ru&fp=chrome&flow=xtls-rprx-vision&sid=15aa18f971da1f81&pbk=SJkDT_L0eziQR2afDGrkN7-uRxjYu6bZxIGXlKeCvX4&encryption=none#Estonia
+ss://YWVzLTI1Ni1nY206YTE3MmNmMGQtYWU4OS00MmYzLTg1MDUtMGM1MWRhZTI5M2Ex@8.210.171.48:443#Singapore
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@43.224.34.216:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome#Japan
+trojan://IQ68037294@one-quail.rooster465.autos:443?security=tls&sni=one-quail.rooster465.autos#France
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo15.fordnsdirect.shop:8880?encryption=none&security=none&type=grpc#France
+trojan://HW85960347@54.70.42.11:443?security=tls&sni=firm-squid.rooster465.autos#United+States
+vless://dd321f25-8f90-4e7c-a1fa-01883a8988a7@108.162.192.5:443?security=tls&type=ws&path=/pyip=proxyip.cmliussss.netfp=random&host=soucuovls.pages.dev&packetEncoding=xudp&sni=soucuovls.pages.dev&fp=chrome#United+States
+trojan://IQ68037294@casual-stallion.rooster465.autos:443?security=tls&sni=casual-stallion.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#Singapore
+trojan://IQ68037294@cheerful-swan.rooster465.autos:443?security=tls&sni=cheerful-swan.rooster465.autos#The+Netherlands
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@158.247.198.196:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#South+Korea
+vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@78.159.250.214:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.ru#Russia
+trojan://IQ68037294@pumped-eft.rooster465.autos:443?security=tls&sni=pumped-eft.rooster465.autos#Japan
+trojan://CF68213490@polite-coyote.rooster465.autos:443?security=tls&sni=polite-coyote.rooster465.autos#United+States
+trojan://IQ68037294@choice-worm.rooster465.autos:443?security=tls&sni=choice-worm.rooster465.autos#Hong+Kong
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>
