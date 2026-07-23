@@ -35,26 +35,26 @@
  <h4>نوڈ کی فہرست: (یہاں زیادہ سے زیادہ 20 نوڈز دکھائے جاتے ہیں۔ دیگر مفت نوڈز ایپ میں حاصل کریں)</h4>
     
 ```
-trojan://OD90375861@3.67.171.41:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=busy-hermit.rooster465.autos#Germany
-vless://b7bda73b-9852-480e-86ff-616789593610@172.67.75.55:8443?security=tls&type=ws&path=/proxyip=31.77.161.247,31.57.190.85,208.85.17.114&host=damp-voice-0cd5.qplm2770.workers.dev&packetEncoding=xudp&sni=damp-voice-0cd5.qplm2770.workers.dev&fp=chrome&encryption=none#United+States
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.131.210.88:443?security=tls&type=ws&path=/rdfgtws&host=vangoghhh.info&packetEncoding=xudp&sni=vangoghhh.info&fp=chrome&encryption=none#The+Netherlands
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cloudflare-dns.com:2095?security=none&type=ws&path=/fp=randomized&host=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev&packetEncoding=xudp&sni=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev#
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@blog.cloudflare.com:2095?security=none&type=ws&path=/fp=randomized&host=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev&packetEncoding=xudp&sni=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev#
-trojan://IQ68037294@possible-pup.rooster465.autos:443?fp=chrome&security=tls&sni=possible-pup.rooster465.autos&type=tcp#United+States
-vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.147.175:80?security=none&type=ws&path=/&host=zyzzzoao.xn--fiqv8j.eu.org&ed=2048&packetEncoding=xudp&encryption=none#United+States
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.40:8880?security=none&type=ws&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&host=vms.lifetime35.workers.dev#Indonesia
-trojan://KV63147582@35.89.158.133:443?fp=chrome&security=tls&sni=popular-meerkat.rooster465.autos&type=tcp#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.187.251.2:1080#Belgium
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.53.27:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#United+States
-vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@hong1.panel11.ru:443?security=reality&type=tcp&packetEncoding=xudp&sni=hong1.panel11.ru&fp=firefox&flow=xtls-rprx-vision&sid=6378191533abf6df&pbk=MCdZOPt6XUdH3N8xQc6J4GElI9_9csxjsOOzwCPZjR0#United+States
-trojan://IQ68037294@still-mastodon.rooster465.autos:443?security=tls&sni=still-mastodon.rooster465.autos#Singapore
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.14.252:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
-vless://3076f0f0-558c-cbb3-0570-ca4200000014@104.25.244.62:80?security=none&type=ws&path=/sync&host=abolfazl-1.danayyabwalfdl6.workers.dev&packetEncoding=xudp&sni=abolfazl-1.danayyabwalfdl6.workers.dev&encryption=none#
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.30:8880?encryption=none&host=vms.lifetime36.workers.dev&path=%2F&security=none&type=ws#United+States
-vless://07f9bc85-613f-4a33-8da1-191973c43c0a@app-q0zc4t.user-4gfyh5.workers.dev:443?encryption=none&security=tls&type=ws#
-trojan://IQ68037294@wealthy-loon.rooster465.autos:443?security=tls&sni=wealthy-loon.rooster465.autos#Hong+Kong
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.37.237:8443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@167.179.84.175:443?security=tls&type=ws&path=/fp=chrome&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome#Japan
+vless://40de6299-d792-4868-8a82-411ead0aa943@144.124.249.252:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=ed7b9bdfedb9b8e5&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&encryption=none#United+Kingdom
+trojan://IQ68037294@curious-oryx.rooster465.autos:443?security=tls&sni=curious-oryx.rooster465.autos#Russia
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080#Canada
+trojan://IQ68037294@whole-woodcock.rooster465.autos:443?allowInsecure=1&security=tls#Romania
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.188.64:443?security=tls&type=ws&path=/fp&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#
+trojan://humanity@172.64.146.198:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#United+States
+trojan://WG39087154@fun-seagull.rooster465.autos:443?security=tls&sni=fun-seagull.rooster465.autos#Hungary
+trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@www.cnae.top:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#United+States
+vless://27c1d725-629c-4e65-9271-d6f5df82c7e9@82.23.163.53:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HS4Gr-vMqAOKdxn1Qr2Kwvh3UCIgr3eYWOvUTvuhJh4&security=reality&sid=89965a0c305affd3&sni=xxl.orbit-escape.ru&type=tcp#United+Kingdom
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@161.118.158.9:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#Japan
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.vector2llqn.info:8443?security=tls&type=ws&path=/&host=ad-010.vector2llqn.info&packetEncoding=xudp&sni=ad-010.vector2llqn.info&fp=chrome#
+trojan://ON38567014@fit-calf.rooster465.autos:443?security=tls&sni=fit-calf.rooster465.autos#Ireland
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#United+Kingdom
+vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443?security=reality&type=raw&packetEncoding=xudp&sni=uk.bvps.cloud&fp=chrome&flow=xtls-rprx-vision&sid=60debb3ab744d8ce&pbk=j5qmR8E9er-0n5zZbK6s_SdvYm-tYlraXVYm49ArWS8&encryption=none#United+States
+trojan://humanity@172.64.155.209:443?host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#United+States
+trojan://humanity@45.130.125.2:443?host=Www.cReaTIOnLONG.OrG&path=%2Fassignment&security=tls&sni=Www.cReaTIOnLONG.OrG&type=ws#Seychelles
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#United+Kingdom
+vless://104f2abd-acbb-4fdf-aab6-38135b039110@104.18.48.51:80?encryption=none&security=none&type=ws&host=falling-river-b997.hamid989898989898.workers.dev&path=%2FeyJqdW5rIjoiYnJneTIxQUtSIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNDUuODkuNTIuMTI0IiwiNjQuNDkuMTUuMTY0IiwiMTk4LjEwNS4xMjMuMjUiLCI4Mi4yNi4xMzYuMzIiLCI4Mi4yNi45NC4yOCIsIjE1NS4xMDMuNzEuMjEyIiwiMTg1LjIzNC42Ni45MSIsIjk0LjEzMS4xMjMuNzQiLCIxMzguMTI0LjEwNy4xMjQiLCI5NC4xMzEuMTA4LjEzNiIsIjE5NS4xNi43NC43MyIsIjgyLjI2LjE5OC44OSIsIjEzOC4xMjQuMTA3LjM1IiwiMi41Ni4xMjcuMTM3IiwiMTA3LjE4MS4xNTUuNzEiLCIxMzguMTI0LjEwNy4yMTYiLCIxMDcuMTYxLjE3NC45OSJdfQ%3D%3D#
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>
