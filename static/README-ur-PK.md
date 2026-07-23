@@ -35,26 +35,26 @@
  <h4>نوڈ کی فہرست: (یہاں زیادہ سے زیادہ 20 نوڈز دکھائے جاتے ہیں۔ دیگر مفت نوڈز ایپ میں حاصل کریں)</h4>
     
 ```
-trojan://KV63147582@hardy-seahorse.rooster465.autos:443?fp=chrome&security=tls&sni=hardy-seahorse.rooster465.autos&type=tcp#United+States
-vless://5a5fba4d-6ae8-4975-936d-bb643fb15957@biyapain.biyapainbache.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoiV0lISkpXU0trWFI4OGdUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19?ed=2560&host=biyapain.biyapainbache.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=bIyapain.bIYApaiNbAcHe.WoRkers.DeV&fp=chrome&encryption=none#United+States
-trojan://WG39087154@key-gnat.rooster465.autos:443?security=tls&sni=key-gnat.rooster465.autos#Ireland
-vmess://eyJhZGQiOiAiMjE2LjEwNi4xODMuMzUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjIzMjQiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.40:8880?security=none&type=ws&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&host=vms.lifetime09.workers.dev&packetEncoding=xudp&encryption=none#United+States
-vless://25322a43-4ef3-45cc-9e96-db44bcccd7be@skk.moe:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=purple-disk-f68d.14-360.workers.dev&packetEncoding=xudp&encryption=none#United+States
-trojan://IQ68037294@saving-sawfly.rooster465.autos:443?fp=chrome&security=tls&sni=saving-sawfly.rooster465.autos&type=tcp#Japan
-trojan://WG39087154@immortal-woodcock.rooster465.autos:443?security=tls&sni=immortal-woodcock.rooster465.autos#Luxembourg
-trojan://PD07395842@54.216.163.119:443?security=tls&sni=above-rabbit.rooster465.autos#Ireland
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.26.4.60:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
-vless://c416332e-2bde-4806-ac02-8f021c6e8f68@162.159.152.48:443?security=tls&type=ws&path=/?proxyip=proxyip.oracle.fxxk.dedyn.io&host=bbc.zjxc.de5.net&packetEncoding=xudp&sni=bbc.zjxc.de5.net&fp=chrome&encryption=none#
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@185.159.108.42:443?security=reality&encryption=none&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f429ad1f28#Germany
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.77.129.86:2053?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#Japan
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.50:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime58.workers.dev#Seychelles
-trojan://XG59623478@82.117.225.216:443?security=tls&sni=concise-buck.rooster465.autos#Luxembourg
-vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.zen2bswa.info:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ad-004.zen2bswa.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-004.zen2bswa.info#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@158.247.198.196:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#South+Korea
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@43.224.34.216:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome#Japan
-vless://0779dc74-2464-461f-90ef-874e4cae7fae@188.114.96.3:2053?security=tls&type=ws&path=/eyJqdW5rIjoiUHQ4YzBma3IxczlPIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19?ed=2560&host=weathered-math-1f8b.amiralighasempor010.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=WeaTHeREd-MATH-1f8B.aMIRAligHasEMPoR010.WOrkERs.dEv&fp=chrome&encryption=none#The+Netherlands
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@nl.getsavesafe.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=nl.savesafe.space&fp=firefox&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b647&pbk=6QnP4rZtnZt6XIfn246ODggMjbXbFPryxaF2whFhKGU&encryption=none#Spain
+trojan://OD90375861@3.67.171.41:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=busy-hermit.rooster465.autos#Germany
+vless://b7bda73b-9852-480e-86ff-616789593610@172.67.75.55:8443?security=tls&type=ws&path=/proxyip=31.77.161.247,31.57.190.85,208.85.17.114&host=damp-voice-0cd5.qplm2770.workers.dev&packetEncoding=xudp&sni=damp-voice-0cd5.qplm2770.workers.dev&fp=chrome&encryption=none#United+States
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.131.210.88:443?security=tls&type=ws&path=/rdfgtws&host=vangoghhh.info&packetEncoding=xudp&sni=vangoghhh.info&fp=chrome&encryption=none#The+Netherlands
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cloudflare-dns.com:2095?security=none&type=ws&path=/fp=randomized&host=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev&packetEncoding=xudp&sni=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev#
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@blog.cloudflare.com:2095?security=none&type=ws&path=/fp=randomized&host=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev&packetEncoding=xudp&sni=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev#
+trojan://IQ68037294@possible-pup.rooster465.autos:443?fp=chrome&security=tls&sni=possible-pup.rooster465.autos&type=tcp#United+States
+vless://fe273991-0514-4a16-8ec4-b15ae861c000@172.64.147.175:80?security=none&type=ws&path=/&host=zyzzzoao.xn--fiqv8j.eu.org&ed=2048&packetEncoding=xudp&encryption=none#United+States
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.40:8880?security=none&type=ws&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&host=vms.lifetime35.workers.dev#Indonesia
+trojan://KV63147582@35.89.158.133:443?fp=chrome&security=tls&sni=popular-meerkat.rooster465.autos&type=tcp#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.187.251.2:1080#Belgium
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.53.27:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#United+States
+vless://aeb9e730-5f9e-404d-a8af-9e2e68dc7f5d@hong1.panel11.ru:443?security=reality&type=tcp&packetEncoding=xudp&sni=hong1.panel11.ru&fp=firefox&flow=xtls-rprx-vision&sid=6378191533abf6df&pbk=MCdZOPt6XUdH3N8xQc6J4GElI9_9csxjsOOzwCPZjR0#United+States
+trojan://IQ68037294@still-mastodon.rooster465.autos:443?security=tls&sni=still-mastodon.rooster465.autos#Singapore
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.14.252:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
+vless://3076f0f0-558c-cbb3-0570-ca4200000014@104.25.244.62:80?security=none&type=ws&path=/sync&host=abolfazl-1.danayyabwalfdl6.workers.dev&packetEncoding=xudp&sni=abolfazl-1.danayyabwalfdl6.workers.dev&encryption=none#
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.30:8880?encryption=none&host=vms.lifetime36.workers.dev&path=%2F&security=none&type=ws#United+States
+vless://07f9bc85-613f-4a33-8da1-191973c43c0a@app-q0zc4t.user-4gfyh5.workers.dev:443?encryption=none&security=tls&type=ws#
+trojan://IQ68037294@wealthy-loon.rooster465.autos:443?security=tls&sni=wealthy-loon.rooster465.autos#Hong+Kong
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.37.237:8443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

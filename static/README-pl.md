@@ -35,26 +35,26 @@
  <h4>Lista węzłów: (Tutaj wyświetlanych jest maksymalnie 20 węzłów. Pozostałe bezpłatne węzły są dostępne w aplikacji.)</h4>
     
 ```
-vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&security=tls&sni=ako.pagate.top&type=tcp#South+Korea
-vless://df301b32-1152-4526-9a63-beedd93d3156@104.16.75.70:80?security=none&type=ws&path=/%2F%3Fed%3D2048&host=vl.dalazhi.cloudns.biz&packetEncoding=xudp&encryption=none#
-trojan://humanity@104.17.177.143:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-trojan://IQ68037294@square-anchovy.rooster465.autos:443?security=tls&sni=square-anchovy.rooster465.autos#Japan
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-jp-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-jp-002.fastervpn.world#Japan
-vless://6eb831ea-8829-457b-a5d1-52f640a97486@116.204.164.5:7443?security=tls&type=ws&path=/@Marisa_kristi&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&packetEncoding=xudp&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&encryption=none#Pakistan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#United+States
-trojan://humanity@chatgpt.com:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@158.247.199.106:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#South+Korea
-trojan://IQ68037294@eternal-frog.rooster465.autos:443?fp=chrome&security=tls&sni=eternal-frog.rooster465.autos&type=tcp#Australia
-vless://8525fe74-67e6-4a55-8a26-95f227bd1384@172.64.189.5:2083?security=tls&type=ws&path=/&host=calm-smoke-1a21.alvlirm6262.workers.dev&packetEncoding=xudp&sni=calm-smoke-1a21.alvlirm6262.workers.dev&fp=random&encryption=none#United+States
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:10574?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#Singapore
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#France
-trojan://IQ68037294@free-tuna.rooster465.autos:443?fp=chrome&security=tls&sni=free-tuna.rooster465.autos&type=tcp#Hungary
-trojan://OD90375861@18.202.244.191:443?security=tls&sni=fit-calf.rooster465.autos#Ireland
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@198.41.201.19:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=/fp&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
-vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?security=none&type=tcp&packetEncoding=xudp#Hong+Kong
-vless://90a656ff-c77a-4b6d-87f4-a0b2cec91373@104.18.9.41:8443?security=tls&type=ws&path=/&host=young-queen-488a.adriansheykhi730.workers.dev&packetEncoding=xudp&sni=young-queen-488a.adriansheykhi730.workers.dev&fp=chrome&encryption=none#
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375#Luxembourg
-trojan://NQ26071394@13.38.35.46:443?security=tls&sni=lucky-marmot.rooster465.autos#France
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.13:10000?&type=tcp&headerType=none&path=/#Taiwan
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.72.41:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
+vless://f12cc297-c9ce-4cdb-98d4-8e47c3f09644@codecanyon.net:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=weathered-union-5358.101-262.workers.dev&packetEncoding=xudp#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.202:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
+trojan://WG39087154@sharing-porpoise.rooster465.autos:443?security=tls&sni=sharing-porpoise.rooster465.autos#United+States
+trojan://HW85960347@35.163.152.150:443?security=tls&sni=pretty-clam.rooster465.autos#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.44.198:443?security=tls&type=ws&path=/fp=chrome&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome#
+vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@[2a13:29c0:2641:a307:2044:17f:7e80:4b]:443?encryption=none&type=tcp&headerType=&fp=firefox&host=775a58bcs124.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u695099u775a58bcs124.ccgfw.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#GB%20VLESS-1008%20%7C%20free-nodes
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.45:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&host=&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#Hong+Kong
+vless://d98c1be3-7837-4d8a-a9fc-05e7a807ccb0@172.67.219.238:8080?security=none&type=ws&path=/eyJqdW5rIjoiSWZqSHF3Q2RLIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&host=server1.poludiro.workers.dev&packetEncoding=xudp#United+States
+trojan://OD90375861@nearby-muskrat.rooster465.autos:443?security=tls&sni=nearby-muskrat.rooster465.autos#United+States
+vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&type=tcp&packetEncoding=xudp&sni=amd.com&fp=firefox&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE#Lithuania
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@37.59.96.21:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#France
+trojan://KV63147582@62.112.222.46:443?fp=chrome&security=tls&sni=legible-possum.rooster465.autos#Hungary
+trojan://WG39087154@normal-elk.rooster465.autos:443?security=tls&sni=normal-elk.rooster465.autos#Hong+Kong
+vmess://eyJhZGQiOiAiNjcuMjIwLjg1LjQ2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE4MDAwIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.188.30:8880?security=none&type=ws&path=/&host=vms.lifetime18.workers.dev#United+States
+trojan://humanity@104.17.121.71:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.94.161:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
+trojan://IQ68037294@normal-jay.rooster465.autos:443?security=tls&sni=normal-jay.rooster465.autos#United+States
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

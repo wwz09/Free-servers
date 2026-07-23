@@ -35,26 +35,26 @@
  <h4>Daftar node: (Maksimal 20 node ditampilkan di sini. Node gratis lainnya bisa didapatkan di aplikasi.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#Spain
-vless://d566d849-ab28-4695-b01f-dcd284b67f5c@91.193.58.166:80?security=none&type=ws&path=/pyip=Telegram🇨🇳+@WangCai2&host=dry-frog-8793.454-dc4.workers.dev&packetEncoding=xudp#United+Kingdom
-vless://8bba3194-4856-46d1-8319-075817d87eb1@fr1.cyphervpn.pro:443?security=reality&type=tcp&packetEncoding=xudp&sni=fr1.cyphervpn.pro&fp=firefox&flow=xtls-rprx-vision&sid=8f9d033ad6d2cebf&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&encryption=none#France
-vless://9501f3d6-483f-45c1-ab2c-33266520cd5c@89.127.217.9:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#Ireland
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.45.104:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#United+States
-trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#United+Kingdom
-vless://fbca467d-cb8a-4dac-b513-efe5fdd5c591@plain-shadow-821f.pfegehejrrjrjjrj.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoiMTZpQjhzZjhJS08iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&packetEncoding=xudp&alpn=http/1.1&sni=plain-sHaDOw-821F.pfEGEheJrRJRJJRj.WORKErS.deV&fp=chrome&encryption=none#
-trojan://humanity@43.169.18.179:443?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#Singapore
-trojan://WG39087154@in-colt.rooster465.autos:443?security=tls&sni=in-colt.rooster465.autos#Australia
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.21.94.161:443?path=/&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#
-vless://c61a813a-3429-4a20-8b7f-f7a3cd795b24@45.134.21.8:8443?security=tls&type=ws&path=/data/list/out.php?ed=2560&host=ft76mv43.b1gqbrn7f2j6degb6bgs.workers.dev&packetEncoding=xudp&sni=ft76mv43.b1gqbrn7f2j6degb6bgs.workers.dev&fp=chrome&encryption=none#The+Netherlands
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.198.50:8880?security=none&type=ws&path=/&host=vms.lifetime39.workers.dev&packetEncoding=xudp&encryption=none#United+States
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.8.211.217:443?encryption=none&type=ws&security=tls&path=/rdfgtws&host=vangoghhh.info&sni=vangoghhh.info&insecure=0&allowInsecure=0#Russia
-trojan://humanity@172.64.152.38:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#United+States
-vless://576aca8d-7ae1-413c-92df-7f1337ee8010@194.127.179.220:443?security=reality&type=tcp&packetEncoding=xudp&sni=web.max.ru&fp=chrome&flow=xtls-rprx-vision&sid=247fd6dab1a34a48&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&encryption=none#The+Netherlands
-vless://71cada65-d23e-418c-88e4-a06188d14689@de-one.quiet-rogue.site:443?security=reality&type=tcp&packetEncoding=xudp&sni=de-one.quiet-rogue.site&fp=chrome&flow=xtls-rprx-vision&pbk=quSgGKXdwtlVQYTJypimp3Er-PoMI4SP4EXPdOKLQwk&encryption=none#Armenia
-trojan://OD90375861@busy-hermit.rooster465.autos:443?security=tls#Germany
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?security=tls&sni=hy2.123266.xyz#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.32:443#United+Kingdom
+trojan://PI36027154@62.112.222.26:443?security=tls&sni=upright-hamster.rooster465.autos#Hungary
+vless://8bba3194-4856-46d1-8319-075817d87eb1@ge14.cyphervpn.pro:443?security=reality&type=tcp&packetEncoding=xudp&sni=ge14.cyphervpn.pro&fp=firefox&flow=xtls-rprx-vision&sid=53f809e639280191&pbk=CGrQMXFz6Qopcrvn3EIJnJwY-d_tQ4ahez7WQI8Z1Bk#Iraq
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#United+Kingdom
+trojan://humanity@104.16.80.73:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#
+vless://5a4d9f40-56db-402a-9fbc-31c9229bdcf6@104.21.56.202:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=floral-resonance-4baf.468.workers.dev&packetEncoding=xudp&encryption=none#
+trojan://ON38567014@35.90.87.253:443?security=tls&sni=harmless-akita.rooster465.autos#United+States
+trojan://OD90375861@fit-calf.rooster465.autos:443?security=tls&sni=fit-calf.rooster465.autos#Ireland
+vless://d7fc372d-c057-43ce-8070-9b96abbc60f3@fr.raketa-balance.com:443/?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&security=reality&sid=6c6082a2223c1d03&sni=fr.raketa-balance.com&type=tcp#The+Netherlands
+trojan://humanity@162.159.91.211:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#
+vless://cbc1b9e7-c393-4053-a338-6ed714daf4eb@59.152.127.76:50863?security=none&type=tcp&packetEncoding=xudp&encryption=none#United+States
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.227.39.30:8880?security=none&type=ws&path=/&host=vms.lifetime17.workers.dev&packetEncoding=xudp&encryption=none#Canada
+vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@45.206.5.122:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=500aec9e9e5e2212&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8#Taiwan
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.32.239:443?security=tls&type=ws&path=/fp=chrome&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome#
+vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?security=none&encryption=none&headerType=none&type=tcp#The+Netherlands
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#United+States
+vless://8bba3194-4856-46d1-8319-075817d87eb1@fi2.cyphervpn.pro:443?security=reality&type=tcp&packetEncoding=xudp&sni=fi2.cyphervpn.pro&fp=firefox&flow=xtls-rprx-vision&sid=8f9d033ad6d2cebf&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc#Israel
+trojan://OD90375861@82.117.225.123:443?security=tls&sni=big-bonefish.rooster465.autos#Luxembourg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI=@108.181.57.93:8388#United+States
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>
