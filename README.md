@@ -36,19 +36,19 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#%E5%8D%B0%E5%BA%A6+V2CROSS.COM
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.106:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#%E5%8D%97%E9%9D%9E+V2CROSS.COM
-vless://219f9fec-8983-4f6f-af8c-31bd0c6dbf19@45.155.52.231:443/?type=tcp&encryption=none&flow=&sni=ru2.skydrgn-online.online&fp=chrome&security=reality&pbk=6p0aVCkOgd-xaxqSMANYABL6O4Tdbftnxjiy5qcmISQ&sid=0b&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#%E5%8D%97%E9%9D%9E+V2CROSS.COM
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.102:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#%E5%8D%97%E9%9D%9E+V2CROSS.COM
-hysteria2://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@sw02.auragg.org:8443?insecure=1&security=tls&sni=sw02.auragg.org#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.65:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none#%E5%8D%97%E9%9D%9E+V2CROSS.COM
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.44.198:443?security=tls&type=ws&path=/fp=chrome&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.14.137:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.12.145.30:8880?security=none&type=ws&path=/&host=vms.lifetime61.workers.dev&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://1dd6dab8-4a86-4996-9c3f-84cb9e173993@95.85.226.143.tyr-agentstvo.tech:443?sni=95.85.226.143.tyr-agentstvo.tech&alpn=http/1.1&type=ws&host=95.85.226.143.tyr-agentstvo.tech&path=/websocket?ed=2560fp=chrome&security=tls#%E6%8D%B7%E5%85%8B+V2CROSS.COM
-vless://79a5be11-ec1f-4e18-b7fc-aef854234c43@199.232.78.159:443?path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053&security=tls&encryption=none&host=pan1.global.ssl.fastly.net&type=ws&sni=ssl.fastly.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://humanity@www.host-tracker.com:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.19:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.68:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=149.104.104.58#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.96:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.160:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.145.30:8880?security=none&type=ws&path=/&host=vms.lifetime35.workers.dev&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+hysteria2://grape_288923@194.247.182.201:8443?allowInsecure=0&insecure=0&security=tls&sni=grape-coffee-fi.gleeze.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.98:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+hysteria2://grape_288923@194.247.182.201:8080?allowInsecure=0&insecure=0&security=tls&sni=grape-coffee-fi.gleeze.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.20:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.195:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+ss://YWVzLTI1Ni1nY206RU1JcnVGbDZuTjM3TERReENJd3N0RzA5aGFDQmt5anZaVmpXSU1PUTBKaz0=@94.183.124.95:82#%E4%BC%8A%E6%9C%97+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>

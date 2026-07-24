@@ -35,26 +35,26 @@
  <h4>Lista węzłów: (Tutaj wyświetlanych jest maksymalnie 20 węzłów. Pozostałe bezpłatne węzły są dostępne w aplikacji.)</h4>
     
 ```
-vless://40de6299-d792-4868-8a82-411ead0aa943@144.124.249.252:443?security=reality&type=raw&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=ed7b9bdfedb9b8e5&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&encryption=none#United+Kingdom
-trojan://humanity@198.202.211.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.3.48:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
-trojan://CF68213490@harmless-lab.rooster465.autos:443?allowInsecure=1&fp=chrome&security=tls&sni=harmless-lab.rooster465.autos&type=tcp#Germany
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@162.159.43.121:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.180.39:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F%40NebulaVPNx&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.12.30.248:443?security=tls&type=ws&path=/rdfgtws&host=vangoghhh.info&packetEncoding=xudp&sni=vangoghhh.info&fp=chrome&encryption=none#Romania
-trojan://humanity@104.18.0.55:443?alpn=http%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#
-trojan://humanity@104.26.6.159:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#
-trojan://humanity@45.130.125.160:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#Seychelles
-vless://5dcc63ae-506d-4e31-8b75-f171afec4e8a@104.16.227.6:2096?security=tls&type=ws&path=/?u=free-configs&host=nova-swift-node-1fe1.mohammadfghkonani.workers.dev&packetEncoding=xudp&sni=nova-swift-node-1fe1.mohammadfghkonani.workers.dev&fp=chrome&encryption=none#
-trojan://IQ68037294@next-ringtail.rooster465.autos:443?security=tls&sni=next-ringtail.rooster465.autos#Japan
-vless://d7fc372d-c057-43ce-8070-9b96abbc60f3@fr.raketa-balance.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=fr.raketa-balance.com&fp=chrome&flow=xtls-rprx-vision&sid=6c6082a2223c1d03&pbk=JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY&encryption=none#The+Netherlands
-vless://a79ecb50-00cb-428a-8448-3ccc3d045b01@149.5.53.213:56234?security=tls&type=ws&path=/@Marisa_kristi&host=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&packetEncoding=xudp&sni=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&fp=chrome#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#United+Kingdom
-vless://d8f894b6-abc4-44b6-8d8a-980e9dd2f8fc@uk.fifapes.monster:21972?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com&packetEncoding=xudp&encryption=none#Russia
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.69:8880?encryption=none&security=none&type=grpc#France
-vmess://eyJhZGQiOiAiMTA0LjE3Ljc3Ljc3IiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9sTW5zWlVONC8iLCAicG9ydCI6IDg0NDMsICJwcyI6ICIiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAidjJyYXkxLmRvemFwcC54eXoiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@s593.gogocs.xyz:443?encryption=none&type=tcp&headerType=&fp=firefox&host=b67c99c6s591.csgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u695099ub67c99c6s591.csgfw.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#Vietnam
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@de.vrsvpn.com:443?security=reality&encryption=none&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f429ad1f28#Germany
+hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@172.86.94.97:8443/?security=tls&sni=de5-hy2.veilvpn.life#United+States
+trojan://IQ68037294@casual-bullfrog.rooster465.autos:443?fp=chrome&security=tls&sni=casual-bullfrog.rooster465.autos&type=tcp#Romania
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@www.shopify.com:2087?security=tls&type=ws&path=/?ed=2560&host=fx3h2kf8xn.fx6hsv0.ccwu.cc&packetEncoding=none&sni=fx3h2kf8xn.fx6hsv0.ccwu.cc&fp=chrome#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.32.239:443?allowInsecure=0&sni=t1s1.rittbo.kdns.fr&type=ws&host=t1s1.rittbo.kdns.fr&path=/fp=chrome&security=tls#
+vless://aea30a00-4cbb-4acc-b1c2-cb53a7522d09@tur.izzzyvpn.ru:443?security=reality&type=tcp&packetEncoding=xudp&sni=ads.x5.ru%3A443&fp=chrome&flow=xtls-rprx-vision&pbk=dQ1UuZtHmkxbOa0CuhzD8xx5l2oX3PTYvEWWE7C2Djk&encryption=none#T%C3%BCrkiye
+trojan://IQ68037294@tough-shark.rooster465.autos:443?fp=chrome&security=tls&sni=tough-shark.rooster465.autos&type=tcp#Japan
+vless://90a656ff-c77a-4b6d-87f4-a0b2cec91373@104.18.9.247:8443?security=tls&type=ws&path=/&host=young-queen-488a.adriansheykhi730.workers.dev&packetEncoding=xudp&sni=young-queen-488a.adriansheykhi730.workers.dev&fp=chrome&encryption=none#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#United+Kingdom
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?alpn=h2%2Chttp%2F1.1&encryption=none&security=tls&sni=gco1.afterdomain.shop&type=grpc#
+trojan://humanity@216.24.57.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#United+States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080#Canada
+vless://e4f949dd-4b1d-48e9-8e30-f90029e105a2@198.41.223.253:2083?encryption=none&fp=chrome&host=f.fugang.dpdns.org&path=%2F&security=tls&sni=f.fugang.dpdns.org&type=ws#
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#United+States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#South+Korea
+vless://bc6e7cf0-9526-4fea-b2e3-5bcf992c565e@blog.webex.com:443?path=/my-kc&security=tls&encryption=none&insecure=0&host=blog.webex.com.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=blog.webex.com.yxls.eu.cc#United+States
+trojan://XG59623478@194.99.79.214:443?security=tls&sni=growing-oyster.rooster465.autos#Hong+Kong
+trojan://IQ68037294@sterling-fowl.rooster465.autos:443?fp=chrome&security=tls&sni=sterling-fowl.rooster465.autos&type=tcp#Singapore
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@173.245.58.247:2053?encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
+trojan://FC60532879@stirred-sunbeam.rooster465.autos:443?fp=chrome&security=tls&sni=stirred-sunbeam.rooster465.autos&type=tcp#Luxembourg
+trojan://FC60532879@shining-haddock.rooster465.autos:443?fp=chrome&security=tls&sni=shining-haddock.rooster465.autos&type=tcp#Hungary
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>
