@@ -35,26 +35,26 @@
  <h4>Liste des nœuds: (20 nœuds maximum sont affichés ici. Les autres nœuds gratuits sont disponibles dans l'application.)</h4>
     
 ```
-trojan://WG39087154@nearby-cod.rooster465.autos:443?security=tls&sni=nearby-cod.rooster465.autos#France
-vless://711c018e-2692-4aa8-93f3-544d83fcd16c@152.53.236.182:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7a76f3c4b9dd&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs#Autriche
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#Cor%C3%A9e+du+Sud
-trojan://WG39087154@closing-crow.rooster465.autos:443?fp=chrome&security=tls&sni=closing-crow.rooster465.autos&type=tcp#Hongrie
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.149.209:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#%C3%89tats+Unis
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?insecure=1&security=tls&sni=de1.xiaoliyu.cyou#Allemagne
-vless://bc058e69-0444-4c7b-98da-bd67f0b143da@130.12.242.106:443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&sid=15affa0af66dfc79&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&encryption=none#%F0%9F%87%B3%F0%9F%87%B1NL_21%7C1.3MB%2Fs%2001
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@de.ko.prod.n7.homes:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=3ca620a7ed5f3196#%C3%89tats+Unis
-vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.2.40:443?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt?ed=2560fp=random&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=chrome#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#Australie
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%C3%89tats+Unis
-vless://68081c3e-77c2-4d22-81d5-cccedb7ca37b@cf5.466688.xyz:2053?security=tls&type=ws&path=/&host=maoyibai.ccwu.cc&packetEncoding=xudp&sni=maoyibai.ccwu.cc&fp=chrome#%C3%89tats+Unis
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&security=tls&sni=vpn-us-003.fastervpn.world#%C3%89tats+Unis
-vless://c04bf2df-2b7f-44da-a893-3792d3910fd8@fl16.myxasecure.space:443?security=reality&type=raw&packetEncoding=xudp&sni=fl16.myxasecure.space&fp=qq&flow=xtls-rprx-vision&sid=d67ec5a8fc40ebea&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw#Irlande
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#Allemagne
-trojan://IQ68037294@outgoing-cockatoo.rooster465.autos:443?fp=chrome&security=tls&sni=outgoing-cockatoo.rooster465.autos&type=tcp#Hongrie
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.186:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%C3%89tats+Unis
-trojan://humanity@www.multiplydose.com:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@45.130.125.21:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#Seychelles
-trojan://NQ26071394@kind-unicorn.rooster465.autos:443?security=tls#Hongrie
+vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?path=%2F&security=&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#%C3%89tats+Unis
+vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.14:443?security=reality&type=tcp&packetEncoding=xudp&sni=abuse.sellflow.org&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#Chine
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#Royaume-Uni
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#Pays-Bas
+trojan://PD07395842@strong-haddock.rooster465.autos:443?fp=chrome&security=tls#Hongrie
+vless://d2d0f796-edb0-427a-af32-ae360679f9e7@1password.com:443?security=tls&sni=rAyAn-007.fOtOn.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.foton.dpdns.org&encryption=none#
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@germany1.noesissite.ru:443?allowInsecure=0&insecure=0&security=tls&sni=germany1.noesissite.ru#%C3%89tats+Unis
+trojan://humanity@104.19.208.184:443?host=www.multiplydose.com&path=%2F%252Fassignment&security=tls&sni=www.multiplydose.com&type=ws#
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.223.98:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&security=reality&sid=45ba18f429ad1f28&sni=web.max.ru&type=tcp#Allemagne
+trojan://IQ68037294@internal-sunbird.rooster465.autos:443?security=tls&sni=internal-sunbird.rooster465.autos#Singapour
+hy2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?security=tls&sni=usa1.spectrumproxy.shop#Ukraine
+trojan://humanity@172.66.44.211:443?host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#%C3%89tats+Unis
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#Ta%C3%AFwan
+trojan://humanity@104.16.72.2:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#
+hysteria2://b42d90fa667942aebc734d60@161.33.231.22:30000?allowInsecure=0&insecure=0&security=tls&sni=vpn7.rnmcnm.com#%C3%89tats+Unis
+vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?path=%2Fvless%2F&security=&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#Pays-Bas
+vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.26.14.85:8443?path=/download.php&security=tls&encryption=none&insecure=0&host=chopin.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#
+trojan://IQ68037294@definite-giraffe.rooster465.autos:443?security=tls&sni=definite-giraffe.rooster465.autos#France
+vless://46445435-11cd-47e8-87dc-1acc159fc360@167.82.0.7:80?security=none&type=ws&headerType=&path=&host=BankMelat.glObal.ssl.faStly.nEt.#%C3%89tats+Unis
+vless://0370b162-baff-4757-86cc-cce4bf07f6f1@45.88.172.154:11594?encryption=none&security=none&type=tcp&headerType=none#Roumanie
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>

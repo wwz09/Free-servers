@@ -35,26 +35,26 @@
  <h4>Lista de nodos: (Aquí se muestran como máximo 20 nodos. Los demás nodos gratuitos se obtienen en la app.)</h4>
     
 ```
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@45.130.125.217:443?encryption=none&security=tls&sni=shegeftihaaa.net&allowinsecure=0&type=ws&host=shegeftihaaa.net&path=/rsedgws#Seychelles
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001287h3p.cybervena.com:50099#Taiw%C3%A1n
-vmess://eyJhZGQiOiAiMTYxLjMzLjEzOS4xMzgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiMTYxLjMzLjEzOS4xMzgiLCAiaWQiOiAiMTYxMGY4ZGMtMDY2MS00MDMyLWFjNmEtYTcyNTA2MDNmNjA4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8xNjEwZjhkYy0wNjYxLTQwMzItYWM2YS1hNzI1MDYwM2Y2MDgtdm0iLCAicG9ydCI6ICI1ODkwNSIsICJwcyI6ICJFc3RhZG9zIFVuaWRvcyIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://7856eb14-06d6-423a-b4a6-353b3ce5c51a@217.60.23.230:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IY7z4YneuuMK6nsOyqxHPC30hLR4CaxBVHD-SpRk2H0&security=reality&sid=377209f7cecf2f7d&sni=site.rumedia-cdn.com&type=tcp#Ir%C3%A1n
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.72.101:8443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
-trojan://PD07395842@just-alpaca.rooster465.autos:443?security=tls&sni=just-alpaca.rooster465.autos#Hong+Kong
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#Reino+Unido
-trojan://FC60532879@darling-mutt.rooster465.autos:443?fp=chrome&security=tls&sni=darling-mutt.rooster465.autos&type=tcp#Australia
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#Francia
-vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&encryption=none#Estados+Unidos
-vmess://eyJhZGQiOiAibjE3NDc2MjQyNzQuNHU5bWEuaWN1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm4xNzQ3NjI0Mjc0LjR1OW1hLmljdSIsICJpZCI6ICJkOGRhZjUwNy1hNGFjLTRlZWEtODM5OS04ZjBjZDA3MWViNTIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJTaW5nYXB1ciIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#Estados+Unidos
-hysteria2://G0bFosyMJiP4wHB4TggU0j3j@45.76.202.45:8443?insecure=1&security=tls&sni=bing.com#Jap%C3%B3n
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.195:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#Hong+Kong
-vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4zNyIsICJhaWQiOiAwLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTgwIiwgInBzIjogIlJlaW5vIFVuaWRvIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-vless://9fa85900-14f9-4874-89af-eaf7c2fe4885@104.17.170.132:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=summer-hill-7bbd.149-40f.workers.dev&packetEncoding=xudp#
-vless://29ca503d-e6b8-4509-b666-48133f450857@172.64.52.73:443?encryption=none&security=tls&sni=learn00.evany.de5.net&insecure=0&allowInsecure=0&type=ws&host=learn00.evany.de5.net&path=%2Ffdip%3Dtw.william.us.ci%21txt#Estados+Unidos
-vmess://eyJhZGQiOiAiMTY5LjE5Ny4xNDIuMjIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJuYW1lIjogIlVTIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IEBSYXlkaWthbHggfCAyNzg1IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAxODAwMCwgInBzIjogIkVzdGFkb3MgVW5pZG9zIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@ad-005.vector2llqn.info:8443?encryption=none&security=tls&type=ws#
-trojan://OD90375861@62.112.222.69:443?security=tls&sni=ideal-robin.rooster465.autos#Hungr%C3%ADa
+trojan://IQ68037294@meet-doe.rooster465.autos:443?security=tls&sni=meet-doe.rooster465.autos#Singapur
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.94:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#Hong+Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#Reino+Unido
+trojan://PD07395842@united-bedbug.rooster465.autos:443?fp=chrome&security=tls#Francia
+vless://40de6299-d792-4868-8a82-411ead0aa943@144.124.249.252:443?security=reality&type=raw&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=ed7b9bdfedb9b8e5&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&encryption=none#Reino+Unido
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.194.134:22224?security=&encryption=none&headerType=&type=tcp#Francia
+vless://3727b0ac-9f3e-4da8-895e-33f739e9d9bb@104.27.78.203:2083?encryption=none&fp=firefox&host=fhfhfhf.kathykroger.workers.dev&path=%2F&security=tls&sni=fhfhfhf.kathykroger.workers.dev&type=ws#
+trojan://humanity@162.159.17.189:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#
+trojan://humanity@172.66.47.69:443?host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#Estados+Unidos
+trojan://humanity@104.16.72.41:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg00129437x.cybervena.com:50099#Taiw%C3%A1n
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=none&type=tcp&headerType=http&path=%2F&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&packetEncoding=xudp&encryption=none#Ir%C3%A1n
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@celestara.biz:443?encryption=none&type=ws&security=tls&path=/&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0#Estados+Unidos
+vless://219f9fec-8983-4f6f-af8c-31bd0c6dbf19@45.155.52.231:443/?type=tcp&encryption=none&flow=&sni=ru2.skydrgn-online.online&fp=chrome&security=reality&pbk=6p0aVCkOgd-xaxqSMANYABL6O4Tdbftnxjiy5qcmISQ&sid=0b&packetEncoding=xudp#Finlandia
+trojan://IQ68037294@distinct-ibex.rooster465.autos:443?fp=chrome&security=tls#Holanda
+vmess://eyJhZGQiOiAiNjcuMjIwLjk1LjMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMTgwMDAsICJwcyI6ICJFc3RhZG9zIFVuaWRvcyIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://09e38b01-3bc2-42ac-bb71-68f8b72b8f19@104.26.6.23:2096?encryption=none&fp=chrome&host=ez-938486.tahakhoshghadam8989.workers.dev&path=%2F&security=tls&sni=ez-938486.tahakhoshghadam8989.workers.dev&type=ws#
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.4chan.org:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=chrome&security=tls#
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.106.50:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime54.workers.dev&path=%2F&security=none&type=ws#Estados+Unidos
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.17.184.155:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
