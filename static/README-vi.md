@@ -35,26 +35,26 @@
  <h4>Danh sách nút: (Tối đa 20 nút được hiển thị tại đây. Các nút miễn phí khác có thể lấy trong ứng dụng.)</h4>
     
 ```
-trojan://WG39087154@great-wasp.rooster465.autos:443?security=tls&sni=great-wasp.rooster465.autos#Luxembourg
-trojan://WG39087154@fun-seagull.rooster465.autos:443?security=tls&sni=fun-seagull.rooster465.autos#Hungary
-trojan://ON38567014@top-goshawk.rooster465.autos:443?fp=chrome&security=tls&sni=top-goshawk.rooster465.autos&type=tcp#Hong+Kong
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nland1.noesissite.ru:443/?security=tls&sni=nland1.noesissite.ru#United+States
-trojan://IQ68037294@ace-starling.rooster465.autos:443?fp=chrome&security=tls&sni=ace-starling.rooster465.autos&type=tcp#Hong+Kong
-vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.zen2bswa.info:8443?security=tls&type=ws&path=/&host=ad-013.zen2bswa.info&packetEncoding=xudp&sni=ad-013.zen2bswa.info&fp=chrome#
-hy2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?security=tls&sni=ro.h2corp.org#Romania
-trojan://JT80563429@immortal-woodcock.rooster465.autos:443?security=tls&sni=immortal-woodcock.rooster465.autos#Luxembourg
-hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&security=tls&sni=www.microsoft.com#The+Netherlands
-trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#The+Netherlands
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#United+States
-vless://dd321f25-8f90-4e7c-a1fa-01883a8988a7@162.159.0.8:443?security=tls&type=ws&path=/pyip=proxyip.cmliussss.net&host=soucuovls.pages.dev&packetEncoding=xudp&sni=soucuovls.pages.dev&fp=random#
-vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.192.161:443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#United+Kingdom
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.110.73:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapore
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.19.145.11:443?security=tls&type=ws&path=/fp&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#
-vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.44.66:2053?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#
-trojan://FC60532879@evident-gnat.rooster465.autos:443?fp=chrome&security=tls&sni=evident-gnat.rooster465.autos&type=tcp#Australia
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.131.208.61:443?security=tls&type=ws&path=/rdfgtws&host=vangoghhh.info&packetEncoding=xudp&sni=vangoghhh.info&fp=chrome&encryption=none#The+Netherlands
-vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.24.111:443?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#United+Kingdom
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.131.6.211:443?security=tls&type=ws&path=/rdfgtws&host=vangoghhh.info&packetEncoding=xudp&sni=vangoghhh.info&fp=chrome&encryption=none#The+Netherlands
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?security=tls&type=ws&path=/fp&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&alpn=h3,h2,http/1.1&sni=hhlfy.twiladaphne.ndjp.net&fp=chrome&encryption=none#
+trojan://humanity@172.67.200.219:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#United+States
+vless://320fb564-c329-4d32-8187-89d7058af0eb@2.26.125.51:443?security=reality&type=tcp&packetEncoding=xudp&sni=site.rumedia-cdn.com&fp=qq&flow=xtls-rprx-vision&sid=e6b0240761f538e1&pbk=HOTVBbrNu_CXdYbnC8sumXQfZ_W7NG2vcN8o8SblTGI&encryption=none#United+Kingdom
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.207:8443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F%3FTELEGRAM-ShadowProxy66_ShadowProxy66%3Fed%3D2048&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Seychelles
+vless://58f4e11d-45bb-4b7d-8b33-66bb2eefa97a@104.17.151.126:2096?security=tls&type=ws&path=/&host=nova-river-cloud-1642.mehrshadamiri69.workers.dev&packetEncoding=xudp&sni=nova-river-cloud-1642.mehrshadamiri69.workers.dev&fp=chrome&encryption=none#
+vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.orbitqgr7v.info:8443?encryption=none&fp=chrome&host=ad-020.orbitqgr7v.info&path=%2F&security=tls&sni=ad-020.orbitqgr7v.info&type=ws#
+vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?security=tls&type=ws&path=/sea&host=qbxag.fastbirdhub-milo.sbs&packetEncoding=xudp&sni=qbxag.fastbirdhub-milo.sbs&fp=chrome&encryption=none#United+States
+trojan://FC60532879@magnetic-woodcock.rooster465.autos:443?fp=chrome&security=tls&sni=magnetic-woodcock.rooster465.autos&type=tcp#Singapore
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#United+States
+trojan://bd85f5fe32d9446a8b1f59e4f710455b@104.24.163.206:443?alpn=http%2F1.1&fp=chrome&path=%2FeyJqdW5rIjoibkN2cER2SDZIUTkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6IiIsInBhbmVsSVBzIjoiWzJhMDI6ODk4OjE0Njo2NDo6XSJ9%3Fed%3D2560&security=tls&sni=BpB-PAnEL-62c3.mlM-eE9A3b83.wOrKErS.dev&type=ws#
+vless://2d212f81-7ea2-4d0b-884c-a6497ab41143@cloudflare-ech.com:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=hidden-union-a4b2.436.workers.dev&packetEncoding=xudp#
+trojan://IQ68037294@62.112.222.27:443?fp=chrome&security=tls&sni=optimal-urchin.rooster465.autos#Hungary
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.18.153.10:443?security=tls&type=ws&path=/rdfgtws&host=vangoghhh.info&packetEncoding=xudp&sni=vangoghhh.info&fp=chrome&encryption=none#
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#Taiwan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#United+Kingdom
+trojan://PI36027154@upright-hamster.rooster465.autos:443?allowInsecure=1&security=tls#Hungary
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.24.39:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.25.12:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

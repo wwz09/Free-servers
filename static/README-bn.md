@@ -35,26 +35,26 @@
  <h4>নোড তালিকা: (এখানে সর্বোচ্চ 20টি নোড দেখানো হয়। অন্যান্য বিনামূল্যের নোড অ্যাপে পাওয়া যাবে)</h4>
     
 ```
-trojan://FC60532879@fleet-hawk.rooster465.autos:443?fp=chrome&security=tls&sni=fleet-hawk.rooster465.autos&type=tcp#Luxembourg
-vless://fbca467d-cb8a-4dac-b513-efe5fdd5c591@plain-shadow-821f.pfegehejrrjrjjrj.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoiMTZpQjhzZjhJS08iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&packetEncoding=xudp&alpn=http/1.1&sni=plain-sHaDOw-821F.pfEGEheJrRJRJJRj.WORKErS.deV&fp=chrome&encryption=none#
-vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.36.117:2087?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@cf.090227.xyz:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#
-vless://1c9daf90-3950-44ac-b06f-4cf9aec63170@free.server14peekconfig.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoiQmFCblN3SmhXYTB3RzVoIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIiwiWzJhMDI6ODk4OjE0Njo2NDo6XSIsIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0=?ed=2560&host=free.server14peekconfig.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=FrEe.SeRVEr14peekCoNfIG.WoRKErS.dEV&fp=chrome&encryption=none#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080#United+Kingdom
-vless://419b7a2c-9fa2-4870-b58a-0498ccc7d6c4@server16.peekconfig.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoiYXdUWFpSYnZubU5hIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIiwiWzI2MDI6ZmM1OToxMTo2NDo6XSIsIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0=?ed=2560&host=server16.peekconfig.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=sERveR16.pEeKCoNFIg.worKerS.DeV&fp=chrome&encryption=none#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#United+Kingdom
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@ru.faygo.bot:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#Russia
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576?security=reality&type=raw&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#France
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@141.164.42.2:443?security=tls&type=ws&path=/fp=chrome&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome#South+Korea
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.148.8:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.202:443?allowInsecure=1&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.131.209.42:443?security=tls&type=ws&path=/rdfgtws&host=vangoghhh.info&packetEncoding=xudp&sni=vangoghhh.info&fp=chrome&encryption=none#The+Netherlands
-trojan://JT80563429@wired-shiner.rooster465.autos:443?security=tls&sni=wired-shiner.rooster465.autos#Hungary
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@celestara.biz:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=/&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
-trojan://ON38567014@smiling-ray.rooster465.autos:443?security=tls&sni=smiling-ray.rooster465.autos#Hungary
-vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.limaklhc6.info:8443?encryption=none&fp=chrome&host=ad-020.limaklhc6.info&path=%2F&security=tls&sni=ad-020.limaklhc6.info&type=ws#United+States
-vless://8bba3194-4856-46d1-8319-075817d87eb1@fr3.cyphervpn.pro:443?flow=xtls-rprx-vision&fp=firefox&packetEncoding=xudp&pbk=%2Dcfh-rBjSYKhBeAgGzYLrcDiEfZc9xRqCvMB0kpOokQ&security=reality&sid=253105aeda9e37a7&sni=fr3.cyphervpn.pro&type=tcp#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#The+Netherlands
+trojan://IQ68037294@picked-hippo.rooster465.autos:443?fp=chrome&security=tls&sni=picked-hippo.rooster465.autos&type=tcp#Hungary
+vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=chrome&sid=aae8&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&encryption=none#United+States
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@86.107.197.239:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#The+Netherlands
+trojan://FC60532879@smooth-cougar.rooster465.autos:443?fp=chrome&security=tls&sni=smooth-cougar.rooster465.autos&type=tcp#Singapore
+trojan://IQ68037294@pleased-sawfly.rooster465.autos:443?security=tls&sni=pleased-sawfly.rooster465.autos#Singapore
+trojan://IQ68037294@51.44.167.144:443?fp=chrome&security=tls&sni=immune-earwig.rooster465.autos&type=tcp#France
+trojan://KV63147582@62.112.222.212:443?security=tls&sni=more-trout.rooster465.autos#Hungary
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga7.api3-max.ru:443?security=tls&sni=taga7.api3-max.ru#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#United+Kingdom
+trojan://humanity@104.17.121.9:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#United+Kingdom
+trojan://IQ68037294@62.112.222.27:443?fp=chrome&security=tls&sni=optimal-urchin.rooster465.autos#Hungary
+trojan://WG39087154@concise-buck.rooster465.autos:443?security=tls&sni=concise-buck.rooster465.autos#Luxembourg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.28:8080#United+Kingdom
+vless://80cead8e-0d28-4b0a-bacd-8005471a5c39@104.20.28.74:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=flat-fire-40ed.96-042.workers.dev&packetEncoding=xudp&encryption=none#
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@172.67.74.2:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&fp=chrome&type=ws&allowInsecure=0&sni=shegeftihaaa.net#United+States
+trojan://IQ68037294@eternal-swift.rooster465.autos:443?security=tls&sni=eternal-swift.rooster465.autos#Hungary
+vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@veesp-fj-vpn-2.concept7.ru:443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&sid=e29c9c180c62&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&encryption=none#Lithuania
+trojan://humanity@208.103.161.110:443?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#United+States
+vless://424fa201-3f94-479e-b533-d5257cf9a207@89.117.112.4:80?security=none&type=ws&path=/pyip=Telegram🇨🇳 @VPNine1&host=floral-thunder-10d3.82-67d.workers.dev&packetEncoding=xudp&encryption=none#France
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>

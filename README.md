@@ -36,16 +36,18 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-vless://d2d0f796-edb0-427a-af32-ae360679f9e7@162.159.141.147:443?security=tls&type=ws&path=/&host=rAyAn-007.fOtOn.dPdNs.oRg&packetEncoding=xudp&sni=rAyAn-007.fOtOn.dPdNs.oRg&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption=none&security=none&type=tcp&headerType=http&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&path=%2F#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
-vless://29ca503d-e6b8-4509-b666-48133f450857@ip.sb:443?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@208.103.161.170:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://711c018e-2692-4aa8-93f3-544d83fcd16c@jdvymxi.cvewfjg.shop:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7a76f3c4b9dd&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?security=tls&sni=usa1.spectrumproxy.shop#%E6%8C%AA%E5%A8%81+V2CROSS.COM
-trojan://VPNCUSTOMIZE@104.18.16.56:443?mode=stream-one&path=/config&security=tls&insecure=0&host=bvck-oizksj-swin-usje-c-o.gameserver.de5.net&type=xhttp&allowInsecure=0&sni=ww.gameserver.de5.net#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@154.193.55.183:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=dbbe8dca27a92c35&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4#%E5%8D%97%E9%9D%9E+V2CROSS.COM
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&sni=%2F%3F&type=tcp&headerType=none#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://ea3e24c1-6bc1-4a7a-9711-88f937f08bbb@namasha.broute.online:2053?encryption=none&security=reality&sni=ap-author.led.samsung.com&fp=chrome&pbk=h6tCZV3ayNpiX72wvOSJhk-ggk8jqqcfQtVy04OBAE8&sid=73&spx=/0ccc410eea68aeb&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://0a76a766-d141-44b8-944e-dff757d7116f@163.5.153.153:443?security=reality&encryption=none&pbk=aB_2Tcf0A5LoiIEZHztR_l-ZOFeJKxYRH67s_OVQ9C0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=a91045bc#%E6%B3%95%E5%9B%BD+%E6%B3%95%E5%9B%BD%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%AD%A6
+trojan://humanity@172.64.147.2:443?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 vless://711c018e-2692-4aa8-93f3-544d83fcd16c@152.53.236.22:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7a76f3c4b9dd&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.210:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=c6ef72e4635d15a5&sni=storage.yandex.net&type=tcp#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?security=tls&type=ws&sni=space.byu.id.yxls.eu.cc&path=/in-pdr&host=space.byu.id.yxls.eu.cc#%E8%8D%B7%E5%85%B0+V2CROSS.COM
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption=none&security=none&type=tcp&headerType=http&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&path=%2F#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?allowInsecure=0&security=tls&sni=149.104.104.58#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?path=%2F&security=&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#%E7%BE%8E%E5%9B%BD+%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2
+trojan://VPNCUSTOMIZE@104.18.16.56:443?mode=stream-one&path=/config&security=tls&insecure=0&host=bvck-oizksj-swin-usje-c-o.gameserver.de5.net&type=xhttp&allowInsecure=0&sni=ww.gameserver.de5.net#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.26.5.60:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://b1b99d33-8df1-4c74-b140-28941b43a4d2@deepl.com:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=nameless-poetry-cc33.268-910.workers.dev&packetEncoding=xudp&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
