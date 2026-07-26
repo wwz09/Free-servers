@@ -36,18 +36,18 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-hy2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?security=tls&sni=ro.h2corp.org#%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6+V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZcTQyVng1NmEyU2doQ25MdE95T0NG@216.105.168.19:443#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption=none&security=none&type=tcp&headerType=http&host=gr1.fifapes.monster&path=%2F#%E4%BC%8A%E6%9C%97+V2CROSS.COM
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.54.30:8880?security=none&type=ws&path=/&host=vms.lifetime35.workers.dev&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@5.180.97.78:443?security=tls&sni=nederland.gamestocke.ru#%E9%A6%99%E6%B8%AF+%E7%89%B9%E5%88%AB%E8%A1%8C%E6%94%BF%E5%8C%BA
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.213:8443?security=tls&sni=mercedes-grape.yyuyy.com#%E7%BE%8E%E5%9B%BD+%E5%86%85%E5%8D%8E%E8%BE%BE%E5%B7%9E%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AFVersaweb
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@167.82.0.1:80?type=ws&host=BankMelat.glObal.ssl.faStly.nEt.&path=#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@mfa.gov.ua:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.socialxxmedia.com:200?encryption=none&headerType=http&host=play.google.com&path=/&security=none&type=tcp#%E4%BC%8A%E6%9C%97+V2CROSS.COM
+vless://f27894bf-349c-44e6-a0ce-4c787e18476f@www.true.th:80?fp=chrome&host=duatoup3wk8q2.cloudfront.net&path=%2FGDkX4xpB%2F&type=ws#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?security=tls&sni=usa1.spectrumproxy.shop#%E6%8C%AA%E5%A8%81+V2CROSS.COM
 vless://3bf2781f-63a2-4c38-ad02-2cc337c2f7fa@www.glassdoor.com:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=silent-heart-175f.325-a85.workers.dev&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://439c8516-b796-47ca-991a-7e18540213d1@64.188.77.157:2512?security=reality&encryption=none&pbk=P-RAcmPBLgrTjCjPewYaa6hgrC5xVH0xmNfr66HviT0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cent1.happv2raytun.store&sid=290d#%E7%BE%8E%E5%9B%BD+%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A
-vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?encryption=none&security=none&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD+%E5%AE%BE%E5%88%A9%E5%A4%A7%E5%AD%A6
+ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ==@212.192.13.145:20166#%E4%BF%84%E7%BD%97%E6%96%AF+Rubtsovsk+Branch+of+Altai+State+University
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.150.130:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?insecure=0&obfs=&obfs-password=&security=tls&sni=ro.h2corp.org#%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6+V2CROSS.COM
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.30:8880?encryption=none&host=vms.lifetime36.workers.dev&path=%2F&security=none&type=ws#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.213:8443?security=tls&sni=mercedes-grape.yyuyy.com#%E7%BE%8E%E5%9B%BD+%E5%86%85%E5%8D%8E%E8%BE%BE%E5%B7%9E%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AFVersaweb
+ss://YWVzLTI1Ni1nY206MWE4NzAxN2QwYmY1N2YzNA==@176.32.34.152:30118#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.95.225.70:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2F%40oneclickvpnkeys#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@www.cnae.top:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.145.30:8880?path=/&security=none&encryption=none&host=vms.lifetime35.workers.dev&type=ws#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
