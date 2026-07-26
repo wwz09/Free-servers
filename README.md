@@ -36,14 +36,18 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-trojan://humanity@81.255.155.10:443?host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#%E6%B3%95%E5%9B%BD+V2CROSS.COM
-vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@s299.freessr.bid:443?encryption=none&type=tcp&headerType=&fp=firefox&host=36cf43b9s298.wagahaha.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u695099u36cf43b9s298.wagahaha.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+hy2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?security=tls&sni=ro.h2corp.org#%E6%91%A9%E5%B0%94%E5%A4%9A%E7%93%A6+V2CROSS.COM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZcTQyVng1NmEyU2doQ25MdE95T0NG@216.105.168.19:443#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption=none&security=none&type=tcp&headerType=http&host=gr1.fifapes.monster&path=%2F#%E4%BC%8A%E6%9C%97+V2CROSS.COM
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.54.30:8880?security=none&type=ws&path=/&host=vms.lifetime35.workers.dev&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@5.180.97.78:443?security=tls&sni=nederland.gamestocke.ru#%E9%A6%99%E6%B8%AF+%E7%89%B9%E5%88%AB%E8%A1%8C%E6%94%BF%E5%8C%BA
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.213:8443?security=tls&sni=mercedes-grape.yyuyy.com#%E7%BE%8E%E5%9B%BD+%E5%86%85%E5%8D%8E%E8%BE%BE%E5%B7%9E%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AFVersaweb
+vless://cfde0aba-0985-4034-ab92-50b1534b126c@167.82.0.1:80?type=ws&host=BankMelat.glObal.ssl.faStly.nEt.&path=#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@mfa.gov.ua:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.socialxxmedia.com:200?encryption=none&headerType=http&host=play.google.com&path=/&security=none&type=tcp#%E4%BC%8A%E6%9C%97+V2CROSS.COM
+vless://3bf2781f-63a2-4c38-ad02-2cc337c2f7fa@www.glassdoor.com:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=silent-heart-175f.325-a85.workers.dev&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://439c8516-b796-47ca-991a-7e18540213d1@64.188.77.157:2512?security=reality&encryption=none&pbk=P-RAcmPBLgrTjCjPewYaa6hgrC5xVH0xmNfr66HviT0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cent1.happv2raytun.store&sid=290d#%E7%BE%8E%E5%9B%BD+%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A
 vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?encryption=none&security=none&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD+%E5%AE%BE%E5%88%A9%E5%A4%A7%E5%AD%A6
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@154.193.55.183:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=c76ba2c2fb172e8b&type=tcp&headerType=none#%E5%8D%97%E9%9D%9E+V2CROSS.COM
-vless://59eefc04-b831-45cf-8d68-63ca23381171@185.164.111.48:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=4c5a76834671&pbk=4-qE0E0B5ShfnAe0KFM0qRkXJ33rRF39AlHK7MpBzAE#%E5%BE%B7%E5%9B%BD+V2CROSS.COM
-vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@193.142.59.180:443?encryption=none&type=tcp&headerType=&fp=firefox&host=775a58bcs124.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u695099u775a58bcs124.ccgfw.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%E8%8A%AC%E5%85%B0+V2CROSS.COM
-vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@s128.okgfw.top:443?encryption=none&type=tcp&headerType=&fp=firefox&host=775a58bcs124.ccgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u695099u775a58bcs124.ccgfw.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%E8%8A%AC%E5%85%B0+V2CROSS.COM
-vless://219f9fec-8983-4f6f-af8c-31bd0c6dbf19@45.155.52.231:443/?type=tcp&encryption=none&flow=&sni=ru2.skydrgn-online.online&fp=chrome&security=reality&pbk=6p0aVCkOgd-xaxqSMANYABL6O4Tdbftnxjiy5qcmISQ&sid=0b&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
