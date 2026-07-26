@@ -35,26 +35,26 @@
  <h4>노드 목록: (여기에는 최대 20개 노드만 표시됩니다. 다른 무료 노드는 앱에서 받을 수 있습니다.)</h4>
     
 ```
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.20.39.109:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#
-trojan://NQ26071394@powerful-squid.rooster465.autos:443?security=tls&sni=powerful-squid.rooster465.autos#The+Netherlands
-hysteria2://57ad54a0-59ca-4553-bdad-35aab6bd3aa5@104.36.86.93:9992?insecure=1&security=tls&sni=104.36.86.93#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.40.84:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2Ffp%3Dchrome&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080#The+Netherlands
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.0.0:443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#
-vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?allowInsecure=0#United+States
-trojan://JT80563429@enabling-snipe.rooster465.autos:443?fp=chrome&security=tls&sni=enabling-snipe.rooster465.autos&type=tcp#Hong+Kong
-trojan://JT80563429@true-coral.rooster465.autos:443?fp=chrome&security=tls&sni=true-coral.rooster465.autos&type=tcp#Hong+Kong
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&encryption=none#South+Korea
-hysteria2://419bfbd4-3097-4cef-a6b3-aebd78506ed7@ppl.myispace.xyz:8443?security=tls&sni=ppl.myispace.xyz#Switzerland
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.245.180.117:443?insecure=1&security=tls&sni=54.245.180.117#United+States
-vless://a5a82872-616b-49f6-a40a-6a54feeb5dd0@151.245.106.49:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=87478274a30fcaea&pbk=9HIcma6Y5a0yddTqa3_zNUyItI3J-g99GdT0u0Moqzw&encryption=none#Iran
-vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.14:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=abuse.sellflow.org#China
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.36:443#United+Kingdom
-trojan://KV63147582@selected-bison.rooster465.autos:443?allowInsecure=1&fp=chrome&security=tls&sni=selected-bison.rooster465.autos&type=tcp#Australia
-trojan://humanity@141.193.213.21:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&type=ws#United+States
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@198.41.209.80:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#
-trojan://IQ68037294@45.135.228.211:443?security=tls&sni=endless-kiwi.rooster465.autos#Singapore
-vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#United+States
+vless://8bba3194-4856-46d1-8319-075817d87eb1@nl15.sodahub.online:443?security=reality&encryption=none&pbk=oGgupP3uX0TNyFwuxNYaFj-IQ8EPhCuKfJdaOHiMnV0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl15.sodahub.online&sid=c334408a1056aaf8#Ukraine
+trojan://IQ68037294@45.135.228.169:443?security=tls&sni=fun-salmon.rooster465.autos#Singapore
+vless://29ca503d-e6b8-4509-b666-48133f450857@185.239.69.147:8443?encryption=none&host=learn00.evany.de5.net&path=%2Ffdip%3Dtw.william.us.ci%21txt&security=tls&sni=learn00.evany.de5.net&type=ws#The+Netherlands
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-us-002.fastervpn.world#United+States
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.158:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=ios&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#Seychelles
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.17.149.233:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.35.13:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#
+vless://bc058e69-0444-4c7b-98da-bd67f0b143da@130.12.242.106:443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&sid=15affa0af66dfc79&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&encryption=none#%F0%9F%87%B3%F0%9F%87%B1NL_20%7C1008KB%2Fs%2001
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@162.159.43.121:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#
+trojan://PD07395842@fast-ghost.rooster465.autos:443?security=tls&sni=fast-ghost.rooster465.autos#Hungary
+trojan://humanity@104.16.174.37:443?allowInsecure=1&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+trojan://NQ26071394@89.39.70.85:443?security=tls&sni=grateful-bedbug.rooster465.autos#Romania
+hysteria2://b7c9e2f1-4d83-42a1-9e5f-sg2026proxy@209.74.81.28:8443?insecure=1&security=tls&sni=209.74.81.28#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#India
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.72.50:443?encryption=none&type=ws&security=tls&path=%2Ffp&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0#
+trojan://FC60532879@rested-pheasant.rooster465.autos:443?security=tls&sni=rested-pheasant.rooster465.autos#Japan
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.67.79.128:443?security=tls&type=ws&path=/fp&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#United+States
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@ronaldo15.fordnsdirect.shop:8880?encryption=none&security=none&type=grpc#France
+trojan://0ebb269c9f2d4e8e46b0cd4105a55134@163.245.196.68:49361?security=tls&sni=163.245.196.68.sslip.io#United+States
+vless://d6bbaa54-2fa9-46b9-8f6d-42ccdfc9122b@104.16.241.173:2096?security=tls&type=ws&path=/&host=odd-wildflower-db1b.yasinmohammad.workers.dev&packetEncoding=xudp&sni=odd-wildflower-db1b.yasinmohammad.workers.dev&fp=chrome&encryption=none#
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>

@@ -35,26 +35,26 @@
  <h4>Knotenliste: (Hier werden maximal 20 Knoten angezeigt. Weitere kostenlose Knoten erhalten Sie in der App.)</h4>
     
 ```
-vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.zen2bswa.info:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ad-004.zen2bswa.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-004.zen2bswa.info#
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#USA
-vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTYuMjExIiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxODAwMCIsICJwcyI6ICJLYW5hZGEiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://4f54572a-b852-4da3-8823-0ddccc60b5d8@162.159.21.178:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=icy-snowflake-1f56.147-1ea.workers.dev&packetEncoding=xudp&encryption=none#
-vless://b12eebc2-369c-4f3c-96a0-a8bd150ca8d5@138.124.126.158:443?security=reality&type=tcp&packetEncoding=xudp&sni=eh.vk.com&fp=firefox&flow=xtls-rprx-vision&sid=eb0cca7312345678&pbk=Lxs8Ruv2zHH0XW5EiQmuCaScfkGPCxWjW02YDWH8pyU#Serbien
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&packetEncoding=xudp&encryption=none#Italien
-vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=%2Fvless%2F&security=none&type=ws#Frankreich
-trojan://FC60532879@adapted-quetzal.rooster465.autos:443?security=tls&sni=adapted-quetzal.rooster465.autos#Ungarn
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#Frankreich
-trojan://IQ68037294@eager-louse.rooster465.autos:443?security=tls&sni=eager-louse.rooster465.autos#Rum%C3%A4nien
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.95:443?security=tls&type=ws&path=/api&host=fn.ariyuz.org&packetEncoding=xudp&alpn=http/1.1&sni=fn.ariyuz.org&fp=firefox&encryption=none#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#UK
-trojan://IQ68037294@dear-ferret.rooster465.autos:443?security=tls&sni=dear-ferret.rooster465.autos#Ungarn
-vless://d195909a-eff4-489d-a261-955b904894cb@free.server6peekconfig.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoieUhYMWhoZEVEIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560&host=free.server6peekconfig.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=fREE.sERVer6PeeKCOnFIG.wOrkErs.dEv&fp=chrome&encryption=none#USA
-trojan://IQ68037294@casual-bullfrog.rooster465.autos:443?security=tls&sni=casual-bullfrog.rooster465.autos#Rum%C3%A4nien
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.40.49:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#USA
-trojan://humanity@104.25.109.237:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080#UK
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.36:443#UK
-vless://da7685a7-15ef-41e4-a0d9-009bb4be7220@140.233.160.24:443?security=reality&type=raw&packetEncoding=xudp&sni=ya.ru&fp=edge&flow=xtls-rprx-vision&sid=abcd&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ#USA
+vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.45.24:8443?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt?ed=2560&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.14.252:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512#
+trojan://IQ68037294@pet-albacore.rooster465.autos:443?security=tls&sni=pet-albacore.rooster465.autos#Russland
+vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443?security=reality&type=tcp&packetEncoding=xudp&sni=uk.bvps.cloud&fp=chrome&flow=xtls-rprx-vision&sid=60debb3ab744d8ce&pbk=j5qmR8E9er-0n5zZbK6s_SdvYm-tYlraXVYm49ArWS8&encryption=none#USA
+vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.zen2bswa.info:8443?path=%2F&security=tls&encryption=none&insecure=0&host=ad-004.zen2bswa.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-004.zen2bswa.info#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@92.112.126.90:443#Ukraine
+trojan://humanity@104.16.174.6:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+trojan://WG39087154@flying-escargot.rooster465.autos:443?security=tls&sni=flying-escargot.rooster465.autos#Japan
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.12.31.220:443?security=tls&type=ws&path=/rdfgtws&host=vangoghhh.info&packetEncoding=xudp&sni=vangoghhh.info&fp=chrome&encryption=none#Rum%C3%A4nien
+vmess://eyJhZGQiOiAiNDcuMjQ0LjEyMC4xOTciLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI0NWI4MzUxOS05YzRmLTQwNTItYTExYi0wMmUwMTdiNjM2ZDQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsICJwb3J0IjogMzY3MDMsICJwcyI6ICJIb25na29uZyIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vmess://eyJhZGQiOiAiMjAwMTpiYzg6MzJkNzoyMjU6OjMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImNkODBkMGE0LWE4ZWYtNDQ5Mi1iOTU2LWRhODJhNmNlY2FmOSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8wek5XNTZzRiIsICJwY3MiOiAiIiwgInBvcnQiOiAiNTUwMDkiLCAicHMiOiAiRnJhbmtyZWljaCIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@152.70.239.74:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#S%C3%BCdkorea
+trojan://WG39087154@touching-ostrich.rooster465.autos:443?fp=chrome&security=tls&sni=touching-ostrich.rooster465.autos&type=tcp#Singapur
+trojan://humanity@198.62.62.23:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#USA
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@time.is:443?security=tls&type=ws&path=/&host=azadnet-826.pages.Dev&packetEncoding=xudp&alpn=h3,h2,http/1.1&sni=azadnet-826.pages.Dev&fp=chrome&encryption=none#
+trojan://OD90375861@big-bonefish.rooster465.autos:443?security=tls&sni=big-bonefish.rooster465.autos#Luxemburg
+vmess://eyJhZGQiOiAiMTQ5Ljg4LjIzLjIwMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgIm5ldCI6ICJyYXciLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxODAwMCIsICJwcyI6ICJTaW5nYXB1ciIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://a1750ade-801f-4e3e-a5d2-de825771205d@151.80.147.30:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=Ij3Iz1jqht6zLOy9uI0iusTy4n1oIr7gpgTwRTtA8kY&security=reality&sid=42b395462da31c0e&sni=speedtest.net&type=tcp#Frankreich
+vmess://eyJhZGQiOiAiMTA0LjE3Ljc3Ljc3IiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9sTW5zWlVONC8iLCAicG9ydCI6IDg0NDMsICJwcyI6ICIiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAidjJyYXkxLmRvemFwcC54eXoiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@198.41.209.80:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

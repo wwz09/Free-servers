@@ -35,26 +35,26 @@
  <h4>Daftar node: (Maksimal 20 node ditampilkan di sini. Node gratis lainnya bisa didapatkan di aplikasi.)</h4>
     
 ```
-trojan://humanity@104.16.71.213:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#France
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@149.28.159.222:443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#Singapore
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@usa02.myxasecure.space:443?security=reality&type=tcp&packetEncoding=xudp&sni=usa02.myxasecure.space&fp=firefox&flow=xtls-rprx-vision&sid=d67ec5a8fc40ebea&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw#Russia
-trojan://JT80563429@pretty-quail.rooster465.autos:443?fp=chrome&security=tls&sni=pretty-quail.rooster465.autos&type=tcp#France
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@198.13.60.163:443?security=tls&type=ws&path=/fp=chrome&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI=@108.181.57.93:8388#United+States
-trojan://WG39087154@fair-kingfish.rooster465.autos:443?security=tls&sni=fair-kingfish.rooster465.autos#Singapore
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-tw-002.fastervpn.world#%F0%9F%87%B9%F0%9F%87%BCTW_1%7C2.2MB%2Fs%20%7C%20%E7%BD%91%E7%9B%98%E6%90%9C%E5%AE%9D%3A%20https%3A%2F%2Ft.me%2Fdiskseeker
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#United+Kingdom
-vless://2a77a470-315c-493d-b690-59b814a804cb@45.131.212.6:443?security=reality&type=tcp&packetEncoding=xudp&sni=abuse.sellflow.org&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#China
-trojan://IQ68037294@polite-martin.rooster465.autos:443?security=tls&sni=polite-martin.rooster465.autos#Hungary
-trojan://WG39087154@upright-bedbug.rooster465.autos:443?security=tls&sni=upright-bedbug.rooster465.autos#Hong+Kong
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.36:443#United+Kingdom
-vless://518de0d4-6ce8-4404-80db-23c4a8806128@www.speedtest.net:443?security=tls&type=ws&path=/eyJqdW5rIjoiQkFLTnhqM2tZTSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&host=ez-5faafb.esmaoi.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=ez-5FAAFb.EsmAoi.wORKeRs.DEv&fp=chrome&encryption=none#
-vless://af1e0692-6c91-4d61-bc6b-108f2e897c37@193.233.174.195:27331?encryption=none&security=&type=tcp#Russia
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@37.59.96.25:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome&encryption=none#France
-vless://8bba3194-4856-46d1-8319-075817d87eb1@147.45.50.132:443?security=reality&encryption=none&pbk=oGgupP3uX0TNyFwuxNYaFj-IQ8EPhCuKfJdaOHiMnV0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl16.sodahub.online&sid=c334408a1056aaf8#Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#United+Kingdom
-vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#United+States
+hysteria2://vpn-hy2-lv-2026@185.236.22.119:8444?insecure=1&security=tls&sni=185.236.22.119#Russia
+vless://8bba3194-4856-46d1-8319-075817d87eb1@fr3.cyphervpn.pro:443?flow=xtls-rprx-vision&fp=firefox&packetEncoding=xudp&pbk=%2Dcfh-rBjSYKhBeAgGzYLrcDiEfZc9xRqCvMB0kpOokQ&security=reality&sid=253105aeda9e37a7&sni=fr3.cyphervpn.pro&type=tcp#France
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node6.mxvpn.dev:443?security=reality&type=tcp&packetEncoding=xudp&sni=node6.mxvpn.dev&fp=firefox&flow=xtls-rprx-vision&sid=bbc68cec8bb8d2e3&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw#Greece
+trojan://WG39087154@nearby-cod.rooster465.autos:443?security=tls#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#United+Kingdom
+trojan://IQ68037294@robust-toucan.rooster465.autos:443?security=tls&sni=robust-toucan.rooster465.autos#Luxembourg
+trojan://humanity@104.18.23.63:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+trojan://IQ68037294@13.39.161.149:443?fp=chrome&security=tls&sni=humane-bird.rooster465.autos&type=tcp#France
+vless://8bba3194-4856-46d1-8319-075817d87eb1@45.140.204.162:2443?security=reality&type=tcp&packetEncoding=xudp&sni=pl4.cyphervpn.pro&fp=chrome&flow=xtls-rprx-vision&sid=8f9d033ad6d2cebf&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&encryption=none#Israel
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.81:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#Hong+Kong
+vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@144.31.14.168:25060?path=/xray&security=none&encryption=none&type=ws#United+States
+trojan://JA96378052@91.199.84.185:443?allowInsecure=1&security=tls&sni=WangCai.rooster465.autos#Hong+Kong
+vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.3.186:8443?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt?ed=2560fp=random&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=chrome#
+trojan://FC60532879@classic-pug.rooster465.autos:443?security=tls&sni=classic-pug.rooster465.autos#Luxembourg
+trojan://NQ26071394@ready-kangaroo.rooster465.autos:443?security=tls&sni=ready-kangaroo.rooster465.autos#France
+vless://bd9ff08b-d042-3650-48e4-c4b400000000@104.21.117.9:443?security=tls&type=ws&path=/NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN&host=netlivpn2950.bbxff.workers.dev&packetEncoding=xudp&sni=netlivpn2950.bbxff.workers.dev&fp=chrome&encryption=none#
+trojan://humanity@104.18.22.63:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+vless://711c018e-2692-4aa8-93f3-544d83fcd16c@152.53.127.214:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7a76f3c4b9dd&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs#Austria
+trojan://humanity@162.159.38.119:443?security=tls&sni=www.creationlong.org&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

@@ -36,25 +36,25 @@
     
 ```
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.212:8443?insecure=0&obfs=&obfs-password=&security=tls&sni=grape-turbo-fr.roxa.org#United+States
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.119:8443?security=reality&type=tcp&packetEncoding=xudp&sni=google.com&fp=chrome&sid=3ca620a7ed5f3196&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&encryption=none#United+States
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.72.101:8443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&type=ws&sni=t1s1.rittbo.kdns.fr#
-hysteria2://grape_288923@194.247.182.201:8443?security=tls&sni=grape-coffee-fi.gleeze.com#Iceland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#United+Kingdom
-trojan://FC60532879@steady-lemming.rooster465.autos:443?security=tls&sni=steady-lemming.rooster465.autos#Hungary
-vless://8bba3194-4856-46d1-8319-075817d87eb1@pl4.cyphervpn.pro:2443?security=reality&type=tcp&packetEncoding=xudp&sni=pl4.cyphervpn.pro&fp=chrome&flow=xtls-rprx-vision&sid=8f9d033ad6d2cebf&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&encryption=none#Israel
-vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none&path=%2F&security=none&type=ws#Poland
-vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#Japan
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?security=tls&type=ws&path=/fp&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&alpn=h3,h2,http/1.1&sni=hhlfy.twiladaphne.ndjp.net&fp=chrome&encryption=none#
-trojan://IQ68037294@62.112.222.200:443?security=tls&sni=helped-buck.rooster465.autos#Hungary
-vless://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=47de54e71fee3451&pbk=maES4RMEtsm5emBCixDRa6Y5GvmVwmwZNBL2G4Q03D4&encryption=none#United+States
-trojan://WG39087154@primary-leech.rooster465.autos:443?security=tls&sni=primary-leech.rooster465.autos#Hungary
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.31:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome&encryption=none#Saudi+Arabia
-trojan://JT80563429@true-coral.rooster465.autos:443?fp=chrome&security=tls&sni=true-coral.rooster465.autos&type=tcp#Hong+Kong
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node14.mxvpn.dev:443?security=reality&type=tcp&packetEncoding=xudp&sni=node14.mxvpn.dev&fp=chrome&flow=xtls-rprx-vision&sid=bbc68cec8bb8d2e3&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&encryption=none#Lebanon
-trojan://NQ26071394@full-ox.rooster465.autos:443?security=tls&sni=full-ox.rooster465.autos#Hong+Kong
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?security=reality&type=raw&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#France
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@45.12.31.220:443?security=tls&type=ws&path=/rdfgtws&host=vangoghhh.info&packetEncoding=xudp&sni=vangoghhh.info&fp=chrome&encryption=none#Romania
-vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.45.193:443?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#
+vless://af6904c1-4349-4448-8e99-0024824a0c33@sgxi.959555.xyz:10000?security=reality&type=raw&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=3b0b73e5&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU&encryption=none#United+States
+trojan://PI36027154@upright-hamster.rooster465.autos:443?security=tls&sni=upright-hamster.rooster465.autos#Hungary
+trojan://WG39087154@literate-coyote.rooster465.autos:443?security=tls&sni=literate-coyote.rooster465.autos#The+Netherlands
+vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.7.178:443?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#
+trojan://humanity@172.67.200.219:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#United+States
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.200:2053?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#Seychelles
+trojan://IQ68037294@89.39.70.49:443?security=tls&sni=eager-louse.rooster465.autos#Romania
+vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@[2605:e440:15::6b]:443?encryption=none&type=tcp&headerType=&fp=firefox&host=36cf43b9s298.wagahaha.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u695099u36cf43b9s298.wagahaha.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#Hong+Kong
+trojan://IQ68037294@more-trout.rooster465.autos:443?security=tls&sni=more-trout.rooster465.autos#Hungary
+trojan://humanity@8.6.112.6:443?security=tls&sni=www.calmloud.com&fp=chrome&allowInsecure=1&type=ws&host=www.calmloud.com&path=%2Fassignment#Austria
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.25.213.215:443?security=tls&type=ws&path=/fp&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#
+vless://03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a@69.48.201.136:30016?security=none&type=ws&path=/usserver&host=uspanel.unixzone.us&packetEncoding=xudp&encryption=none#United+States
+trojan://NQ26071394@62.112.222.12:443?fp=chrome&security=tls&sni=ready-lion.rooster465.autos&type=tcp#Hungary
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=raw&packetEncoding=xudp&encryption=none#Italy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.55:28061#India
+hysteria2://419bfbd4-3097-4cef-a6b3-aebd78506ed7@ppl.myispace.xyz:8443?security=tls&sni=ppl.myispace.xyz#Switzerland
+vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@veesp-fj-vpn-2.concept7.ru:443?security=reality&encryption=none&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=e29c9c180c62#Lithuania
+trojan://humanity@104.18.12.149:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.130.125.207:443?encryption=none&host=t1s1.rittbo.kdns.fr&path=%2Ffp&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#Seychelles
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

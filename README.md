@@ -36,15 +36,15 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.2.173:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@154.193.55.183:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=dbbe8dca27a92c35&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4#%E5%8D%97%E9%9D%9E+V2CROSS.COM
-vless://711c018e-2692-4aa8-93f3-544d83fcd16c@jdwadgw.cvewfjg.shop:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7a76f3c4b9dd&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://711c018e-2692-4aa8-93f3-544d83fcd16c@152.53.127.214:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7a76f3c4b9dd&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://f27894bf-349c-44e6-a0ce-4c787e18476f@www.true.th:80?fp=chrome&host=duatoup3wk8q2.cloudfront.net&path=%2FGDkX4xpB%2F&type=ws#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?security=tls&sni=space.byu.id.yxls.eu.cc&type=ws&path=/in-pdr&Host=space.byu.id.yxls.eu.cc#%E8%8D%B7%E5%85%B0+V2CROSS.COM
-vless://da7685a7-15ef-41e4-a0d9-009bb4be7220@140.233.160.24:443?security=reality&type=raw&packetEncoding=xudp&sni=ya.ru&fp=edge&flow=xtls-rprx-vision&sid=abcd&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ#%E7%BE%8E%E5%9B%BD+%E6%98%8E%E5%BE%B7%E5%A4%A7%E5%AD%A6
-hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?security=tls&sni=usa1.spectrumproxy.shop#%E6%8C%AA%E5%A8%81+V2CROSS.COM
-vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.198.87:2087?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://711c018e-2692-4aa8-93f3-544d83fcd16c@jdwabxe.cvewfjg.shop:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7a76f3c4b9dd&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://2d7c8eef-49c0-4d89-a74f-591ea805274d@103.27.156.63:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=dSKIQmSXKkmpXGcB9RCt320PmpuE92omqsVqdH351G8&type=grpc#%E6%97%A5%E6%9C%AC+V2CROSS.COM
+vless://711c018e-2692-4aa8-93f3-544d83fcd16c@152.53.236.22:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7a76f3c4b9dd&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.95.225.70:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2F%40oneclickvpnkeys#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://VPNCUSTOMIZE@104.18.16.56:443?mode=stream-one&path=/config&security=tls&insecure=0&host=bvck-oizksj-swin-usje-c-o.gameserver.de5.net&type=xhttp&allowInsecure=0&sni=ww.gameserver.de5.net#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://cfde0aba-0985-4034-ab92-50b1534b126c@167.82.0.1:80?type=ws&host=BankMelat.glObal.ssl.faStly.nEt.&path=#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?allowInsecure=0&host=space.byu.id.yxls.eu.cc&path=%2Fin-pdr&security=tls&sni=space.byu.id.yxls.eu.cc&type=ws#%E8%8D%B7%E5%85%B0+V2CROSS.COM
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.45.249:8443?security=tls&type=ws&path=/&host=t1s1.rittbo.kdns.fr&packetEncoding=xudp&sni=t1s1.rittbo.kdns.fr&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#%E5%8D%B0%E5%BA%A6+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
