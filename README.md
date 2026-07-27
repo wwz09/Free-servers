@@ -36,16 +36,18 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-trojan://humanity@104.20.6.134:443?fp=chrome&path=%2F%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@172.67.149.60:443?path=/in-pdr&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&ech=encryptedsni.com+udp://8.8.8.8&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@89.116.250.135:8443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#%E7%AB%8B%E9%99%B6%E5%AE%9B+V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZcTQyVng1NmEyU2doQ25MdE95T0NG@216.105.168.19:443#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://JT80563429@genuine-grackle.rooster465.autos:443?security=tls&sni=genuine-grackle.rooster465.autos#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
-vless://2d7c8eef-49c0-4d89-a74f-591ea805274d@103.27.156.63:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=dSKIQmSXKkmpXGcB9RCt320PmpuE92omqsVqdH351G8&type=grpc#%E6%97%A5%E6%9C%AC+V2CROSS.COM
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.151.158:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://49e8f20c-6a27-4637-9e20-e0ea18a75766@nl.themesh.site:443?security=reality&type=tcp&packetEncoding=none&sni=nl.themesh.site&fp=qq&flow=xtls-rprx-vision&sid=d6bbcebcee694033&pbk=eNytGwUbWmVYKVIa-mq-rNInvRJxWSaBf7Z5ngJoBzI#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.63:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none&host=storage.yandex.net#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.140:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none&host=storage.yandex.net#%E5%8D%97%E9%9D%9E+V2CROSS.COM
 vless://711c018e-2692-4aa8-93f3-544d83fcd16c@jdwabxe.cvewfjg.shop:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7a76f3c4b9dd&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.95.225.70:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2F%40oneclickvpnkeys#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vless://711c018e-2692-4aa8-93f3-544d83fcd16c@152.53.127.214:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7a76f3c4b9dd&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?host=space.byu.id.yxls.eu.cc&path=%2Fin-pdr&security=tls&sni=space.byu.id.yxls.eu.cc&type=ws#%E8%8D%B7%E5%85%B0+V2CROSS.COM
+vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?encryption=none&security=none&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD+%E5%AE%BE%E5%88%A9%E5%A4%A7%E5%AD%A6
+vless://6d73dc1e-1627-4b16-b471-53e63aa16c78@deepl.com:8880?encryption=none&host=sweet-truth-ccdb.134-7e9.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=&type=tcp#%E4%BC%8A%E6%9C%97+V2CROSS.COM
+vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@s553.csgfw.top:443?encryption=none&type=tcp&headerType=&fp=firefox&host=402ce52bs552.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u695099u402ce52bs552.okgfw.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%E7%BE%8E%E5%9B%BD+%E7%BA%BD%E7%BA%A6%E5%B7%9E%E7%BA%BD%E7%BA%A6BuyVM
+vless://f27894bf-349c-44e6-a0ce-4c787e18476f@18.244.214.36:80?host=duatoup3wk8q2.cloudfront.net&path=%2FGDkX4xpB%2F&type=ws#%E7%BE%8E%E5%9B%BD+%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2
+vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@s554.uugfw.top:443?encryption=none&type=tcp&headerType=&fp=firefox&host=402ce52bs552.okgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u695099u402ce52bs552.okgfw.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%E7%BE%8E%E5%9B%BD+%E7%BA%BD%E7%BA%A6%E5%B7%9E%E7%BA%BD%E7%BA%A6BuyVM
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.21:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5&type=tcp&headerType=none&host=storage.yandex.net#%E5%8D%97%E9%9D%9E+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
