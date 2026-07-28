@@ -35,24 +35,24 @@
  <h4>Lista węzłów: (Tutaj wyświetlanych jest maksymalnie 20 węzłów. Pozostałe bezpłatne węzły są dostępne w aplikacji.)</h4>
     
 ```
-vless://536c58c0-a41d-4381-bb80-0db76a4d6204@154.83.246.41:443/?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&security=reality&sid=d3ee47fc2f553c44&sni=storage.yandex.net&type=tcp#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#United+States
-trojan://9ad83f65a560960e6509b677eb6162c1@153.75.250.171:49271?security=tls&sni=153.75.250.171.sslip.io#United+States
-trojan://humanity@104.16.174.12:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2#Taiwan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.39:8080#United+Kingdom
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:10574?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#United+Kingdom
-trojan://humanity@www.speedtest.org:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-hysteria2://0I_Vi934gK9_Mq3240Xs_Bv2_kUi8Q34183g9hj_Bv6_7a@213.202.219.29:8443?security=tls&sni=grape-sos-de.roxa.org#Germany
-vless://5aafc2be-9348-4dec-b896-f4a91253bbca@172.67.149.60:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=support.zoom.us.yxls.eu.cc&path=/id-tksi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#The+Netherlands
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node12.mxvpn.dev:443?security=reality&type=tcp&packetEncoding=xudp&sni=node12.mxvpn.dev&fp=chrome&flow=xtls-rprx-vision&sid=bbc68cec8bb8d2e3&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&encryption=none#Russia
-vmess://eyJhZGQiOiAibjE3NDc2MjQyNjAuNHU5bWEuaWN1IiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuMTc0NzYyNDI2MC40dTltYS5pY3UiLCAiaWQiOiAiZWVlOGNiNzItN2VhYi00MDM0LWEzMDgtZWQwNmNiMDdlMDAzIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0MywgInBzIjogIlNpbmdhcG9yZSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-trojan://humanity@chatgpt.com:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#
-trojan://bd85f5fe32d9446a8b1f59e4f710455b@104.24.163.206:443?alpn=http%2F1.1&fp=chrome&path=%2FeyJqdW5rIjoibkN2cER2SDZIUTkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6IiIsInBhbmVsSVBzIjoiWzJhMDI6ODk4OjE0Njo2NDo6XSJ9%3Fed%3D2560&security=tls&sni=BpB-PAnEL-62c3.mlM-eE9A3b83.wOrKErS.dev&type=ws#
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443?insecure=1&security=tls&sni=54.255.220.11#Singapore
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.53:8880?mode=gun&security=none&encryption=none&type=grpc#France
+vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.36.117:2087?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#United+Kingdom
+vless://0ba5211f-fb2b-42a0-8e18-9ce7a41745a5@skk.moe:443?security=tls&type=ws&path=/0ba5211f-fb2b-42a0-8e18-9ce7a41745a5-vless&host=sg.xfj123.top&packetEncoding=xudp&sni=sg.xfj123.top&fp=chrome&encryption=none#United+States
+trojan://humanity@198.41.223.96:443?alpn=http%2F1.1%2Ch2%2Ch3&fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2Fwangcai2%F0%9F%87%A8%F0%9F%87%B3#Hong+Kong
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@apinbxs.eovay.com:40118?security=reality&type=tcp&packetEncoding=xudp&sni=www.lamer.com.sg&fp=chrome&flow=xtls-rprx-vision&sid=5895914d&pbk=x1nqrSzJzU5Hq7fr36PEmtBfOf98A2XiFuRzIsdcz20#Hong+Kong
+trojan://humanity@104.16.80.73:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&security=tls&sni=www.microsoft.com#France
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@198.41.208.112:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#
+vless://4e0f4e59-3613-4f0c-b824-7348413d20e6@167.17.68.205:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=250b5976473a&pbk=UE8hUjH1WYwemxIriq5lvtFCnHTdLF817okXr-u7MGs#Canada
+trojan://humanity@104.26.14.137:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.limaklhc6.info:8443?encryption=none&security=tls&type=ws#United+States
+trojan://humanity@104.18.32.47:443?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#
+trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#
+vmess://eyJhZGQiOiAiMzguMTEwLjEuMjQ2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE4MDAwIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://29ca503d-e6b8-4509-b666-48133f450857@173.245.58.217:8443?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#United+States
+vless://dd321f25-8f90-4e7c-a1fa-01883a8988a7@162.159.0.3:443?security=tls&type=ws&path=/pyip=proxyip.cmliussss.netfp=random&host=soucuovls.pages.dev&packetEncoding=xudp&sni=soucuovls.pages.dev&fp=chrome#
+vless://bc5b801f-49a7-4db7-ac92-a2c57d42d132@93.114.194.116:448?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&sid=e1bdc95c1554c8eb&pbk=qX6IJfWNN-SNray6xJugb8pCpgY_zjeyCfvq9IUyd3w#Romania
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

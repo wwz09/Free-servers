@@ -35,24 +35,24 @@
  <h4>Lista de nós: (No máximo 20 nós são exibidos aqui. Outros nós gratuitos estão disponíveis no app.)</h4>
     
 ```
-hysteria2://3f3da036-ab8f-405e-a5fd-e7223cb39866@h1.fogplay-mts.ru:443?insecure=1&security=tls&sni=h1.fogplay-mts.ru#EUA
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#EUA
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.17.149.233:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#Reino+Unido
-trojan://humanity@www.ignitelimit.com:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-vless://29ca503d-e6b8-4509-b666-48133f450857@185.239.69.147:8443?encryption=none&host=learn00.evany.de5.net&path=%2Ffdip%3Dtw.william.us.ci%21txt&security=tls&sni=learn00.evany.de5.net&type=ws#Holanda
-hysteria2://b7c9e2f1-4d83-42a1-9e5f-sg2026proxy@209.74.81.28:8443?insecure=1&security=tls&sni=209.74.81.28#EUA
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=none&type=tcp&packetEncoding=xudp#Hong+Kong
-vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.198.240:2053?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=chrome#EUA
-trojan://humanity@104.16.174.37:443?allowInsecure=1&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-trojan://humanity@104.18.152.113:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-vless://c7e9c591-2764-423a-afca-efbd010fd396@103.54.16.230:2053?&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online&type=ws&headerType=none&host=forfreeuse.sub-flow.online&path=%2F#%C3%8Dndia
-trojan://humanity@172.64.146.198:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#EUA
-hysteria2://4684baa8-c839-47eb-aac3-0b8ed45c20e5@us.xfj123.top:8881?insecure=1&security=tls&sni=us.xfj123.top#EUA
-vmess://eyJhZGQiOiAiNDUuNzYuMjAyLjQ1IiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDcxYThhNzEtYzY1Ni00ZmI2LWE5MDgtNGU0MmViNzIyNDNkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saWtzdXpjcCIsICJwb3J0IjogNDAxMCwgInBzIjogIkphcFx1MDBlM28iLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#%C3%8Dndia
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@usp.noesissite.ru:443?allowInsecure=0&insecure=0&security=tls&sni=usp.noesissite.ru#Espanha
-vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@172.67.157.10:8443?security=tls&type=ws&path=/&host=ad-010.vector2llqn.info&packetEncoding=xudp&sni=ad-010.vector2llqn.info&fp=chrome&encryption=none#EUA
+vless://b8794f67-80d9-4124-8fc5-2d2ce5516573@50.7.177.179:443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=firefox&flow=xtls-rprx-vision&sid=bd72&pbk=AYL1z7PNyo6LqYLeZpXa50FnK9eEu7o18KHRhOlST1w&encryption=none#Holanda
+vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.45.193:443?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080#Reino+Unido
+vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@s593.gogocs.xyz:443?encryption=none&type=tcp&headerType=&fp=firefox&host=b67c99c6s591.csgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u695099ub67c99c6s591.csgfw.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#Vietn%C3%A3
+vless://5098e189-3462-4ff7-8ddd-4aaecfd060ea@45.192.2.157:443?security=reality&type=tcp&packetEncoding=xudp&alpn=http/1.1&sni=yandex.net&fp=qq&flow=xtls-rprx-vision&sid=f34818a561dfd1fe&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA#%C3%81frica+do+Sul
+trojan://humanity@45.130.125.162:443?alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#Ilhas+Seychelles
+vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?encryption=none&type=ws&security=none&path=/v1&host=rzd.ru#Pol%C3%B4nia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI=@R3MRCG00129437X.cybervena.com:50099#Taiwan
+trojan://humanity@104.18.152.229:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+trojan://humanity@104.16.174.117:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+hysteria2://0I_Vi934gK9_Mq3240Xs_Bv2_kUi8Q34183g9hj_Bv6_7a@213.202.219.29:8443?security=tls&sni=grape-sos-de.roxa.org#Alemanha
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#EUA
+trojan://bd85f5fe32d9446a8b1f59e4f710455b@104.24.163.206:443?alpn=http%2F1.1&fp=chrome&path=%2FeyJqdW5rIjoibkN2cER2SDZIUTkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6IiIsInBhbmVsSVBzIjoiWzJhMDI6ODk4OjE0Njo2NDo6XSJ9%3Fed%3D2560&security=tls&sni=BpB-PAnEL-62c3.mlM-eE9A3b83.wOrKErS.dev&type=ws#
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.245.180.117:443?insecure=1&security=tls&sni=54.245.180.117#EUA
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?mode=gun&security=none&encryption=none&type=grpc#Fran%C3%A7a
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-kr-003.fastervpn.world:443?insecure=1&security=tls&sni=vpn-kr-003.fastervpn.world#Coreia+do+Sul
+vless://15e0833c-08ad-47f3-bf80-60c2a47a6774@veesp-fj-vpn-1.concept7.ru:443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&sid=eb1e33e8a81b&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&encryption=none#Litu%C3%A2nia
+trojan://humanity@8.6.112.0:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2Fassignment#%C3%81ustria
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
