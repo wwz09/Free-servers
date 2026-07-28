@@ -35,24 +35,25 @@
  <h4>ノード リスト: (ここには最大20個のノードのみ表示されます。その他の無料ノードはアプリで取得できます)</h4>
     
 ```
-vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.44.66:2053?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#
-vless://3ef170be-05d0-479c-9753-aa2f860964ea@2.27.13.17:443?security=reality&type=tcp&packetEncoding=xudp&sni=cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=a1b2c3d4e5f6&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&encryption=none#%E8%8B%B1%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#%E8%8B%B1%E5%9B%BD
-hy2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?security=tls&sni=usa1.spectrumproxy.shop#%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E5%85%B1%E5%92%8C%E5%9B%BD
-vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.2.40:443?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt?ed=2560fp=random&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=chrome#
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.246:80?encryption=none&host=BankMelat.glObal.ssl.faStly.nEt&type=ws&security=none&path=/?Telegram-WangCai2🇨🇳#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%85%B1%E5%92%8C%E5%9B%BD
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa1.api3-max.ru:443?security=tls&sni=wopa1.api3-max.ru#%E8%8B%B1%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#%E8%8B%B1%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%E8%8B%B1%E5%9B%BD
-vless://0ba5211f-fb2b-42a0-8e18-9ce7a41745a5@skk.moe:443?security=tls&type=ws&path=/0ba5211f-fb2b-42a0-8e18-9ce7a41745a5-vless&host=sg.xfj123.top&packetEncoding=xudp&sni=sg.xfj123.top&fp=chrome&encryption=none#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vless://b7479b73-8cea-4a82-97e8-bacf9bd86605@154.17.238.183:64414?security=reality&type=tcp&packetEncoding=xudp&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&sid=b0528dc6&pbk=p-Cb-NIHfAxgTQAR4tbLk-MwadOmd4o_cXT1qx250VE&encryption=none#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@108.162.198.5:443?encryption=none&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC%E7%8E%8B%E5%9B%BD
-vless://dd321f25-8f90-4e7c-a1fa-01883a8988a7@172.64.32.6:443?security=tls&type=ws&path=/pyip=proxyip.cmliussss.net&host=soucuovls.pages.dev&packetEncoding=xudp&sni=soucuovls.pages.dev&fp=chrome&encryption=none#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vmess://eyJhZGQiOiAidTJmcnhqMGcxM3ZkaTB3by52LjNkbnMudmlwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIlUyRlJ4ajBHMTN2REkwV28udi4zZG5zLnZpcCIsICJpZCI6ICJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHU5OTk5XHU2ZTJmIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQXFiQllCQjBmOUNBbXBVX21jXzdGeXZ2TENjd3p0MA==@31.76.80.205:8388#%E8%8B%B1%E5%9B%BD
 vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@45.206.5.122:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=qq&flow=xtls-rprx-vision&sid=500aec9e9e5e2212&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&encryption=none#%E5%8F%B0%E6%B9%BE
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?security=reality&type=raw&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%85%B1%E5%92%8C%E5%9B%BD
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@141.164.45.187:8119#%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD
+vless://b7479b73-8cea-4a82-97e8-bacf9bd86605@154.17.238.183:64414?security=reality&type=tcp&packetEncoding=xudp&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&sid=b0528dc6&pbk=p-Cb-NIHfAxgTQAR4tbLk-MwadOmd4o_cXT1qx250VE&encryption=none#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4zNyIsICJhaWQiOiAwLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTgwIiwgInBzIjogIlx1ODJmMVx1NTZmZCIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@81.85.78.193:4100?path=/v1&security=none&encryption=none&host=live.ok.ru&type=ws#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
+vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?encryption=none&fp=chrome&headerType=none&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&security=reality&sid=a8ae&sni=deepl.com&type=tcp#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vless://deb9c015-1ffe-4e41-9d21-310eb0422a4c@2.26.84.95:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.avito.ru&fp=chrome&pbk=WTCfu0XRIGi93MomsdOxuLOdnjXBkaaVZqaJWpxxYlk&sid=d8f3a9c2#%E8%8B%B1%E5%9B%BD
+vless://6aa028bc-08a9-41d1-a397-d60ce65df081@support.zoom.us:80?security=none&type=ws&path=/shalana&host=shalana.xyz&packetEncoding=xudp&encryption=none#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+trojan://humanity@172.64.149.54:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.198.165:8443?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+trojan://humanity@172.64.152.38:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vmess://eyJhZGQiOiAiODUuOTAuMjE3LjQyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAibmV0IjogInJhdyIsICJwYXRoIjogIiIsICJwb3J0IjogIjIyMzI0IiwgInBzIjogIlx1MzBiOVx1MzBkYVx1MzBhNFx1MzBmMyIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@ad-005.zen2bswa.info:8443?encryption=none&fp=chrome&host=ad-005.zen2bswa.info&path=%2F&security=tls&sni=ad-005.zen2bswa.info&type=ws#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.95.26:443?security=tls&type=ws&path=/&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net&fp=chrome#
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@172.67.191.52:2053?security=tls&type=ws&path=/&host=po.fastbrokencompony.com&packetEncoding=xudp&alpn=h3,h2&sni=po.fastbrokencompony.com&fp=chrome&encryption=none#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.95:443?security=tls&type=ws&path=/api&host=fn.ariyuz.org&packetEncoding=xudp&alpn=http/1.1&sni=fn.ariyuz.org&fp=firefox&encryption=none#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#%E8%8B%B1%E5%9B%BD
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node13.mxvpn.dev:443?security=reality&type=tcp&packetEncoding=xudp&sni=node13.mxvpn.dev&fp=firefox&flow=xtls-rprx-vision&sid=bbc68cec8bb8d2e3&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw#%E3%83%AD%E3%82%B7%E3%82%A2
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@45.89.105.125:443?security=reality&type=tcp&packetEncoding=xudp&alpn=http/1.1&sni=asia.cendora.ru&fp=qq&flow=xtls-rprx-vision&sid=e53048e82bb20077&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&encryption=none#%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>
