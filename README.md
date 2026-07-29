@@ -36,26 +36,17 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.142:80?encryption=none&security=none&type=ws&host=BankMelat.glObal.ssl.faStly.nEt&path=%2F%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://219f9fec-8983-4f6f-af8c-31bd0c6dbf19@45.155.52.231:443/?type=tcp&encryption=none&flow=&sni=ru2.skydrgn-online.online&fp=chrome&security=reality&pbk=6p0aVCkOgd-xaxqSMANYABL6O4Tdbftnxjiy5qcmISQ&sid=0b&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.177:80?allowInsecure=1&sni=BankMelat.glObal.ssl.faStly.nEt&type=ws&host=BankMelat.glObal.ssl.faStly.nEt&path=/#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@151.101.56.7:80?encryption=none&security=none&sni=151.101.56.7&type=ws&host=BankMelat.glObal.ssl.faStly.nEt.&path=%2F#%E7%BE%8E%E5%9B%BD+%E4%B9%94%E6%B2%BB%E4%BA%9A%E6%B4%B2%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7Fastly%E8%8A%82%E7%82%B9
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.57:80?encryption=none&security=none&type=ws&host=BankMelat.glObal.ssl.faStly.nEt&path=%2F%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.201:80?encryption=none&security=none&type=ws&host=BankMelat.glObal.ssl.faStly.nEt&path=%2F%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.119:8443?security=reality&alpn=http/1.1&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=3ca620a7ed5f3196&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.121:80?encryption=none&security=none&type=ws&host=BankMelat.glObal.ssl.faStly.nEt&path=%2F%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@141.11.202.29:443?encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#%E6%B3%95%E5%9B%BD+V2CROSS.COM
+vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?encryption=none&security=none&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD+%E5%AE%BE%E5%88%A9%E5%A4%A7%E5%AD%A6
+trojan://VPNCUSTOMIZE@188.114.97.6:443?mode=stream-one&path=/config&security=tls&insecure=0&host=bvck-oizksj-swin-usje-c-o.offers.de5.net&type=xhttp&allowInsecure=0&sni=ww.offers.de5.net#%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97+CloudFlare%E8%8A%82%E7%82%B9
+vless://df301b32-1152-4526-9a63-beedd93d3156@104.16.27.134:80?security=none&type=ws&path=/&host=vl.dalazhi.cloudns.biz&ed=2048&packetEncoding=xudp&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@154.193.55.183:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=c76ba2c2fb172e8b&type=tcp&headerType=none&host=storage.yandex.net#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 vless://efc9ffd0-aff8-4f3a-b0f9-1c1777a4e2c4@134.122.85.126:53996?encryption=none&fp=chrome&pbk=aNMxt5DL5lJSEb_zKQTvGw7GJqpLrOuNQMNUQ8A-BQ8&security=reality&sid=25735c7d0c3dda&sni=timeline.www.cloudflare.com&spx=/0a1c609a6e82a8c&type=tcp#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20068?security=tls&sni=hk.catxstar.com&type=tcp#%E8%8B%B1%E5%9B%BD+Technicolor+SA
-vless://7d6d3391-7bf8-46bf-bd2e-01e82a790017@155.117.137.201:443?security=reality&type=tcp&packetEncoding=xudp&sni=cdn2-07.yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=d6816b10d545df54&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&encryption=none#%E6%AF%94%E5%88%A9%E6%97%B6+V2CROSS.COM
-vless://c7e9c591-2764-423a-afca-efbd010fd396@103.54.16.230:2053?encryption=none&security=tls&sni=forfreeuse.sub-flow.online&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F#%E5%8D%B0%E5%BA%A6+V2CROSS.COM
-vless://139323c3-888b-4e79-ab20-2c382fa58c40@185.233.184.34:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=10b4#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.63:80?encryption=none&security=none&type=ws&host=BankMelat.glObal.ssl.faStly.nEt&path=%2F%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://5d3abfa9-bdf5-4334-8383-dcf92df802a5@ad-018.cloud25075.info:8443?encryption=none&fp=chrome&host=ad-018.cloud25075.info&path=%2F&security=tls&sni=ad-018.cloud25075.info&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.219:80?encryption=none&security=none&type=ws&host=BankMelat.glObal.ssl.faStly.nEt&path=%2F%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.61:80?encryption=none&security=none&type=ws&host=BankMelat.glObal.ssl.faStly.nEt&path=%2F%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.141:80?encryption=none&security=none&type=ws&host=BankMelat.glObal.ssl.faStly.nEt&path=%2F%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://cfde0aba-0985-4034-ab92-50b1534b126c@199.232.170.192:80?encryption=none&security=none&type=ws&host=BankMelat.glObal.ssl.faStly.nEt&path=%2F%3FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.38.206:8443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-002.fastervpn.world:443?allowInsecure=1&insecure=1&security=tls&sni=vpn-ca-002.fastervpn.world#%E5%8A%A0%E6%8B%BF%E5%A4%A7+%E9%AD%81%E5%8C%97%E5%85%8B%E7%9C%81%E8%92%99%E7%89%B9%E5%88%A9%E5%B0%94Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vless://6bd7815d-9fb0-41c6-87ef-ffc713bf6b8f@151.101.193.54:80?security=none&encryption=none&host=BankMelat.glObal.ssl.faStly.nEt.&type=ws#%E7%BE%8E%E5%9B%BD+Fastly%E5%85%A8%E7%90%83Anycast%E8%8A%82%E7%82%B9
+vless://c7e9c591-2764-423a-afca-efbd010fd396@51.89.23.94:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#%E6%B3%95%E5%9B%BD+V2CROSS.COM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.36:443#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
