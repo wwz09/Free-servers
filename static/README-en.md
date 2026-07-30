@@ -35,26 +35,26 @@
 <h4>Node list: (A maximum of 20 nodes are shown here. More free nodes are available in the app.)</h4>
     
 ```
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.150:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04#Hong+Kong
-vless://29ca503d-e6b8-4509-b666-48133f450857@172.64.52.81:443?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#United+States
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@43.255.156.59:40118?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lamer.com.sg&fp=chrome&pbk=x1nqrSzJzU5Hq7fr36PEmtBfOf98A2XiFuRzIsdcz20&sid=5895914d&type=tcp&headerType=none#Hong+Kong
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#France
-hysteria2://ew9_M93_6a31Qd45_hUX3984F_jNZ83x_Nz1l_f@94.20.88.13:8443?security=tls&sni=azer-tea-grape.bumbleshrimp.com#Azerbaijan
-trojan://humanity@165.215.250.14:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#United+States
-vless://t.me.TradeIP@channel2.tradeip.store:443?security=reality&encryption=none&pbk=HL-IrEO6_mXNGgiBztNWX0VY3nb-JQ3thK_7gFbk4Bg&headerType=none&fp=chrome&spx=/000a5dcfc873675&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=c214#Brazil
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@130.17.2.67:2200?path=/v1&security=&encryption=none&type=ws#United+States
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.201:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&encryption=none#Hong+Kong
-trojan://humanity@172.64.147.52:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#United+States
-trojan://humanity@172.64.146.198:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#United+Kingdom
-vless://c125e5df-e663-4a82-aff7-242dfc0917cf@email.swiftraci.org:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=fa29be70b72f&pbk=Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE&encryption=none#United+Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#United+States
-vless://455cfdc6-9abf-4e40-863f-5ff6cc63457c@staging.lastilhame.monster:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=18e4d2d21241&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&encryption=none#United+Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#United+States
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.123:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04#Hong+Kong
-hysteria2://grape_288923@194.247.182.201:8443?insecure=1&security=tls&sni=grape-coffee-fi.gleeze.com#Iceland
-vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.27.99:443?security=reality&type=tcp&packetEncoding=xudp&sni=1.oncloudnineservicestreang.com&fp=chrome&flow=xtls-rprx-vision&sid=28415a7918168947&pbk=EuExqpNB141gtIjbCmU0yyurbBqiLtGjDg-n95JIuig&encryption=none#Denmark
-trojan://humanity@www.calmlunch.com:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#
+trojan://humanity@172.64.146.27:443?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#United+States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6697#South+Korea
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#United+States
+vless://b8794f67-80d9-4124-8fc5-2d2ce5516573@216.227.169.104:443?security=reality&type=raw&packetEncoding=xudp&sni=deepl.com&fp=qq&flow=xtls-rprx-vision&sid=bd72&pbk=AYL1z7PNyo6LqYLeZpXa50FnK9eEu7o18KHRhOlST1w&encryption=none#United+States
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.179.153.191:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Singapore
+vmess://eyJhZGQiOiAiMTQ5Ljg4LjIzLjIwMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgIm5ldCI6ICJyYXciLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxODAwMCIsICJwcyI6ICJTaW5nYXBvcmUiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.87:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&encryption=none#Hong+Kong
+vless://49a9aa25-443b-4fab-9a85-066dd5396c57@104.17.170.132:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=mute-river-6aee.421-bd7.workers.dev&packetEncoding=xudp#
+trojan://humanity@188.114.96.3:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&fp=chrome#The+Netherlands
+vmess://eyJhZGQiOiAiMTI5LjE0Ni43Ny4yNDgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImY4MzZjNzM2LTg3ZmMtNGZkZS1hYWJjLTAwODU3ZWNkZmYzZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvY2N0djEzLm0zdTgiLCAicG9ydCI6ICIzOTQ5NSIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vless://dd321f25-8f90-4e7c-a1fa-01883a8988a7@108.162.192.9:443?security=tls&type=ws&path=/pyip=proxyip.cmliussss.net&host=soucuovls.pages.dev&packetEncoding=xudp&sni=soucuovls.pages.dev&fp=random#United+States
+vless://t.me.TradeIP@channel2.tradeip.store:8443?security=reality&encryption=none&pbk=HL-IrEO6_mXNGgiBztNWX0VY3nb-JQ3thK_7gFbk4Bg&headerType=none&fp=chrome&spx=/000a5dcfc873675&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=06f4e6#Brazil
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.209:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04#Hong+Kong
+vless://b12eebc2-369c-4f3c-96a0-a8bd150ca8d5@138.124.126.158:443?security=reality&type=tcp&packetEncoding=xudp&sni=eh.vk.com&fp=firefox&flow=xtls-rprx-vision&sid=eb0cca7312345678&pbk=Lxs8Ruv2zHH0XW5EiQmuCaScfkGPCxWjW02YDWH8pyU#Serbia
+trojan://humanity@104.19.230.21:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.81:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&encryption=none#Hong+Kong
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.fbi.gov:2095?&type=ws&headerType=none&host=fuckingfangbinxing.pusytroller.cf&path=%2F#
+trojan://humanity@172.64.147.166:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#United+States
+vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@s2359.ccgfw.online:443?encryption=none&type=tcp&headerType=&fp=firefox&host=53fe439es2358.gogocs.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u695099u53fe439es2358.gogocs.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#Russia
+vless://814bd064-544d-4255-a070-5705c03f6da9@103.106.229.190:19261?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#Malaysia
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

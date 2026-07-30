@@ -36,15 +36,15 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-vless://5eecb34f-c905-4c77-b7fb-d830b451cd11@141.133.172.222:20342?security=none&encryption=none&headerType=none&type=tcp#%E7%BE%8E%E5%9B%BD+%E5%AE%BE%E5%88%A9%E5%A4%A7%E5%AD%A6
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.16.72.251:443?security=tls&type=ws&path=/&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://711c018e-2692-4aa8-93f3-544d83fcd16c@152.53.236.22:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7a76f3c4b9dd&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20035?allowInsecure=1&security=tls&sni=hk.catxstar.com#%E8%8B%B1%E5%9B%BD+Technicolor+SA
+trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%E5%A5%A5%E5%9C%B0%E5%88%A9+V2CROSS.COM
+vless://c7e9c591-2764-423a-afca-efbd010fd396@195.133.94.188:2053?security=tls&type=ws&path=/&host=forfreeuse.sub-flow.online&packetEncoding=xudp&sni=forfreeuse.sub-flow.online&fp=chrome#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.17.144.235:443?security=tls&type=ws&path=/&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net&fp=random#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-kr-003.fastervpn.world:443?insecure=1&security=tls&sni=vpn-kr-003.fastervpn.world#%E9%9F%A9%E5%9B%BD+%E9%A6%96%E5%B0%94Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://humanity@104.17.121.43:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#%E8%8B%B1%E5%9B%BD+Technicolor+SA
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@180.178.60.252:10000?encryption=none&security=none&type=tcp&headerType=none#%E9%A6%99%E6%B8%AF+Simcentric%E7%BD%91%E7%BB%9C%E5%85%AC%E5%8F%B8
+vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?security=none&type=ws&path=/&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&packetEncoding=xudp&sni=18.239.134.69#%E7%BE%8E%E5%9B%BD+%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@getsavesafe.net:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=getsavesafe.net&fp=chrome&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&sid=82f5d3a1e9c0b661&allowinsecure=0&type=tcp&headerType=none#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
+vmess://eyJhZGQiOiAiY2luZHk1MC5jZW9paWkuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImFqYXgubWljcm9zb2Z0LmNvbSIsICJpZCI6ICJhNmFiNjUxMy02ZWMzLTMyN2YtYTA2OC1iODlmZTcyOTU0YjgiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvaGxzL2NjdHY1cGhkLm0zdTgiLCAicG9ydCI6ICIzNjgwMSIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgVjJDUk9TUy5DT00iLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://711c018e-2692-4aa8-93f3-544d83fcd16c@jdwabxe.cvewfjg.shop:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7a76f3c4b9dd&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://humanity@172.66.44.211:443?host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@104.20.6.134:443?fp=chrome&path=%2F%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
