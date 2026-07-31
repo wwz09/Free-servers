@@ -35,23 +35,25 @@
  <h4>قائمة العقد: (يتم عرض 20 عقدة كحد أقصى هنا. تتوفر العقد المجانية الأخرى في التطبيق)</h4>
     
 ```
-vless://94878fe1-5e8b-4676-9ee0-a90267a596e5@144.31.27.179:443?security=reality&encryption=none&pbk=8jwT95mGT7dW1VkMVt8vtwbWLgHN39tnhnt6PN1FTmU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=b08c5eb124a5877e#United+States
+vless://c7e9c591-2764-423a-afca-efbd010fd396@89.110.119.231:2053?security=tls&type=ws&path=/&host=forfreeuse.sub-flow.online&packetEncoding=xudp&sni=forfreeuse.sub-flow.online&fp=chrome#The+Netherlands
+vless://c7e9c591-2764-423a-afca-efbd010fd396@152.228.135.239:2053?security=tls&type=ws&path=/&host=forfreeuse.sub-flow.online&packetEncoding=xudp&sni=forfreeuse.sub-flow.online&fp=chrome#France
+vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:443#United+Kingdom
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?encryption=none&security=none&type=grpc#France
+vless://c7e9c591-2764-423a-afca-efbd010fd396@195.133.94.188:2053?encryption=none&security=tls&sni=forfreeuse.sub-flow.online&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=forfreeuse.sub-flow.online&path=%2F#Czechia
+vless://c95f6104-6b19-4f3e-aaa6-a74fec3ee258@168.222.244.66:10277?encryption=none&type=tcp&security=reality&headerType=none&sni=play.google.com&fp=chrome&insecure=1&allowInsecure=1&pbk=5WM9qJQUXyEnE2xaJHvXai6IV7HrBLnuy5s39fcqCAA&sid=7a&spx=/naranv2ray#United+States
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.161:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04#Hong+Kong
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.20.39.109:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#
+vless://89c3b66f-c849-4602-a5a8-84b6f06af478@www.true.th:80?allowInsecure=0&sni=d2pwbkmfr5lxa4.cloudfront.net&type=ws&host=d2pwbkmfr5lxa4.cloudfront.net&path=/#United+States
 vless://a1ac8747-4fd7-486b-b099-19fbb45610be@154.19.184.40:52535?encryption=none&security=&type=tcp#United+States
-vless://29ca503d-e6b8-4509-b666-48133f450857@104.18.40.56:443?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#
-vless://d9e4721d-cdac-44c7-bc91-117367eac194@216.152.147.28:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=b9f8d3f8&pbk=kjiuPmjM4IutdZudHfcPZHEwcrBEFY4qBLlvfC6A_Ss&encryption=none#United+States
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@getsavesafe.net:443?security=reality&encryption=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=getsavesafe.net&sid=82f5d3a1e9c0b661#Spain
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#Bulgaria
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.138:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04#Hong+Kong
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@yd.mmhh.eu.cc:443?security=tls&type=ws&path=/&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net&fp=chrome&encryption=none#
-vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.vector9nmb3.info:8443?security=tls&type=ws&path=/&host=ad-010.vector9nmb3.info&packetEncoding=xudp&sni=ad-010.vector9nmb3.info&fp=chrome#United+States
-vless://9913a211-19e0-4c7f-b813-841d30d28168@s1.esantion.info:24206?encryption=none&type=httpupgrade&path=/?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#United+Kingdom
-vless://5e18094c-18b1-4198-b211-96b40518cecf@email.swiftraci.org:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.techradar.com&fp=chrome&flow=xtls-rprx-vision&sid=f6e197a0b9f2&pbk=Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE&encryption=none#United+Kingdom
-vless://89c3b66f-c849-4602-a5a8-84b6f06af478@www.true.th:80?host=d2pwbkmfr5lxa4.cloudfront.net&path=%2F&sni=d2pwbkmfr5lxa4.cloudfront.net&type=ws#United+States
-vless://c7e9c591-2764-423a-afca-efbd010fd396@57.129.63.42:2053?security=tls&type=ws&path=/&host=forfreeuse.sub-flow.online&packetEncoding=xudp&sni=forfreeuse.sub-flow.online&fp=chrome#France
-trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#
-vless://8ad6f598-cd8d-4fca-848e-05fc9be15ff3@love.ns.cloudflare.com:443?path=/sea&security=tls&encryption=none&insecure=0&host=htelm.neowolfbox-ilo.sbs&fp=chrome&type=ws&allowInsecure=0&sni=htelm.neowolfbox-ilo.sbs#United+States
-vless://4d017db2-7655-4276-9557-e2ec25b04ee7@server.slavkiti.monster:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.tradingview.com&fp=chrome&flow=xtls-rprx-vision&sid=ee1716767f9b&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&encryption=none#United+Kingdom
-vmess://eyJhZGQiOiAiMTUyLjY3LjIxOC4zOCIsICJhaWQiOiAwLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImI1ZTk0ODBhLWI3YWEtNDBhNC1mOWE3LTUyOTliNWUzNjNiNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJTb3V0aCBLb3JlYSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.111:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04#Hong+Kong
+vless://29ca503d-e6b8-4509-b666-48133f450857@cf.090227.xyz:443?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#
+vmess://eyJhZGQiOiAid3dhZmo1bGhsNmJpOGF1OS52LjNkbnMudmlwIiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzLXZtZXNzIiwgInBvcnQiOiA0NDMsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://dcba77d7-bb59-4802-b32c-37fd7011fca4@23.26.37.119:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=3ca620a7ed5f3196#United+States
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca38.speedmeter.shop:8880?encryption=none&security=none&type=grpc#France
+vless://17d29827-7cf1-4115-b40d-548e10ec355d@186.246.21.156:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=qq&flow=xtls-rprx-vision&sid=aa3c&pbk=bjOGTQ4xsiFbyCPM_WzoK53L130rW5vZJtuYDJx_pkM&encryption=none#Brazil
+trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#Switzerland
+vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@[2605:e440:15::6b]:443?encryption=none&type=tcp&headerType=&fp=firefox&host=36cf43b9s298.wagahaha.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u695099u36cf43b9s298.wagahaha.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#Hong+Kong
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>
