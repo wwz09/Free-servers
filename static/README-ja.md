@@ -1,0 +1,93 @@
+
+<div align="center">
+
+**Languages:**
+
+[![English](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](README-en.md)
+[![Arabic](https://img.shields.io/badge/Language-Arabic-red?style=for-the-badge)](README-ar.md)
+[![German](https://img.shields.io/badge/Language-German-red?style=for-the-badge)](README-de.md)
+[![Vietnamese](https://img.shields.io/badge/Language-Vietnamese-red?style=for-the-badge)](README-vi.md)
+[![Indonesian](https://img.shields.io/badge/Language-Indonesian-red?style=for-the-badge)](README-id.md)
+[![Urdu](https://img.shields.io/badge/Language-Urdu-red?style=for-the-badge)](README-ur-PK.md)
+[![Portuguese](https://img.shields.io/badge/Language-Portuguese-red?style=for-the-badge)](README-pt-BR.md)
+[![Spanish](https://img.shields.io/badge/Language-Spanish-red?style=for-the-badge)](README-es.md)
+[![Russian](https://img.shields.io/badge/Language-Russian-red?style=for-the-badge)](README-ru.md)
+[![Polish](https://img.shields.io/badge/Language-Polish-red?style=for-the-badge)](README-pl.md)
+[![Korean](https://img.shields.io/badge/Language-Korean-red?style=for-the-badge)](README-ko-KR.md)
+[![French](https://img.shields.io/badge/Language-French-red?style=for-the-badge)](README-fr.md)
+[![Japanese](https://img.shields.io/badge/Language-Japanese-red?style=for-the-badge)](README-ja.md)
+[![Hindi](https://img.shields.io/badge/Language-Hindi-red?style=for-the-badge)](README-hi.md)
+[![Bangla](https://img.shields.io/badge/Language-Bangla-red?style=for-the-badge)](README-bn.md)
+
+</div>
+<h2>クリックして Telegram コミュニケーション グループに参加します:</h2>
+ <blockquote>
+ <p style="text-align: center;"><a href="https://t.me/shadowrocket_android">https://t.me/shadowrocket_android</a></p>
+ </blockquote>
+ <h2>無料ノードとサブスクリプション アドレス:</h2>
+ <blockquote>
+ <p style="text-align: center;">高品質のノードは毎日リアルタイムで更新され、6 時間ごとに更新されます</p>
+ </blockquote>
+ <h4>このページでは、誰かが各ノードの速度をリアルタイムで手動で測定しましたが、依然として地域ごとのオペレータ ネットワークに違いがあり、タイムアウト ノードが存在する可能性があります。 </h4>
+ <blockquote>
+ <p style="text-align: center;">食事 -> 睡眠 -> ノードのテスト。 </p>
+ </blockquote>
+ <h4>ノード リスト: (ここには最大20個のノードのみ表示されます。その他の無料ノードはアプリで取得できます)</h4>
+    
+```
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@81.90.17.10:443?security=reality&type=tcp&packetEncoding=xudp&sni=poland.spectrum.vu&fp=firefox&flow=xtls-rprx-vision&sid=2a6f8c4d1e9b&pbk=5Z6WxIOriNZSwKfzNvn38fbH0E2prqDla_l8l9YQnRo#%E3%82%A4%E3%83%A9%E3%82%AF%E5%85%B1%E5%92%8C%E5%9B%BD
+vmess://eyJhZGQiOiAiZXgxb2d0NzNuenBxa2FjMi52LjNkbnMudmlwIiwgImFpZCI6IDAsICJhbGxvd0luc2VjdXJlIjogIjEiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93cy12bWVzcyIsICJwb3J0IjogNDQzLCAicHMiOiAiXHU5OTk5XHU2ZTJmIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+hysteria2://9dada88d-f8f8-459d-8a4f-4df2c973fe43@216.57.111.222:8443?security=tls&sni=h2.ecliptic-it.ru#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vmess://eyJhZGQiOiAiNjcuMjIwLjcyLjIzNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgIm5hbWUiOiAiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgQFJheWRpa2FseCB8IDM1MTEiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6IDIyMzI0LCAicHMiOiAiXHUzMGEyXHUzMGUxXHUzMGVhXHUzMGFiIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://0836463b-214f-4af6-aa85-85a56a62388e@104.21.96.1:443?security=tls&type=ws&path=/Pl67KhTLWmJqQ2lY?ed=2560&host=D2127A49-Flat-WOoD-c4b5.Milia-AKbaRpOor.workers.Dev&packetEncoding=xudp&sni=D2127A49-Flat-WOoD-c4b5.Milia-AKbaRpOor.workers.Dev&fp=chrome&encryption=none#
+vless://3727b0ac-9f3e-4da8-895e-33f739e9d9bb@104.27.78.203:2083?encryption=none&fp=firefox&host=fhfhfhf.kathykroger.workers.dev&path=%2F&security=tls&sni=fhfhfhf.kathykroger.workers.dev&type=ws#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#%E8%8B%B1%E5%9B%BD
+vless://0779dc74-2464-461f-90ef-874e4cae7fae@188.114.96.3:2053?security=tls&type=ws&path=/eyJqdW5rIjoiUHQ4YzBma3IxczlPIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19?ed&host=weathered-math-1f8b.amiralighasempor010.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=WeaTHeREd-MATH-1f8B.aMIRAligHasEMPoR010.WOrkERs.dEv&fp=chrome&encryption=none#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?security=none&type=ws&path=/&host=cnmfangbinxing.cnmfangbinxing-f.workers.dev&packetEncoding=xudp#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&spx=%2F&type=tcp&headerType=none#%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD
+vless://b8794f67-80d9-4124-8fc5-2d2ce5516573@50.7.177.179:443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=firefox&flow=xtls-rprx-vision&sid=bd72&pbk=AYL1z7PNyo6LqYLeZpXa50FnK9eEu7o18KHRhOlST1w&encryption=none#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
+vless://21c25bef-eb3b-44a8-9b26-fa7f674e5bfc@51.195.116.82:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus&pbk=RWE5ORdQ2SzuFWX8DlaRP415wbhee9ynJkqC7yFPgQw&security=reality&sid=d13ddfca12760d03&sni=speedtest.net&type=tcp#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%85%B1%E5%92%8C%E5%9B%BD
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.90:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&encryption=none#%E9%A6%99%E6%B8%AF
+vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.198.87:2087?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@195.170.172.139:443?encryption=none&type=tcp&headerType=&fp=firefox&host=f6377524s2057.gogocs.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u695099uf6377524s2057.gogocs.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%E8%8B%B1%E5%9B%BD
+vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@s2360.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=&fp=firefox&host=53fe439es2358.gogocs.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u695099u53fe439es2358.gogocs.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%E3%83%AD%E3%82%B7%E3%82%A2
+vless://c5db14f6-2a21-401c-8160-a8093ff4ffd3@188.114.97.3:443?security=tls&type=ws&path=/vl/14m2B3TtxW5N85ews?ed=2560&host=mxp6jvjacystdp-s4f.kjnnv3i410u6mq-itd.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=mxp6jvjacystdp-s4f.kjnnv3i410u6mq-itd.workers.dev&fp=chrome#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
+vless://abd3678b-f654-404c-adc7-1355865197e1@172.67.134.102:8880?security=none&type=ws&path=/eyJqdW5rIjoiNUZVWmdPNWNpTW5LOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ&host=vless.a-amr79.workers.dev&packetEncoding=xudp#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#%E8%8B%B1%E5%9B%BD
+```
+<h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
+ <p>上記の購読アドレスの QR コード</p>
+ <img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja.png' width=250 height=250>
+ <blockquote style='text-align: center;'>さらに多くのノード、無料のサブスクリプション アドレス、サブスクリプションの変換については、このサイトが提供する共有ノード アプリ ソフトウェアをダウンロードしてください。<a href='https://shadowsharing.com'>ShadowShare </a> ノードの使用状況をエクスポートし、iOS および Android のダウンロードをサポートします。Android ユーザーは、<a href='https://github.com/Pawdroid/shadowrocket_for_android'>shadowrocket for android</a> Android Rocket を直接使用することをお勧めします。すべての無料ノードが組み込まれています。 </blockquote>
+ <h4>国内の iOS ユーザーは、できるだけ早く <a href='https://apps.apple.com/cn/app/shadowshare/id1612647259'>App Store をダウンロード</a>して保存することをお勧めします。将来、ラックにダウンロードされる可能性があります。</h4>
+ <h4>高速かつ高品質の VPN <a href='https://pawdollvpn.com'>PawdollVPN</a> の最新リリースは、Android および iOS プラットフォームをサポートしています。ぜひダウンロードして使用してください。 . 期間限定で無制限の無料トライアルが提供されます。 </h4>
+ <div class="nv-content-wrap エントリ-コンテンツ">
+ <h2>Clash や SS などのクライアント サブスクリプション アドレスをワンクリックで変換:</h2>
+ <p>SS/SSR/V2ray クライアントが SSR ノード リンクを直接使用できない場合は、以下にリンクされているツールを使用して、SSR/SSD/Surge/Quantum/Surfboard/Loon およびその他のモバイル クライアントとコンピューター クライアントに変換します。ここで使用できます:</p>
+ <p><a href="https://acl4ssr-sub.github.io" target="_blank" rel="noreferrer noopener nofollow">https://acl4ssr-sub.github.io</a></p>
+ <h2>V2ray/SSR Android iPhone/PC クライアントのダウンロード</h2>
+ <h3>V2Ray クライアントのダウンロード</h3>
+ <p>V2ray Windows クライアント、V2ray Android クライアント、Apple コンピュータ用の V2ray MacOS クライアント、iPhone 用の V2ray iOS クライアント、および V2ray Linux クライアントの最新バージョンのダウンロード リンクも提供されています。 </p>
+ <h4>Windows7/8/10-<strong>V2ray WinPC コンピュータ クライアント</strong>プログラムのダウンロード</h4>
+ <figure class="wp-block-table alignwide is-style- Stripes"><table><tbody><tr><td>V2rayN ダウンロード</td><td><a href="https://github. com/2dust/v2rayN/releases" target="_blank" rel="noreferrer noopener">公式 Web サイトからのダウンロード</a></td></tr><tr><td>V2rayW のダウンロード</td><td> <a href="https://github.com/Cenmrev/V2RayW/releases" target="_blank" rel="noreferrer noopener">公式 Web サイトからのダウンロード</a></td></tr><tr><td> Clash のダウンロード</td><td><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases" target="_blank" rel="noreferrer noopener">公式 Web サイトからのダウンロード</a></td> </tr><tr><td>V2rayS ダウンロード</td><td><a href="https://github.com/Shinlor/V2RayS/releases" target="_blank" rel="noreferrer noopener"> 公式ウェブサイトのダウンロード</a></td></tr><tr><td>Mellow ダウンロード</td><td><a href="https://github.com/mellow-io/mellow/releases" target="_blank" rel="noreferrer noopener">公式ウェブサイトのダウンロード</a></td></tr><tr><td>Qv2ray ダウンロード</td><td><a href= "https://github.com/Qv2ray/Qv2ray" target="_blank" rel="noreferrer noopener">公式ウェブサイトのダウンロード</a></td></tr></tbody></table></figure>
+ <h4><strong>Android/Xiaomi MIUI/Huawei EMUI-V2ray Android モバイル クライアント</strong>APK プログラムのダウンロード</h4>
+ <figure class="wp-block-table alignwide is-style- Stripes"><table><tbody><tr><td>V2rayNG ダウンロード</td><td><a href="https://github. com/2dust/v2rayNG/releases" target="_blank" rel="noreferrer noopener">公式 Web サイトからのダウンロード</a></td></tr><tr><td>Android Rocket のダウンロード</td><td><a href="https://github.com/Pawdroid/shadowrocket_for_android/releases" target="_blank" rel="noreferrer noopener">公式 Web サイトからのダウンロード</a></td></tr><tr> <td>BifrostV ダウンロード</td><td><a rel="noreferrer noopener" href="https://www.appsapk.com/downloading/latest/com.github.dawndiy.bifrostv-0.6.8.apk " target="_blank">マーケット ダウンロード</a></td></tr><tr><td>クラッシュ ダウンロード</td><td><a href="https://github.com/Kr328/ClashForAndroid/releases" target="_blank" rel="noreferrer noopener">公式ウェブサイトのダウンロード</a></td></tr><tr><td>狐火のダウンロード</td><td><a rel =" noreferrer noopener" href="https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android" target="_blank">マーケット ダウンロード</a></td></tr></tbody></table></figure>
+ <h4><strong>MacOS-V2ray <strong>Apple コンピュータ</strong>クライアント</strong>プログラムのダウンロード</h4>
+ <figure class="wp-block-table alignwide is-style- Stripes"><table><tbody><tr><td>V2rayU ダウンロード</td><td><a href="https://github. com/yanue/V2rayU/releases" target="_blank" rel="noreferrer noopener">公式 Web サイトからのダウンロード</a></td></tr><tr><td>V2rayX のダウンロード</td><td> <a href="https://github.com/Cenmrev/V2RayX/releases" target="_blank" rel="noreferrer noopener">公式 Web サイトからのダウンロード</a></td></tr><tr><td> ClashX のダウンロード</td><td><a href="https://github.com/yichengchen/clashX/releases" target="_blank" rel="noreferrer noopener">公式 Web サイトのダウンロード</a></td> </tr></tbody></table></figure>
+ <h4><strong>Linux</strong>–<strong>V2ray Ubuntu/Centos コンピュータ クライアント</strong>プログラムのダウンロード</h4>
+ <figure class="wp-block-table alignwide is-style- Stripes"><table><tbody><tr><td>Qv2ray ダウンロード</td><td><a href="https://github. com/Qv2ray/Qv2ray" target="_blank" rel="noreferrer noopener">公式ウェブサイトからのダウンロード</a></td></tr><tr><td>ダウンロード</td><td><a href ="https://github.com/mellow-io/mellow/releases" target="_blank" rel="noreferrer noopener">公式 Web サイトのダウンロード</a></td></tr><tr><td> V2rayL ダウンロード</td><td><a rel="noreferrer noopener" href="https://github.com/jiangxufeng/v2rayL" target="_blank">公式インストール ドキュメント</a></td></tr></tbody></table></figure>
+ <h4>iOS-<strong>V2ray Apple<strong>モバイル クライアント</strong>アプリ プログラム</strong>ダウンロード</h4>
+ <p>Apple AppStore マーケットには、現在、Shadowrocket、pepi、i2Ray、Kitsunebi、Quantumult などの有料アプリが入手可能な無料の V2ray iOS クライアントはありません。 </p>
+ <h3>ShadowsocksR/SSR クライアントのダウンロード</h3>
+ <p>ShadowsocksR は SSR と略され、酸っぱいヨーグルト、ピンクの飛行機、紙飛行機などのかわいい愛称もあり、広く使われています。 </p>
+ <p>私たちは、SSR Windows クライアント、SSR Android クライアント、Apple コンピュータ用 SSR MacOS クライアント、Apple 携帯電話用 SSR iOS クライアントの最新バージョンのダウンロード アドレスをまとめて皆さんと共有しました。 </p>
+ <h4><strong>ウィndows7/8/10-<strong>SSR Small Plane WinPC コンピュータ クライアント</strong>プログラムのダウンロード</strong></h4>
+ <p><a rel="noreferrer noopener" href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases" target="_blank">公式ウェブサイトからのダウンロード</a></p>
+ <h4><strong><strong>Android/Xiaomi MIUI/Huawei EMUI-SSR 小型飛行機 Android モバイル クライアント</strong>APK プログラムのダウンロード</strong></h4>
+ <p><a rel="noreferrer noopener" href="https://github.com/shadowsocksrr/shadowsocksr-android/releases" target="_blank">公式ウェブサイトからのダウンロード</a></p>
+ <h4><strong><strong>MacOS-SSR Small Plane Apple Computer クライアント</strong>プログラムのダウンロード</strong></h4>
+ <p><a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases" target="_blank" rel="noreferrer noopener">公式 Web サイトからのダウンロード</a></p>
+ <h4><strong>iOS-<strong>SSR Small Plane Apple モバイル クライアント アプリ</strong></strong>ダウンロード</h4>
+ <p>iPhone または iPad で Apple App Store を開き、Mume、Potatso Lite、FastSocks、Shadowrocket を検索します。 </p></div>
+    
