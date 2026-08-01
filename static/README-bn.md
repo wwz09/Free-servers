@@ -35,25 +35,24 @@
  <h4>নোড তালিকা: (এখানে সর্বোচ্চ 20টি নোড দেখানো হয়। অন্যান্য বিনামূল্যের নোড অ্যাপে পাওয়া যাবে)</h4>
     
 ```
-vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.16.63:443?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt?ed=2560fp=random&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=chrome#
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@188.114.98.66:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome&encryption=none#The+Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#United+Kingdom
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80?encryption=none&host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws#Seychelles
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.46:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#Hong+Kong
-vless://9913a211-19e0-4c7f-b813-841d30d28168@s1.esantion.info:24206?encryption=none&type=httpupgrade&path=/?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#United+Kingdom
-vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-010.vector9nmb3.info:8443/?type=ws&encryption=none&flow=&path=/&security=tls#United+States
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa4.api3-max.ru:443?allowInsecure=0&insecure=0&security=tls&sni=wopa4.api3-max.ru#United+Kingdom
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=enterprisekitten.com&type=tcp#Russia
-vless://7b4b7d4e-7a53-4c0c-bd8e-9f3b1b2c7f21@51.91.158.180:443?encryption=none&type=tcp&security=reality&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus&sni=www.speedtest.net&fp=chrome&insecure=1&allowInsecure=1&pbk=wwH_L9FmhJ7AyOBKm9J8YGKdVo1G-QlDEuw5-s3eGEM&sid=9a4c7d2f8e1b6a3c&flow=xtls-rprx-vision#Saudi+Arabia
-vless://0c0b895d-b954-4bec-94e6-5770677e7925@199.232.78.159:443?allowInsecure=1&sni=ssl.fastly.com&type=ws&host=pan1.global.ssl.fastly.neT&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053fp=chrome&security=tls#United+States
-vless://5bb7df8d-ad02-41fa-a8e6-8a8a4650d2c4@191.44.108.249:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=7bcfc0bc&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&encryption=none#Brazil
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080#United+Kingdom
-vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?security=reality&type=tcp&packetEncoding=xudp&sni=www.paypal.com&fp=chrome&flow=xtls-rprx-vision&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&encryption=none#United+States
-vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?encryption=none&fp=chrome&headerType=none&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&security=reality&sid=aae8&sni=deepl.com&type=tcp#United+States
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.90:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&encryption=none#Hong+Kong
-vless://b9b1e7c9-4160-49b4-85a4-2f096706509a@v-de-node-03.bot-auth.com:8443?security=reality&type=tcp&packetEncoding=xudp&sni=www.oracle.com&fp=chrome&sid=7548bc&pbk=dNfk0sOCzOlmE61B7ur7YzU2i08RqXIBcGVBA2Ne1Ck&encryption=none#Spain
-vless://f0e2e83d-d2b0-4e71-8da5-71306ad58e08@164.92.143.135:80?security=none&type=ws&path=/&host=xU.aSaCO.sTorE&packetEncoding=xudp&encryption=none#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#The+Netherlands
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapore
+vmess://eyJhZGQiOiAiOTN1Y3JuNGkwcGZmdWFiay52LjNkbnMudmlwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIjkzdWNybjRpMFBmZlVBYmsudi4zZG5zLnZpcCIsICJpZCI6ICJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiSG9uZyBLb25nIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.182:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04#Hong+Kong
+trojan://humanity@45.130.125.126:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#Seychelles
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI=@108.181.57.93:8388#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#United+Kingdom
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node5.mxvpn.dev:443?security=reality&type=tcp&packetEncoding=xudp&sni=node5.mxvpn.dev&fp=chrome&flow=xtls-rprx-vision&sid=bbc68cec8bb8d2e3&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&encryption=none#Greece
+trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.20.39.109:443?encryption=none&fp=chrome&host=support.zoom.us.yxls.eu.cc&path=/sg-melbi&security=tls&sni=support.zoom.us.yxls.eu.cc&type=ws#
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.183:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04#Hong+Kong
+vless://c6171ace-4580-45c7-b00f-5e6c56f48794@172.66.200.130:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=withered-cloud-1202.405-42c.workers.dev&packetEncoding=xudp#United+States
+vmess://eyJhZGQiOiAiZmoyNjA0MDMuZnJlZWNoYXR1cC5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZmoyNjA0MDMuZnJlZWNoYXR1cC5jb20iLCAiaWQiOiAiOThlMmJlM2MtOGY4NC00Yjg1LTk5NmItYjY4ZGNjMmZiY2I2IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMjc3MjYiLCAicHMiOiAiQ3plY2hpYSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vless://5990e0a5-fc5f-43c6-8fdc-39612c60a9cd@skk.moe:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=jolly-butterfly-24e0.212-cb3.workers.dev&packetEncoding=xudp#United+States
+hysteria2://9dada88d-f8f8-459d-8a4f-4df2c973fe43@h2.ecliptic-it.ru:8443?insecure=1&security=tls&sni=h2.ecliptic-it.ru#United+States
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.149:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04#Hong+Kong
+vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@ad-005.zenkk0cd.info:8443?encryption=none&security=tls&type=ws#United+States
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@se.faygo.bot:443?security=reality&type=tcp&packetEncoding=xudp&sni=enterprisekitten.com&fp=qq&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#Spain
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>
