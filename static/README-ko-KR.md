@@ -35,26 +35,26 @@
  <h4>노드 목록: (여기에는 최대 20개 노드만 표시됩니다. 다른 무료 노드는 앱에서 받을 수 있습니다.)</h4>
     
 ```
-vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.46.6:80?security=none&type=ws&path=/dula&host=speed.dulacloud.store&packetEncoding=xudp&encryption=none#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001287h3p.cybervena.com:50099#Taiwan
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.104.30:8880?encryption=none&host=vms.lifetime51.workers.dev&path=%2F&security=none&type=ws#United+States
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&security=tls&sni=127.0.0.1#%F0%9F%87%B9%F0%9F%87%BCTW_16%7C225KB%2Fs%7CC002-260622%2001
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.232:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&encryption=none#Hong+Kong
-vless://e35a5ad5-0175-4cd6-b654-1eb220ff28f0@104.21.90.146:443?security=tls&type=ws&path=/Wvf67jc5MgASmsb9Qsr0&host=node-dispatch-c8-2.e20260720.kdns.fr&packetEncoding=xudp&sni=node-dispatch-c8-2.e20260720.kdns.fr&fp=chrome#
-vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.158.218:2087?security=tls&type=ws&path=/&host=round-art-52ee.eadfgv.workers.dev&packetEncoding=xudp&sni=round-art-52ee.eadfgv.workers.dev&fp=chrome#
-vless://234c52f2-0d7b-dc4a-0d6b-b0b300000023@172.67.96.178:80?security=none&type=ws&path=/sync&host=billowing-surf-d251.netizo06.workers.dev&packetEncoding=xudp&sni=billowing-surf-d251.netizo06.workers.dev&encryption=none#United+States
-vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?encryption=none&packetEncoding=xudp#The+Netherlands
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.30:8880?security=none&type=ws&path=/&host=vms.lifetime04.workers.dev&packetEncoding=xudp#Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#United+Kingdom
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@81.90.17.10:443?security=reality&type=tcp&packetEncoding=xudp&sni=poland.spectrum.vu&fp=firefox&flow=xtls-rprx-vision&sid=2a6f8c4d1e9b&pbk=5Z6WxIOriNZSwKfzNvn38fbH0E2prqDla_l8l9YQnRo#Iraq
-vless://c7e9c591-2764-423a-afca-efbd010fd396@51.89.23.94:2053?encryption=none&security=tls&sni=forfreeuse.sub-flow.online&insecure=0&allowInsecure=0&type=ws&path=%2F#Germany
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#United+Kingdom
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#
-vless://5a5fba4d-6ae8-4975-936d-bb643fb15957@biyapain.biyapainbache.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoiV0lISkpXU0trWFI4OGdUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19?ed=2560&host=biyapain.biyapainbache.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=bIyapain.bIYApaiNbAcHe.WoRkers.DeV&fp=chrome&encryption=none#
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@162.159.23.117:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#
-trojan://humanity@8.6.112.0:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#Austria
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@ldgb.pages.dev:443?encryption=none&host=ldgb.pages.dev&path=/fp=chrome&security=tls&sni=ldgb.pages.dev&type=ws#United+States
+vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni45NyIsICJhaWQiOiAwLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTgwIiwgInBzIjogIlVuaXRlZCBLaW5nZG9tIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@185.119.19.105:443?security=tls&type=tcp&packetEncoding=xudp&sni=u695099u8adcedd7s8746.gogocs.xyz&fp=chrome&flow=xtls-rprx-vision&encryption=none#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#The+Netherlands
+vless://c7e9c591-2764-423a-afca-efbd010fd396@89.110.112.225:2053?encryption=none&fp=chrome&host=forfreeuse.sub-flow.online&path=/&security=tls&sni=forfreeuse.sub-flow.online&type=ws#The+Netherlands
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@203.23.179.151:443?security=tls&type=raw&packetEncoding=xudp&alpn=h2&sni=ddc-akn.astralweb.tech&fp=firefox#Germany
+vless://c40f773e-3b96-417e-b22c-e48cb63ca7d9@144.31.87.16:443?security=reality&type=tcp&packetEncoding=xudp&sni=yandex.ru&fp=firefox&sid=3b802dad547b0847&pbk=l5eAOSPQMEyzEPvWGAKvCkcPpsJvR3DJfYo6elw1UTE#United+States
+hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa5.api3-max.ru:443?allowInsecure=0&insecure=0&security=tls&sni=wopa5.api3-max.ru#United+Kingdom
+vless://c7e9c591-2764-423a-afca-efbd010fd396@217.144.190.14:2053?encryption=none&security=tls&sni=forfreeuse.sub-flow.online&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=forfreeuse.sub-flow.online&path=%2F#Armenia
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.19.35.206:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?security=none&type=ws&path=/&host=mypanel.unixzone.us&packetEncoding=xudp&encryption=none#The+Netherlands
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@147.45.42.27:443?security=reality&type=tcp&packetEncoding=xudp&sni=node12.mxvpn.dev&fp=chrome&flow=xtls-rprx-vision&sid=bbc68cec8bb8d2e3&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw#Russia
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?insecure=1&security=tls&sni=91.196.32.163#Russia
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=none&type=tcp&packetEncoding=xudp&encryption=none#Hong+Kong
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?security=tls&type=ws&path=/odiyfws&host=octopusss.net&packetEncoding=xudp&sni=octopusss.net&fp=chrome&encryption=none#United+States
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.29:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&encryption=none#Hong+Kong
+vless://828aa918-2ed3-4541-8519-083f9efeaaf7@162.159.46.0:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=icy-hall-bfba.266-f4e.workers.dev&packetEncoding=xudp&encryption=none#
+vless://31f345f3-b8eb-4ca6-8b14-bb555ae2c1f9@172.67.190.141:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=tiny-feather-4c41.227.workers.dev&packetEncoding=xudp&encryption=none#United+States
+vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@ad-013.pixel9xdmq.info:8443?encryption=none&security=tls&type=ws#United+States
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@188.114.98.66:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome&encryption=none#The+Netherlands
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@josni.hoyes.cloudns.ch:2053?encryption=none&host=josni.hoyes.cloudns.ch&path=/&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#United+States
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>
