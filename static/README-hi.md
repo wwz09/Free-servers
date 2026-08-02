@@ -35,26 +35,26 @@
  <h4>नोड सूची: (यहां अधिकतम 20 नोड दिखाए जाते हैं। अन्य मुफ्त नोड ऐप में प्राप्त करें)</h4>
     
 ```
-vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.mAxImA.DpDnS.OrG&encryption=none#
-vless://2e1eb27b-9b56-40e9-a2f8-b959bc71736e@172.67.185.125:8443?security=tls&type=ws&path=/&host=ad-005.zen2bswa.info&packetEncoding=xudp&sni=ad-005.zen2bswa.info&fp=chrome#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#United+Kingdom
-vless://fcbb9617-7b3c-4b21-8a91-a57350a75222@147.45.42.73:20443?security=tls&type=ws&path=/@Marisa_kristi&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&packetEncoding=xudp&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&fp=chrome&encryption=none#Russia
-vless://29ca503d-e6b8-4509-b666-48133f450857@172.67.138.17:443?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#United+States
-vmess://eyJhZGQiOiAiYXBqaGRnZ3l4LmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJhcGpoZGdneXguY29tIiwgImlkIjogIjVmNzJmMTgwLWIyMWItNGI3YS04NDg0LTI0MDc1OTAxMjYwNCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi81ZjcyZjE4MC1iMjFiLTRiN2EtODQ4NC0yNDA3NTkwOTY3ODUiLCAicGNzIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJUaGUgTmV0aGVybGFuZHMiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIiwgInZjbiI6ICIifQ==
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cdnjs.com:2095?security=none&type=ws&path=/fp=randomized&host=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev&packetEncoding=xudp&sni=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev#
-vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.198.87:2087?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#United+States
-vless://901fc0c9-ae4c-4d06-9fed-253b25b68a0e@ad-004.pixel9xdmq.info:8443?security=tls&type=ws&path=/&host=ad-004.pixel9xdmq.info&packetEncoding=xudp&sni=ad-004.pixel9xdmq.info&fp=chrome#United+States
-vless://2388e166-3890-33ae-f77e-efac00000003@108.165.233.223:443?security=tls&type=ws&path=/NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN&host=netlivpn4813.ddhshhshs.workers.dev&packetEncoding=xudp&sni=netlivpn4813.ddhshhshs.workers.dev&fp=chrome&encryption=none#United+States
-trojan://humanity@104.16.174.6:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.44.100:2087?encryption=none&security=tls&sni=learn00.evany.de5.net&fp=random&insecure=0&allowInsecure=0&type=ws&host=learn00.evany.de5.net&path=%2F#
-vless://c7e9c591-2764-423a-afca-efbd010fd396@45.134.21.8:2053?security=tls&type=ws&path=/&host=forfreeuse.sub-flow.online&packetEncoding=xudp&sni=forfreeuse.sub-flow.online&fp=chrome#The+Netherlands
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?&security=tls&sni=terazhediii.info&type=ws&headerType=none&host=terazhediii.info&path=/hdgrbws#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388#United+States
-vless://497ea5af-1fd6-4f06-b909-6fe77995ee30@109.120.185.58:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ePsJg6vf5SHCTpVY0o-E7IXBhueFeCSAX8qR-7KnATw&security=reality&sid=985f8565714f1410&sni=www.apple.com&type=tcp#Russia
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@166.62.108.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime17.workers.dev&packetEncoding=xudp#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA==@194.164.92.198:1234#Germany
-vless://29ca503d-e6b8-4509-b666-48133f450857@188.114.98.0:8443?encryption=none&host=learn00.evany.de5.net&path=/fdip&security=tls&sni=learn00.evany.de5.net&type=ws#The+Netherlands
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapore
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.90.61.28:8443?security=tls&sni=hopp-legend-se.roxa.org#Norway
+vless://5d3abfa9-bdf5-4334-8383-dcf92df802a5@172.67.175.34:8443?security=tls&type=ws&path=/&host=ad-018.cloud25075.info&packetEncoding=xudp&sni=ad-018.cloud25075.info&fp=chrome#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#United+Kingdom
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#Italy
+vless://ad9b1b12-71bb-46dd-ba24-8820252ce6f9@download.yunzhongzhuan.com:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=cold-lake-9266.480-c0e.workers.dev&packetEncoding=xudp#
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375#Luxembourg
+vless://3ad1d277-5715-4ca1-84db-5baea72f822d@yt-tw-bridge.astralweb.tech:443?security=reality&type=tcp&packetEncoding=xudp&sni=ads.x5.ru&fp=firefox&flow=xtls-rprx-vision&sid=496ee75c2f91f51d&pbk=tZEzySB7soxBmNn2NPyzvUZtC7H1O0pyZx5M60_X2g4&encryption=none#United+States
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node2.mxvpn.dev:443?security=reality&type=tcp&packetEncoding=xudp&sni=node2.mxvpn.dev&fp=firefox&flow=xtls-rprx-vision&sid=bbc68cec8bb8d2e3&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw#United+Arab+Emirates
+vless://c40f773e-3b96-417e-b22c-e48cb63ca7d9@144.31.87.16:443?encryption=none&fp=chrome&pbk=l5eAOSPQMEyzEPvWGAKvCkcPpsJvR3DJfYo6elw1UTE&security=reality&sid=3b802dad547b0847&sni=yandex.ru&type=tcp#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#United+States
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=4.oncloudnineservicestreang.com&fp=chrome&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&sid=04bc695105689674&type=tcp&headerType=none#Denmark
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.158.218:2087?security=tls&type=ws&path=/&host=round-art-52ee.eadfgv.workers.dev&packetEncoding=xudp&sni=round-art-52ee.eadfgv.workers.dev&fp=chrome#
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node1.mxvpn.dev:443?security=reality&type=tcp&packetEncoding=xudp&sni=node1.mxvpn.dev&fp=firefox&flow=xtls-rprx-vision&sid=bbc68cec8bb8d2e3&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw#The+Netherlands
+vless://6b63bd24-09b7-4b7d-81e0-d994a67f17a9@62.84.99.42:443?security=reality&type=raw&packetEncoding=xudp&sni=nid3.pinkmoon.pro&fp=chrome&flow=xtls-rprx-vision&sid=8ffa160e608bf539&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080#United+Kingdom
+vless://4e243073-f25c-4aab-b3ff-63b6e8ef7f4b@116.204.164.27:7443?security=tls&type=ws&path=/@Marisa_kristi&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&packetEncoding=xudp&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&fp=chrome#Pakistan
+vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTYuMTQxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJlN2Q3MmE4ZC0yNmYyLTRiNTQtYjM2Ni0wYzQzZTBiY2JhN2QiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vmess://eyJhZGQiOiAiMTQ2LjU2LjExMi4xMTAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImU3YzMwMmYzLTkwZDYtNDJkZC05ZDdkLTk0YTM2ODNhMzcwNyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiODg4OCIsICJwcyI6ICJTb3V0aCBLb3JlYSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#United+States
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@cdnjs.com:2095?security=none&type=ws&path=/fp=randomized&host=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev&packetEncoding=xudp&sni=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev#United+States
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
