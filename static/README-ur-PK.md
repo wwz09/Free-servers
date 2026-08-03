@@ -35,26 +35,26 @@
  <h4>نوڈ کی فہرست: (یہاں زیادہ سے زیادہ 20 نوڈز دکھائے جاتے ہیں۔ دیگر مفت نوڈز ایپ میں حاصل کریں)</h4>
     
 ```
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.173:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04#Hong+Kong
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880?mode=gun&security=none&encryption=none&type=grpc#France
-vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@195.123.208.92:13443?security=reality&type=tcp&packetEncoding=xudp&sni=auto.cendora.ru&fp=qq&flow=xtls-rprx-vision&sid=a7f3c91b2e6d84c0&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&encryption=none#Latvia
-trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#Switzerland
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=/fp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#
-vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.133:2053?security=tls&type=ws&path=/&host=forfreeuse.sub-flow.online&packetEncoding=xudp&sni=forfreeuse.sub-flow.online&fp=chrome#Poland
-vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#United+States
-vless://1a5e2e63-64e2-4737-95b6-c2ee60c979a1@cf5.466688.xyz:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net@https://t.me/QiangLieTuiJian&host=wild-mode-4ca6.234-8f6.workers.dev&packetEncoding=xudp&encryption=none#United+States
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.169.142.30:8880?security=none&type=ws&path=/&host=vms.lifetime38.workers.dev&packetEncoding=xudp#Australia
-vless://0977bddb-a758-4033-96dd-57468e02ea81@103.228.168.182:443?security=tls&type=ws&path=/photos/register?ed=2560&host=4qrnyf6s.5e6pmte8uw52n5ymvwx8.workers.dev&packetEncoding=xudp&sni=4qrnyf6s.5e6pmte8uw52n5ymvwx8.workers.dev&fp=chrome&encryption=none#Hong+Kong
-vless://f2a97245-bf76-4eca-9119-110a9ebf38e4@13.212.82.58:2000?security=tls&type=ws&path=/@Marisa_kristi&host=2-gys60wmzb6bqzd.qpsjn114hh3vlph9z60sesz0agjawpwroneg.workers.dev&packetEncoding=xudp&sni=2-gys60wmzb6bqzd.qpsjn114hh3vlph9z60sesz0agjawpwroneg.workers.dev&fp=chrome&encryption=none#Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#United+Kingdom
-vless://80cead8e-0d28-4b0a-bacd-8005471a5c39@104.20.28.74:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=flat-fire-40ed.96-042.workers.dev&packetEncoding=xudp&encryption=none#
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.62:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04#Hong+Kong
-vless://23a9b46e-9443-4268-81c5-399929919ab0@155.103.69.195:48711?security=none&type=tcp&headerType=http&path=%2F&host=snapp.io&packetEncoding=xudp&encryption=none#United+States
-vless://54502a61-2af6-40e7-8331-2c9fc40e5903@173.245.59.159:2053?security=tls&type=ws&path=/&host=old-cloud-a96a.rohamsahh90.workers.dev&packetEncoding=xudp&sni=old-cloud-a96a.rohamsahh90.workers.dev&fp=chrome&encryption=none#United+States
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.53:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&encryption=none#Hong+Kong
-vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.124:2053?security=tls&type=ws&path=/&host=forfreeuse.sub-flow.online&packetEncoding=xudp&sni=forfreeuse.sub-flow.online&fp=chrome#Poland
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#South+Korea
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#United+States
+vless://ae6f014e-c539-4278-8f21-66c7ad2bbb47@183.107.137.157:36389?security=tls&type=ws&path=/@Marisa_kristi&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&packetEncoding=xudp&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&fp=chrome&encryption=none#South+Korea
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.246:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&encryption=none#Hong+Kong
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.245.235.84:2375#Canada
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Germany
+vless://29ca503d-e6b8-4509-b666-48133f450857@104.16.2.189:443?security=tls&type=ws&path=/&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#The+Netherlands
+vless://29ca503d-e6b8-4509-b666-48133f450857@orange.seeck.cn:443?path=/fdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.118.10:8388#United+States
+trojan://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@77.74.123.132:449?security=tls&sni=grape-zet-turbo-nl.yyuyy.com&type=tcp#Romania
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.144:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&security=reality&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&type=tcp#Spain
+trojan://Telegram_healer_config@172.67.156.87:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2Fyqf0HmXRcvB67eWDKZARhVo4Ts4%3Fed%3D2560&security=tls&sni=tO6R63-kkCHIgHQM2.vXZ0dDUq7to7SU0cdQF.wOrKERS.Dev&type=ws#United+States
+vless://c7e9c591-2764-423a-afca-efbd010fd396@146.59.19.208:2053?security=tls&type=ws&path=/&host=forfreeuse.sub-flow.online&packetEncoding=xudp&sni=forfreeuse.sub-flow.online&fp=chrome#Poland
+vless://88e32d76-b49f-44ee-a90a-1ad01d542d55@104.16.43.192:2083?security=tls&type=ws&path=/eyJqdW5rIjoiOWc3WUROOHZXemEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&host=ez-2cb1f5.sabzipolobamahi9.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=ez-2cB1f5.sabZIpolObAMAHi9.WORkerS.deV&fp=chrome&encryption=none#
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.shopify.com:2095?security=none&type=ws&path=/fp=randomized&host=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev&packetEncoding=xudp&sni=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#United+States
+vless://8a4a1c56-4edb-4c00-9a54-52131884f8aa@152.53.200.69:8443?encryption=none&host=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&path=%2F&security=tls&sni=rwn4vu3r.45l91qj82wsx2uqlih6z.workers.dev&type=ws#Austria
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#United+Kingdom
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.227.39.30:8880?security=none&type=ws&path=/&host=vms.lifetime17.workers.dev&packetEncoding=xudp&encryption=none#Canada
+vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@s462.csgfw.top:443?encryption=none&type=tcp&headerType=&fp=firefox&host=57be39cds394.csgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u695099u57be39cds394.csgfw.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#Russia
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.30:8880?security=none&type=ws&path=/&host=vms.lifetime08.workers.dev&packetEncoding=xudp&encryption=none#Russia
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>
