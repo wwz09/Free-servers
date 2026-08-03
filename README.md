@@ -36,18 +36,16 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://76792e97-ee95-4d29-86da-347362d491f2@d.mygoldiran.com:443?path=/idea&security=tls&encryption=none&insecure=0&host=usa_multi.mygoldiran.com&type=ws&allowInsecure=0&sni=usa_multi.mygoldiran.com#%E7%BE%8E%E5%9B%BD+%E7%A7%91%E7%BD%97%E6%8B%89%E5%A4%9A%E5%B7%9E%E5%B8%83%E9%9A%86%E8%8F%B2%E5%B0%94%E5%BE%B7%E5%B8%82Level+3%E9%80%9A%E4%BF%A1%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
-vless://04b9e828-43ed-4faf-8952-41069ec08355@ddc-akn.astralweb.tech:443?security=tls#%E4%BC%8A%E6%9C%97+V2CROSS.COM
-vmess://eyJhZGQiOiAiY2luZHk1MC5jZW9paWkuY29tIiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJhamF4Lm1pY3Jvc29mdC5jb20iLCAiaWQiOiAiYTZhYjY1MTMtNmVjMy0zMjdmLWEwNjgtYjg5ZmU3Mjk1NGI4IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9obHMvY2N0djVwaGQubTN1OCIsICJwb3J0IjogMzY4MDEsICJwcyI6ICJcdTdmOGVcdTU2ZmQgXHU0ZjUwXHU2Y2JiXHU0ZTlhXHU1ZGRlXHU0ZTlhXHU3Mjc5XHU1MTcwXHU1OTI3XHU1ZTAyQmVsbFNvdXRoXHU1MTZjXHU1M2Y4IiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443?security=tls&sni=usa1.spectrumproxy.shop#%E6%8C%AA%E5%A8%81+V2CROSS.COM
-vless://29ca503d-e6b8-4509-b666-48133f450857@104.18.42.68:8443?encryption=none&security=tls&sni=learn00.evany.de5.net&fp=random&insecure=0&allowInsecure=0&type=ws&host=learn00.evany.de5.net&path=%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://6a248b82-ad33-4a8f-8ef7-cdd0ac26c261@144.31.91.102:443?security=reality&type=tcp&packetEncoding=xudp&sni=nl.boxypn.com&fp=firefox&flow=xtls-rprx-vision&pbk=9TVBSrIwHDFDjmejiKSNYHxHg6Nc0HEJGOiKLv8od1k&encryption=none#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://6f436a44-f703-93da-7e45-615824a39d3b@teain.org:1000?encryption=none&type=tcp&security=reality&headerType=none&sni=knox.cdn-apple.com&fp=ios&insecure=1&allowInsecure=1&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&sid=a62d513cd709744a#%E7%91%9E%E5%85%B8+V2CROSS.COM
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.9.48:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@170.168.97.3:993?security=reality&type=tcp&packetEncoding=xudp&sni=download.nvidia.com&fp=firefox&flow=xtls-rprx-vision&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&encryption=none#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@time.is:443?security=tls&type=ws&path=/&host=azadnet-826.pages.Dev&packetEncoding=xudp&alpn=h3,h2,http/1.1&sni=azadnet-826.pages.Dev&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://04b9e828-43ed-4faf-8952-41069ec08355@ddc-akn.astralweb.tech:443?alpn=h2&encryption=none&fp=chrome&security=tls&sni=ddc-akn.astralweb.tech&type=tcp#%E4%BC%8A%E6%9C%97+V2CROSS.COM
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.25.244.217:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://2a6b708e-6799-473e-85e9-d4b116c5eedc@31.76.11.46.cdn-one.org:443?security=tls&type=ws&path=/52872/BNzG4FvIAr&host=31.76.11.46.cdn-one.org&packetEncoding=none&sni=31.76.11.46.cdn-one.org&fp=chrome#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-vless://711c018e-2692-4aa8-93f3-544d83fcd16c@152.53.239.182:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7a76f3c4b9dd&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs&encryption=none#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.181:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:993?encryption=none&flow=xtls-rprx-vision&security=reality&sni=download.nvidia.com&fp=chrome&pbk=EG3y7UktGRlzSZZ2oXT_YaO2gVP4ca3Xe6AQ0u9A5DQ&type=tcp&headerType=none#%E5%B8%8C%E8%85%8A+V2CROSS.COM
+vless://4f375fb4-3c95-425f-bc7b-8085487a6f3c@31.76.11.46.cdn-one.org:443?fp=chrome&host=31.76.11.46.cdn-one.org&path=%2F52872%2FBNzG4FvIAr&security=tls&sni=31.76.11.46.cdn-one.org&type=ws#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.26.12.41:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.7.178:443?security=tls&type=ws&path=/fdip=tw.william.us.ci!txt&host=learn00.evany.de5.net&packetEncoding=xudp&sni=learn00.evany.de5.net&fp=random#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.16.72.251:443?security=tls&type=ws&path=/&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
