@@ -35,26 +35,26 @@
  <h4>Danh sách nút: (Tối đa 20 nút được hiển thị tại đây. Các nút miễn phí khác có thể lấy trong ứng dụng.)</h4>
     
 ```
-vless://4f74ff26-25af-41d6-9d39-be46fe8ff1a8@162.159.156.214:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=steep-resonance-1ffb.274.workers.dev&packetEncoding=xudp#
-vless://534cbbe2-cc36-4f2d-8fb0-90410e7148c9@147.45.145.127:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&sid=52a6&pbk=tWRR3W8jBAQKBUujLzL7Xri3WXy3F08OxHYrkSOnlAc&encryption=none#Russia
-vless://eadcacfa-ef1a-4901-a28b-8815fa1962a5@94.139.250.36:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=chrome&security=reality&pbk=m_Xgh5XeqmN9JaDxkct4yTup2YPVxCV5fGnUnMZ3pWE&sid=#Russia
-vless://5e18094c-18b1-4198-b211-96b40518cecf@107.181.147.22:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.techradar.com&fp=chrome&flow=xtls-rprx-vision&sid=f6e197a0b9f2&pbk=Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE#United+Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#United+States
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#South+Korea
-trojan://humanity@86.38.214.205:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#United+States
-vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@s1243.gogocs.xyz:443?encryption=none&type=tcp&headerType=&fp=firefox&host=bfb7b8f7s861.gogocs.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u695099ubfb7b8f7s861.gogocs.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#Germany
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@108.162.198.201:443?security=tls&type=ws&path=/sg-melbi&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#United+States
-trojan://ND91608427@main-whippet.rooster465.autos:443?allowInsecure=1&fp=chrome&security=tls&sni=main-whippet.rooster465.autos&type=tcp#South+Korea
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@es1.xiaoliyu.cyou:4433?insecure=1&security=tls&sni=es1.xiaoliyu.cyou#Spain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#The+Netherlands
-vless://a046297b-0f66-4514-8d4f-2a7d200d8d37@2.26.70.181:443?security=reality&type=raw&packetEncoding=xudp&sni=1.aws-lbr.amazonaws.com&fp=qq&flow=xtls-rprx-vision&sid=bdcaf30f86&pbk=s2vIO76C2QmrvyeujAWxTmQtQ51bwMTWDgQESIm8J1c#United+Kingdom
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.135:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04#Hong+Kong
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.94:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=c6ef72e4635d15a5#Hong+Kong
-vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?encryption=none&type=tcp&security=reality&headerType=none&sni=deepl.com&fp=chrome&insecure=1&allowInsecure=1&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&sid=c84f&flow=xtls-rprx-vision#United+States
-vless://9d45d137-9892-4a83-a04a-f30b4da28243@104.26.13.40:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=broken-wave-8a45.483.workers.dev&packetEncoding=xudp#
-vless://b7bda73b-9852-480e-86ff-616789593610@172.67.75.55:8443?security=tls&type=ws&path=/proxyip=31.77.161.247,31.57.190.85,208.85.17.114&host=damp-voice-0cd5.qplm2770.workers.dev&packetEncoding=xudp&sni=damp-voice-0cd5.qplm2770.workers.dev&fp=chrome&encryption=none#United+States
-vless://68662961-6c5f-48c1-b807-6398f3287dbc@172.66.170.53:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=polished-meadow-2ac5.228-76d.workers.dev&packetEncoding=xudp#United+States
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.213:8443?security=tls&sni=grape-turbo-fr.roxa.org#United+States
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?encryption=none&path=%2F&security=tls&type=ws#
+trojan://ND91608427@learning-leopard.rooster465.autos:443?security=tls&sni=learning-leopard.rooster465.autos#United+States
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.135:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
+trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20088?security=tls&sni=hk.catxstar.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#Japan
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#United+States
+vless://2058418a-7718-4050-bdd5-db7487ffdb3b@34.96.200.38:443?encryption=none&fp=chrome&pbk=uoXBNYcBgR-h2YmU1NFhFyASr6qh9UghWOuo1WZIikw&security=reality&sid=17d824dd68e24aaf&sni=www.cloudflare.com&type=tcp#Hong+Kong
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#France
+vless://9a9fe945246a431ebd051cb981464c8d@2.59.163.45:59992?security=none&type=raw&packetEncoding=xudp#Russia
+vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@s881.wagahaha.xyz:443?encryption=none&type=tcp&headerType=&fp=firefox&host=0660a077s79.gogocs.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u695099u0660a077s79.gogocs.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#United+States
+hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@150.241.124.145:443?security=tls&sni=ger.leontunel.ru#Spain
+trojan://ND91608427@large-baboon.rooster465.autos:443?security=tls&sni=large-baboon.rooster465.autos#Germany
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@fl11.skorostnet.space:443?security=reality&type=tcp&packetEncoding=xudp&sni=fl11.skorostnet.space&fp=chrome&flow=xtls-rprx-vision&sid=fdda9806fe5d8584&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&encryption=none#United+Kingdom
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.78:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&encryption=none#Hong+Kong
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@51.44.213.137:443?insecure=1&security=tls&sni=51.44.213.137#France
+trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#United+States
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.222:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&sid=c6ef72e4635d15a5&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04#Hong+Kong
+trojan://ND91608427@sure-humpback.rooster465.autos:443?security=tls&sni=sure-humpback.rooster465.autos#Japan
+vless://304a1e62-eb26-4b44-994e-b96a70fff9b4@104.21.51.196:8443?security=tls&type=ws&path=/&host=ad-013.zen2bswa.info&packetEncoding=xudp&sni=ad-013.zen2bswa.info&fp=chrome#
+trojan://87961f9d-bee1-4377-826b-e169e7891c4f@162.159.82.246:443?fp=chrome&path=%2F%3Fed%3D2048&security=tls&sni=yks-dd9.pages.dev&type=ws#
+hy2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723/?insecure=1&security=tls&sni=www.cloudflare.com#United+States
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
