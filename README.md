@@ -36,16 +36,18 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
+vless://711c018e-2692-4aa8-93f3-544d83fcd16c@jdwadgw.cvewfjg.shop:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7a76f3c4b9dd&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs&encryption=none#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 hysteria2://71cada65-d23e-418c-88e4-a06188d14689@de-two.quiet-rogue.site:443?security=tls&sni=de-two.quiet-rogue.site#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://01a95af3-a2f6-453e-9f88-b2fc011627cc@47.82.120.47:43630?encryption=none&type=tcp#%E9%A6%99%E6%B8%AF+%E9%98%BF%E9%87%8C%E4%BA%91
+hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@db1.mangshe.xyz:2056?insecure=1&security=tls&sni=db1.mangshe.xyz#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@time.is:443?security=tls&type=ws&path=/&host=azadnet-826.pages.Dev&packetEncoding=xudp&alpn=h3,h2,http/1.1&sni=azadnet-826.pages.Dev&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.40:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime37.workers.dev&packetEncoding=xudp&encryption=none#%E5%8D%97%E9%9D%9E+V2CROSS.COM
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.30:8880?security=none&type=ws&path=/&host=vms.lifetime28.workers.dev&packetEncoding=xudp#%E6%AC%A7%E7%9B%9F+V2CROSS.COM
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://87961f9d-bee1-4377-826b-e169e7891c4f@162.159.82.246:443?fp=chrome&path=%2F%3Fed%3D2048&security=tls&sni=yks-dd9.pages.dev&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.231.61:443?insecure=1&security=tls&sni=vpn-kr-003.fastervpn.world#%E9%9F%A9%E5%9B%BD+%E9%A6%96%E5%B0%94Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vmess://eyJhZGQiOiAiY2luZHk1Mi5jZW9paWkuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImFqYXgubWljcm9zb2Z0LmNvbSIsICJpZCI6ICJhNmFiNjUxMy02ZWMzLTMyN2YtYTA2OC1iODlmZTcyOTU0YjgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2hscy9jY3R2NXBoZC5tM3U4IiwgInBvcnQiOiAiMzY4MDMiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIE1pY3Jvc29mdFx1NjU3MFx1NjM2ZVx1NGUyZFx1NWZjMyIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.154.129:13868?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=YxGdcVKnOjKUtaG-E68lzI_rd9DI5RvsbLY0qyMFX2w&sid=e852dc&sni=wp.pl#%E7%88%B1%E5%B0%94%E5%85%B0+V2CROSS.COM
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.239.83.52:443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=d1yxsk0zprgivr.cloudfront.net#%E7%BE%8E%E5%9B%BD+%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2
-vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@180.178.60.253:10000?security=none&type=tcp&packetEncoding=xudp#%E9%A6%99%E6%B8%AF+Simcentric%E7%BD%91%E7%BB%9C%E5%85%AC%E5%8F%B8
-trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20088?security=tls&sni=hk.catxstar.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E8%8B%B1%E5%9B%BD+Technicolor+SA
+hy2://71cada65-d23e-418c-88e4-a06188d14689@de-two.quiet-rogue.site:443?security=tls&sni=de-two.quiet-rogue.site#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://f04c31f7-cfab-4824-d167-4137d836ea82@i3.cloud--vpn.site:443?encryption=none&security=tls&sni=ssl.fastly.com&alpn=h2&fp=chrome&allowinsecure=0&type=ws&host=c12.com&path=/#%E7%BE%8E%E5%9B%BD+%E4%B9%94%E6%B2%BB%E4%BA%9A%E6%B4%B2%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7Fastly%E8%8A%82%E7%82%B9
+trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://424fa201-3f94-479e-b533-d5257cf9a207@89.117.112.4:80?security=none&type=ws&path=/pyip=Telegram🇨🇳 @VPNine1&host=floral-thunder-10d3.82-67d.workers.dev&packetEncoding=xudp&encryption=none#%E7%AB%8B%E9%99%B6%E5%AE%9B+V2CROSS.COM
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@45.192.200.66:8443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#%E5%8D%97%E9%9D%9E+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
