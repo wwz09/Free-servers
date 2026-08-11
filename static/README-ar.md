@@ -35,25 +35,23 @@
  <h4>قائمة العقد: (يتم عرض 20 عقدة كحد أقصى هنا. تتوفر العقد المجانية الأخرى في التطبيق)</h4>
     
 ```
-trojan://ND91608427@upward-puma.rooster465.autos:443?security=tls&sni=upward-puma.rooster465.autos#South+Korea
-vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=chrome&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#Czechia
-trojan://ND91608427@35.86.90.51:443?fp=chrome&security=tls&sni=natural-collie.rooster465.autos&type=tcp#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#The+Netherlands
-trojan://humanity@104.21.46.3:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.129:8080#The+Netherlands
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.89.239:443?insecure=1&security=tls&sni=vpn-kr-003.fastervpn.world#South+Korea
-trojan://ND91608427@3.36.131.218:443?fp=chrome&security=tls&sni=humorous-malamute.rooster465.autos&type=tcp#South+Korea
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node17.mxvpn.dev:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=node17.mxvpn.dev&fp=chrome&security=reality&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&sid=bbc68cec8bb8d2e3#United+States
-trojan://humanity@194.135.38.140:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#Russia
-trojan://ND91608427@54.180.228.238:443?security=tls&sni=pure-ram.rooster465.autos#South+Korea
-trojan://humanity@104.18.152.229:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.174:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&security=reality&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&type=tcp#Spain
-vmess://eyJhZGQiOiAiMTcyLjExMS4xNDYuNjQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjA1YjhjNzgzLTdmNTktNDdmOS05OTIzLTA2YTQ2NTY3OWY2YSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBvcnQiOiAiODAiLCAicHMiOiAiSmFwYW4iLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.129:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=c6ef72e4635d15a5&sni=storage.yandex.net&type=tcp#Hong+Kong
-vless://43874ef1-1f74-4b8b-bc84-1d13caabd71b@104.171.137.176:2200?encryption=none&security=none&type=ws&path=%2Fv1#United+States
-trojan://humanity@104.19.64.105:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.21.71.238:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#
-trojan://ND91608427@learning-leopard.rooster465.autos:443?security=tls&sni=learning-leopard.rooster465.autos#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#United+Kingdom
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#Hong+Kong
+trojan://ND91608427@picked-guinea.rooster465.autos:443?security=tls&sni=picked-guinea.rooster465.autos#Japan
+trojan://humanity@104.18.152.143:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+vless://9e3de7f7-a595-4117-b1b6-dc41eb870ab1@144.31.213.225:443?security=reality&type=tcp&pbk=ABNRlkjlonYV9TOFYgjWwz0wn1s6sg_yCErsLYkU_Sg&sid=d6ff9019a77e354a&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.10:8080#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#United+Kingdom
+vmess://eyJhZGQiOiAicXRrZHI4anhlM3dlZnhqbS52LjNkbnMudmlwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInFUS0RSOGpYRTN3RUZ4Sk0udi4zZG5zLnZpcCIsICJpZCI6ICJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiSG9uZyBLb25nIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+hy2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443/?security=tls&sni=nl1.noesissite.ru#United+States
+trojan://ND91608427@18.181.194.227:443?security=tls&sni=moral-buzzard.rooster465.autos#Japan
+vless://a21b9103-1693-49c1-8dc9-e8e8098ee969@104.17.167.149:8443?security=tls&type=ws&path=/&host=free-7f1.pages.dev&packetEncoding=xudp&sni=free-7f1.pages.dev&fp=chrome#
+trojan://humanity@45.130.125.158:443?alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#Seychelles
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#United+States
+vless://534cbbe2-cc36-4f2d-8fb0-90410e7148c9@147.45.145.127:443?security=reality&type=raw&packetEncoding=xudp&sni=yahoo.com&fp=chrome&sid=52a6&pbk=tWRR3W8jBAQKBUujLzL7Xri3WXy3F08OxHYrkSOnlAc#Russia
+trojan://ND91608427@43.207.139.153:443?security=tls&sni=sensible-mongrel.rooster465.autos#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#The+Netherlands
+hy2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.219:8443/?security=tls&sni=grape-turbo-fr.roxa.org#United+States
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>
