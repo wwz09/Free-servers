@@ -35,26 +35,26 @@
  <h4>Lista de nós: (No máximo 20 nós são exibidos aqui. Outros nós gratuitos estão disponíveis no app.)</h4>
     
 ```
-vmess://eyJhZGQiOiAiZWpvbXN4cHRwMTlhcHlnbC52LjNkbnMudmlwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImVqT01zeFB0UDE5QVB5R0wudi4zZG5zLnZpcCIsICJpZCI6ICJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiSG9uZyBLb25nIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ==@31.76.30.79:10808#Reino+Unido
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@pl140.vpnbook.com:443#Fran%C3%A7a
-trojan://AE62539071@frank-frog.rooster465.autos:443?security=tls&sni=frank-frog.rooster465.autos#Jap%C3%A3o
-trojan://AE62539071@43.200.1.24:443?security=tls&sni=square-gnat.rooster465.autos#Coreia+do+Sul
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.4:45647?security=&encryption=none&headerType=&type=tcp#Hong+Kong
-vless://916e3030-6eac-418b-9402-7508ca7d6280@172.64.152.241:8443?path=/&security=tls&encryption=none&insecure=0&host=us-akile.nanniang.top&fp=chrome&type=ws&allowInsecure=0&sni=us-akile.nanniang.top#EUA
-vless://e1df69ad-2351-4725-adc0-601bd7d8b8e7@email.swiftraci.org:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=f7c5599376a0&pbk=Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE&encryption=none#Reino+Unido
-trojan://humanity@104.26.14.137:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-trojan://ND91608427@pure-ram.rooster465.autos:443?security=tls&sni=pure-ram.rooster465.autos#Coreia+do+Sul
-hysteria2://H7mP2xY9kJ4nQ9wR5tF6vB3z@vpn-kr-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-kr-002.fastervpn.world#Coreia+do+Sul
-vless://c90f26f0-5a20-4573-a31a-c27b3c96933e@154.83.246.52:443?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=500aec9e9e5e2212&pbk=pPi-WO8qQFFZ9UJWNLW9YClbjcoAAZWJQ2_FM3Kjhz8&encryption=none#EUA
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443?insecure=1&security=tls&sni=vpn-kr-003.fastervpn.world#Coreia+do+Sul
-trojan://humanity@104.18.152.143:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-trojan://AE62539071@13.113.89.229:443?fp=chrome&security=tls&sni=coherent-newt.rooster465.autos&type=tcp#Jap%C3%A3o
-trojan://AE62539071@pure-kodiak.rooster465.autos:443?security=tls&sni=pure-kodiak.rooster465.autos#Jap%C3%A3o
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#Alemanha
-vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@91.193.58.31:2096?security=tls&type=ws&path=/free-server.techsonic.dev&host=free-server.techsonic.dev&packetEncoding=xudp&sni=free-server.techsonic.dev&fp=chrome#Reino+Unido
-trojan://AE62539071@safe-frog.rooster465.autos:443?security=tls&sni=safe-frog.rooster465.autos#Jap%C3%A3o
-hy2://085178e12d2211ec@nl.prisma-access.club:8445/?security=tls&sni=nl.prisma-access.club#Bulg%C3%A1ria
+hy2://130e6aab-9eba-441e-9021-22cbccc72832@srvhy1.ezcon24.online:8443?security=tls&sni=srvhy1.ezcon24.online#R%C3%BAssia
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@45.155.68.164:13868?security=reality&encryption=none&pbk=xbCFPD2Gk3HP6EwfFT_0W3D_-biFaz10wlPc2h3y6QQ&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yoox.com&sid=e852dc#Holanda
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#EUA
+vless://9500cf8b-020a-4a70-906c-e14bb5375875@94.183.254.26:443?security=reality&type=raw&packetEncoding=xudp&sni=www.sciencedirect.com&fp=firefox&flow=xtls-rprx-vision&sid=a1b2c4d4a1b2c5d5&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0#Ir%C3%A3
+trojan://AE62539071@13.192.234.223:443?fp=chrome&security=tls&sni=intimate-koi.rooster465.autos&type=tcp#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.39:8080#Reino+Unido
+hy2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.69:8443/?security=tls&sni=grape-zet-turbo-nl.yyuyy.com#Holanda
+trojan://humanity@104.16.174.14:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+trojan://AE62539071@light-sheepdog.rooster465.autos:443?fp=chrome&security=tls&sni=light-sheepdog.rooster465.autos&type=tcp#Coreia+do+Sul
+trojan://ND91608427@54.249.34.120:443?security=tls&sni=social-mutt.rooster465.autos#Jap%C3%A3o
+vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@150.129.10.140:443?encryption=none&type=tcp&headerType=&fp=firefox&host=ddd54cbfs611.gogocs.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u643766uddd54cbfs611.gogocs.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#Holanda
+trojan://ND91608427@3.112.223.141:443?security=tls&sni=internal-sunbird.rooster465.autos#Jap%C3%A3o
+vless://d51ed55c-d6dd-400b-aaf6-017c33969bfe@47.89.186.170:55861?security=reality&type=tcp&packetEncoding=xudp&sni=www.intel.com&fp=firefox&flow=xtls-rprx-vision&sid=7551ed1b&pbk=t2ndf6SeVxinFCo5bcemnW_ZZhAtmHWiAkllks5qPWs&encryption=none#EUA
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#EUA
+vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&security=tls&sni=ako.pagate.top&type=tcp#Coreia+do+Sul
+trojan://AE62539071@stirred-buck.rooster465.autos:443?security=tls&sni=stirred-buck.rooster465.autos#Singapura
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#EUA
+trojan://ND91608427@43.202.56.122:443?security=tls&sni=striking-maggot.rooster465.autos#Coreia+do+Sul
+trojan://AE62539071@well-jennet.rooster465.autos:443?fp=chrome&security=tls&sni=well-jennet.rooster465.autos&type=tcp#Jap%C3%A3o
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.44:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
