@@ -35,26 +35,26 @@
  <h4>Danh sách nút: (Tối đa 20 nút được hiển thị tại đây. Các nút miễn phí khác có thể lấy trong ứng dụng.)</h4>
     
 ```
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.69.30:8880?security=none&type=ws&path=/&host=vms.lifetime06.workers.dev&packetEncoding=xudp#Lithuania
-trojan://AE62539071@43.207.86.70:443?fp=chrome&security=tls&sni=rich-gelding.rooster465.autos&type=tcp#Japan
-trojan://AE62539071@sacred-hound.rooster465.autos:443?security=tls&sni=sacred-hound.rooster465.autos#South+Korea
-vless://bceda826-c83c-45d0-891e-15c4bfec76bc@168.222.141.146:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#United+States
+vless://05cf7b0e-ad1a-42bb-80e7-73ae45b1019a@104.21.66.61:8443?security=tls&type=ws&path=/api/voip/updates/static/x9i2&host=france.io-com-de-dev.org&packetEncoding=xudp&alpn=http/1.1&sni=france.io-com-de-dev.org&fp=chrome&encryption=none#
 trojan://AE62539071@polished-imp.rooster465.autos:443?security=tls&sni=polished-imp.rooster465.autos#Japan
-vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?security=reality&encryption=none&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&host=/?BIA_TELEGRAM-TGRVPN&headerType=none&fp=chrome&spx=/fdded5f9698d939&type=tcp&sni=www.cloudflare.com&sid=cfe08c23a85f24#The+Netherlands
-trojan://humanity@104.18.152.140:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#United+States
-vless://44ae52b9-76fc-444d-8e43-186b4384b80a@86.54.28.75:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=1d86d17709852910&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU#United+Kingdom
-hysteria2://STYyftThFn@freedom.chenlan.top:12765?insecure=1&security=tls&sni=css.rbxcdn.com#Belgium
-vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@172.67.69.106:443?security=tls&type=ws&path=/&host=zero.csmaster.ggff.net&packetEncoding=xudp&sni=zero.csmaster.ggff.net&fp=chrome#United+States
-vless://c8dcbe44-5714-4f99-8d7a-aadebea34abf@91.103.140.243:443?security=reality&type=raw&packetEncoding=xudp&sni=www.amd.com&fp=chrome&sid=bff835c98c&pbk=118rMk41g_0BeoQDR2V_1f8ABzC1WKXdolzE-LxqowM#Russia
-trojan://FH72359861@pretty-adder.rooster465.autos:443?security=tls&sni=pretty-adder.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#Japan
-trojan://humanity@render.com:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#United+States
-trojan://humanity@104.18.152.229:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
-trojan://FH72359861@bright-buffalo.rooster465.autos:443?security=tls&sni=bright-buffalo.rooster465.autos#Japan
-hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@au1.xiaoliyu.cyou:4433?insecure=1&security=tls&sni=au1.xiaoliyu.cyou#United+Kingdom
-vless://ab00e12c-09f1-41c6-8d60-7c6a83f5ca9d@51.77.217.70:2053?encryption=none&fp=chrome&pbk=6j7SZO4StX_8QkHX9sATJug5nQ4X4XoTj_6B7bClEw4&security=reality&sid=e52e7fd8585ac5c1&sni=www.apple.com&type=tcp#France
-trojan://ND91608427@54.249.34.120:443?security=tls&sni=social-mutt.rooster465.autos#Japan
-vless://d171491a-9995-46ce-8719-f64463ca3a45@198.202.211.1:443?security=tls&type=ws&path=/download.php&host=sertraline.adaspoloandco.com&packetEncoding=xudp&alpn=http/1.1,h2&sni=sertraline.adaspoloandco.com&fp=chrome&encryption=none#United+States
+trojan://FH72359861@helping-shark.rooster465.autos:443?security=tls&sni=helping-shark.rooster465.autos#Japan
+trojan://AE62539071@clear-snail.rooster465.autos:443?allowInsecure=1&fp=chrome&security=tls&sni=clear-snail.rooster465.autos&type=tcp#Japan
+trojan://humanity@216.24.57.1:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#United+States
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#Taiwan
+vless://4d017db2-7655-4276-9557-e2ec25b04ee7@server.slavkiti.monster:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.tradingview.com&fp=chrome&flow=xtls-rprx-vision&sid=ee1716767f9b&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&encryption=none#United+Kingdom
+vless://37a098ab-8fec-4352-8ee8-294ae5bca68f@193.233.126.82:9443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amd.com&fp=chrome&flow=xtls-rprx-vision&sid=0240e83f65a25e&pbk=Te5lrfzw_MytTzQJB92DhWw7fk1qTK3mhzz7Bz41gVc&encryption=none#Russia
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.60.231:443?security=tls&type=ws&path=/fp=chrome&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net&fp=chrome&encryption=none#
+trojan://Telegram_healer_config@104.21.4.124:443?path=%2Ftr%2FW3Ei3SdcW9sRVMLIbEd8sB1lm%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=vRE6r9qrbQi0T25tg.SRtB0M3HDbWr2cjZ8fJuR.WoRKerS.DEv#
+trojan://AE62539071@awaited-lark.rooster465.autos:443?security=tls&sni=awaited-lark.rooster465.autos#Japan
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@join.my.telegram.channel.cmliussss.to.unlock.more.premium.nodes.cf.090227.xyz:443?fp=chrome&path=%2F&security=tls&sni=_acme-challenge.sb.cloudns.biz&type=ws#
+hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443?security=tls&sni=gorbachev-new-th.kvnfreetest.uk#United+Kingdom
+trojan://FH72359861@summary-lemming.rooster465.autos:443?fp=chrome&security=tls&sni=summary-lemming.rooster465.autos&type=tcp#Germany
+trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls#T%C3%BCrkiye
+trojan://humanity@185.164.163.173:8443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#The+Netherlands
+vless://b3a5f201-eeaf-40c8-909c-72f4860cefc8@172.67.176.31:8080?security=none&type=ws&path=/eyJqdW5rIjoiUWtMSnFJZFM2S3JnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6W119&host=orange-bonus-abd9.dalvandimohammadmahdi.workers.dev&packetEncoding=xudp&encryption=none#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#United+Kingdom
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.75:8080?encryption=none&security=&sni=&type=ws&alpn=&host=&path=/?ed=2048#United+States
+vless://a747c516-34bd-41b8-8590-a9d1edb79e95@164.90.176.31:2083?security=tls&type=ws&path=/&host=summer-hall-8b23.asddsaasan.workers.dev&packetEncoding=xudp&sni=summer-hall-8b23.asddsaasan.workers.dev&fp=random&encryption=none#Germany
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
