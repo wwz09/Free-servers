@@ -35,26 +35,26 @@
  <h4>노드 목록: (여기에는 최대 20개 노드만 표시됩니다. 다른 무료 노드는 앱에서 받을 수 있습니다.)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTkzLjExMS43OC4xMDYiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjI2YjZmZDMyLTA0ZTYtNDNmZi1hMDY1LWJlYTM2Zjc0ODY1NSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicGNzIjogIiIsICJwb3J0IjogIjU4MzA0IiwgInBzIjogIlRcdTAwZmNya2l5ZSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAidmNuIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.129:8080#The+Netherlands
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?security=none&type=ws&path=/&packetEncoding=xudp&sni=85.17.145.65#The+Netherlands
-trojan://FH72359861@3.38.108.23:443?fp=chrome&security=tls&sni=balanced-stag.rooster465.autos&type=tcp#South+Korea
-vless://c7e9c591-2764-423a-afca-efbd010fd396@195.133.94.188:2053?security=tls&type=ws&path=/&host=forfreeuse.rtqa.ru&packetEncoding=xudp&sni=forfreeuse.rtqa.ru&fp=chrome#Czechia
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@91.193.59.251:2053?security=tls&type=ws&path=/socks5=888:888@hkip.1d.mom:1080&host=vlso6.1d.mom&packetEncoding=xudp&sni=vlso6.1d.mom&fp=chrome&encryption=none#United+Kingdom
-trojan://humanity@185.18.250.252:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&insecure=0&allowInsecure=0#Switzerland
-vless://c7e9c591-2764-423a-afca-efbd010fd396@188.241.241.20:2053?security=tls&type=ws&path=/&host=forfreeuse.rtqa.ru&packetEncoding=xudp&sni=forfreeuse.rtqa.ru&fp=chrome#Romania
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@2.26.48.130:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#United+Kingdom
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr15.mechvpn.online:443?flow=xtls-rprx-vision&fp=chrome&security=tls#France
-trojan://AE62539071@54.64.255.224:443?fp=chrome&security=tls&sni=maximum-elk.rooster465.autos&type=tcp#Japan
-trojan://AE62539071@52.195.215.182:443?security=tls&sni=premium-perch.rooster465.autos#Japan
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@185.55.243.151:443?security=tls&type=tcp&packetEncoding=xudp&sni=de151.mechvpn.online&fp=firefox&flow=xtls-rprx-vision#Germany
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443?insecure=1&security=tls&sni=127.0.0.1#India
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@179.61.227.102:8443?insecure=1&security=tls&sni=iq5ny.pleiades.codes#India
-trojan://AE62539071@one-quail.rooster465.autos:443?security=tls&sni=one-quail.rooster465.autos#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#United+Kingdom
-trojan://FH72359861@noted-cougar.rooster465.autos:443?security=tls&sni=noted-cougar.rooster465.autos#Japan
-vless://e01fcb68-3112-49da-b85d-dffb799cfc9b@jp.wxgqlfx.top:26518?security=reality&type=tcp&packetEncoding=xudp&sni=github.com&fp=chrome&flow=xtls-rprx-vision&sid=6caead99&pbk=1fa6iCY7vhoQyKu91FeaK04FN-mr1qeHnrtdyLZ79mk#United+States
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.159:443?insecure=1&security=tls&sni=vpn-kr-003.fastervpn.world#South+Korea
+trojan://ND91608427@sure-humpback.rooster465.autos:443?allowInsecure=1&fp=chrome&security=tls&sni=sure-humpback.rooster465.autos&type=tcp#Japan
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.134:443?security=reality&type=raw&packetEncoding=xudp&sni=getsavesafe.net&fp=chrome&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
+trojan://FH72359861@communal-troll.rooster465.autos:443?security=tls&sni=communal-troll.rooster465.autos#Japan
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr213.mechvpn.online:443?security=tls&type=tcp&packetEncoding=xudp&sni=fr213.mechvpn.online&fp=chrome&flow=xtls-rprx-vision#France
+vless://a2aa7759-ddac-4d02-bf9d-de62cbff9481@104.171.132.232:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=/v1#United+States
+trojan://AE62539071@premium-perch.rooster465.autos:443?security=tls&sni=premium-perch.rooster465.autos#Japan
+trojan://AE62539071@capable-jay.rooster465.autos:443?security=tls&sni=capable-jay.rooster465.autos#South+Korea
+vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@212.118.43.237:443?burmalda=d2f2e50f&flow=xtls-rprx-vision&fp=chrome&pbk=2Kh1mMFvchFolXGaTJSjwtUpIiTDuIp9Oy2tDr-hogY&security=reality&sid=be45c0fe845d5128&sni=nl2.panel11.ru&type=tcp#The+Netherlands
+trojan://humanity@ip.myip2.qzz.io:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?security=tls&type=ws&path=/sg-melbi&host=josni.hoyes.cloudns.ch&packetEncoding=xudp&sni=josni.hoyes.cloudns.ch&fp=chrome&encryption=none#United+States
+trojan://AE62539071@43.201.49.96:443?security=tls&sni=firm-krill.rooster465.autos#South+Korea
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?security=none&type=ws&path=/&host=laoye.in-gect.fun&packetEncoding=xudp&sni=laoye.in-gect.fun#Latvia
+trojan://AE62539071@excited-sole.rooster465.autos:443?security=tls&sni=excited-sole.rooster465.autos#Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#United+Kingdom
+trojan://FH72359861@summary-lemming.rooster465.autos:443?security=tls&sni=summary-lemming.rooster465.autos#Germany
+vmess://eyJhZGQiOiAiMTY1LjE1NC4xOTUuMzgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjk1OWE4Y2FmLTRjZWEtNDNkMC1hNTQ4LTM2MjhlN2RkZmFmYyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzUwMzQiLCAicHMiOiAiVGFpd2FuIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vless://8525fe74-67e6-4a55-8a26-95f227bd1384@194.59.5.46:2096?allowInsecure=1&encryption=none&host=wild-sky-f384.alvlirm3737.workers.dev&path=%2Fproxyip%3D172.86.93.55%2C194.99.20.245%2C46.101.165.85%2C46.101.181.132%2C209.38.201.199%2C165.22.89.207%2C207.154.242.240%2C64.188.83.202&security=tls&sni=wild-sky-f384.alvlirm3737.workers.dev&type=ws#Kazakhstan
+trojan://FH72359861@alert-redfish.rooster465.autos:443?fp=chrome&security=tls&sni=alert-redfish.rooster465.autos&type=tcp#Japan
+trojan://FH72359861@13.212.204.216:443?fp=chrome&security=tls&sni=funny-hawk.rooster465.autos&type=tcp#Singapore
+trojan://FH72359861@gentle-platypus.rooster465.autos:443?security=tls&sni=gentle-platypus.rooster465.autos#South+Korea
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>

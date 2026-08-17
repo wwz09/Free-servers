@@ -36,18 +36,17 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-hysteria2://c2601f6c59ed832f9129533608eea8eb@8-210-142-69.liao.kdns.fr:50160?allowInsecure=0&insecure=0&security=tls&sni=8-210-142-69.liao.kdns.fr#%E9%A6%99%E6%B8%AF+%E9%98%BF%E9%87%8C%E4%BA%91
-trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@104.26.14.137:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443?insecure=1&security=tls&sni=admin.wwwinternetvideo.click#%E9%A6%99%E6%B8%AF+%E7%89%B9%E5%88%AB%E8%A1%8C%E6%94%BF%E5%8C%BA
-hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@mg2.mangshe.xyz:2056?insecure=1&security=tls&sni=mg2.mangshe.xyz#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
-vmess://eyJhZGQiOiAicGxhbmIubW9qY24uY29tLmxpbnV4bGgueGluIiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICI0MDdhMmJjNmQ0NTJmZjkzZTZkN2I3MzA3ODUzOWQ5ZS5tb2Jnc2xiLnRiY2FjaGUuY29tIiwgImlkIjogIjk3YzYzOGM2LTg2ZDUtNGNmNi1iNzBiLTExNGM2ODA5YjYzNyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAxNjYzMiwgInBzIjogIlx1ODJmMVx1NTZmZCBWMkNST1NTLkNPTSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 vless://fe4ca690-6fd9-4471-9a9f-94528084d180@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=pan1.global.ssl.fastly.net&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-hysteria2://137f3b50-a6ba-40e7-b537-e37fab064097@latvia.koalaexpress.ru:2443?insecure=1&security=tls&sni=latvia.koalaexpress.ru#%E7%AB%8B%E9%99%B6%E5%AE%9B+V2CROSS.COM
-vless://c7e9c591-2764-423a-afca-efbd010fd396@185.109.48.13:2053?encryption=none&security=tls&sni=forfreeuse.rtqa.ru&insecure=0&allowInsecure=0&type=ws&host=forfreeuse.rtqa.ru&path=%2F#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.76.198:13443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.cendora.ru&fp=chrome&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#%E7%91%9E%E5%A3%AB+V2CROSS.COM
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@145.249.115.201:13868?encryption=none&type=tcp&security=reality&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&sid=e852dc&sni=booking.com&fp=chrome&flow=xtls-rprx-vision#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.69.40:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443?security=tls&sni=nl1.noesissite.ru#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
+trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%E4%BC%8A%E6%9C%97+V2CROSS.COM
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&encryption=none#%E7%91%9E%E5%A3%AB+V2CROSS.COM
+vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@pol3.freeinternat.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=pol3.freeinternat.com&type=tcp#%E6%B3%A2%E5%85%B0+V2CROSS.COM
+hy2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443/?security=tls&sni=nl1.noesissite.ru#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
+trojan://humanity@188.114.97.7:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97+CloudFlare%E8%8A%82%E7%82%B9
+hysteria2://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.27.221:8443?security=tls&sni=borat-hopp.bumbleshrimp.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@85.90.197.131:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&allowInsecure=1&fp=chrome&security=reality&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&packetEncoding=xudp#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@mg2.mangshe.xyz:2056?insecure=1&security=tls&sni=127.0.0.1#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
