@@ -35,26 +35,26 @@
  <h4>नोड सूची: (यहां अधिकतम 20 नोड दिखाए जाते हैं। अन्य मुफ्त नोड ऐप में प्राप्त करें)</h4>
     
 ```
-vmess://eyJhZGQiOiAiemZkLWhrdjIua3VubHVuMDFkbnMuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwODAyYWMwMy03OTczLTM5ZWYtYTAxOS1iYTAyZGU2YzAxZTEiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE2MTE1IiwgInBzIjogIlNpbmdhcG9yZSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-trojan://ND91608427@15.237.137.197:443?security=tls&sni=fancy-skink.rooster465.autos#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#United+Kingdom
-vless://e8a2c7f9-cfec-46e0-a91a-a1394aaa90e4@172.67.176.49:443?security=tls&type=ws&path=/kXHZ0iPM96r8UDUAsTH2scSHpeWN&host=2-m23.DaegU2031.ccwU.CC&packetEncoding=xudp&sni=2-M23.daeGU2031.cCWu.cc&fp=chrome#United+States
-trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#Iran
-trojan://UO36402987@34.251.228.118:443?security=tls&sni=definite-ladybird.rooster465.autos#Ireland
-trojan://FH72359861@wise-gibbon.rooster465.autos:443?fp=chrome&security=tls&sni=wise-gibbon.rooster465.autos&type=tcp#Japan
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&security=tls&sni=127.0.0.1#United+States
-vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@neth6.lckdwn.ru:8443?encryption=none&security=tls&type=tcp#Brazil
-trojan://FH72359861@major-goose.rooster465.autos:443?fp=chrome&security=tls&sni=major-goose.rooster465.autos&type=tcp#South+Korea
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.155.42:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapore
-hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.164:8443?security=tls&sni=grape-zet-ro-turbo.bumbleshrimp.com#Romania
-trojan://FH72359861@helping-shark.rooster465.autos:443?security=tls&sni=helping-shark.rooster465.autos#Japan
-trojan://ND91608427@202.78.163.248:443?security=tls&sni=relaxed-gull.rooster465.autos#United+Kingdom
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.6:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
-trojan://FH72359861@great-wasp.rooster465.autos:443?security=tls&sni=great-wasp.rooster465.autos#Japan
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443?allowInsecure=1&fp=chrome&path=%2Ftrojan&security=tls&sni=id1.nathaya.web.id&type=ws#United+States
-vless://6b408e62-c5d5-45e1-ae3a-4c9833d46d82@217.217.254.126:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=fb7ebc9996caf9ac&pbk=T4CMxxAJiCcrGk2r87kMkDcvmfNs3nL-gKleaE1wTHQ#Spain
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&type=tcp&packetEncoding=xudp&sni=/?bia_telegram@marambashi_marambashi_marambashi_marambashi#Italy
-vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@youtube.superbuba.top:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=youtube.superbuba.top&fp=chrome&pbk=rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs&sid=4fa44664f6a566d3&spx=/#United+States
+hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@de.1.22.washing.help:443?insecure=1&security=tls&sni=germany1.h2corp.local#Germany
+vless://042a4a95-68f5-4179-89b3-69475a5d4908@91.132.161.245:18456?security=reality&encryption=none&pbk=XmOcGjsWDWRVvRTF7rV77kRp63qwIYbQ_s-YK3U7FkM&headerType=none&fp=chrome&spx=/d1391238c7e6e89&type=tcp&sni=shop-eu-de.amd.com&sid=09#United+States
+trojan://FH72359861@54.178.51.14:443?security=tls&sni=stunning-mastodon.rooster465.autos#Japan
+trojan://AE62539071@upward-yak.rooster465.autos:443?security=tls&sni=upward-yak.rooster465.autos#Japan
+trojan://FH72359861@primary-leech.rooster465.autos:443?security=tls&sni=primary-leech.rooster465.autos#United+Kingdom
+trojan://FH72359861@13.115.163.4:443?fp=chrome&security=tls&sni=devoted-zebra.rooster465.autos&type=tcp#Japan
+trojan://FH72359861@sacred-shepherd.rooster465.autos:443?fp=chrome&security=tls&sni=sacred-shepherd.rooster465.autos&type=tcp#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#United+Kingdom
+trojan://FH72359861@guided-ferret.rooster465.autos:443?security=tls&sni=guided-ferret.rooster465.autos#Singapore
+trojan://AE62539071@194.99.79.189:443?security=tls&sni=humorous-parakeet.rooster465.autos#Hong+Kong
+trojan://FH72359861@13.114.140.183:443?security=tls&sni=included-hedgehog.rooster465.autos#Japan
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@162.159.36.5:2095?security=none&type=ws&path=/&host=fangbinxingnmsl.pusytroller.gq&packetEncoding=xudp&sni=fangbinxingnmsl.pusytroller.gq#
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#Bulgaria
+trojan://AE62539071@glowing-iguana.rooster465.autos:443?fp=chrome&security=tls&sni=glowing-iguana.rooster465.autos&type=tcp#Japan
+trojan://AE62539071@54.250.97.109:443?fp=chrome&security=tls&sni=current-barnacle.rooster465.autos&type=tcp#Japan
+trojan://AE62539071@humorous-parakeet.rooster465.autos:443?fp=chrome&security=tls&sni=humorous-parakeet.rooster465.autos&type=tcp#Hong+Kong
+vless://598b823c-d3fc-4013-aae5-837f10080f7a@api.kinomir.fun:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&sid=33e48a03db900ff3&pbk=cZF84xUCciKRXxTA39vNnh0U8CjUZiUSjLzuNTMOzV8&encryption=none#United+States
+hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at133.mechvpn.online:443/?security=tls&sni=at133.mechvpn.online#Austria
+trojan://AE62539071@54.249.32.173:443?fp=chrome&security=tls&sni=eager-camel.rooster465.autos&type=tcp#Japan
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@laoye.in-gect.fun:2096?security=none&type=ws&path=/&host=laoye.in-gect.fun&packetEncoding=xudp&sni=laoye.in-gect.fun#Latvia
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

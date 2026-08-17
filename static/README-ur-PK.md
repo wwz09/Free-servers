@@ -35,26 +35,26 @@
  <h4>نوڈ کی فہرست: (یہاں زیادہ سے زیادہ 20 نوڈز دکھائے جاتے ہیں۔ دیگر مفت نوڈز ایپ میں حاصل کریں)</h4>
     
 ```
-vmess://eyJhZGQiOiAibWg3cjVhcmRsMHo1anRneS52LjNkbnMudmlwIiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzLXZtZXNzIiwgInBvcnQiOiA0NDMsICJwcyI6ICJIb25nIEtvbmciLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-trojan://ND91608427@real-werewolf.rooster465.autos:443?security=tls&sni=real-werewolf.rooster465.autos#Japan
-hysteria2://bc751c4c5c80f17dfbc05785c368b613@154.31.115.179:50160?security=tls&sni=154-31-115-179.liao.kdns.fr#Japan
-trojan://FH72359861@magical-prawn.rooster465.autos:443?security=tls&sni=magical-prawn.rooster465.autos#South+Korea
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443?insecure=1&security=tls&sni=18.118.193.169#United+States
-trojan://FH72359861@engaging-toucan.rooster465.autos:443?security=tls&sni=engaging-toucan.rooster465.autos#Germany
-vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?security=reality&type=tcp&packetEncoding=xudp&sni=www.paypal.com&fp=chrome&flow=xtls-rprx-vision&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&encryption=none#United+States
-trojan://AE62539071@glorious-lark.rooster465.autos:443?fp=chrome&security=tls&sni=glorious-lark.rooster465.autos&type=tcp#South+Korea
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.166.71:443?security=reality&type=tcp&packetEncoding=xudp&sni=eu-central.cendora.ru&fp=qq&flow=xtls-rprx-vision&sid=00bca5982f82d083&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI#United+States
-trojan://FH72359861@108.130.49.217:443?security=tls&sni=concise-bass.rooster465.autos#Ireland
-trojan://FH72359861@sterling-fowl.rooster465.autos:443?security=tls&sni=sterling-fowl.rooster465.autos#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#United+Kingdom
-trojan://FH72359861@learning-ladybug.rooster465.autos:443?security=tls&sni=learning-ladybug.rooster465.autos#South+Korea
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@91.239.208.213:443?security=tls&type=tcp&packetEncoding=xudp&sni=fr213.mechvpn.online&fp=qq&flow=xtls-rprx-vision#France
-vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@lists.soloramtin.cyou:443?security=reality&type=raw&packetEncoding=xudp&sni=www.foxsports.com&fp=chrome&flow=xtls-rprx-vision&sid=91af08b1ce1f&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&encryption=none#United+Kingdom
-trojan://AE62539071@funny-hen.rooster465.autos:443?fp=chrome&security=tls&sni=funny-hen.rooster465.autos&type=tcp#Ireland
-vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.240:2053?security=tls&type=ws&path=/&host=forfreeuse.rtqa.ru&packetEncoding=xudp&sni=forfreeuse.rtqa.ru&fp=chrome#Poland
-vless://d31aefb3-775b-4e87-a093-a4677addf10a@ger1.nihaovpn.ru:443?security=reality&type=tcp&packetEncoding=xudp&sni=stackoverflow.com&fp=chrome&flow=xtls-rprx-vision&sid=c010293d0bafac&pbk=3EwukQs0ows0H4l2atTgz_Mo5SV-v5p14D4zfA41tU4#Japan
-trojan://AE62539071@pet-antelope.rooster465.autos:443?fp=chrome&security=tls&sni=pet-antelope.rooster465.autos&type=tcp#Japan
-vless://98944209-4d92-41b2-9c24-c5ac17b3b493@46.250.250.149:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=61abecf0a82c31f5&pbk=2mp1wwmKQyvIVuGujoT0AGoAHwP1IFXlZRj8jB_UnGo#United+Kingdom
+trojan://AE62539071@185.244.208.219:443?security=tls&sni=upright-bedbug.rooster465.autos#Hong+Kong
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333/?security=tls&sni=hy2.123266.xyz#United+States
+vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4xOTgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTgwMDAiLCAicHMiOiAiQ2FuYWRhIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+trojan://FH72359861@3.39.255.246:443?security=tls&sni=fit-marten.rooster465.autos#South+Korea
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node17.mxvpn.dev:443?security=reality&type=raw&packetEncoding=xudp&sni=node17.mxvpn.dev&fp=chrome&flow=xtls-rprx-vision&sid=bbc68cec8bb8d2e3&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw#United+States
+vmess://eyJhZGQiOiAibm9kZS11ay5jb25uZWN0c3VpdGUub3JnIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI3MmYyY2JlNC0yODc0LTQ1YjctYjZhYS1iOTMwNzdjMTBjNzIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIwNTMiLCAicHMiOiAiVW5pdGVkIEtpbmdkb20iLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+trojan://ND91608427@communal-sunbird.rooster465.autos:443?security=tls&sni=communal-sunbird.rooster465.autos#South+Korea
+trojan://AE62539071@premium-weevil.rooster465.autos:443?fp=chrome&security=tls&sni=premium-weevil.rooster465.autos&type=tcp#Japan
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#Denmark
+vless://58a38ebd-30e6-48bd-a1ab-d0babb1da37f@de2.mehab.me:443?security=tls&type=tcp&packetEncoding=xudp&sni=de2.mehab.me&fp=chrome#Germany
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&encryption=none#Japan
+trojan://AE62539071@integral-quetzal.rooster465.autos:443?security=tls&sni=integral-quetzal.rooster465.autos#Singapore
+trojan://AE62539071@52.195.223.67:443?security=tls&sni=charmed-fly.rooster465.autos#Japan
+vless://042a4a95-68f5-4179-89b3-69475a5d4908@91.132.161.245:18456?security=reality&encryption=none&pbk=XmOcGjsWDWRVvRTF7rV77kRp63qwIYbQ_s-YK3U7FkM&headerType=none&fp=chrome&spx=/d1391238c7e6e89&type=tcp&sni=shop-eu-de.amd.com&sid=09#United+States
+vmess://eyJhZGQiOiAiODQuMTcuNDEuMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgIm5ldCI6ICJyYXciLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxODAwMCIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+trojan://AE62539071@13.158.137.73:443?security=tls&sni=novel-bat.rooster465.autos#United+States
+vless://4bf5a71c-d726-4585-b095-7396675706d5@cdn.netraidly.ru:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#United+States
+trojan://FH72359861@massive-terrapin.rooster465.autos:443?fp=chrome&security=tls&sni=massive-terrapin.rooster465.autos&type=tcp#Singapore
+vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@185.36.143.71:443?security=tls&type=ws&path=/api/v1/irc&host=vod.ensf.top&packetEncoding=xudp&sni=vod.ensf.top&fp=chrome#The+Netherlands
+trojan://FH72359861@3.38.152.121:443?security=tls&sni=apt-whippet.rooster465.autos#South+Korea
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>
