@@ -36,20 +36,19 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@108.138.26.70:443?encryption=none&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&insecure=0&allowInsecure=0&type=ws&host=d1yxsk0zprgivr.cloudfront.net&path=%2F#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&type=tcp&packetEncoding=none&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#%E7%91%9E%E5%A3%AB+V2CROSS.COM
-vless://9bf81377-d077-4569-9fc9-5f0a55180651@172.64.151.134:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=super-feather-91c4.267.workers.dev&packetEncoding=xudp&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-hysteria2://c2601f6c59ed832f9129533608eea8eb@8-210-142-69.liao.kdns.fr:50160?allowInsecure=0&insecure=0&security=tls&sni=8-210-142-69.liao.kdns.fr#%E9%A6%99%E6%B8%AF+%E9%98%BF%E9%87%8C%E4%BA%91
-hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@els1.mangshe.xyz:2056?insecure=1&security=tls&sni=els1.mangshe.xyz#%E4%BF%84%E7%BD%97%E6%96%AF+%E6%96%B0%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9Ajusthost
-vless://56ae4ec4-6705-43d0-bf3a-bc36ab3b3545@ltu-01.node.lumixnet.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ltu-01.node.lumixnet.com&fp=hellochrome_120&pbk=vEXgvoW9iQo6iiKT71cNt1CC3cAB4IWswAn-cScDz1A&sid=bd8a588cebc3395a&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#%E7%91%9E%E5%A3%AB+V2CROSS.COM
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?security=tls&type=ws&path=/sg-melbi&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net&fp=chrome#%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97+CloudFlare%E8%8A%82%E7%82%B9
-ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ==@45.8.158.176:10801#%E4%BF%84%E7%BD%97%E6%96%AF+%E6%96%B0%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9Ajusthost
-trojan://humanity@188.114.97.7:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97+CloudFlare%E8%8A%82%E7%82%B9
-hysteria2://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.27.221:8443?security=tls&sni=borat-hopp.bumbleshrimp.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
-trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#%E9%A6%99%E6%B8%AF+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.229:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none&host=yahoo.com#%E7%91%9E%E5%A3%AB+V2CROSS.COM
+vless://042a4a95-68f5-4179-89b3-69475a5d4908@91.132.161.245:18456?security=reality&encryption=none&pbk=XmOcGjsWDWRVvRTF7rV77kRp63qwIYbQ_s-YK3U7FkM&headerType=none&fp=chrome&spx=/d1391238c7e6e89&type=tcp&sni=shop-eu-de.amd.com&sid=09#%E7%AB%8B%E9%99%B6%E5%AE%9B+V2CROSS.COM
+vless://0afc6426-606c-48e7-bd70-3c424a416842@us22.sofast.live:58011?encryption=none&type=tcp#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E7%94%B5%E4%BF%A1IDC%E6%9C%BA%E6%88%BF%28%E6%A0%A1%E5%9C%BA%E8%A5%BF%29
+hysteria2://137f3b50-a6ba-40e7-b537-e37fab064097@latvia.koalaexpress.ru:2443?insecure=1&security=tls&sni=latvia.koalaexpress.ru#%E7%AB%8B%E9%99%B6%E5%AE%9B+V2CROSS.COM
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.238.109.28:443?encryption=none&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=d1yxsk0zprgivr.cloudfront.net&path=%2F#%E7%BE%8E%E5%9B%BD+%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.76.198:13443?security=reality&encryption=none&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.cendora.ru&sid=a7f3c91b2e6d84c0#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+hy2://c2601f6c59ed832f9129533608eea8eb@8-210-142-69.liao.kdns.fr:50160?security=tls&sni=8-210-142-69.liao.kdns.fr#%E9%A6%99%E6%B8%AF+%E9%98%BF%E9%87%8C%E4%BA%91
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?encryption=none&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@189.74.124.42:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=nordic.cendora.ru&fp=chrome&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
+vmess://eyJhZGQiOiAiYXIucGF5ZGFyLnNpdGUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAid3d3LmFtem4uY29tIiwgImlkIjogIjBmNmQ5MWVjLTBjODgtNDVmOS1iMzU5LTE1MjBkN2IzMGU2NiIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBjcyI6ICIiLCAicG9ydCI6ICI5NDQzIiwgInBzIjogIlx1NGYwYVx1NjcxNyBWMkNST1NTLkNPTSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIiwgInZjbiI6ICIifQ==
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.154.132.111:443?encryption=none&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=d1yxsk0zprgivr.cloudfront.net&path=%2F#%E7%BE%8E%E5%9B%BD+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 vless://670decfe-68cc-499e-8cb1-22b39c20acbb@lit6.helper-internet.com:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=lit6.helper-internet.com&fp=random&flow=xtls-rprx-vision&sid=ff776ff77be48b88&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#%E6%97%A5%E6%9C%AC+V2CROSS.COM
+hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@els1.mangshe.xyz:2056?insecure=1&security=tls&sni=els1.mangshe.xyz#%E4%BF%84%E7%BD%97%E6%96%AF+%E6%96%B0%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9Ajusthost
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>

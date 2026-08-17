@@ -35,26 +35,26 @@
  <h4>ノード リスト: (ここには最大20個のノードのみ表示されます。その他の無料ノードはアプリで取得できます)</h4>
     
 ```
-trojan://AE62539071@better-molly.rooster465.autos:443?allowInsecure=1&fp=chrome&security=tls&sni=better-molly.rooster465.autos&type=tcp#%E6%97%A5%E6%9C%AC
-trojan://FH72359861@adapting-giraffe.rooster465.autos:443?security=tls&sni=adapting-giraffe.rooster465.autos#%E6%97%A5%E6%9C%AC
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443?insecure=1&security=tls&sni=127.0.0.1#%E3%82%A4%E3%83%B3%E3%83%89
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.55:9080?insecure=1&security=tls&sni=grape-honk.yyuyy.com#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vless://a68d59e6-bc1e-47ed-91bf-c3e02b18e5df@hy2-tw.starq.me:24443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=ba2e8b0452447037&pbk=09Cv8GzDb5G9R9MS37ajZQ8o489874sF9umFuNdCeEc#%E9%A6%99%E6%B8%AF
-vless://af6904c1-4349-4448-8e99-0024824a0c33@140.245.50.174:10000?security=reality&type=raw&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=3b0b73e5&pbk=xELgry1aUBwZLDAAvyiBkLTXsIi1M-mKhuqvwiP6FxU&encryption=none#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vless://9c63fd59-f9ee-446e-97ec-0bf2de21ed7b@188.114.97.8:8443?path=%2FeyJqdW5rIjoiVVhGU1pOZ1oxaTFUUldyVCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=dry-glitter-ef10.gfryubcdryujvrth.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dRy-GLITTer-ef10.gFRYubCdrYujVRtH.WorkErS.DEV#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
-trojan://FH72359861@18.179.31.199:443?fp=chrome&security=tls&sni=prompt-duckling.rooster465.autos&type=tcp#%E6%97%A5%E6%9C%AC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#%E8%8B%B1%E5%9B%BD
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-trojan://AE62539071@54.64.189.3:443?allowInsecure=1&fp=chrome&security=tls&sni=ideal-phoenix.rooster465.autos&type=tcp#%E6%97%A5%E6%9C%AC
-trojan://humanity@104.18.23.63:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-trojan://FH72359861@47.129.156.223:443?security=tls&sni=immune-grackle.rooster465.autos#%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB
-vless://b0105618-904b-48f8-8ffc-ea5754da6206@109.120.150.17:7443?security=tls&type=ws&path=/@Marisa_kristi&host=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&packetEncoding=xudp&sni=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&fp=chrome&encryption=none#%E3%83%AD%E3%82%B7%E3%82%A2
-trojan://FH72359861@worthy-perch.rooster465.autos:443?security=tls&sni=worthy-perch.rooster465.autos#%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB
-vmess://eyJhZGQiOiAibjE3NjEyOTY4OTIuNHU5bWEuaWN1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm4xNzYxMjk2ODkyLjR1OW1hLmljdSIsICJpZCI6ICJkNmRiMTI4Zi00MmI5LTQwYjEtYjk3OS01ZTAwOTVmYTU5M2MiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdTk5OTlcdTZlMmYiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICJuMTc2MTI5Njg5Mi40dTltYS5pY3UiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-vless://2058418a-7718-4050-bdd5-db7487ffdb3b@34.96.200.38:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=17d824dd68e24aaf&pbk=uoXBNYcBgR-h2YmU1NFhFyASr6qh9UghWOuo1WZIikw&encryption=none#%E9%A6%99%E6%B8%AF
-vmess://eyJhZGQiOiAiaTJwc20za25vZjVxamppeC52LjNkbnMudmlwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIkkyUFNtM0tub2Y1cWpqaXgudi4zZG5zLnZpcCIsICJpZCI6ICJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHU5OTk5XHU2ZTJmIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.36:8080#%E8%8B%B1%E5%9B%BD
+vless://f178a8ac-48ca-4510-8a16-4ef6f972f240@104.16.71.7:443?path=%2FeyJqdW5rIjoiOE9MZ0g0cE00WlMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=FlorAL-Fire-1f55.VeeGshHEeHh.WOrKeRs.dev#
+trojan://AE62539071@35.72.10.188:443?allowInsecure=1&fp=chrome&security=tls&sni=immortal-woodcock.rooster465.autos&type=tcp#%E6%97%A5%E6%9C%AC
+trojan://AE62539071@magical-kodiak.rooster465.autos:443?security=tls&sni=magical-kodiak.rooster465.autos#%E9%A6%99%E6%B8%AF
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&type=raw&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%85%B1%E5%92%8C%E5%9B%BD
+vless://e6bad6ca-ab7c-4bdd-b07e-5c8ec407decd@172.67.223.190:2086?security=none&type=ws&path=/eyJqdW5rIjoidGpkTkY2VHk0bE1pV3AiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0=?ed=2560&host=cool-hill-7fe5.thenewata.workers.dev&packetEncoding=xudp&encryption=none#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.64.146.116:443?security=tls&type=ws&path=/44.209.52.7-443&host=support.zoom.us.blackshadow.dpdns.org&packetEncoding=xudp&sni=support.zoom.us.blackshadow.dpdns.org&fp=chrome#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@64.188.77.13:443?encryption=none&type=tcp&security=reality&headerType=none&sni=eu-west.cendora.ru&fp=chrome&insecure=1&allowInsecure=1&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&sid=dd3ff38418d29d22&flow=xtls-rprx-vision#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+trojan://AE62539071@54.64.255.224:443?security=tls&sni=maximum-elk.rooster465.autos&type=tcp#%E6%97%A5%E6%9C%AC
+vless://64430c88-1b87-48b2-b472-135a3f4c765e@89.251.8.180:43080?security=reality&encryption=none&pbk=_XtSAi2l8vY_YH5ZnFahRL3eenmStUUFAjsCYg15p0Y&host=/?BIA_TELEGRAM@TOOTFFARANGI&headerType=none&fp=chrome&spx=/37e22857a63bac7&type=tcp&sni=www.cloudflare.com&sid=02f1#%E3%83%88%E3%83%AB%E3%82%B3%E5%85%B1%E5%92%8C%E5%9B%BD
+trojan://AE62539071@square-skink.rooster465.autos:443?fp=chrome&security=tls&sni=square-skink.rooster465.autos&type=tcp#%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD
+vless://58a38ebd-30e6-48bd-a1ab-d0babb1da37f@de2.mehab.me:443?security=tls&type=tcp&packetEncoding=xudp&sni=de2.mehab.me&fp=chrome#%E3%83%89%E3%82%A4%E3%83%84%E9%80%A3%E9%82%A6%E5%85%B1%E5%92%8C%E5%9B%BD
+trojan://AE62539071@54.170.38.205:443?fp=chrome&security=tls&sni=unbiased-garfish.rooster465.autos&type=tcp#%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89
+trojan://ND91608427@relaxed-gull.rooster465.autos:443?security=tls&sni=relaxed-gull.rooster465.autos#%E8%8B%B1%E5%9B%BD
+trojan://FH72359861@13.125.93.65:443?security=tls&sni=one-dove.rooster465.autos#%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.97.6:443?security=tls&type=ws&path=/&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net&fp=chrome&encryption=none#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
+trojan://ND91608427@internal-sunbird.rooster465.autos:443?security=tls&sni=internal-sunbird.rooster465.autos#%E6%97%A5%E6%9C%AC
+vless://615d9f74-4d51-bad3-f240-2a8400000000@104.18.29.234:443?security=tls&type=ws&path=/silaber&host=main.packetloss-com.workers.dev&packetEncoding=xudp&sni=main.packetloss-com.workers.dev&fp=firefox&encryption=none#
+vless://ee71862e-816b-4d26-97d2-f200898e385d@212.118.40.187:443?fp=chrome&sid=f3e8b2b1&sni=www.cisco.com&type=tcp&pbk=MfOXevYFoqnwIn6dUiPZvWYRfYHyb5lzBy3R1OSsrWg&headerType=none&encryption=none&spx=/&security=reality&flow=xtls-rprx-vision#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
+trojan://FH72359861@18.177.142.108:443?fp=chrome&security=tls&sni=endless-kiwi.rooster465.autos&type=tcp#%E6%97%A5%E6%9C%AC
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>
