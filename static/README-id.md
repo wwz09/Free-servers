@@ -35,26 +35,26 @@
  <h4>Daftar node: (Maksimal 20 node ditampilkan di sini. Node gratis lainnya bisa didapatkan di aplikasi.)</h4>
     
 ```
-vless://c7e9c591-2764-423a-afca-efbd010fd396@65.109.12.58:2053?encryption=none&security=tls&sni=forfreeuse.rtqa.ru&insecure=0&allowInsecure=0&type=ws&host=forfreeuse.rtqa.ru&path=%2F#Finland
-vless://5aab0d40-c509-4560-b048-ade921fdfb6a@70.39.197.13:46197?security=reality&type=tcp&packetEncoding=xudp&sni=updates.cdn-apple.com&fp=chrome&sid=f24c17bb7fc284&pbk=npJEB6VpYJ9iYTZ-z0IL06Xs7PEz0N3fZU_IRwftQ00#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#United+Kingdom
+trojan://FH72359861@warm-aardvark.rooster465.autos:443?security=tls&sni=warm-aardvark.rooster465.autos#United+States
+vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@fin3.o4ka-internet.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=fin3.o4ka-internet.com&fp=chrome&flow=xtls-rprx-vision&sid=5629431325884ff0&pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8#United+States
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@91.193.59.32:2083?security=tls&type=ws&path=/socks5=888:888@hkip.1d.mom:1080&host=vlsovip.1d.mom&packetEncoding=xudp&sni=vlsovip.1d.mom&fp=chrome#United+Kingdom
+trojan://AE62539071@kind-stork.rooster465.autos:443?fp=chrome&security=tls&sni=kind-stork.rooster465.autos&type=raw#Ireland
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at164.mechvpn.online:443?alpn=h3&insecure=1&security=tls#United+States
+vless://1cfb00ea-fcd0-580e-b9b1-f9b83ef8897d@186.246.44.78:5000?security=reality&type=tcp&packetEncoding=xudp&sni=www.vk.com&fp=firefox&flow=xtls-rprx-vision&sid=3db63a2bd3&pbk=Nf0KL2beOtB7Lz4pzpPbcHJ0ywxJHM3w6eX3xe-jUhc&encryption=none#Brazil
+trojan://AE62539071@13.231.90.240:443?fp=chrome&security=tls&sni=pure-kodiak.rooster465.autos&type=tcp#Japan
+trojan://AE62539071@108.130.137.102:443?security=tls&sni=worthy-labrador.rooster465.autos#Ireland
+trojan://FH72359861@stable-racer.rooster465.autos:443?fp=chrome&security=tls&sni=stable-racer.rooster465.autos&type=tcp#Singapore
 vless://9ec16323-954c-4b09-aec9-367e18844fa8@channel.t-me-sh4dow-vpn.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoiWlNHcnk5RHUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0=&host=channel.t-me-sh4dow-vpn.workers.dev&ed=2560&packetEncoding=xudp&alpn=http/1.1&sni=cHAnnel.T-mE-sH4DOW-Vpn.WOrkerS.dEv&fp=chrome&encryption=none#
-vless://9fa6d846-5961-8e0e-ce27-77de00000000@fancy-wind-799d.cloudneryacc.workers.dev:443?security=tls&type=ws&path=/sync&host=fancy-wind-799d.cloudneryacc.workers.dev&packetEncoding=xudp&sni=fancy-wind-799d.cloudneryacc.workers.dev&fp=chrome&encryption=none#
-trojan://AE62539071@13.231.24.177:443?fp=chrome&security=tls&sni=easy-barnacle.rooster465.autos&type=tcp#Japan
-vmess://eyJhZGQiOiAiODQuMTcuNDEuMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgIm5ldCI6ICJyYXciLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxODAwMCIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.185.108.30:8880?security=none&type=ws&path=/&host=vms.lifetime23.workers.dev&packetEncoding=xudp&encryption=none#Germany
-trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#United+States
-trojan://ND91608427@grateful-owl.rooster465.autos:443?allowInsecure=1&security=tls&sni=grateful-owl.rooster465.autos#South+Korea
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@102.177.189.30:8880?security=none&type=ws&path=/&host=vms.lifetime29.workers.dev&packetEncoding=xudp&encryption=none#Latvia
-trojan://FH72359861@13.125.163.101:443?security=tls&sni=magical-prawn.rooster465.autos#South+Korea
-vmess://eyJhZGQiOiAienVkc3NndG1ycWc5bHB2aS52LjNkbnMudmlwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInpVRHNzZ1RNUnFnOUxwdkkudi4zZG5zLnZpcCIsICJpZCI6ICJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAicGNuIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIkhvbmcgS29uZyIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogInpVRHNzZ1RNUnFnOUxwdkkudi4zZG5zLnZpcCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-trojan://humanity@104.18.152.187:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#
-vless://beec57a5-8266-4279-b279-f495bdc70699@211.48.30.184:30017?security=tls&type=ws&path=/@Marisa_kristi&host=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&packetEncoding=xudp&sni=bapj1qapjk4.0sds0li1bwcz0i76it0gjxv1.workers.dev&fp=chrome&encryption=none#South+Korea
-trojan://AE62539071@precious-racer.rooster465.autos:443?security=tls&sni=precious-racer.rooster465.autos#South+Korea
-vless://d33cc776-9c57-4ea3-8c5a-6d85043029d7@104.26.12.23:8880?security=none&type=ws&path=/&host=shiny-flower-c72d.105-161.workers.dev&packetEncoding=xudp&encryption=none#
-trojan://AE62539071@helpful-possum.rooster465.autos:443?fp=chrome&security=tls&sni=helpful-possum.rooster465.autos&type=tcp#Japan
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?security=none&type=tcp&packetEncoding=xudp#Hong+Kong
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=/http&security=&encryption=none&host=de.vpnbase.net&type=ws#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#Poland
+vmess://eyJhZGQiOiAiNjcuMjIwLjg1LjQ2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE4MDAwIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJhZXMtMTI4LWdjbSIsICJ2IjogIjIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#United+Kingdom
+trojan://FH72359861@35.92.245.6:443?security=tls&sni=neutral-quail.rooster465.autos#United+States
+hysteria2://08794874-93d0-4cf2-b9d6-1f2774cdffeb@144.31.5.9:2101?security=tls&sni=panel.vlessbotkey.ru#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#Australia
+trojan://AE62539071@35.72.10.188:443?allowInsecure=1&fp=chrome&security=tls&sni=immortal-woodcock.rooster465.autos&type=tcp#Japan
+hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443?security=tls&sni=gorbachev-new-th.kvnfreetest.uk#United+Kingdom
+trojan://FH72359861@included-hedgehog.rooster465.autos:443?fp=chrome&security=tls&sni=included-hedgehog.rooster465.autos&type=tcp#Japan
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

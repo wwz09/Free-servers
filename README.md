@@ -36,22 +36,20 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-trojan://humanity@104.21.46.3:443?alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%E4%BC%8A%E6%9C%97+V2CROSS.COM
-trojan://humanity@172.67.221.242:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://220046c3-0081-4c22-a648-83a52bc3a0d5@www.glassdoor.com:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=yellow-sky-38b3.154-d73.workers.dev&packetEncoding=xudp&sni=www.glassdoor.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.74:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#%E7%91%9E%E5%A3%AB+V2CROSS.COM
-hysteria2://c2601f6c59ed832f9129533608eea8eb@8-210-142-69.liao.kdns.fr:50160?allowInsecure=0&insecure=0&security=tls&sni=8-210-142-69.liao.kdns.fr#%E9%A6%99%E6%B8%AF+%E9%98%BF%E9%87%8C%E4%BA%91
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443?insecure=1&security=tls&sni=admin.wwwinternetvideo.click#%E9%A6%99%E6%B8%AF+%E7%89%B9%E5%88%AB%E8%A1%8C%E6%94%BF%E5%8C%BA
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.247.253:2027?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a&type=tcp&headerType=none#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-hysteria2://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.27.221:8443?security=tls&sni=borat-hopp.bumbleshrimp.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.147.104:2087?security=tls&type=ws&path=/&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&packetEncoding=xudp&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@108.138.26.70:443?encryption=none&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&insecure=0&allowInsecure=0&type=ws&host=d1yxsk0zprgivr.cloudfront.net&path=%2F#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&type=tcp&packetEncoding=none&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#%E7%91%9E%E5%A3%AB+V2CROSS.COM
 vless://9bf81377-d077-4569-9fc9-5f0a55180651@172.64.151.134:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=super-feather-91c4.267.workers.dev&packetEncoding=xudp&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@mg2.mangshe.xyz:2056?insecure=1&security=tls&sni=mg2.mangshe.xyz#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@195.123.226.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&allowInsecure=1&fp=chrome&security=reality&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&packetEncoding=xudp#%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A+V2CROSS.COM
-vless://6244f068-12df-469f-a80d-6abfb8e4bd86@id.tutdesignstudio.site:8443?security=tls&type=tcp&packetEncoding=xudp&alpn=http/1.1&sni=id.tutdesignstudio.site&fp=firefox&flow=xtls-rprx-vision&encryption=none#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-hysteria2://bc751c4c5c80f17dfbc05785c368b613@154.31.115.179:50160?security=tls&sni=154-31-115-179.liao.kdns.fr#%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E9%83%BD+cogentco.com
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.76.198:13443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.cendora.ru&fp=chrome&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+hysteria2://c2601f6c59ed832f9129533608eea8eb@8-210-142-69.liao.kdns.fr:50160?allowInsecure=0&insecure=0&security=tls&sni=8-210-142-69.liao.kdns.fr#%E9%A6%99%E6%B8%AF+%E9%98%BF%E9%87%8C%E4%BA%91
+hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@els1.mangshe.xyz:2056?insecure=1&security=tls&sni=els1.mangshe.xyz#%E4%BF%84%E7%BD%97%E6%96%AF+%E6%96%B0%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9Ajusthost
+vless://56ae4ec4-6705-43d0-bf3a-bc36ab3b3545@ltu-01.node.lumixnet.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ltu-01.node.lumixnet.com&fp=hellochrome_120&pbk=vEXgvoW9iQo6iiKT71cNt1CC3cAB4IWswAn-cScDz1A&sid=bd8a588cebc3395a&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#%E7%91%9E%E5%A3%AB+V2CROSS.COM
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?security=tls&type=ws&path=/sg-melbi&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net&fp=chrome#%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97+CloudFlare%E8%8A%82%E7%82%B9
+ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ==@45.8.158.176:10801#%E4%BF%84%E7%BD%97%E6%96%AF+%E6%96%B0%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9Ajusthost
+trojan://humanity@188.114.97.7:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97+CloudFlare%E8%8A%82%E7%82%B9
+hysteria2://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.27.221:8443?security=tls&sni=borat-hopp.bumbleshrimp.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#%E9%A6%99%E6%B8%AF+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.229:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none&host=yahoo.com#%E7%91%9E%E5%A3%AB+V2CROSS.COM
+vless://670decfe-68cc-499e-8cb1-22b39c20acbb@lit6.helper-internet.com:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=lit6.helper-internet.com&fp=random&flow=xtls-rprx-vision&sid=ff776ff77be48b88&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
