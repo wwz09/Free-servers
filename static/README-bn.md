@@ -35,26 +35,26 @@
  <h4>নোড তালিকা: (এখানে সর্বোচ্চ 20টি নোড দেখানো হয়। অন্যান্য বিনামূল্যের নোড অ্যাপে পাওয়া যাবে)</h4>
     
 ```
-trojan://PQ05174892@13.115.145.243:443?security=tls&sni=smooth-cougar.rooster465.autos#Japan
-trojan://ND91608427@44.246.163.102:443?fp=chrome&security=tls&sni=fleet-bonefish.rooster465.autos&type=raw#United+States
-trojan://PQ05174892@pleased-raptor.rooster465.autos:443?security=tls&sni=pleased-raptor.rooster465.autos#Singapore
-vless://f0280f19-7fae-4c4e-a1ae-ddc2922d8c27@84.32.44.232:15084?security=tls&type=ws&path=/@Marisa_kristi&host=2-gys60wmzb6bqzd.qpsjn114hh3vlph9z60sesz0agjawpwroneg.workers.dev&packetEncoding=xudp&sni=2-gys60wmzb6bqzd.qpsjn114hh3vlph9z60sesz0agjawpwroneg.workers.dev&fp=chrome&encryption=none#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#Ukraine
-trojan://FH72359861@destined-skylark.rooster465.autos:443?fp=chrome&security=tls&sni=destined-skylark.rooster465.autos&type=tcp#South+Korea
-trojan://humanity@130.250.137.171:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#United+States
-hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.164:8443/?security=tls&sni=grape-zet-ro-turbo.bumbleshrimp.com#Romania
-trojan://PQ05174892@robust-toucan.rooster465.autos:443?security=tls&sni=robust-toucan.rooster465.autos#Japan
-trojan://AE62539071@3.36.108.20:443?security=tls&sni=sacred-hound.rooster465.autos#South+Korea
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#United+Kingdom
-vless://493dea8b-0d8d-42bf-b96b-1efee4d5102a@hope.tutdesignstudio.site:443?alpn=http%2F1.1&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=hope.tutdesignstudio.site#United+Kingdom
-trojan://ND91608427@35.72.13.34:443?fp=chrome&security=tls&sni=casual-bee.rooster465.autos&type=tcp#Japan
-vless://19ac8928-fe6e-49af-a223-9ca127e4018f@45.150.66.201:443?security=reality&type=raw&packetEncoding=xudp&sni=www.nvidia.com&fp=chrome&flow=xtls-rprx-vision&sid=c571c801812c&pbk=CTduQ5Pvex1U2D1ojmFgSF4MQ1N7Yft7EfnEEBK1l1U#Seychelles
-trojan://FH72359861@13.114.84.244:443?fp=chrome&security=tls&sni=adapting-giraffe.rooster465.autos&type=tcp#Japan
-trojan://AE62539071@intimate-koi.rooster465.autos:443?fp=chrome&security=tls&sni=intimate-koi.rooster465.autos&type=tcp#United+States
-vless://506e4a91-1d05-5683-b84c-2113f673cb19@172.64.147.2:443?security=tls&type=ws&path=/id-pusat&host=vltj.qzz.io&packetEncoding=xudp&sni=vltj.qzz.io&fp=chrome&encryption=none#United+States
-trojan://FH72359861@brave-cattle.rooster465.autos:443?security=tls&sni=brave-cattle.rooster465.autos#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#United+Kingdom
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@184.168.47.50:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime40.workers.dev&packetEncoding=xudp&encryption=none#United+States
+trojan://FH72359861@comic-poodle.rooster465.autos:443?security=tls&sni=comic-poodle.rooster465.autos#United+States
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.165:8443?security=tls&sni=grape-zet-ro-turbo.bumbleshrimp.com#Romania
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s#France
+vless://1f113ca6-7b95-4abb-9348-adfb2187e399@tutdesignstudio.site:8443?security=tls&type=raw&packetEncoding=xudp&sni=tutdesignstudio.site&fp=chrome&flow=xtls-rprx-vision#Poland
+trojan://AE62539071@humorous-parakeet.rooster465.autos:443?security=tls&sni=humorous-parakeet.rooster465.autos#Hong+Kong
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.113:443?security=reality&type=raw&packetEncoding=xudp&sni=getsavesafe.net&fp=chrome&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=russiapower.accesscam.org#Iceland
+trojan://humanity@104.16.174.44:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#United+Kingdom
+vless://e9906741-9d06-41b3-87a5-0a875e84cd5e@162.159.157.123:2095?security=none&type=ws&path=/vl/YdchdFjEaLDc1fP7hGw1Xo7u26my9b?ed=2560&host=uob-coc1hsz2s1-sdlff-k.silannalis-35922.workers.dev&packetEncoding=xudp&encryption=none#
+vless://766f6c65-0000-4000-8000-787000000002@104.21.93.99:2083?security=tls&type=ws&path=/volexprosy&host=volexproxy.karjadidd.workers.dev&packetEncoding=xudp&sni=volexproxy.karjadidd.workers.dev&fp=chrome&encryption=none#
+vless://ad4dd89a-2e4b-4f33-bb96-7e9c4eb85d0b@169.197.113.179:20190?security=none&encryption=none&headerType=none&type=tcp#United+States
+vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?security=reality&type=tcp&packetEncoding=xudp&alpn=http/1.1&sni=passport.yandex.ru&fp=firefox&flow=xtls-rprx-vision&sid=e6&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.26:8080#United+Kingdom
+trojan://PQ05174892@prime-quail.rooster465.autos:443?security=tls&sni=prime-quail.rooster465.autos#Japan
+trojan://AE62539071@54.168.18.107:443?security=tls&sni=game-thrush.rooster465.autos#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.36:8080#United+Kingdom
+vless://bf840e65-ae71-4d9d-afe8-bf77f032c63b@193.233.126.97:443?security=reality&type=tcp&packetEncoding=xudp&sni=pingless.com&fp=firefox&flow=xtls-rprx-vision&pbk=poHAmCMFLY7TOpA9hrI_sJGnXy796PrzQF4DHvpRCi0#Russia
+vless://48c622d6-3cdd-47d5-8cd8-29855f7716d1@94.159.108.239:554?security=reality&type=tcp&packetEncoding=xudp&sni=api-maps.yandex.ru&fp=firefox&flow=xtls-rprx-vision&sid=ab1da24b10d4c1&pbk=E8r9n9A0VyyYV6VE_94xo5UsZMvssa5Ub8kYudvCPCk#Russia
+trojan://FH72359861@lasting-jaguar.rooster465.autos:443?fp=chrome&security=tls&sni=lasting-jaguar.rooster465.autos&type=tcp#Japan
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>
