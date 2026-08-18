@@ -35,26 +35,26 @@
  <h4>Knotenliste: (Hier werden maximal 20 Knoten angezeigt. Weitere kostenlose Knoten erhalten Sie in der App.)</h4>
     
 ```
-trojan://AE62539071@grand-grub.rooster465.autos:443?security=tls&sni=grand-grub.rooster465.autos#S%C3%BCdkorea
-trojan://AE62539071@prepared-monitor.rooster465.autos:443?security=tls&sni=prepared-monitor.rooster465.autos#S%C3%BCdkorea
-trojan://FH72359861@content-rabbit.rooster465.autos:443?security=tls&sni=content-rabbit.rooster465.autos#Japan
-trojan://humanity@ip.myip2.qzz.io:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
-trojan://FH72359861@13.114.84.244:443?security=tls&sni=adapting-giraffe.rooster465.autos#Japan
-vless://f4540796-ce50-4c2b-a41c-58f18f36ab96@nltw6.lckdwn.ru:8443?security=reality&encryption=none&pbk=k2gF2ZrpECMogTk1dY1uQ_BaWuyUVRTrewS-dnRL53s&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&spx=/j4ty4w8is43wyf4&type=tcp&sni=nltw6.lckdwn.ru&sid=5ae57d5673#Tschechien
-hysteria2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@flkf3.mangshe.xyz:2056?insecure=1&security=tls&sni=flkf3.mangshe.xyz#USA
-trojan://AE62539071@helpful-possum.rooster465.autos:443?security=tls&sni=helpful-possum.rooster465.autos#Japan
-vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?security=reality&type=tcp&packetEncoding=xudp&alpn=http/1.1&sni=passport.yandex.ru&fp=firefox&flow=xtls-rprx-vision&sid=e6&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0#Deutschland
-hy2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.72:8443/?security=tls&sni=grape-zet-turbo-nl.yyuyy.com#Niederlande
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&security=tls&sni=www.microsoft.com#Frankreich
-trojan://ND91608427@relaxed-gull.rooster465.autos:443?allowInsecure=1&security=tls&sni=relaxed-gull.rooster465.autos&type=tcp#UK
-trojan://AE62539071@3.34.186.19:443?security=tls&sni=magnetic-haddock.rooster465.autos#S%C3%BCdkorea
-trojan://FH72359861@winning-shrimp.rooster465.autos:443?security=tls&sni=winning-shrimp.rooster465.autos#Japan
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.229:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwRk5OOWpLZThqd0Q=@38.180.92.242:32245#Frankreich
-vless://5aab0d40-c509-4560-b048-ade921fdfb6a@70.39.198.183:46197?security=reality&type=raw&packetEncoding=xudp&sni=updates.cdn-apple.com&fp=chrome&sid=f24c17bb7fc284&pbk=npJEB6VpYJ9iYTZ-z0IL06Xs7PEz0N3fZU_IRwftQ00#USA
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:443#UK
-trojan://PQ05174892@pro-mako.rooster465.autos:443?security=tls&sni=pro-mako.rooster465.autos#Singapur
+trojan://FH72359861@108.128.201.154:443?security=tls&sni=touching-turtle.rooster465.autos#Irland
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@54.240.174.87:443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=d1yxsk0zprgivr.cloudfront.net#USA
+hy2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723/?insecure=1&security=tls&sni=www.cloudflare.com#Iran
+trojan://FH72359861@34.245.159.68:443?fp=chrome&security=tls&sni=summary-firefly.rooster465.autos&type=tcp#Irland
+trojan://FH72359861@relative-labrador.rooster465.autos:443?security=tls&sni=relative-labrador.rooster465.autos#Singapur
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&security=tls&sni=vpn-us-003.fastervpn.world#USA
+trojan://AE62539071@well-jennet.rooster465.autos:443?security=tls&sni=well-jennet.rooster465.autos#Japan
+vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&sid=cfe08c23a85f24&spx=/fdded5f9698d939&allowinsecure=1&type=tcp&headerType=none#Niederlande
+trojan://FH72359861@light-filly.rooster465.autos:443?security=tls&sni=light-filly.rooster465.autos#Japan
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@64.188.77.13:443?security=reality&type=tcp&packetEncoding=xudp&sni=eu-west.cendora.ru&fp=chrome&flow=xtls-rprx-vision&sid=dd3ff38418d29d22&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0#USA
+trojan://PQ05174892@47.128.224.11:443?fp=chrome&security=tls&sni=vast-werewolf.rooster465.autos&type=tcp#Singapur
+trojan://AE62539071@54.95.128.248:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=engaged-ram.rooster465.autos#Japan
+trojan://ND91608427@57.180.13.78:443?security=tls&sni=healthy-louse.rooster465.autos#Japan
+trojan://FH72359861@helping-shark.rooster465.autos:443?security=tls#Japan
+trojan://FH72359861@kind-grizzly.rooster465.autos:443?security=tls#S%C3%BCdkorea
+trojan://PQ05174892@simple-sunbeam.rooster465.autos:443?security=tls&sni=simple-sunbeam.rooster465.autos#Singapur
+trojan://FH72359861@13.230.4.218:443?security=tls&sni=content-rabbit.rooster465.autos#Japan
+vmess://eyJhZGQiOiAiMTY5LjE5Ny4xNDIuMjIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJuZXQiOiAicmF3IiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTgwMDAiLCAicHMiOiAiVVNBIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vless://969bcce0-de8a-4b02-8cf8-d00d2d2ca7a5@93.152.217.41:40443?security=reality&encryption=none&pbk=VG-FwQBMFzPcemJ_JqtkbO-2WKLmQp2h0CmAj-DfLkA&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=5b97#S%C3%BCdkorea
+trojan://PQ05174892@more-trout.rooster465.autos:443?security=tls&sni=more-trout.rooster465.autos#UK
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
