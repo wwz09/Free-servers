@@ -35,26 +35,26 @@
  <h4>Knotenliste: (Hier werden maximal 20 Knoten angezeigt. Weitere kostenlose Knoten erhalten Sie in der App.)</h4>
     
 ```
-vless://2e3431ac-0b98-4471-9822-6b7ae94a9a11@104.18.31.170:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=polished-hall-7427.463-5d2.workers.dev&packetEncoding=xudp&encryption=none#
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?encryption=none&security=none&type=tcp#Hongkong
-trojan://ND91608427@3.113.24.17:443?security=tls&sni=nearby-egret.rooster465.autos#Japan
-trojan://ND91608427@57.180.13.78:443?security=tls&sni=healthy-louse.rooster465.autos#Japan
-trojan://AE62539071@3.34.182.164:443?security=tls&sni=awake-satyr.rooster465.autos#S%C3%BCdkorea
-hysteria2://c2601f6c59ed832f9129533608eea8eb@8-210-142-69.liao.kdns.fr:50160?allowInsecure=0&insecure=0&security=tls&sni=8-210-142-69.liao.kdns.fr#Hongkong
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#UK
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640#USA
-trojan://ND91608427@3.35.140.99:443?security=tls&sni=moved-meerkat.rooster465.autos#S%C3%BCdkorea
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@91.193.59.32:2083?security=tls&type=ws&path=/socks5=888:888@hkip.1d.mom:1080&host=vlsovip.1d.mom&packetEncoding=xudp&sni=vlsovip.1d.mom&fp=chrome#UK
-trojan://AE62539071@18.183.92.88:443?security=tls&sni=upward-yak.rooster465.autos#Japan
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443?insecure=1&security=tls&sni=18.118.193.169#USA
-trojan://FH72359861@43.203.251.109:443?fp=chrome&security=tls&sni=elegant-horse.rooster465.autos&type=tcp#S%C3%BCdkorea
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:443?security=none&type=ws&path=/&host=estproxy4.lockdwn.com&packetEncoding=xudp&sni=estproxy4.lockdwn.com#Iran
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?&security=tls&fp=chrome&sni=d1yxsk0zprgivr.cloudfront.net&type=ws&headerType=none&host=d1yxsk0zprgivr.cloudfront.net&path=%2F#USA
-hysteria2://bc751c4c5c80f17dfbc05785c368b613@154.31.115.179:50160?insecure=1&security=tls&sni=154-31-115-179.liao.kdns.fr#Japan
-trojan://HC04361579@eminent-lamb.rooster465.autos:443?fp=chrome&security=tls&sni=eminent-lamb.rooster465.autos&type=tcp#Hongkong
-trojan://FH72359861@202.78.163.233:443?security=tls&sni=magnetic-caiman.rooster465.autos#UK
-trojan://FH72359861@actual-chicken.rooster465.autos:443?fp=chrome&security=tls&sni=actual-chicken.rooster465.autos&type=tcp#Japan
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#USA
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=russiapower.accesscam.org#Island
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.64.146.116:443?security=tls&type=ws&path=/44.209.52.7-443&host=support.zoom.us.blackshadow.dpdns.org&packetEncoding=xudp&sni=support.zoom.us.blackshadow.dpdns.org&fp=chrome#USA
+trojan://PQ05174892@nice-elephant.rooster465.autos:443?fp=chrome&security=tls&sni=nice-elephant.rooster465.autos&type=tcp#Irland
+trojan://FH72359861@humorous-hawk.rooster465.autos:443?fp=chrome&security=tls&sni=humorous-hawk.rooster465.autos&type=tcp#USA
+trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#
+trojan://PQ05174892@smooth-sculpin.rooster465.autos:443?security=tls&sni=smooth-sculpin.rooster465.autos#USA
+trojan://FH72359861@lasting-bobcat.rooster465.autos:443?fp=chrome&security=tls&sni=lasting-bobcat.rooster465.autos&type=tcp#S%C3%BCdkorea
+trojan://AE62539071@18.179.15.13:443?fp=chrome&security=tls&sni=shining-haddock.rooster465.autos&type=tcp#Japan
+trojan://FH72359861@pro-crane.rooster465.autos:443?security=tls&sni=pro-crane.rooster465.autos#Rum%C3%A4nien
+vless://4bf6fee9-d3c4-4a98-b83b-170bf37c669c@104.26.7.214:8880?security=none&type=ws&path=/&host=cold-water-945c.43-bc5.workers.dev&packetEncoding=xudp&encryption=none#
+trojan://FH72359861@welcome-owl.rooster465.autos:443?security=tls&sni=welcome-owl.rooster465.autos#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#USA
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-006.fastervpn.world:443?insecure=1&security=tls&sni=vpn-us-006.fastervpn.world#USA
+trojan://FH72359861@prompt-duckling.rooster465.autos:443?fp=chrome&security=tls&sni=prompt-duckling.rooster465.autos&type=tcp#Japan
+trojan://AE62539071@central-jawfish.rooster465.autos:443?fp=chrome&security=tls&sni=central-jawfish.rooster465.autos&type=tcp#Japan
+trojan://FH72359861@18.177.139.241:443?fp=chrome&security=tls&sni=steady-prawn.rooster465.autos&type=tcp#Japan
+trojan://FH72359861@3.120.70.66:443?security=tls&sni=renewed-porpoise.rooster465.autos#Deutschland
+vless://928e6cce-8ced-4243-9a48-a6642edd09b0@111.119.235.145:13779?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=tesla.com&fp=chrome&flow=xtls-rprx-vision&sid=af1bdd293097b664&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg#Singapur
+hysteria2://zhangyang@130.61.50.75:6443?insecure=1&security=tls&sni=https%3A%2F%2Fwww.calmloud.com#Deutschland
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.159:443?insecure=1&security=tls&sni=speedtest.tinkoff.ru#S%C3%BCdkorea
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
