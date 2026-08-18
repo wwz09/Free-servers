@@ -35,26 +35,26 @@
  <h4>Danh sách nút: (Tối đa 20 nút được hiển thị tại đây. Các nút miễn phí khác có thể lấy trong ứng dụng.)</h4>
     
 ```
-trojan://PQ05174892@full-mayfly.rooster465.autos:443?security=tls&sni=full-mayfly.rooster465.autos#South+Korea
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=russiapower.accesscam.org#Iceland
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Taiwan
-trojan://FH72359861@nearby-cod.rooster465.autos:443?security=tls#France
-trojan://AE62539071@coherent-newt.rooster465.autos:443?security=tls&sni=coherent-newt.rooster465.autos#Japan
-vless://f178a8ac-48ca-4510-8a16-4ef6f972f240@104.16.71.7:443?path=%2FeyJqdW5rIjoiOE9MZ0g0cE00WlMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=FlorAL-Fire-1f55.VeeGshHEeHh.WOrKeRs.dev#
-trojan://AE62539071@distinct-quail.rooster465.autos:443?security=tls#France
-vless://1da18def-6804-44c8-bb6d-83cff995f567@78.159.131.235:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=7bcfc0bc&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&encryption=none#Germany
-trojan://humanity@104.18.152.133:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-vless://fad0b9a6-187d-4fcc-96fc-498bc5b3135a@server.slavkiti.monster:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.foxsports.com&fp=chrome&flow=xtls-rprx-vision&sid=8325360e8bd2&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&encryption=none#United+Kingdom
-trojan://PQ05174892@34.220.224.252:443?security=tls&sni=smooth-sculpin.rooster465.autos#United+States
-vless://bf840e65-ae71-4d9d-afe8-bf77f032c63b@85.209.129.93:443?security=reality&type=tcp&packetEncoding=xudp&sni=reg.lagzero.ru&fp=firefox&flow=xtls-rprx-vision&pbk=Ksfb1SG0g5Dc4h6MQ_0-IbCU3MzIXp4T2AlWfrRC6Ag#Seychelles
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@179.61.227.102:8443?insecure=1&security=tls&sni=iq5ny.pleiades.codes#India
-trojan://UO36402987@definite-ladybird.rooster465.autos:443?security=tls#Ireland
-trojan://PQ05174892@adapted-martin.rooster465.autos:443?security=tls&sni=adapted-martin.rooster465.autos#Singapore
-trojan://ND91608427@43.203.247.197:443?allowInsecure=1&fp=chrome&security=tls&sni=definite-malamute.rooster465.autos&type=tcp#South+Korea
-trojan://FH72359861@202.78.163.233:443?security=tls&sni=magnetic-caiman.rooster465.autos#United+Kingdom
-trojan://PQ05174892@definite-hen.rooster465.autos:443?security=tls&sni=definite-hen.rooster465.autos#Japan
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.226.172.222:443/?insecure=1&security=tls&sni=vpn-us-003.fastervpn.world#United+States
-vless://f618d6e9-c6af-40b8-bc7a-bbf450586784@216.36.124.176:29513?security=reality&type=tcp&packetEncoding=xudp&sni=addons.mozilla.org&fp=chrome&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=rSI9mgtOco9D39xdbX64nv2J2BRBGQpgCOi4opw8mCo#United+States
+trojan://PQ05174892@52.195.206.148:443?fp=chrome&security=tls&sni=fair-kingfish.rooster465.autos&type=tcp#Japan
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.69.40:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&security=reality&sid=00bca5982f82d083&sni=eu-central.cendora.ru&type=tcp#United+Kingdom
+trojan://AE62539071@excited-sole.rooster465.autos:443?fp=chrome&security=tls&sni=excited-sole.rooster465.autos&type=tcp#Singapore
+trojan://FH72359861@neutral-quail.rooster465.autos:443?security=tls&sni=neutral-quail.rooster465.autos#United+States
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Dchrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.129:443#The+Netherlands
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#United+Kingdom
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#France
+trojan://PQ05174892@54.169.228.116:443?fp=chrome&security=tls&sni=amusing-grub.rooster465.autos&type=tcp#Singapore
+vless://44ae52b9-76fc-444d-8e43-186b4384b80a@free-amsterdam-node-1.cloudwidecdn.com:443?security=reality&encryption=none&pbk=PryGoq51ilG0eLUPl9i0xCvmk1xpwkyFSr_tG4GNLlU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=1d86d17709852910#United+Kingdom
+hysteria2://zhangyang@130.61.50.75:6443?insecure=1&security=tls&sni=130.61.50.75#Germany
+trojan://FH72359861@massive-ocelot.rooster465.autos:443?fp=chrome&security=tls&sni=massive-ocelot.rooster465.autos&type=tcp#South+Korea
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United+States
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#United+States
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.213.188:443?security=reality&type=tcp&packetEncoding=xudp&sni=eu-west.cendora.ru&fp=chrome&flow=xtls-rprx-vision&sid=dd3ff38418d29d22&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&encryption=none#United+States
+trojan://humanity@130.250.137.171:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#United+States
+trojan://PQ05174892@lucky-marmot.rooster465.autos:443?security=tls&sni=lucky-marmot.rooster465.autos#France
+vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.44.159:443?security=reality&type=raw&packetEncoding=xudp&sni=5.oncloudnineservicestreang.com&fp=chrome&flow=xtls-rprx-vision&sid=273940fba6ad8250&pbk=RurLbpOTStqCjS3lhwB0d3MEZ3629j3atv_r1dT5zjM&encryption=none#Denmark
+hy2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443/?insecure=1&security=tls&sni=germany3.h2corp.local#United+States
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

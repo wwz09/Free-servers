@@ -35,26 +35,26 @@
  <h4>नोड सूची: (यहां अधिकतम 20 नोड दिखाए जाते हैं। अन्य मुफ्त नोड ऐप में प्राप्त करें)</h4>
     
 ```
-trojan://FH72359861@primary-leech.rooster465.autos:443?security=tls&sni=primary-leech.rooster465.autos#United+Kingdom
-trojan://humanity@104.16.174.22:443?fp=chrome&path=%2F%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-trojan://FH72359861@3.35.53.46:443?fp=chrome&security=tls&sni=good-hound.rooster465.autos&type=tcp#South+Korea
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.9:8080#United+Kingdom
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@lt.mmhh.eu.cc:443?security=tls&type=ws&path=/&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net&fp=chrome#
-vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?security=none&type=tcp&packetEncoding=xudp#Romania
-vless://519291ac-4496-4c5d-9ac2-7a4bdf2bd925@[2602:f92a:100:c900::b]:34599?security=reality&encryption=none&pbk=b6ibX3Jw17uhAgMheY8QqufJSHOJSoe0_bZ1w07LNk8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.iij.ad.jp#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#South+Africa
-vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@neth6.lckdwn.ru:443?encryption=none&security=&type=ws#Brazil
-vless://04cb9c0f-363c-4bf8-a195-2cb8bd43b02a@o.server5peekconfig.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoiSU9LdXp3R1p6IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560&host=o.server5peekconfig.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=O.seRVer5peEKCOnFIG.WOrKers.dEV&fp=chrome&encryption=none#
-hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.54:8080?security=tls&sni=grape-honk.yyuyy.com#United+States
-trojan://AE62539071@13.209.16.12:443?fp=chrome&security=tls&sni=light-sheepdog.rooster465.autos&type=tcp#South+Korea
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.247.253:2027?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&sid=dc8109baf0f607ea&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&encryption=none#Russia
-vless://a7a98347-5fe4-4615-9a89-7f1ba759265e@151.241.226.201:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&sid=f5d596282182b440&pbk=_jsI5uVVqXkzCZ0OGJ5U7waecxOEiu2lm-8f8ZyW5mc&encryption=none#Iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#United+States
-trojan://PQ05174892@many-cricket.rooster465.autos:443?fp=chrome&security=tls&sni=many-cricket.rooster465.autos&type=tcp#Germany
-trojan://FH72359861@summary-lemming.rooster465.autos:443?security=tls&sni=summary-lemming.rooster465.autos#Germany
-hysteria2://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl1.unlockvpn.online:10808?security=tls&sni=nl1.unlockvpn.online#United+Kingdom
+trojan://AE62539071@fun-salmon.rooster465.autos:443?security=tls&sni=fun-salmon.rooster465.autos#Japan
+vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?encryption=none&security=&type=tcp#Germany
+trojan://FH72359861@winning-shrimp.rooster465.autos:443?fp=chrome&security=tls&sni=winning-shrimp.rooster465.autos&type=tcp#Japan
+trojan://FH72359861@major-goose.rooster465.autos:443?security=tls&sni=major-goose.rooster465.autos#South+Korea
+trojan://FH72359861@casual-stallion.rooster465.autos:443?security=tls&sni=casual-stallion.rooster465.autos#Japan
+trojan://FH72359861@13.158.135.118:443?fp=chrome&security=tls&sni=literate-cow.rooster465.autos&type=tcp#United+States
+trojan://PQ05174892@inspired-hound.rooster465.autos:443?security=tls&sni=inspired-hound.rooster465.autos#Japan
+vmess://eyJhZGQiOiAiMTY5LjE5Ny4xNDIuMjIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJuZXQiOiAicmF3IiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTgwMDAiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://6dcb725e-947e-4bbe-bb35-903374d57179@154.19.187.249:20725?security=reality&type=tcp&packetEncoding=xudp&sni=buylite.tv.apple.com&fp=firefox&flow=xtls-rprx-vision&sid=0102ac4e&pbk=hceZHd9X9FSbWGXGgm3OWN-4Au26rrsriTcyHw5M3VU#Japan
+trojan://AE62539071@13.124.185.220:443?security=tls&sni=prepared-monitor.rooster465.autos#South+Korea
+vless://ae90794e-4696-49f3-8abf-10c896b67db7@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp#France
+vless://c124a209-d949-4951-8234-e2d918b3e6c0@188.225.33.206:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&sni=max.ru#Russia
+trojan://FH72359861@communal-troll.rooster465.autos:443?security=tls&sni=communal-troll.rooster465.autos#Japan
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#United+States
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at164.mechvpn.online:443?security=tls&sni=at164.mechvpn.online#United+States
+trojan://ND91608427@18.181.164.216:443?fp=chrome&security=tls&sni=upright-impala.rooster465.autos&type=raw#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#United+Kingdom
+trojan://PQ05174892@united-grouse.rooster465.autos:443?security=tls&sni=united-grouse.rooster465.autos#South+Korea
+trojan://AE62539071@novel-mouse.rooster465.autos:443?security=tls&sni=novel-mouse.rooster465.autos#Hong+Kong
+vless://f7c25743-140c-4d32-a296-a53bc49682d8@direct-nl.bachidze.com:443?security=reality&encryption=none&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=direct-nl.bachidze.com#The+Netherlands
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

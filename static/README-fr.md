@@ -35,26 +35,26 @@
  <h4>Liste des nœuds: (20 nœuds maximum sont affichés ici. Les autres nœuds gratuits sont disponibles dans l'application.)</h4>
     
 ```
-hy2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@cabinet.wwwinternetvideo.click:443/?security=tls&sni=cabinet.wwwinternetvideo.click#Iran
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.84:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=firefox&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Espagne
-vless://c40f773e-3b96-417e-b22c-e48cb63ca7d9@144.31.87.16:2053?security=reality&type=tcp&packetEncoding=xudp&sni=pinterest.com&fp=chrome&sid=04b38b6b152a1b0b&pbk=EDeWEPBq0QDOPp73PNVlaV2EWaEBWhgBcNy3MROgZ00&encryption=none#%C3%89tats+Unis
-trojan://PQ05174892@just-alpaca.rooster465.autos:443?security=tls&sni=just-alpaca.rooster465.autos#Hong+Kong
-trojan://HC04361579@3.38.99.157:443?security=tls&sni=star-shrimp.rooster465.autos#Cor%C3%A9e+du+Sud
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#Royaume-Uni
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#Pays-Bas
-trojan://PQ05174892@resolved-gelding.rooster465.autos:443?security=tls&sni=resolved-gelding.rooster465.autos#Japon
-trojan://PQ05174892@casual-quail.rooster465.autos:443?fp=chrome&security=tls&sni=casual-quail.rooster465.autos&type=tcp#Allemagne
-trojan://AE62539071@54.169.174.154:443?security=tls&sni=absolute-hare.rooster465.autos#Singapour
-trojan://ND91608427@44.246.163.102:443?security=tls&sni=fleet-bonefish.rooster465.autos#%C3%89tats+Unis
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&security=tls#Hong+Kong
-vless://283665ab-54c2-4c59-ac55-5e8388558eba@172.67.174.157:2083?security=tls&type=ws&path=/vl/oCCSZfAWhGqcVO3WOEnIPj9Z9ke?ed&host=27l432tlhnpcojr6u0d3.adfasdfadfasdf.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=27l432tlhnpcojr6u0d3.adfasdfadfasdf.workers.dev&fp=chrome#%C3%89tats+Unis
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&encryption=none#Cor%C3%A9e+du+Sud
-trojan://PQ05174892@alert-fish.rooster465.autos:443?security=tls&sni=alert-fish.rooster465.autos#Allemagne
-trojan://ND91608427@35.72.13.34:443?fp=chrome&security=tls&sni=casual-bee.rooster465.autos&type=tcp#Japon
-trojan://AE62539071@18.183.140.61:443?security=tls&sni=harmless-imp.rooster465.autos#Japon
-trojan://PQ05174892@simple-sunbeam.rooster465.autos:443?security=tls&sni=simple-sunbeam.rooster465.autos#Singapour
-hysteria2://085178e12d2211ec@nl.prisma-access.club:8445?security=tls&sni=nl.prisma-access.club#Bulgarie
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.44:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#
+trojan://FH72359861@helping-shark.rooster465.autos:443?allowInsecure=1&fp=chrome&security=tls&sni=helping-shark.rooster465.autos&type=tcp#Japon
+trojan://AE62539071@eager-camel.rooster465.autos:443?security=tls&sni=eager-camel.rooster465.autos#Japon
+vless://1cde7b4a-6dd7-4eb6-ba2e-41625d491300@149.33.36.32:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&security=reality&sid=03a70b17f8036009&sni=smartcaptcha.yandexcloud.net&type=tcp#%C3%89tats+Unis
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.21.74.214:443?security=tls&type=ws&path=/sg-melbi&host=josni.hoyes.cloudns.ch&packetEncoding=xudp&sni=josni.hoyes.cloudns.ch&fp=chrome#
+trojan://AE62539071@13.115.158.235:443?security=tls&sni=prepared-thrush.rooster465.autos#Japon
+trojan://FH72359861@game-firefly.rooster465.autos:443?security=tls&sni=game-firefly.rooster465.autos#Royaume-Uni
+trojan://FH72359861@settled-camel.rooster465.autos:443?security=tls&sni=settled-camel.rooster465.autos#Japon
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?security=reality&type=raw&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#France
+trojan://FH72359861@casual-basilisk.rooster465.autos:443?fp=chrome&security=tls&sni=casual-basilisk.rooster465.autos&type=tcp#Singapour
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.28:8080#Royaume-Uni
+vless://03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a@69.48.201.136:30016?security=none&type=ws&path=/usserver&packetEncoding=xudp#%C3%89tats+Unis
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.17.22.240:443?security=tls&type=ws&path=/&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net&fp=random&encryption=none#
+trojan://PQ05174892@healthy-panda.rooster465.autos:443?fp=chrome&security=tls&sni=healthy-panda.rooster465.autos&type=tcp#Irlande
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.134:443#France
+trojan://PQ05174892@52.195.206.148:443?fp=chrome&security=tls&sni=fair-kingfish.rooster465.autos&type=tcp#Japon
+vless://519291ac-4496-4c5d-9ac2-7a4bdf2bd925@[2602:f92a:100:c900::b]:34599?security=reality&encryption=none&pbk=b6ibX3Jw17uhAgMheY8QqufJSHOJSoe0_bZ1w07LNk8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.iij.ad.jp#EPODONIOS
+trojan://PQ05174892@pleased-raptor.rooster465.autos:443?security=tls&sni=pleased-raptor.rooster465.autos#Singapour
+trojan://humanity@8.6.112.0:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#Autriche
+hysteria2://dbab9df7-5c0a-4726-8574-11e34972b67d@86.53.105.117:33015?insecure=1&pinSHA256=BD%3A9C%3A95%3AA4%3A65%3A1F%3A9D%3A0F%3AF9%3A73%3A22%3A8A%3ADA%3A49%3A98%3A91%3A1E%3A14%3AFF%3AE9%3A2C%3AE0%3AA3%3A4A%3A6C%3A97%3A48%3AC6%3ABC%3A04%3A3F%3A9D&security=tls&sni=www.bing.com#Royaume-Uni
+trojan://humanity@104.16.174.14:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>
