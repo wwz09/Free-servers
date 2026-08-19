@@ -35,26 +35,26 @@
  <h4>Daftar node: (Maksimal 20 node ditampilkan di sini. Node gratis lainnya bisa didapatkan di aplikasi.)</h4>
     
 ```
-vless://a14b736b-a92a-48d6-a596-5d31f7378ded@51.161.204.242:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=d15c17cef9b2e456&pbk=a2qGjvUPq6Nz5FTbn_MSHp-055q2h8YXqIL5VIJ5zwE#Australia
-trojan://AE62539071@54.250.247.38:443?allowInsecure=1&fp=chrome&security=tls&sni=premium-weevil.rooster465.autos&type=tcp#Japan
-trojan://FH72359861@choice-worm.rooster465.autos:443?security=tls&sni=choice-worm.rooster465.autos#Hong+Kong
-trojan://PQ05174892@54.249.187.217:443?fp=chrome&security=tls&sni=modest-amoeba.rooster465.autos&type=tcp#Japan
-trojan://PQ05174892@many-cricket.rooster465.autos:443?security=tls&sni=many-cricket.rooster465.autos#Germany
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:443?encryption=none&security=&type=ws#Iran
-vless://9500cf8b-020a-4a70-906c-e14bb5375875@144.31.237.206:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.sciencedirect.com&fp=chrome&flow=xtls-rprx-vision&sid=a1b2c4d4a1b2c5d5&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&encryption=none#United+States
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@83.143.112.146:443?sni=nordic.cendora.ru&security=reality&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&headerType=none&fp=chrome&flow=xtls-rprx-vision&type=tcp&encryption=none#Bulgaria
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#United+States
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388#United+States
-trojan://FH72359861@52.68.147.250:443?fp=chrome&security=tls&sni=sterling-fowl.rooster465.autos&type=tcp#Japan
-trojan://AE62539071@52.194.223.176:443?security=tls&sni=clear-heron.rooster465.autos#Japan
-trojan://AE62539071@adapted-martin.rooster465.autos:443?fp=chrome&security=tls&sni=adapted-martin.rooster465.autos&type=tcp#Singapore
-trojan://PQ05174892@full-ox.rooster465.autos:443?security=tls&sni=full-ox.rooster465.autos#Hong+Kong
-trojan://AE62539071@sharing-duck.rooster465.autos:443?security=tls&sni=sharing-duck.rooster465.autos#United+States
-trojan://AE62539071@adapted-whippet.rooster465.autos:443?security=tls&sni=adapted-whippet.rooster465.autos#Singapore
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?encryption=none&security=&type=ws#Latvia
-trojan://AE62539071@pet-antelope.rooster465.autos:443?fp=chrome&security=tls&sni=pet-antelope.rooster465.autos&type=tcp#Japan
-trojan://FH72359861@magical-airedale.rooster465.autos:443?security=tls&sni=magical-airedale.rooster465.autos#Japan
+vless://6d64c245-3f74-424f-8fa9-d3da25aac3f9@nlb.go-vpn.club:443?security=reality&type=raw&packetEncoding=xudp&sni=gateway.icloud.com&fp=firefox&flow=xtls-rprx-vision&sid=ed7b9bdfedb9b8e5&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww#Iran
+trojan://PQ05174892@lucky-albacore.rooster465.autos:443?security=tls&sni=lucky-albacore.rooster465.autos#Japan
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.141.233.65:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapore
+vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?encryption=none&security=none&type=ws&path=/v1#Russia
+trojan://AE62539071@18.183.140.61:443?security=tls&sni=harmless-imp.rooster465.autos#Japan
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#France
+vless://4706d9c3-eec0-4666-9d84-e608a200e872@194.226.169.36:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&sid=b8aa&pbk=i4Mx_tDND0Xxac3WyA7HgT9rvXdZlXpm5m1EGiQF-Uk&encryption=none#Russia
+trojan://PQ05174892@52.74.232.63:443?security=tls&sni=casual-emu.rooster465.autos#Singapore
+trojan://SEYnpOitNLndBhDtkZyeAShl@nl-vk.tkbvpcompany.site:443?security=tls&sni=nl-vk.tkbvpcompany.site#United+Kingdom
+vless://5aab0d40-c509-4560-b048-ade921fdfb6a@70.39.198.183:46197?security=reality&type=raw&packetEncoding=xudp&sni=updates.cdn-apple.com&fp=chrome&sid=f24c17bb7fc284&pbk=npJEB6VpYJ9iYTZ-z0IL06Xs7PEz0N3fZU_IRwftQ00#United+States
+trojan://PQ05174892@pro-mako.rooster465.autos:443?security=tls&sni=pro-mako.rooster465.autos#Singapore
+trojan://FH72359861@13.113.71.200:443?fp=chrome&security=tls&sni=trusting-elf.rooster465.autos&type=tcp#Japan
+trojan://AE62539071@whole-perch.rooster465.autos:443?fp=chrome&security=tls&sni=whole-perch.rooster465.autos&type=tcp#Japan
+trojan://AE62539071@present-warthog.rooster465.autos:443?fp=chrome&security=tls&sni=present-warthog.rooster465.autos&type=tcp#Romania
+trojan://PQ05174892@18.143.170.114:443?security=tls&sni=lenient-grubworm.rooster465.autos#Singapore
+trojan://PQ05174892@bright-buffalo.rooster465.autos:443?security=tls&sni=bright-buffalo.rooster465.autos#Japan
+trojan://FH72359861@3.112.200.59:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=new-eagle.rooster465.autos#Japan
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#France
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#
+hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@82.38.60.122:8443?insecure=1&security=tls&sni=hopp-us.yyuyy.com#United+Kingdom
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

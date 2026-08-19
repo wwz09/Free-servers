@@ -35,26 +35,26 @@
  <h4>Lista de nodos: (Aquí se muestran como máximo 20 nodos. Los demás nodos gratuitos se obtienen en la app.)</h4>
     
 ```
-trojan://AE62539071@easy-barnacle.rooster465.autos:443?fp=chrome&security=tls&sni=easy-barnacle.rooster465.autos&type=tcp#Jap%C3%B3n
-trojan://FH72359861@18.183.164.199:443?fp=chrome&security=tls&sni=helping-shark.rooster465.autos&type=tcp#Jap%C3%B3n
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.164:443#Reino+Unido
+vless://17d29827-7cf1-4115-b40d-548e10ec355d@186.246.21.156:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=qq&flow=xtls-rprx-vision&sid=aa3c&pbk=bjOGTQ4xsiFbyCPM_WzoK53L130rW5vZJtuYDJx_pkM&encryption=none#Brasil
+trojan://PQ05174892@18.182.55.209:443?fp=chrome&security=tls&sni=prime-quail.rooster465.autos&type=tcp#Jap%C3%B3n
+trojan://AE62539071@54.244.169.225:443?security=tls&sni=sharing-duck.rooster465.autos#Estados+Unidos
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#Francia
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@2.26.48.130:443?security=reality&type=tcp&packetEncoding=xudp&sni=eu-central.cendora.ru&fp=qq&flow=xtls-rprx-vision&sid=00bca5982f82d083&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI#Reino+Unido
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.16.151.21:2087?security=tls&type=ws&path=/&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&packetEncoding=xudp&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&encryption=none#
+vless://607801ac-dbdd-4938-a167-129015d9978e@91.192.81.214:443?security=reality&encryption=none&pbk=bMcyxNueltQhz5Kuxcf8odDStWHowYfLhKNdCbUweDc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=d1742269#Singapur
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.250.33:18443?security=tls&type=raw&packetEncoding=xudp&sni=disagreedebut.net&fp=chrome&flow=xtls-rprx-vision&encryption=none#Rusia
+trojan://FH72359861@united-sculpin.rooster465.autos:443?security=tls&sni=united-sculpin.rooster465.autos#Jap%C3%B3n
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@92.118.205.211:5600#Polonia
-trojan://FH72359861@13.114.84.244:443?security=tls&sni=adapting-giraffe.rooster465.autos#Jap%C3%B3n
-trojan://PQ05174892@picked-guinea.rooster465.autos:443?security=tls&sni=picked-guinea.rooster465.autos#Jap%C3%B3n
-hysteria2://0wdsa_nJXEWRj9jz9J9xMgtx_n7gzfK_m8@139.28.168.54:9080?security=tls&sni=grape-honk.yyuyy.com#Estados+Unidos
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#Estados+Unidos
-vless://c7e9c591-2764-423a-afca-efbd010fd396@185.18.52.77:2053?security=tls&type=ws&path=/&host=forfreeuse.rtqa.ru&packetEncoding=xudp&sni=forfreeuse.rtqa.ru&fp=chrome#Holanda
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?security=reality&type=raw&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#Francia
-trojan://PQ05174892@13.113.231.8:443?security=tls&sni=unbiased-coyote.rooster465.autos#Jap%C3%B3n
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#Reino+Unido
-trojan://PQ05174892@balanced-goat.rooster465.autos:443?fp=chrome&security=tls&sni=balanced-goat.rooster465.autos&type=tcp#Jap%C3%B3n
-trojan://PQ05174892@glad-roughy.rooster465.autos:443?fp=chrome&security=tls&sni=glad-roughy.rooster465.autos&type=tcp#Hong+Kong
-trojan://PQ05174892@intense-sole.rooster465.autos:443?security=tls&sni=intense-sole.rooster465.autos#Singapur
-vless://814bd064-544d-4255-a070-5705c03f6da9@103.106.229.190:19261?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#Malasia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.28:8080#Reino+Unido
-trojan://PQ05174892@musical-shrew.rooster465.autos:443?security=tls&sni=musical-shrew.rooster465.autos#Francia
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@208.103.161.32:443?path=/sg-melbi_/v2rayNplus--v2rayNplus--v2rayNplus&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#Estados+Unidos
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.102.202:443?security=reality&type=tcp&packetEncoding=xudp&sni=america.cendora.ru&fp=firefox&flow=xtls-rprx-vision&sid=065cf4f1c7d83e79&pbk=v1hVg2Uc7Wsc_bhlLfKkML_HUGogQA9O9n9uZFwzQSM#Espa%C3%B1a
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#Holanda
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@185.193.30.94:443?security=tls&type=ws&path=/musiclovers85?ed=512&host=josni.hoyes.cloudns.ch&packetEncoding=xudp&sni=josni.hoyes.cloudns.ch&fp=chrome&encryption=none#Reino+Unido
+trojan://AE62539071@game-thrush.rooster465.autos:443?security=tls&sni=game-thrush.rooster465.autos#Jap%C3%B3n
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#Ucrania
+trojan://FH72359861@star-cheetah.rooster465.autos:443?fp=chrome&security=tls&sni=star-cheetah.rooster465.autos&type=tcp#Jap%C3%B3n
+vless://c7e9c591-2764-423a-afca-efbd010fd396@185.109.48.13:2053?&security=tls&fp=chrome&sni=forfreeuse.rtqa.ru&type=ws&headerType=none&host=forfreeuse.rtqa.ru&path=%2F#Estonia
+trojan://humanity@104.16.174.34:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
+trojan://PQ05174892@52.220.197.180:443?fp=chrome&security=tls&sni=immense-eagle.rooster465.autos&type=tcp#Singapur
+trojan://PQ05174892@primary-leech.rooster465.autos:443?security=tls&sni=primary-leech.rooster465.autos#Reino+Unido
+vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=%2Fvless%2F&security=none&type=ws#Francia
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>

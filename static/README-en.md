@@ -35,26 +35,26 @@
 <h4>Node list: (A maximum of 20 nodes are shown here. More free nodes are available in the app.)</h4>
     
 ```
-trojan://ND91608427@35.72.13.34:443?security=tls&sni=casual-bee.rooster465.autos#Japan
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.4.103:443?security=reality&type=tcp&packetEncoding=xudp&sni=eu-central.cendora.ru&fp=chrome&flow=xtls-rprx-vision&sid=00bca5982f82d083&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI#United+Kingdom
-trojan://PQ05174892@3.113.6.163:443?security=tls&sni=together-amoeba.rooster465.autos#Japan
-trojan://PQ05174892@rapid-firefly.rooster465.autos:443?security=tls&sni=rapid-firefly.rooster465.autos#Germany
-trojan://humanity@104.16.174.71:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-trojan://FH72359861@lucky-primate.rooster465.autos:443?security=tls&sni=lucky-primate.rooster465.autos#Japan
-vless://55d61055-1a7f-4bc5-aca2-4ee78c738b60@194.233.75.66:443?security=tls&type=tcp&packetEncoding=xudp&sni=sahanwickramasinghevip.shop&fp=firefox#Singapore
-trojan://FH72359861@closing-falcon.rooster465.autos:443?security=tls&sni=closing-falcon.rooster465.autos#Japan
-vless://5aab0d40-c509-4560-b048-ade921fdfb6a@70.39.198.183:46197?security=reality&type=raw&packetEncoding=xudp&sni=updates.cdn-apple.com&fp=chrome&sid=f24c17bb7fc284&pbk=npJEB6VpYJ9iYTZ-z0IL06Xs7PEz0N3fZU_IRwftQ00#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#United+States
-trojan://PQ05174892@3.112.242.12:443?security=tls&sni=intimate-hog.rooster465.autos#Japan
-trojan://PQ05174892@52.197.196.241:443?security=tls&sni=logical-ram.rooster465.autos#Japan
-trojan://AE62539071@54.188.176.255:443?security=tls&sni=arriving-colt.rooster465.autos#United+States
-trojan://AE62539071@premium-weevil.rooster465.autos:443?security=tls#Japan
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.75:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=firefox&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
-vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@185.221.163.211:443?security=reality&encryption=none&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fin1.panel11.ru&sid=aaec521b22bbe6cb#Seychelles
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr15.mechvpn.online:443?flow=xtls-rprx-vision&fp=chrome&security=tls#France
-vless://33aa2b47-484b-49f6-8f23-fb34602d221f@188.127.247.129:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=0c&pbk=Kb0rDCu2kKhfnC6bsi0DMRxDej9S-Mu1vVza1H1l4U4&encryption=none#Russia
-trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&sni=great-krill.rooster465.autos#France
-trojan://FH72359861@pleased-sawfly.rooster465.autos:443?security=tls&sni=pleased-sawfly.rooster465.autos#Japan
+trojan://FH72359861@fluent-gar.rooster465.autos:443?fp=chrome&security=tls&sni=fluent-gar.rooster465.autos&type=tcp#Australia
+trojan://AE62539071@liked-serval.rooster465.autos:443?fp=chrome&security=tls&sni=liked-serval.rooster465.autos&type=tcp#United+States
+trojan://PQ05174892@aware-puma.rooster465.autos:443?security=tls&sni=aware-puma.rooster465.autos#Japan
+vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@130.49.189.41:443?security=reality&type=tcp&packetEncoding=xudp&sni=youtube.superbuba.top&fp=firefox&flow=xtls-rprx-vision&sid=4fa44664f6a566d3&pbk=rCkSHJ7goy7ZvSlau4LfXF-QLloOJMNeMxpeeQtwtVs#United+States
+trojan://FH72359861@54.72.58.12:443?fp=chrome&security=tls&sni=darling-mongrel.rooster465.autos&type=tcp#Ireland
+vless://e2b8f727-c5ee-47e1-8f1b-7c5c61479ce0@45.90.56.231:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=e2e66f4537770cef&pbk=KrFnWxAwVGL6tuj1JE0qpykLzY4aOFjyK3OaymF_hT0&encryption=none#Switzerland
+trojan://FH72359861@probable-weasel.rooster465.autos:443?security=tls&sni=probable-weasel.rooster465.autos#Singapore
+trojan://FH72359861@trusting-elf.rooster465.autos:443?security=tls#Japan
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#United+States
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.30:443?security=reality&type=raw&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443#Canada
+vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@103.126.50.203:443?security=reality&encryption=none&pbk=xp7g5asMyVx4aI7vEwfZZPrpd57izUvnNzAOpBs4mh0&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ro.getvlessvpn.com&sid=b9f8f9772217538f#Bangladesh
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#United+Kingdom
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.70:8443?insecure=1&security=tls&sni=grape-zet-turbo-nl.yyuyy.com#The+Netherlands
+trojan://humanity@104.16.174.34:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
+trojan://FH72359861@91.199.84.155:443?security=tls&sni=modern-bedbug.rooster465.autos#Hong+Kong
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de104.mechvpn.online:443?security=tls&sni=de104.mechvpn.online#Indonesia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.49:8080#United+Kingdom
+vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@177.3.212.127:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=neth6.lckdwn.ru#Brazil
+trojan://PQ05174892@musical-shrew.rooster465.autos:443?fp=chrome&security=tls&sni=musical-shrew.rooster465.autos&type=tcp#France
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>
