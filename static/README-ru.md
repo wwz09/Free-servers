@@ -35,26 +35,26 @@
  <h4>Список узлов: (Здесь отображается не более 20 узлов. Остальные бесплатные узлы доступны в приложении.)</h4>
     
 ```
-hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@at133.mechvpn.online:443/?security=tls&sni=at133.mechvpn.online#%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F
-trojan://PQ05174892@54.254.213.145:443?fp=chrome&security=tls&sni=pleased-raptor.rooster465.autos&type=tcp#%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80
-vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@132.243.223.88:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fin2.freeinternat.com&sid=ff776ff77be48b88#%D0%A1%D0%A8%D0%90
-trojan://PQ05174892@13.212.44.180:443?fp=chrome&security=tls&sni=smooth-hornet.rooster465.autos&type=tcp#%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80
-vless://43a13764-23dd-4e01-8b79-cde8a16e13ce@204.48.20.223:30906?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=17a94dc584e3&pbk=HnQ_s7eu3XUu6upzLoe0jj5ZgsYvM7KXuMG41IwN4R0&encryption=none#%D0%A1%D0%A8%D0%90
-vless://8eeda009-fe56-442f-b3b1-b6bbf65fea1e@195.123.217.26:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=6eda1031a2d1a3fa&pbk=JLTetzK1Axw8MhHYk_GYfA0M5-OjZ9Frd1hR2hCkxno#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%D0%A1%D0%A8%D0%90
-trojan://PQ05174892@right-mastiff.rooster465.autos:443?fp=chrome&security=tls&sni=right-mastiff.rooster465.autos&type=tcp#%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80
-hysteria2://5ca83936-136d-4314-8453-4ba10a86cf60@31.76.70.78:8443?security=tls&sni=quic.tyr-agentstvo.tech#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.141:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F
-vless://15fd22d1-8931-4d41-af37-8ba6711e93fe@5.253.42.163:40443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=d1gJntekIStCHyAwgJCuv-N4_BBx5dDQ7K6CeWmpMRo&sid=84fc&sni=deepl.com#%D0%A1%D0%A8%D0%90
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.195:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=chrome&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F
-vless://8384341b-cd89-4a21-a022-cc4bd4e648ca@46.29.238.139:40443?encryption=none&fp=chrome&pbk=7i4Y7v80NVAIi_4_9roDkqcXmexIHli87dfZuFaQMUI&security=reality&sid=68da&sni=deepl.com&type=tcp#%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F
-vless://b3eed393-e990-40a0-978c-689d40be9da4@86.107.178.67:448?security=reality&type=tcp&packetEncoding=xudp&sni=www.samsung.com&fp=chrome&sid=52a74e01683e9173&pbk=i3cJbIu8AN7qCD7xQTVfCN7de9RkxVohk_PGQgHqRl8#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443?insecure=1&security=tls&sni=18.118.193.169#%D0%A1%D0%A8%D0%90
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
-trojan://AE62539071@present-warthog.rooster465.autos:443?security=tls&sni=present-warthog.rooster465.autos#%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D0%B8%D1%8F
-trojan://PQ05174892@13.212.33.67:443?security=tls&sni=intense-monarch.rooster465.autos#%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80
-vless://928e6cce-8ced-4243-9a48-a6642edd09b0@111.119.235.145:13779?security=reality&type=tcp&packetEncoding=xudp&sni=tesla.com&fp=chrome&flow=xtls-rprx-vision&sid=af1bdd293097b664&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg#%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D1%8F
+trojan://FH72359861@smiling-fowl.rooster465.autos:443?fp=chrome&security=tls&sni=smiling-fowl.rooster465.autos&type=tcp#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+trojan://humanity@104.16.174.46:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
+trojan://ND91608427@casual-bee.rooster465.autos:443?security=tls&sni=casual-bee.rooster465.autos#%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+trojan://PQ05174892@13.229.204.224:443?security=tls&sni=intense-sole.rooster465.autos#%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80
+trojan://AE62539071@51.44.161.22:443?security=tls&sni=distinct-quail.rooster465.autos#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@de.1.22.washing.help:443?alpn=h3&insecure=1&security=tls&sni=germany1.h2corp.local#%D0%A4%D0%A0%D0%93
+trojan://PQ05174892@promoted-rattler.rooster465.autos:443?fp=chrome&security=tls&sni=promoted-rattler.rooster465.autos&type=tcp#%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@64.188.77.13:443?security=reality&encryption=none&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-west.cendora.ru&sid=dd3ff38418d29d22#%D0%A1%D0%A8%D0%90
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&security=reality&sid=d26f4703cdd30f4e&sni=vk.ru&type=tcp#%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F
+trojan://PQ05174892@well-marmot.rooster465.autos:443?fp=chrome&security=tls&sni=well-marmot.rooster465.autos&type=tcp#%D0%93%D0%BE%D0%BD%D0%BA%D0%BE%D0%BD%D0%B3
+vmess://eyJhZGQiOiAiNjcuMjIwLjg1LjQ2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE4MDAwIiwgInBzIjogIlx1MDQyMVx1MDQyOFx1MDQxMCIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+trojan://AE62539071@18.183.82.51:443?fp=chrome&security=tls&sni=sweeping-parakeet.rooster465.autos&type=tcp#%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@104.21.41.140:2053?security=tls&type=ws&path=/&host=po.fastbrokencompony.com&packetEncoding=xudp&alpn=h3,h2&sni=po.fastbrokencompony.com&fp=chrome&encryption=none#
+trojan://AE62539071@distinct-quail.rooster465.autos:443?security=tls&sni=distinct-quail.rooster465.autos#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+vless://2942bae7-9dcf-4a2e-f928-933c0ab3eab0@139.180.198.220:52143?&type=tcp&headerType=none&path=/#%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr186.mechvpn.online:443?security=tls&type=raw&packetEncoding=xudp&sni=fr186.mechvpn.online&fp=chrome&flow=xtls-rprx-vision#%D0%A4%D0%A0%D0%93
+trojan://FH72359861@54.72.58.12:443?fp=chrome&security=tls&sni=darling-mongrel.rooster465.autos&type=raw#%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
+trojan://AE62539071@bright-baboon.rooster465.autos:443?security=tls&sni=bright-baboon.rooster465.autos#%D0%A1%D0%A8%D0%90
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
