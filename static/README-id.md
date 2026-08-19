@@ -35,26 +35,26 @@
  <h4>Daftar node: (Maksimal 20 node ditampilkan di sini. Node gratis lainnya bisa didapatkan di aplikasi.)</h4>
     
 ```
-vless://c7e9c591-2764-423a-afca-efbd010fd396@57.129.47.4:2053?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=forfreeuse.rtqa.ru&fp=chrome&type=ws&allowInsecure=0&sni=forfreeuse.rtqa.ru#France
-trojan://AE62539071@engaged-ram.rooster465.autos:443?security=tls&sni=engaged-ram.rooster465.autos#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#United+Kingdom
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@64.188.77.13:13443?security=reality&type=tcp&packetEncoding=xudp&sni=auto.cendora.ru&fp=firefox&flow=xtls-rprx-vision&sid=a7f3c91b2e6d84c0&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM#United+States
-trojan://PQ05174892@suitable-feline.rooster465.autos:443?security=tls&sni=suitable-feline.rooster465.autos#United+Kingdom
-hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@sg2.xiaoliyu.cyou:1935?insecure=1&security=tls&sni=sg2.xiaoliyu.cyou#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#United+Kingdom
-trojan://ND91608427@social-mutt.rooster465.autos:443?allowInsecure=1&fp=chrome&security=tls&sni=social-mutt.rooster465.autos&type=tcp#Japan
-trojan://PQ05174892@54.168.199.96:443?allowInsecure=1&fp=chrome&security=tls&sni=steady-lemming.rooster465.autos&type=tcp#Japan
-trojan://AE62539071@54.169.117.161:443?security=tls&sni=simple-rodent.rooster465.autos#Singapore
-trojan://PQ05174892@52.69.227.10:443?fp=chrome&security=tls&sni=aware-puma.rooster465.autos&type=tcp#Japan
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.226:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#United+Kingdom
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@lt.mmhh.eu.cc:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.83.114:443?security=reality&encryption=none&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=baltic.cendora.ru&sid=4a46213c935e2ee4#United+Kingdom
-trojan://PQ05174892@immune-earwig.rooster465.autos:443?security=tls&sni=immune-earwig.rooster465.autos#France
-vless://694eb5d5-794c-4389-af65-e5a4b8489dae@89.167.0.240:443?security=reality&type=tcp&packetEncoding=xudp&sni=play.google.com&fp=chrome&sid=b58b&pbk=Qr6_9TMQYMCB2hVSYeONcMvxBqIaT0mzPUy8nIivV1g#Germany
-trojan://PQ05174892@47.128.147.181:443?security=tls&sni=rich-mule.rooster465.autos#Singapore
-vless://5aab0d40-c509-4560-b048-ade921fdfb6a@70.39.197.13:46197?security=reality&type=tcp&packetEncoding=xudp&sni=updates.cdn-apple.com&fp=chrome&sid=f24c17bb7fc284&pbk=npJEB6VpYJ9iYTZ-z0IL06Xs7PEz0N3fZU_IRwftQ00#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.164:443#United+Kingdom
+vless://a14b736b-a92a-48d6-a596-5d31f7378ded@51.161.204.242:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=d15c17cef9b2e456&pbk=a2qGjvUPq6Nz5FTbn_MSHp-055q2h8YXqIL5VIJ5zwE#Australia
+trojan://AE62539071@54.250.247.38:443?allowInsecure=1&fp=chrome&security=tls&sni=premium-weevil.rooster465.autos&type=tcp#Japan
+trojan://FH72359861@choice-worm.rooster465.autos:443?security=tls&sni=choice-worm.rooster465.autos#Hong+Kong
+trojan://PQ05174892@54.249.187.217:443?fp=chrome&security=tls&sni=modest-amoeba.rooster465.autos&type=tcp#Japan
+trojan://PQ05174892@many-cricket.rooster465.autos:443?security=tls&sni=many-cricket.rooster465.autos#Germany
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:443?encryption=none&security=&type=ws#Iran
+vless://9500cf8b-020a-4a70-906c-e14bb5375875@144.31.237.206:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.sciencedirect.com&fp=chrome&flow=xtls-rprx-vision&sid=a1b2c4d4a1b2c5d5&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&encryption=none#United+States
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@83.143.112.146:443?sni=nordic.cendora.ru&security=reality&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&headerType=none&fp=chrome&flow=xtls-rprx-vision&type=tcp&encryption=none#Bulgaria
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#United+States
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388#United+States
+trojan://FH72359861@52.68.147.250:443?fp=chrome&security=tls&sni=sterling-fowl.rooster465.autos&type=tcp#Japan
+trojan://AE62539071@52.194.223.176:443?security=tls&sni=clear-heron.rooster465.autos#Japan
+trojan://AE62539071@adapted-martin.rooster465.autos:443?fp=chrome&security=tls&sni=adapted-martin.rooster465.autos&type=tcp#Singapore
+trojan://PQ05174892@full-ox.rooster465.autos:443?security=tls&sni=full-ox.rooster465.autos#Hong+Kong
+trojan://AE62539071@sharing-duck.rooster465.autos:443?security=tls&sni=sharing-duck.rooster465.autos#United+States
+trojan://AE62539071@adapted-whippet.rooster465.autos:443?security=tls&sni=adapted-whippet.rooster465.autos#Singapore
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?encryption=none&security=&type=ws#Latvia
+trojan://AE62539071@pet-antelope.rooster465.autos:443?fp=chrome&security=tls&sni=pet-antelope.rooster465.autos&type=tcp#Japan
+trojan://FH72359861@magical-airedale.rooster465.autos:443?security=tls&sni=magical-airedale.rooster465.autos#Japan
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>
