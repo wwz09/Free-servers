@@ -35,26 +35,26 @@
  <h4>ノード リスト: (ここには最大20個のノードのみ表示されます。その他の無料ノードはアプリで取得できます)</h4>
     
 ```
-trojan://PQ05174892@immense-eagle.rooster465.autos:443?security=tls&sni=immense-eagle.rooster465.autos#%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.94.59:13443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.cendora.ru&fp=qq&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&headerType=none#%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3
-vless://814bd064-544d-4255-a070-5705c03f6da9@103.106.229.190:19261?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2
-vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=0990d22f&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk#%E3%82%AB%E3%83%8A%E3%83%80
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@de48.mechvpn.online:443?insecure=1&security=tls&sni=de48.mechvpn.online#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@141.164.45.187:8119#%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%85%B1%E5%92%8C%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.171.143:443?security=reality&encryption=none&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&sid=00bca5982f82d083#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vless://f4540796-ce50-4c2b-a41c-58f18f36ab96@194.87.220.242:8443?security=reality&encryption=none&pbk=k2gF2ZrpECMogTk1dY1uQ_BaWuyUVRTrewS-dnRL53s&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&sni=nltw6.lckdwn.ru&sid=5ae57d5673#%E3%83%81%E3%82%A7%E3%82%B3%E5%85%B1%E5%92%8C%E5%9B%BD
-vmess://eyJhZGQiOiAibjE3NjEyOTY4OTIuNHU5bWEuaWN1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm4xNzYxMjk2ODkyLjR1OW1hLmljdSIsICJpZCI6ICJkNmRiMTI4Zi00MmI5LTQwYjEtYjk3OS01ZTAwOTVmYTU5M2MiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdTk5OTlcdTZlMmYiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICJuMTc2MTI5Njg5Mi40dTltYS5pY3UiLCAidGVzdF9uYW1lIjogIkhLMTciLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-trojan://AE62539071@54.169.117.161:443?fp=chrome&security=tls&sni=simple-rodent.rooster465.autos#%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB
-trojan://AE62539071@coherent-newt.rooster465.autos:443?security=tls&sni=coherent-newt.rooster465.autos#%E6%97%A5%E6%9C%AC
-trojan://FH72359861@13.231.162.10:443?fp=chrome&security=tls&sni=united-sculpin.rooster465.autos&type=tcp#%E6%97%A5%E6%9C%AC
-trojan://humanity@104.18.152.207:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
-trojan://humanity@84.21.172.81:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD
-trojan://humanity@104.20.6.134:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
-trojan://PQ05174892@3.124.187.220:443?fp=chrome&security=tls&sni=rapid-firefly.rooster465.autos&type=tcp#%E3%83%89%E3%82%A4%E3%83%84%E9%80%A3%E9%82%A6%E5%85%B1%E5%92%8C%E5%9B%BD
-trojan://PQ05174892@better-molly.rooster465.autos:443?security=tls&sni=better-molly.rooster465.autos#%E6%97%A5%E6%9C%AC
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@5.34.182.23:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=eu-central.cendora.ru&fp=chrome&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&allowInsecure=1#%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E5%85%B1%E5%92%8C%E5%9B%BD
+trojan://AE62539071@definite-ladybird.rooster465.autos:443?security=tls&sni=definite-ladybird.rooster465.autos#%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.32:443#%E8%8B%B1%E5%9B%BD
+trojan://FH72359861@18.183.164.199:443?fp=chrome&security=tls&sni=helping-shark.rooster465.autos&type=tcp#%E6%97%A5%E6%9C%AC
+vmess://eyJhZGQiOiAiNDcuMjUwLjQ1LjIzNCIsICJhaWQiOiAwLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImM3N2Y0OGY1LTRiZTMtNDQ2MS1iNTJiLTQ5OTk4ZTdiODk3YiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiA0MzA2MywgInBzIjogIlx1MzBkZVx1MzBlY1x1MzBmY1x1MzBiN1x1MzBhMiIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+trojan://AE62539071@frank-frog.rooster465.autos:443?security=tls&sni=frank-frog.rooster465.autos#%E6%97%A5%E6%9C%AC
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@104.18.1.1:443?path=/hdgrbws&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#
+trojan://PQ05174892@well-marmot.rooster465.autos:443?security=tls&sni=well-marmot.rooster465.autos#%E9%A6%99%E6%B8%AF
+vless://5e7ecc47-e424-4653-876e-c7515a2c82b4@94.183.209.43:443?encryption=none&security=&type=ws#%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%BB%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%A0%E5%85%B1%E5%92%8C%E5%9B%BD
+trojan://ND91608427@91.199.84.120:443?security=tls&sni=dynamic-grubworm.rooster465.autos#%E9%A6%99%E6%B8%AF
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.133:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+trojan://AE62539071@54.74.210.220:443?security=tls&sni=funny-hen.rooster465.autos#%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89
+trojan://FH72359861@touching-turtle.rooster465.autos:443?security=tls&sni=touching-turtle.rooster465.autos#%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89
+vless://17d29827-7cf1-4115-b40d-548e10ec355d@billing.netraidly.ru:40443?security=reality&type=raw&packetEncoding=xudp&sni=deepl.com&fp=qq&flow=xtls-rprx-vision&sid=aa3c&pbk=bjOGTQ4xsiFbyCPM_WzoK53L130rW5vZJtuYDJx_pkM#%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB%E9%80%A3%E9%82%A6%E5%85%B1%E5%92%8C%E5%9B%BD
+trojan://PQ05174892@merry-falcon.rooster465.autos:443?security=tls#%E6%97%A5%E6%9C%AC
+vless://05cf7b0e-ad1a-42bb-80e7-73ae45b1019a@188.114.97.6:8443?path=/api/voip/updates/static/x9i2&security=tls&encryption=none&insecure=0&host=france.io-com-de-dev.org&ech=encryptedsni.com+udp://8.8.8.8&type=ws&allowInsecure=0&sni=france.io-com-de-dev.org#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
+vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?security=reality&type=tcp&packetEncoding=none&sni=bgcpartners.com&fp=chrome&sid=e6ac18b63f23&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+trojan://humanity@104.16.174.36:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#
+vless://44927d9f-1a75-4c03-ab8c-79898adaaece@46.28.68.63:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=e5fa48b9363c6a88&pbk=LS-zg9fF_5TvNfMCIKngy5AMue1hF-hsk3hShsHGXT4#%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E5%85%B1%E5%92%8C%E5%9B%BD
+trojan://PQ05174892@34.244.253.42:443?security=tls&sni=nice-elephant.rooster465.autos#%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>

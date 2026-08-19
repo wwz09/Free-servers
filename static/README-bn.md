@@ -35,26 +35,26 @@
  <h4>নোড তালিকা: (এখানে সর্বোচ্চ 20টি নোড দেখানো হয়। অন্যান্য বিনামূল্যের নোড অ্যাপে পাওয়া যাবে)</h4>
     
 ```
-trojan://PQ05174892@13.212.87.164:443?security=tls&sni=sharp-feline.rooster465.autos#Singapore
-hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@dk86.mechvpn.online:443?insecure=1&security=tls&sni=dk86.mechvpn.online#Finland
-trojan://PQ05174892@lucky-chimp.rooster465.autos:443?security=tls&sni=lucky-chimp.rooster465.autos#United+States
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#France
-trojan://PQ05174892@13.113.231.8:443?allowInsecure=1&fp=chrome&security=tls&sni=unbiased-coyote.rooster465.autos&type=tcp#Japan
-vless://d4d4d103-5074-47e9-96e6-5431f4e35c57@nodefulcrum.mooo.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=nodefulcrum.mooo.com&fp=edge&flow=xtls-rprx-vision&sid=6547735997055a35&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8#United+Kingdom
-trojan://AE62539071@game-firefly.rooster465.autos:443?security=tls&sni=game-firefly.rooster465.autos#United+Kingdom
-trojan://AE62539071@13.231.90.240:443?fp=chrome&security=tls&sni=pure-kodiak.rooster465.autos&type=tcp#Japan
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.254.190.23:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapore
-vless://9952b71a-6c86-4522-888f-ff9ea9b93536@104.25.220.68:443?security=tls&type=ws&path=/&host=1.hshs8227shhshs.workers.dev&packetEncoding=xudp&sni=1.hshs8227shhshs.workers.dev&fp=chrome#
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@66.175.217.170:443?security=reality&alpn=http/1.1&encryption=none&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=1a#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#United+Kingdom
-trojan://AE62539071@54.74.210.220:443?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=funny-hen.rooster465.autos#Ireland
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.19.45.195:443?security=tls&type=ws&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&host=josni.hoyes.cloudns.ch&packetEncoding=xudp&sni=josni.hoyes.cloudns.ch&fp=chrome#
-trojan://PQ05174892@fine-elf.rooster465.autos:443?security=tls&sni=fine-elf.rooster465.autos#Germany
-trojan://PQ05174892@18.199.174.201:443?security=tls&sni=casual-quail.rooster465.autos#Germany
-trojan://AE62539071@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#Japan
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:8443?security=tls&type=tcp&packetEncoding=xudp&alpn=h2,http/1.1&sni=estproxy4.lockdwn.com&fp=chrome#Iran
-vless://b6c29ae7-4748-4049-b642-b695c0d2c776@45.144.28.39:2053?security=reality&type=tcp&packetEncoding=xudp&sni=vk.ru&fp=chrome&flow=xtls-rprx-vision&sid=1eb8ea8dae937ae0&pbk=dRLd_E_GYCkCcwxLN5EcRQYsREKqisb26_ZSehxUpWY#The+Netherlands
-trojan://PQ05174892@13.212.200.61:443?fp=chrome&security=tls&sni=elegant-arachnid.rooster465.autos&type=tcp#Singapore
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@us63.mechvpn.online:443?insecure=1&security=tls&sni=us63.mechvpn.online#Indonesia
+hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@82.38.60.15:8443?insecure=1&security=tls&sni=hopp-us.yyuyy.com#United+Kingdom
+trojan://FH72359861@driven-bulldog.rooster465.autos:443?security=tls&sni=driven-bulldog.rooster465.autos#United+States
+hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443?security=tls&sni=gorbachev-new-th.kvnfreetest.uk#United+Kingdom
+trojan://FH72359861@great-wasp.rooster465.autos:443?allowInsecure=0&security=tls#Japan
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#United+States
+trojan://PQ05174892@just-alpaca.rooster465.autos:443?fp=chrome&security=tls&sni=just-alpaca.rooster465.autos&type=tcp#Hong+Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#United+Kingdom
+trojan://PQ05174892@smiling-ray.rooster465.autos:443?security=tls&sni=smiling-ray.rooster465.autos#Hong+Kong
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.120.9:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapore
+trojan://PQ05174892@major-duckling.rooster465.autos:443?security=tls&sni=major-duckling.rooster465.autos#Japan
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@82.38.4.126:443?flow=xtls-rprx-vision&fp=firefox&packetEncoding=xudp&security=tls&sni=de126.mechvpn.online&type=tcp#United+Kingdom
+trojan://PQ05174892@brief-flamingo.rooster465.autos:443?fp=chrome&security=tls&sni=brief-flamingo.rooster465.autos&type=tcp#Japan
+trojan://AE62539071@humorous-llama.rooster465.autos:443?security=tls&sni=humorous-llama.rooster465.autos#Australia
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@172.66.44.97:2053?path=%2F&security=tls&encryption=none&insecure=0&host=po.fastbrokencompony.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#United+States
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-001.fastervpn.world:443?insecure=1&security=tls&sni=vpn-fr-001.fastervpn.world#France
+vless://05cf7b0e-ad1a-42bb-80e7-73ae45b1019a@188.114.97.6:8443?path=/api/voip/updates/static/x9i2&security=tls&encryption=none&insecure=0&host=france.io-com-de-dev.org&ech=encryptedsni.com+udp://8.8.8.8&type=ws&allowInsecure=0&sni=france.io-com-de-dev.org#The+Netherlands
+trojan://PQ05174892@52.196.139.154:443?fp=chrome&security=tls&sni=sterling-vervet.rooster465.autos&type=tcp#Japan
+vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@16.176.42.97:443?security=tls&type=ws&path=/&host=zero.csmaster.ggff.net&packetEncoding=xudp&sni=zero.csmaster.ggff.net&fp=chrome#United+States
+hysteria2://Krab9Hyst2_Rk7pQ2xL@95.164.123.231:36723?insecure=1&security=tls&sni=www.cloudflare.com#United+States
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>

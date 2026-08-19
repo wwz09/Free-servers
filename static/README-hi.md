@@ -35,26 +35,26 @@
  <h4>नोड सूची: (यहां अधिकतम 20 नोड दिखाए जाते हैं। अन्य मुफ्त नोड ऐप में प्राप्त करें)</h4>
     
 ```
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.195:443?flow=xtls-rprx-vision&fp=chrome&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&security=reality&sid=82f5d3a1e9c0b661&sni=getsavesafe.net&type=tcp#Spain
-trojan://AE62539071@108.130.137.102:443?fp=chrome&security=tls&sni=worthy-labrador.rooster465.autos#Ireland
-hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@au1.xiaoliyu.cyou:4433?insecure=1&security=tls&sni=au1.xiaoliyu.cyou#United+Kingdom
-trojan://FH72359861@closing-falcon.rooster465.autos:443?fp=chrome&security=tls&sni=closing-falcon.rooster465.autos&type=tcp#Japan
-hysteria2://3b8c82ed-fe66-472d-915e-034ccb57103f@swe2.frkn.org:443?security=tls&sni=swe2.frkn.org#Russia
-trojan://PQ05174892@18.183.166.231:443?allowInsecure=1&fp=chrome&security=tls&sni=flexible-titmouse.rooster465.autos&type=tcp#Japan
-vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@94.183.170.231:443?encryption=none&security=&type=ws#Iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI=@108.181.57.93:8388#United+States
-vless://0d2a4938-cecd-44a3-a205-5a3089a369e8@162.55.242.208:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.google.com&fp=firefox&sid=ca83b007853bc115&pbk=QTaDxqLyJAvJ9uWKGwkKpYSGgnt6qQPNS-1WI_zKA2Q#Germany
-trojan://humanity@185.114.72.31:2053?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#Seychelles
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&encryption=none#Japan
-trojan://AE62539071@3.120.138.119:443?security=tls&sni=up-dinosaur.rooster465.autos#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#United+Kingdom
-trojan://FH72359861@52.196.34.5:443?fp=chrome&security=tls&sni=welcome-owl.rooster465.autos&type=tcp#Japan
-trojan://HC04361579@accepted-starling.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=accepted-starling.rooster465.autos#Japan
-trojan://AE62539071@35.88.210.26:443?security=tls&sni=dear-hermit.rooster465.autos#United+States
+trojan://FH72359861@probable-weasel.rooster465.autos:443?security=tls&sni=probable-weasel.rooster465.autos#Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#The+Netherlands
+trojan://FH72359861@funny-hawk.rooster465.autos:443?fp=chrome&security=tls&sni=funny-hawk.rooster465.autos&type=tcp#Singapore
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.32.171:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapore
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:17623?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&encryption=none#Singapore
+trojan://PQ05174892@simple-sunbeam.rooster465.autos:443?security=tls&sni=simple-sunbeam.rooster465.autos#Singapore
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.17.22.240:443?security=tls&type=ws&path=/&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net&fp=random&encryption=none#
+trojan://AE62539071@3.112.29.46:443?security=tls&sni=clear-killdeer.rooster465.autos#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080#The+Netherlands
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.117.43:443?encryption=none&type=ws&security=tls&path=musiclovers85?ed=512&host=josni.hoyes.cloudns.ch&sni=josni.hoyes.cloudns.ch&insecure=0&allowInsecure=0#
+vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.133:2053?security=tls&type=ws&path=/&host=forfreeuse.rtqa.ru&packetEncoding=xudp&sni=forfreeuse.rtqa.ru&fp=chrome#Poland
+vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=none&type=tcp&packetEncoding=xudp#Germany
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.134:443#France
+trojan://humanity@45.130.125.158:443?alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#Seychelles
+trojan://FH72359861@43.207.86.70:443?security=tls&sni=rich-gelding.rooster465.autos#Japan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#United+Kingdom
-trojan://ND91608427@35.72.13.34:443?security=tls&sni=casual-bee.rooster465.autos#Japan
-trojan://PQ05174892@sacred-anemone.rooster465.autos:443?security=tls&sni=sacred-anemone.rooster465.autos#Singapore
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&security=tls&sni=155.248.209.237#United+States
+trojan://PQ05174892@ideal-robin.rooster465.autos:443?security=tls&sni=ideal-robin.rooster465.autos#Hong+Kong
+trojan://PQ05174892@35.156.115.70:443?security=tls&sni=fine-elf.rooster465.autos#Germany
+trojan://AE62539071@13.229.94.200:443?security=tls&sni=massive-terrapin.rooster465.autos#Singapore
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
