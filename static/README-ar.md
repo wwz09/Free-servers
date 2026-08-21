@@ -35,26 +35,26 @@
  <h4>قائمة العقد: (يتم عرض 20 عقدة كحد أقصى هنا. تتوفر العقد المجانية الأخرى في التطبيق)</h4>
     
 ```
-trojan://humanity@104.16.174.46:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#
-vless://2942bae7-9dcf-4a2e-f928-933c0ab3eab0@139.180.198.220:52143?&type=tcp&headerType=none&path=/#Japan
-trojan://PQ05174892@52.195.7.13:443?security=tls&sni=intense-kid.rooster465.autos#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#Norway
-trojan://PQ05174892@musical-shrew.rooster465.autos:443?security=tls&sni=musical-shrew.rooster465.autos#France
-vless://432ab7a2-6e2b-4f0b-be4a-06bdcc714624@bftu-stnbal.servora.top:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&sid=0d8ca7e0b3d26321&pbk=mCDHZBY0AYAeY7Aj7COGaegrm7QAwfueYYSC02vqbSY#Hong+Kong
-trojan://AE62539071@194.99.79.189:443?fp=chrome&security=tls&sni=humorous-parakeet.rooster465.autos&type=tcp#Hong+Kong
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#United+Kingdom
-vless://26b35808-f1e1-4b97-8c69-46796f058d8b@172.67.174.249:443?security=tls&type=ws&path=/eyJqdW5rIjoicG9pMkt4TDY2TVNtRSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&host=ezaccess-project-9138d4.5f6on.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=eZaccESs-PROjeCT-9138d4.5f6ON.WORkerS.DeV&fp=chrome&encryption=none#United+States
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@140.99.223.72:443?security=reality&type=tcp&packetEncoding=xudp&sni=savesafe.run&fp=firefox&flow=xtls-rprx-vision&sid=e4f6a3446ac34a24&pbk=wx4B5IBeGc_0h6XZW6714G7951zLUYILv6eNRSgPDl8#United+States
-vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@[2605:e440:15::6b]:443?encryption=none&type=tcp&headerType=&fp=firefox&host=ccbf75e5s298.wagahaha.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u643766uccbf75e5s298.wagahaha.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#Hong+Kong
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.3.54:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nordic.cendora.ru&fp=firefox&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&type=tcp&headerType=none#United+Kingdom
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.213.188:443?security=reality&type=tcp&packetEncoding=xudp&sni=eu-west.cendora.ru&fp=chrome&flow=xtls-rprx-vision&sid=dd3ff38418d29d22&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&encryption=none#United+States
-trojan://f18d6149-e214-8554-e737-f7523c8b2eea@188.114.97.6:443?fp=chrome&path=%2Fsync&security=tls&sni=0403.infinityconfig4.workers.dev&type=ws#The+Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#United+Kingdom
-vless://My-chanel-5-@ATOVPN@138.124.29.81:57021?security=&encryption=none&headerType=none&type=tcp#Hungary
-trojan://PQ05174892@18.182.16.102:443?security=tls&sni=proud-escargot.rooster465.autos#Japan
-trojan://EQ30679154@unique-gobbler.rooster465.autos:443?security=tls&sni=unique-gobbler.rooster465.autos#Romania
-vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@195.63.135.112:443?security=reality&encryption=none&pbk=TzOfUDe1Pf7GnxEJuK1I6XD8nNe4ZsmRPCxL8aFwCXs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=v942892.hosted-by-vdsina.com&sid=1e623c6d7f4d01eb#Germany
-trojan://ND91608427@perfect-slug.rooster465.autos:443?security=tls&sni=perfect-slug.rooster465.autos#Japan
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@141.193.213.21:8443?security=tls&type=ws&path=/&host=josni.hoyes.cloudns.ch&packetEncoding=xudp&sni=josni.hoyes.cloudns.ch&fp=chrome#United+States
+trojan://FH72359861@34.245.159.68:443?fp=chrome&security=tls&sni=summary-firefly.rooster465.autos&type=raw#Ireland
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.168.133:443?security=reality&type=tcp&packetEncoding=xudp&sni=eu-central.cendora.ru&fp=firefox&flow=xtls-rprx-vision&sid=00bca5982f82d083&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#The+Netherlands
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@45.135.235.7:8443?security=tls&type=ws&path=/dula?Telegram-WangCai2&host=speed.dulacloud.store&ed=2560&packetEncoding=xudp&sni=speed.dulacloud.store&fp=chrome&encryption=none#Cura%C3%A7ao
+hysteria2://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.27.221:8080?security=tls&sni=borat-hopp.bumbleshrimp.com#United+States
+trojan://FH72359861@wise-gibbon.rooster465.autos:443?security=tls&sni=wise-gibbon.rooster465.autos#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.36:443#United+Kingdom
+hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvideo.click:443?insecure=1&security=tls&sni=fast.wwwinternetvideo.click#United+Kingdom
+vless://56971dae-1974-4ebe-a903-00e310828dd5@jwut-19a9lvb.univanta.top:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&sid=2694d28edfdd2c38&pbk=KdveJDEjZkGpf3Ymw3Ptu0cjDQ9geOY3ueMniWuWa2E#Macao
+vless://615d9f74-4d51-bad3-f240-2a8400000000@104.18.29.234:443?security=tls&type=ws&path=/silaber&host=main.packetloss-com.workers.dev&packetEncoding=xudp&sni=main.packetloss-com.workers.dev&fp=firefox&encryption=none#
+vless://e081da45-9fae-4687-9376-f9a6a0dbbe83@172.66.170.172:80?security=none&type=ws&path=/id-amz&host=e33xr.qzz.io&packetEncoding=xudp&encryption=none#United+States
+trojan://HC04361579@accepted-starling.rooster465.autos:443?security=tls&sni=accepted-starling.rooster465.autos#Japan
+vless://ff40696b-06d6-443b-9481-8d01eddd13e1@server.slavkiti.monster:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.foxsports.com&fp=chrome&flow=xtls-rprx-vision&sid=d659da01fb94&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&encryption=none#United+Kingdom
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6eDRuNCthQ2dNdUs4K1RrbCtoZXpLMC9jTVZSYmxyZVI0Rk9EYTJ0d0Urdz0=@129.151.71.151:61312#United+Kingdom
+vless://32626a62-8ca5-4b36-bef0-f771df8805ab@172.236.210.140:8443?security=reality&encryption=none&pbk=KmD_j9AlbGLqnGD611c_j_OB8yjRO_5009SaEsZUByg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=39297e26a17a2208#United+States
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2#Taiwan
+vless://73bcd72f-9545-4cb8-8daf-7d004501880d@172.67.65.53:2087?security=tls&type=ws&path=/fp=chrome&host=shanxp.dpdns.org&packetEncoding=xudp&sni=shanxp.dpdns.org&fp=chrome#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#The+Netherlands
+trojan://EQ30679154@liked-eft.rooster465.autos:443?security=tls&sni=liked-eft.rooster465.autos#Japan
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

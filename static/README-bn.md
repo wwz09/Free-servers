@@ -35,26 +35,26 @@
  <h4>নোড তালিকা: (এখানে সর্বোচ্চ 20টি নোড দেখানো হয়। অন্যান্য বিনামূল্যের নোড অ্যাপে পাওয়া যাবে)</h4>
     
 ```
-trojan://M7v%25w11Se%2A@34.94.125.227:443?security=tls&sni=mxlo.wsone.icu#United+States
-trojan://humanity@104.16.174.109:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@nl01ntrhy01.tcp-reset-club.net:443?alpn=h3&insecure=1&security=tls&sni=nl01ntrhy01.tcp-reset-club.net#The+Netherlands
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@45.12.30.7:8443?security=tls&type=ws&path=/dula?Telegram-WangCai2&host=speed.dulacloud.store&ed=2560&packetEncoding=xudp&sni=speed.dulacloud.store&fp=chrome&encryption=none#Romania
-vless://26b35808-f1e1-4b97-8c69-46796f058d8b@172.67.174.249:443?security=tls&type=ws&path=/eyJqdW5rIjoicG9pMkt4TDY2TVNtRSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&host=ezaccess-project-9138d4.5f6on.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=eZaccESs-PROjeCT-9138d4.5f6ON.WORkerS.DeV&fp=chrome&encryption=none#United+States
-vless://5aab0d40-c509-4560-b048-ade921fdfb6a@70.39.198.183:46197?security=reality&type=tcp&packetEncoding=xudp&sni=updates.cdn-apple.com&fp=chrome&sid=f24c17bb7fc284&pbk=npJEB6VpYJ9iYTZ-z0IL06Xs7PEz0N3fZU_IRwftQ00&encryption=none#United+States
-vless://0b06f318-ab9d-4de7-8779-360bd5f7ea67@ed8d.wdz.de5.net:443?encryption=none&security=tls&type=ws#United+States
-vless://9e3de7f7-a595-4117-b1b6-dc41eb870ab1@144.31.213.225:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=d6ff9019a77e354a&pbk=ABNRlkjlonYV9TOFYgjWwz0wn1s6sg_yCErsLYkU_Sg#United+States
-vless://362a79a2-ce89-8d2d-355c-f1f5071a445f@188.114.96.7:8443?security=tls&type=ws&path=/sync&host=fragrant-unit-d662.mmammatrix770088.workers.dev&packetEncoding=xudp&sni=fragrant-unit-d662.mmammatrix770088.workers.dev&fp=chrome&encryption=none#The+Netherlands
-trojan://AE62539071@35.88.210.26:443?fp=chrome&security=tls&sni=dear-hermit.rooster465.autos#United+States
-trojan://PQ05174892@35.90.27.143:443?security=tls&sni=evident-ant.rooster465.autos#United+States
-trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#
-trojan://PQ05174892@13.115.145.243:443?security=tls&sni=smooth-cougar.rooster465.autos#Japan
-vless://e97efd96-800e-4f10-a4b4-6a7f26412461@81.12.92.87:443?encryption=none&fp=chrome&pbk=XmHZyp4G35baYkx4UyykGnNCU5vWdKii3-pow32XUgs&security=reality&sid=b7867e3942e4d4&sni=origin-www.amazon.com&spx=/919306d56d70640&type=tcp#Iran
-trojan://humanity@188.114.98.0:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#The+Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:443#United+Kingdom
-trojan://PQ05174892@54.65.206.173:443?security=tls&sni=major-duckling.rooster465.autos#Japan
-vless://f9c6ae5c-a537-4ce1-8ad5-d1e579e0275f@209.200.246.86:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=c2f3117b3268d0a6&pbk=ECtV4BdcZKXG49uHtDX-71e1YVr7gu54ykbaBms9kh4#Canada
-trojan://FH72359861@bright-buffalo.rooster465.autos:443?security=tls&sni=bright-buffalo.rooster465.autos#Japan
-vless://099244b9-2168-4dbd-870e-cbbe9d6eb573@172.67.65.56:2053?security=tls&type=ws&path=/proxyip=ProxyIP.SG.CMLiussss.Net&host=whitecreeper.pages.dev&packetEncoding=xudp&sni=whitecreeper.pages.dev&fp=chrome#United+States
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-in-001.fastervpn.world:443?insecure=1&security=tls&sni=vpn-in-001.fastervpn.world#India
+trojan://AE62539071@35.72.10.188:443?allowInsecure=1&fp=chrome&security=tls&sni=immortal-woodcock.rooster465.autos&type=tcp#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.129:8080#The+Netherlands
+vless://15fd22d1-8931-4d41-af37-8ba6711e93fe@preview.netraidly.ru:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=qq&flow=xtls-rprx-vision&sid=84fc&pbk=d1gJntekIStCHyAwgJCuv-N4_BBx5dDQ7K6CeWmpMRo#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#United+Kingdom
+vless://8525fe74-67e6-4a55-8a26-95f227bd1384@8.39.125.152:8443?security=tls&type=ws&path=/&host=bitter-shadow-4fc5.alvlirm852.workers.dev&packetEncoding=xudp&sni=bitter-shadow-4fc5.alvlirm852.workers.dev&fp=chrome&encryption=none#Malaysia
+trojan://FH72359861@classic-pug.rooster465.autos:443?security=tls&sni=classic-pug.rooster465.autos#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.48:8080#United+Kingdom
+trojan://FH72359861@18.179.31.199:443?security=tls&sni=prompt-duckling.rooster465.autos#Japan
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443/?type=tcp&security=tls&sni=tr-latvia1.unlimited-access.ru&alpn=http/1.1&allowInsecure=1&fp=chrome#Latvia
+vless://bae47c97-9bc1-48f6-a133-a383ee71c12e@95.154.196.63:443?security=reality&encryption=none&pbk=o3OWFYnKad6q2C-eo6-rA74OCbjQoZfaUFYZsNqJJz0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=foodnetwork.com&sid=1e977d0b52eab755#United+Kingdom
+trojan://AE62539071@inviting-burro.rooster465.autos:443?security=tls&sni=inviting-burro.rooster465.autos#Japan
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@167.68.4.7:8443?security=tls&type=ws&path=/dula?Telegram-WangCai2&host=speed.dulacloud.store&ed=2560&packetEncoding=xudp&sni=speed.dulacloud.store&fp=chrome&encryption=none#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQkRSbzlUSHg0Q3FpRlU3aDVnZm92NzZvTnd6WlVSQWgwWndiV2pCS2RkdFVodno=@103.120.178.193:31348#India
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#United+States
+vless://907a940c-bad0-4356-a280-7dec12f1479e@sk1i-il4mxi.sparkra.top:443?security=reality&type=raw&packetEncoding=xudp&sni=www.bing.com&fp=firefox&flow=xtls-rprx-vision&sid=83dee8596e65d99e&pbk=zVJVCkcnyPjMZvx-GMQnnbkEgNiws80sppKB6A0uqBY#United+States
+trojan://PQ05174892@humorous-starling.rooster465.autos:443?security=tls&sni=humorous-starling.rooster465.autos#Japan
+trojan://EQ30679154@healthy-panda.rooster465.autos:443?security=tls&sni=healthy-panda.rooster465.autos#Ireland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.48:443#United+Kingdom
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#United+States
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>

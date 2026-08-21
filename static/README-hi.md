@@ -35,26 +35,26 @@
  <h4>नोड सूची: (यहां अधिकतम 20 नोड दिखाए जाते हैं। अन्य मुफ्त नोड ऐप में प्राप्त करें)</h4>
     
 ```
-trojan://FH72359861@lasting-jaguar.rooster465.autos:443?allowInsecure=1&fp=chrome&security=tls&sni=lasting-jaguar.rooster465.autos&type=tcp#Japan
-vless://c7e9c591-2764-423a-afca-efbd010fd396@213.183.61.100:2053?security=tls&type=ws&path=/&host=forfreeuse.rtqa.ru&packetEncoding=xudp&sni=forfreeuse.rtqa.ru&fp=chrome#The+Netherlands
-vless://e01fcb68-3112-49da-b85d-dffb799cfc9b@156.246.88.125:26518?security=reality&type=raw&packetEncoding=xudp&sni=github.com&fp=firefox&flow=xtls-rprx-vision&sid=6caead99&pbk=1fa6iCY7vhoQyKu91FeaK04FN-mr1qeHnrtdyLZ79mk#United+States
-trojan://FH72359861@internal-mongoose.rooster465.autos:443?security=tls&sni=internal-mongoose.rooster465.autos#Japan
-vless://b748a230-b157-4401-8423-f8e44df31b5e@82.117.255.87:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=1xxZM10W-A8nuj6MOXFd1kA9lS7bEy-5SO5j-jrd_Cg&sid=b70076439f4a1340#Romania
-vless://5659b42c-636f-4563-ac41-87d565d0dd1e@cf2.466688.xyz:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.JP.autumniussss.net&host=autumn-base-0eb9.116-d25.workers.dev&packetEncoding=xudp&encryption=none#
-trojan://PQ05174892@13.231.123.180:443?security=tls&sni=fair-reptile.rooster465.autos#Japan
-vless://c648c6d0-4d3e-4f51-8ee6-4fcdbdddd684@peekconfig.hamrahfree2.workers.dev:2096?security=tls&type=ws&path=/eyJqdW5rIjoibTBZdXp5cm93NSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSIsIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iLCJbMjYwMjpmYzU5OmIwOjY0OjpdIl19?ed=2560&host=peekconfig.hamrahfree2.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=PEekCoNFig.hAMRahfreE2.wORKERs.dEv&fp=chrome&encryption=none#United+States
-vless://a22bff60-a40a-4250-bde2-4c660e363b47@104.17.169.13:2053?security=tls&type=ws&path=/axch1mttbxz2k55y01&host=inDeX.HaRMONiCA01.WORkers.DeV&packetEncoding=xudp&alpn=http/1.1&sni=inDeX.HaRMONiCA01.WORkers.DeV&fp=chrome&encryption=none#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#Germany
-vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@45.150.66.31:443?security=tls&type=ws&path=/&packetEncoding=xudp&sni=gb1.wba-pn.ru&fp=chrome&encryption=none#Seychelles
-trojan://AE62539071@87.121.33.185:443?allowInsecure=1&fp=chrome&security=tls&sni=humorous-llama.rooster465.autos&type=tcp#Australia
-trojan://PQ05174892@51.44.167.144:443?type=tcp&security=tls&sni=immune-earwig.rooster465.autos#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSU9vaTVUdUltRzJLY2N4VjctamNBN0Nleit2dW4tY19F@104.156.233.234:27116#Australia
-trojan://PQ05174892@lucky-marmot.rooster465.autos:443?security=tls&sni=lucky-marmot.rooster465.autos#France
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#Denmark
-vless://8d82944e-17b9-473f-a456-dec9a6e21471@188.114.96.2:2096?security=tls&type=ws&path=/eyJqdW5rIjoidnlSRWhQQ3ZCNGZRNHVYMyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==&host=peekconfig.peekconf1.workers.dev&packetEncoding=xudp&sni=peekconfig.peekconf1.workers.dev&fp=chrome&encryption=none#The+Netherlands
-trojan://AE62539071@pleased-pelican.rooster465.autos:443?fp=chrome&security=tls&sni=pleased-pelican.rooster465.autos&type=tcp#Japan
-trojan://PQ05174892@3.113.21.187:443?security=tls&sni=awaited-lark.rooster465.autos#Japan
-trojan://humanity@104.18.152.244:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#
+trojan://PQ05174892@54.249.94.94:443?fp=chrome&security=tls&sni=inspired-hound.rooster465.autos&type=tcp#Japan
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@185.135.9.7:8443?security=tls&type=ws&path=/dula?Telegram-WangCai2&host=speed.dulacloud.store&ed=2560&packetEncoding=xudp&sni=speed.dulacloud.store&fp=chrome&encryption=none#Germany
+vless://e6b59d15-364c-4025-899a-84efa291d651@172.67.213.218:2096?security=tls&type=ws&path=/eyJqdW5rIjoiYWNoMkxHaUVYIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&host=red-surf-2007.matriska.workers.dev&ed=2560&packetEncoding=xudp&alpn=http/1.1&sni=REd-suRf-2007.MatriSkA.wOrkeRs.DeV&fp=chrome&encryption=none#United+States
+hysteria2://083417772bc618cd61f0cca23dd91680@gorbachev-new-th.kvnfreetest.uk:55443?insecure=0&security=tls&sni=gorbachev-new-th.kvnfreetest.uk#United+Kingdom
+trojan://humanity@104.18.152.97:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+vless://5f4845b4-11dc-41d6-9508-4ff6a02e36c1@104.18.12.149:80?security=none&type=ws&path=/ @ProxyVPN11&host=silent-paper-fa57.fipiyag989.workers.dev&packetEncoding=xudp&encryption=none#
+trojan://HC04361579@52.198.235.67:443?fp=chrome&security=tls&sni=pet-albacore.rooster465.autos&type=tcp#Japan
+vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?security=reality&encryption=none&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&headerType=none&fp=chrome&spx=/fdded5f9698d939&type=tcp&sni=www.cloudflare.com&sid=cfe08c23a85f24#The+Netherlands
+vless://63f1ce15-1a88-4698-8a0e-59b85d75e607@free.server11peekconfig.workers.dev:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=free.server11peekconfig.workers.dev&path=%2FeyJqdW5rIjoiNDIxWGNPNW5CQXYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OmIwOjY0OjpdIiwiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ%3D%3D&security=tls&sni=FRee.SeRver11pEEkcONFIg.WorkeRS.DEv&type=ws#United+States
+trojan://humanity@216.24.57.1:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#United+States
+vless://7967bf59-57e3-4cde-9898-527b0fe60022@45.128.76.7:8443?security=tls&type=ws&path=/dula?Telegram-WangCai2&host=speed.dulacloud.store&ed=2560&packetEncoding=xudp&sni=speed.dulacloud.store&fp=chrome&encryption=none#Seychelles
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.108:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
+trojan://EQ30679154@trusting-elf.rooster465.autos:443?fp=chrome&security=tls&sni=trusting-elf.rooster465.autos&type=tcp#Japan
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443?insecure=1&security=tls&sni=css.rbxcdn.com#Canada
+vless://b052df40-d51c-456c-9bd6-57af01a87e4e@cdn.pinecloud.net:443?security=reality&type=tcp&packetEncoding=xudp&sni=cdn.pinecloud.net&fp=chrome&flow=xtls-rprx-vision&sid=6a2e3af684799b19&pbk=vWSgdMDirb9aDZLWijSXXXl-NCTrtBgEe9MQqcgV6h8&encryption=none#United+States
+vless://5aab0d40-c509-4560-b048-ade921fdfb6a@70.39.198.93:46197?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=updates.cdn-apple.com&fp=chrome&sid=f24c17bb7fc284&pbk=npJEB6VpYJ9iYTZ-z0IL06Xs7PEz0N3fZU_IRwftQ00#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU=@51.77.225.200:8388#France
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@91.239.208.213:443?security=tls&type=tcp&packetEncoding=xudp&sni=fr213.mechvpn.online&fp=qq&flow=xtls-rprx-vision#France
+trojan://humanity@104.18.152.140:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
+vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@s2317.okgfwbackxyz.xyz:443?encryption=none&type=tcp&headerType=&fp=firefox&host=75eebf99s2316.kukuss.top&path=&flow=xtls-rprx-vision&security=tls&sni=u643766u75eebf99s2316.kukuss.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#United+States
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
