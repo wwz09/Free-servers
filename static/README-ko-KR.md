@@ -35,26 +35,26 @@
  <h4>노드 목록: (여기에는 최대 20개 노드만 표시됩니다. 다른 무료 노드는 앱에서 받을 수 있습니다.)</h4>
     
 ```
-vless://c7e9c591-2764-423a-afca-efbd010fd396@87.106.141.152:2053?security=tls&type=ws&path=/&host=forfreeuse.rtqa.ru&packetEncoding=xudp&sni=forfreeuse.rtqa.ru&fp=chrome#Germany
-vless://8ccb3a94-9e3c-45d0-a280-850faea6bbff@openai.com:443?security=tls&type=ws&path=/vl/EpnESUGGdoM40CHmsDT?ed=2560&host=fdjl8sdmc774ru70b3a45lv4w8.akbar1sale6.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=Fdjl8SDMC774ru70B3A45Lv4W8.aKBAr1SAle6.WORkerS.deV&fp=chrome&encryption=none#United+States
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#United+States
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.170:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=chrome&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
-vless://5aab0d40-c509-4560-b048-ade921fdfb6a@70.39.198.183:46197?security=reality&type=raw&packetEncoding=xudp&sni=updates.cdn-apple.com&fp=chrome&sid=f24c17bb7fc284&pbk=npJEB6VpYJ9iYTZ-z0IL06Xs7PEz0N3fZU_IRwftQ00#United+States
+vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@fin2.freeinternat.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=fin2.freeinternat.com&fp=firefox&flow=xtls-rprx-vision&sid=ff776ff77be48b88&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk#United+States
+vmess://eyJhZGQiOiAicnVzaC13MW5pdS50ZWVvcHAub25saW5lIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInJ1c2gtdzFuaXUudGVlb3BwLm9ubGluZSIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZpZGVvL3Y0c3gzcS96eHpydXJrYy5tM3U4IiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+trojan://EQ30679154@35.156.13.144:443?security=tls&sni=normal-cow.rooster465.autos#Germany
+trojan://AE62539071@known-albacore.rooster465.autos:443?security=tls#Japan
+trojan://PQ05174892@charmed-fly.rooster465.autos:443?security=tls&sni=charmed-fly.rooster465.autos#Japan
+trojan://humanity@104.18.152.159:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4yMzMiLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE4MCIsICJwcyI6ICJVbml0ZWQgS2luZ2RvbSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#United+Kingdom
+trojan://FH72359861@comic-poodle.rooster465.autos:443?security=tls&sni=comic-poodle.rooster465.autos#United+States
+vless://5aab0d40-c509-4560-b048-ade921fdfb6a@70.39.198.183:46197?security=reality&type=tcp&packetEncoding=xudp&sni=updates.cdn-apple.com&fp=chrome&sid=f24c17bb7fc284&pbk=npJEB6VpYJ9iYTZ-z0IL06Xs7PEz0N3fZU_IRwftQ00&encryption=none#United+States
+vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@latv1.panel11.ru:443?security=reality&encryption=none&sni=latv1.panel11.ru&fp=chrome&pbk=9k0Tho_X2lcM32lOzqziSSfkZWoTIQQ5_oLBJ30yczI&sid=0a8728561c252ff5&flow=xtls-rprx-vision#United+Kingdom
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.19.45.195:443?security=tls&type=ws&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&host=josni.hoyes.cloudns.ch&packetEncoding=xudp&sni=josni.hoyes.cloudns.ch&fp=chrome#
+vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?security=reality&type=tcp&packetEncoding=xudp&sni=ai.android&fp=chrome&flow=xtls-rprx-vision&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM#Germany
+trojan://PQ05174892@intense-kid.rooster465.autos:443?security=tls&sni=intense-kid.rooster465.autos#Japan
+trojan://humanity@216.24.57.7:443?security=tls&sni=www.ignitelimit.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#United+States
+vless://ae2e0637-5c9d-422b-93ac-70bd3fceeb81@201.51.23.91:443?security=tls&type=ws&path=/&packetEncoding=xudp&sni=hys40.wba-pn.ru&fp=chrome&encryption=none#Brazil
+trojan://AE62539071@upward-yak.rooster465.autos:443?security=tls&sni=upward-yak.rooster465.autos#Japan
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.86.136:443?type=tcp&headerType=none&security=reality&encryption=none&sni=eu-west.cendora.ru&fp=chrome&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&sid=dd3ff38418d29d22&flow=xtls-rprx-vision#United+States
-trojan://PQ05174892@powerful-squid.rooster465.autos:443?fp=chrome&security=tls&sni=powerful-squid.rooster465.autos&type=tcp#The+Netherlands
-vless://432ab7a2-6e2b-4f0b-be4a-06bdcc714624@bftu-stnbal.servora.top:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&sid=0d8ca7e0b3d26321&pbk=mCDHZBY0AYAeY7Aj7COGaegrm7QAwfueYYSC02vqbSY#Hong+Kong
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#Australia
-vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@193.142.59.97:443?encryption=none&type=tcp&headerType=&fp=firefox&host=bfb7b8f7s861.gogocs.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u643766ubfb7b8f7s861.gogocs.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#Germany
-vless://308cf8e0-e922-49bb-9b68-203e5aafcc97@188.130.234.239:443?encryption=none&fp=firefox&mode=multi&pbk=xXxqDpB8gQjBddOHSOFb52xVS2Odmb63z1PYhMqe0Uo&security=reality&sid=1a55b8fd25417fbf&sni=kz.node.goidanet.com&type=grpc#Kazakhstan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5VEVYV0I2WEJIeXY5U2ZRSnpDU1JXQ25SWXV0RmRVWGcxd2JjYnV0eFB3WkU2VXhjdXJrYTNHa29hdGdFZFg0ODNYWlNIZUpwM2pYY1RTaExDUk04clBnTUYzdllOZlM=@217.28.129.81:42982#United+States
-vless://624dbb1d-d38b-4ed1-a967-f483af364eca@news.zoom.us:8443?security=tls&type=ws&path=/&host=zero.csmaster.ggff.net&packetEncoding=xudp&sni=zero.csmaster.ggff.net&fp=chrome&encryption=none#United+States
-trojan://FH72359861@alive-snapper.rooster465.autos:443?security=tls&sni=alive-snapper.rooster465.autos#The+Netherlands
-vless://6179ce37-97b2-4ac7-9591-b4b2bfaca09d@109.121.44.81:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amd.com&fp=firefox&flow=xtls-rprx-vision&sid=0a4b7c3d&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4#South+Africa
-trojan://humanity@104.16.174.22:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2F%2Fassignment&Host=www.ignitelimit.com#
-trojan://PQ05174892@mighty-lemming.rooster465.autos:443?security=tls&sni=mighty-lemming.rooster465.autos#Japan
-trojan://Telegram_healer_config@104.21.16.123:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FqL8YIeH28wNcXfNTPgLCwOhNFEr%3Fed%3D2560&security=tls&sni=7X7o3VTq5z6ymu3Hv1fH-Op9BlT.hYa6LOSM6lZNOXHm6w3MK.woRKErS.DeV&type=ws#
-vless://bd99da97-265e-0021-82cc-4ec009fe9ce2@5.61.91.206:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amd.com&fp=firefox&flow=xtls-rprx-vision&sid=0a4b7c3d&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&encryption=none#Finland
-vless://615d9f74-4d51-bad3-f240-2a8400000015@104.17.148.22:443?security=tls&type=ws&path=/silaber&host=main.packetloss-com.workers.dev&packetEncoding=xudp&sni=main.packetloss-com.workers.dev&fp=firefox&encryption=none#
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@savesafe.co:443?security=reality&type=tcp&packetEncoding=xudp&sni=savesafe.co&fp=firefox&flow=xtls-rprx-vision&sid=f63805c3ecc7a483&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI#United+States
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>

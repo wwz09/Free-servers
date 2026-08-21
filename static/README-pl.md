@@ -35,26 +35,26 @@
  <h4>Lista węzłów: (Tutaj wyświetlanych jest maksymalnie 20 węzłów. Pozostałe bezpłatne węzły są dostępne w aplikacji.)</h4>
     
 ```
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@182.16.61.3:45647?encryption=none&security=&type=raw#Hong+Kong
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2Fclashv8%F0%9F%87%A8%F0%9F%87%B3#Hong+Kong
-vless://580af126-448f-407b-a4c2-785e702cd8ea@104.17.21.137:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=misty-wood-62b4.263-93e.workers.dev&packetEncoding=xudp#
-trojan://PQ05174892@54.249.187.217:443?security=tls&sni=modest-amoeba.rooster465.autos#Japan
-trojan://AE62539071@novel-mouse.rooster465.autos:443?security=tls&sni=novel-mouse.rooster465.autos#Hong+Kong
-trojan://EQ30679154@discrete-basilisk.rooster465.autos:443?security=tls&sni=discrete-basilisk.rooster465.autos#United+Kingdom
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@172.67.191.52:2053?security=tls&type=ws&path=/&host=po.fastbrokencompony.com&packetEncoding=xudp&alpn=h3,h2&sni=po.fastbrokencompony.com&fp=chrome&encryption=none#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#Spain
-vless://8fc03edf-6833-4c58-bbe4-0b35806dae84@ql6k-m23nix.logicara.top:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&sid=01d72fe094c8f6ef&pbk=IZz9Lj4tnHzNj9AkGlcOQxQXMJe0EGZLtIyX1a_yNAg#United+Kingdom
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@188.114.97.3:2053?security=tls&type=ws&path=/&host=po.fastbrokencompony.com&packetEncoding=xudp&alpn=h3,h2&sni=po.fastbrokencompony.com&fp=chrome&encryption=none#The+Netherlands
-trojan://FH72359861@15.237.112.48:443?security=tls&sni=smiling-fowl.rooster465.autos#France
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.132:8080?security=tls&sni=grape-turbo-fr.roxa.org#The+Netherlands
-trojan://AE62539071@51.44.161.22:443?allowInsecure=1&fp=chrome&security=tls&sni=distinct-quail.rooster465.autos#France
-vmess://eyJhZGQiOiAicnVzaC13MW5pdS50ZWVvcHAub25saW5lIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogImNocm9tZSIsICJob3N0IjogInJ1c2gtdzFuaXUudGVlb3BwLm9ubGluZSIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZpZGVvL3Y0c3gzcS96eHpydXJrYy5tM3U4IiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICJydXNoLXcxbml1LnRlZW9wcC5vbmxpbmUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-vless://4bc8ff7a-20b4-41b2-9751-dfca869f0553@45.150.66.31:443?security=tls&type=ws&path=/&packetEncoding=xudp&sni=gb1.wba-pn.ru&fp=chrome&encryption=none#Seychelles
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#Denmark
-ss://YWVzLTI1Ni1nY206SGk5d2sxNFZudHpHcTdrcQ==@154.12.242.150:80#United+States
-vless://7967bf59-57e3-4cde-9898-527b0fe60022@104.254.140.7:8443?security=tls&type=ws&path=/dula?Telegram-WangCai2&host=speed.dulacloud.store&ed=2560&packetEncoding=xudp&sni=speed.dulacloud.store&fp=chrome&encryption=none#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:443#The+Netherlands
-trojan://PQ05174892@free-tuna.rooster465.autos:443?fp=chrome&security=tls&sni=free-tuna.rooster465.autos&type=tcp#Japan
+trojan://PQ05174892@35.91.98.35:443?fp=chrome&security=tls&sni=mature-lamprey.rooster465.autos&type=tcp#United+States
+vless://56971dae-1974-4ebe-a903-00e310828dd5@jwut-19a9lvb.univanta.top:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&sid=2694d28edfdd2c38&pbk=KdveJDEjZkGpf3Ymw3Ptu0cjDQ9geOY3ueMniWuWa2E#Macao
+trojan://FH72359861@52.195.233.147:443?fp=chrome&security=tls&sni=touching-ostrich.rooster465.autos&type=tcp#Japan
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@64.188.77.13:443?type=tcp&headerType=none&sid=dd3ff38418d29d22&fp=chrome&security=reality&sni=eu-west.cendora.ru&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&flow=xtls-rprx-vision&encryption=none#United+States
+vless://5aab0d40-c509-4560-b048-ade921fdfb6a@70.39.198.183:46197?security=reality&type=tcp&packetEncoding=xudp&sni=updates.cdn-apple.com&fp=chrome&sid=f24c17bb7fc284&pbk=npJEB6VpYJ9iYTZ-z0IL06Xs7PEz0N3fZU_IRwftQ00&encryption=none#United+States
+trojan://humanity@104.18.152.140:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
+vless://55d61055-1a7f-4bc5-aca2-4ee78c738b60@sahanwickramasinghevip.shop:443?encryption=none&security=tls&type=tcp#Singapore
+trojan://FH72359861@52.195.225.156:443?fp=chrome&security=tls&sni=many-pangolin.rooster465.autos&type=tcp#Japan
+trojan://AE62539071@18.183.109.172:443?fp=chrome&security=tls&sni=well-jennet.rooster465.autos&type=tcp#Japan
+trojan://FH72359861@primary-leech.rooster465.autos:443?security=tls&sni=primary-leech.rooster465.autos#United+Kingdom
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@180.178.60.253:10000?encryption=none&security=&type=tcp#Hong+Kong
+hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@streambox.wwwinternetvideo.click:443?insecure=1&security=tls&sni=streambox.wwwinternetvideo.click#Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#Australia
+trojan://humanity@104.18.152.225:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576?security=reality&type=raw&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#United+States
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.90.120:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzA2OWQyMjZmMDAzZmFi@154.205.147.166:11201#Seychelles
+ss://YWVzLTI1Ni1nY206a1JLWkUzWmhFQ3dhd3kxTg==@94.72.127.55:80#Poland
+trojan://humanity@104.17.111.4:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
+trojan://FH72359861@welcome-owl.rooster465.autos:443?security=tls&sni=welcome-owl.rooster465.autos#Japan
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>
