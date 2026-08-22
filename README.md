@@ -36,22 +36,22 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-vless://ce99a4f9-02a4-4476-d31d-8152b0d999ea@151.101.56.6:443?path=/?TELEGRAM--KANAL--@VPNine1--@VPNine1--@VPNine1--@VPNine1--@VPNine1--@VPNine1--@VPNine1--@VPNine1--@VPNine1--@VPNine1--@VPNine1--@VPNine1&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%E7%BE%8E%E5%9B%BD+%E4%B9%94%E6%B2%BB%E4%BA%9A%E6%B4%B2%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7Fastly%E8%8A%82%E7%82%B9
-vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683/?type=tcp&encryption=none&flow=&packetEncoding=xudp#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E8%85%BE%E8%AE%AF%E4%BA%91
-hysteria2://083417772bc618cd61f0cca23dd91680@gorbachev-new-th.kvnfreetest.uk:55443?insecure=1&security=tls&sni=gorbachev-new-th.kvnfreetest.uk#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-trojan://humanity@172.67.74.2:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@sk2.sywl4.uk:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sk2.sywl4.uk&fp=chrome&security=reality&pbk=ETeAUJpZugcGIO-dbjgx55mH835m026nveRvLYVsuU4&sid=abcdef99#%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B+V2CROSS.COM
-trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://2cf79e40-74fe-4de9-ae0e-e496620a09a6@mtn.v2plus.ovh:80?security=none&type=ws&path=/BMnajv3ovlpn8Abs&host=worker3.fexepit851.workers.dev&ed=2560&packetEncoding=xudp&sni=worker3.fexepit851.workers.dev#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-hysteria2://1e3a5c5fde1da9dd1358b4adeb0c4ca1@45.32.252.144:443?security=tls&sni=vps.vpsv.cc#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACChoopa%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080/?security=tls&sni=hopp-legend-se.roxa.org#%E6%8C%AA%E5%A8%81+V2CROSS.COM
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.5.26:13443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.cendora.ru&fp=firefox&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&headerType=none#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-trojan://humanity@render.com:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+%E5%8A%A0%E5%B7%9E
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.3.54:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nordic.cendora.ru&fp=chrome&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&type=tcp&headerType=none#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?encryption=none&security=none&fp=chrome&type=ws&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&path=%2F#%E7%BE%8E%E5%9B%BD+%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2
+trojan://humanity@141.101.90.101:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E+CloudFlare%E8%8A%82%E7%82%B9
 hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@replay.wwwinternetvideo.click:443?insecure=1&security=tls&sni=replay.wwwinternetvideo.click#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://15e83ced-7544-422e-863d-deafe29a1dbe@2.27.201.184:443?security=reality&encryption=none&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=635a76c25a4b1820#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-trojan://humanity@8.6.112.0:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+%E5%BE%97%E5%85%8B%E8%90%A8%E6%96%AF%E5%B7%9E%E8%BE%BE%E6%8B%89%E6%96%AFCloudflare+Warp%E8%8A%82%E7%82%B9
-vless://878dd962-027b-4bd3-a1f8-66be68a03c4d@deepl.com:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=young-wind-3c58.240-2ce.workers.dev&packetEncoding=xudp&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@sk.sywl4.uk:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sk.sywl4.uk&fp=chrome&security=reality&pbk=vLixH3QobMv6Rg4UcGbMp49i-w1asnw3Bsgv_gwm4DQ&sid=abcdef99#%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B+V2CROSS.COM
+vless://0c6c9627-95fe-418a-bd4c-50df888c44bd@mci.v2plus.ovh:80?security=none&type=ws&path=/ffEt2nn4iTWiXfi8&host=worker3.bobiv63003.workers.dev&ed=2560&packetEncoding=xudp&sni=worker3.bobiv63003.workers.dev#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://MiTiVPN@140.248.185.253:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=4x-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.70.31:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=baltic.cendora.ru&fp=edge&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&sid=4a46213c935e2ee4&type=tcp&headerType=none&host=baltic.cendora.ru&path=%2F#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+vless://9f8e7d6c-5b4a-4321-8b7a-6c5d4e3f2a1b@172.66.47.69:80?encryption=none&host=free-hzr26-cdn.sabzi.name.ng.&path=/&security=none&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://67e40783-6546-4fda-90f6-9ee3c5b2efff@188.114.98.0:80?security=none&type=ws&path=/CkgzR7qmHg0TxS4D&host=worker3.ragiki7564.workers.dev&ed=2560&packetEncoding=xudp&sni=worker3.ragiki7564.workers.dev#%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97+CloudFlare%E8%8A%82%E7%82%B9
+vless://878dd962-027b-4bd3-a1f8-66be68a03c4d@172.64.151.134:8880?security=none&type=ws&path=/&host=young-wind-3c58.240-2ce.workers.dev&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@91.110.174.210:8443?encryption=none&security=tls&sni=rubifen.adaspoloandco.com&insecure=0&allowInsecure=0&type=ws&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+trojan://humanity@104.26.14.137:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://c7e9c591-2764-423a-afca-efbd010fd396@217.60.63.206:2053?security=tls&type=ws&path=/&host=forfreeuse.rtqa.ru&packetEncoding=xudp&sni=forfreeuse.rtqa.ru&fp=chrome#%E4%BC%8A%E6%9C%97+V2CROSS.COM
+vless://48b1d8af-1720-4462-a0ec-de493331ceb3@www.baipiao.eu.org:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=square-mountain-1d69.356-977.workers.dev&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97+CloudFlare%E8%8A%82%E7%82%B9
+hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080/?security=tls&sni=hopp-legend-se.roxa.org#%E6%8C%AA%E5%A8%81+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
