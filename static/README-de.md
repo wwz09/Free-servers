@@ -35,26 +35,26 @@
  <h4>Knotenliste: (Hier werden maximal 20 Knoten angezeigt. Weitere kostenlose Knoten erhalten Sie in der App.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080#UK
-vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=fd8cf7e1173f0edb&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&encryption=none#Spanien
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080?security=tls&sni=hopp-legend-se.roxa.org#Ukraine
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.18.32.47:443?path=/&security=tls&encryption=none&insecure=0&host=ro-3.ariyuz.org&type=ws&allowInsecure=0&sni=ro-3.ariyuz.org#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#Niederlande
-vless://840476ec-64a2-496e-b406-c5a0ca1e4a13@zero.csmaster.ggff.net:443?encryption=none&security=tls&type=ws#Kuwait
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@15.204.247.175:8008#USA
-vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@us.rexten.cc:443?security=reality&type=raw&packetEncoding=xudp&sni=us.rexten.cc&fp=firefox&flow=xtls-rprx-vision&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&encryption=none#T%C3%BCrkei
-vless://928e6cce-8ced-4243-9a48-a6642edd09b0@103.149.183.198:13779?security=reality&encryption=none&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tesla.com&sid=af1bdd293097b664#Hongkong
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576?security=reality&type=raw&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#USA
-hy2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@streambox.wwwinternetvideo.click:443/?insecure=1&security=tls&sni=streambox.wwwinternetvideo.click#Iran
-vless://a1bb74cc-38e8-49cf-ab05-59e9bdf7880c@201.24.117.62:14407?security=reality&encryption=none&pbk=ldAmsl3dqTCUBmlmA8CS9ZnpznP6cFWj9AxNddWnbxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=1a2b3c4d5e6f7a8b#Brasilien
-hysteria2://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.27.210:8443?insecure=1&security=tls&sni=borat-hopp.bumbleshrimp.com#USA
-ss://YWVzLTI1Ni1nY206alNVN2JHS3VwUTk2WUZ2Zg==@139.180.133.90:80#Singapur
-trojan://humanity@104.18.152.159:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#
-hysteria2://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@de1.xiaoliyu.cyou:4433?insecure=1&security=tls&sni=127.0.0.1#Deutschland
-hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@streambox.wwwinternetvideo.click:443?insecure=1&security=tls&sni=streambox.wwwinternetvideo.click#Iran
-vless://a88e2744-3555-4a0a-9635-0aae23e038f8@45.134.38.204:8052?encryption=none&security=reality&sni=www.amd.com&fp=chrome&pbk=hjJ1VN2xwcl1n7vrwvOspB2NFWrXNySUNPexutOVvAM&sid=84c94774c54ba6&spx=/prRl2Hy5BiBqP2Z&type=tcp&headerType=none#USA
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.62.167:443?security=reality&type=tcp&packetEncoding=xudp&sni=eu-west.cendora.ru&fp=firefox&flow=xtls-rprx-vision&sid=dd3ff38418d29d22&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0#UK
-ss://YWVzLTI1Ni1nY206a1JLWkUzWmhFQ3dhd3kxTg==@94.72.127.55:443#Polen
+vmess://eyJhZGQiOiAiMjE2LjEwNi4xODUuMTQxIiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgIm5ldCI6ICJyYXciLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMjMyNCIsICJwcyI6ICJVU0EiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+hy2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-germany.unlimited-access.ru:8443/?insecure=1&security=tls&sni=hy2-germany.unlimited-access.ru#Ukraine
+vmess://eyJhZGQiOiAiNjcuMjIwLjg1LjQ2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE4MDAwIiwgInBzIjogIlVTQSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://534cbbe2-cc36-4f2d-8fb0-90410e7148c9@147.45.145.127:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&sid=52a6&pbk=tWRR3W8jBAQKBUujLzL7Xri3WXy3F08OxHYrkSOnlAc&encryption=none#Russland
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&security=tls&sni=127.0.0.1#Deutschland
+hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@de.1.22.washing.help:443?insecure=1&security=tls&sni=germany1.h2corp.local#Deutschland
+hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080/?security=tls&sni=hopp-legend-se.roxa.org#Ukraine
+vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@s737.freessr.bid:18443?encryption=none&type=tcp&headerType=&fp=firefox&host=f346dfdes709.gogocs.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u643766uf346dfdes709.gogocs.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#Kanada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#UK
+hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@replay.wwwinternetvideo.click:443?insecure=1&security=tls&sni=replay.wwwinternetvideo.click#USA
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@mfa.gov.ua:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&path=%2F&security=tls&sni=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&type=ws#
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#UK
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#Niederlande
+hysteria2://2544ad8a388f1b7e6d1c878f5a7d121c@213.35.114.141:50160?insecure=1&security=tls&sni=www.bing.com#Singapur
+vless://d71aecee-ef16-418e-baf5-2b2458122d5a@194.31.223.87:5443?security=tls&type=tcp&packetEncoding=xudp&sni=de.wlrus.cfd&fp=firefox#Niederlande
+vless://7efc901f-7862-40e8-902b-4bfad8f8ca88@213.165.40.175.sslip.io:2083?encryption=none&fp=chrome&security=tls&sni=213.165.40.175.sslip.io&type=tcp#Libanon
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.211:8080#UK
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#Frankreich
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.134:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=chrome&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&encryption=none#Spanien
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
