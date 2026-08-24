@@ -1,0 +1,93 @@
+
+<div align="center">
+
+**Languages:**
+
+[![English](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](README-en.md)
+[![Arabic](https://img.shields.io/badge/Language-Arabic-red?style=for-the-badge)](README-ar.md)
+[![German](https://img.shields.io/badge/Language-German-red?style=for-the-badge)](README-de.md)
+[![Vietnamese](https://img.shields.io/badge/Language-Vietnamese-red?style=for-the-badge)](README-vi.md)
+[![Indonesian](https://img.shields.io/badge/Language-Indonesian-red?style=for-the-badge)](README-id.md)
+[![Urdu](https://img.shields.io/badge/Language-Urdu-red?style=for-the-badge)](README-ur-PK.md)
+[![Portuguese](https://img.shields.io/badge/Language-Portuguese-red?style=for-the-badge)](README-pt-BR.md)
+[![Spanish](https://img.shields.io/badge/Language-Spanish-red?style=for-the-badge)](README-es.md)
+[![Russian](https://img.shields.io/badge/Language-Russian-red?style=for-the-badge)](README-ru.md)
+[![Polish](https://img.shields.io/badge/Language-Polish-red?style=for-the-badge)](README-pl.md)
+[![Korean](https://img.shields.io/badge/Language-Korean-red?style=for-the-badge)](README-ko-KR.md)
+[![French](https://img.shields.io/badge/Language-French-red?style=for-the-badge)](README-fr.md)
+[![Japanese](https://img.shields.io/badge/Language-Japanese-red?style=for-the-badge)](README-ja.md)
+[![Hindi](https://img.shields.io/badge/Language-Hindi-red?style=for-the-badge)](README-hi.md)
+[![Bangla](https://img.shields.io/badge/Language-Bangla-red?style=for-the-badge)](README-bn.md)
+
+</div>
+<h2>Klicken Sie hier, um der Telegram-Kommunikationsgruppe beizutreten:</h2>
+ <blockquote>
+ <p style="text-align: center;"><a href="https://t.me/shadowrocket_android">https://t.me/shadowrocket_android</a></p>
+ </blockquote>
+ <h2>Kostenlose Knoten- und Abonnementadresse:</h2>
+ <blockquote>
+ <p style="text-align: center;">Hochwertige Knoten werden jeden Tag in Echtzeit aktualisiert, alle 6 Stunden</p>
+ </blockquote>
+ <h4>Auf dieser Seite hat jemand die Geschwindigkeit jedes Knotens manuell in Echtzeit gemessen, es gibt jedoch immer noch Unterschiede in den Betreibernetzwerken in verschiedenen Regionen und es kann zu Timeout-Knoten kommen. </h4>
+ <blockquote>
+ <p style="text-align: center;">Essen -> Schlaf -> Testknoten. </p>
+ </blockquote>
+ <h4>Knotenliste: (Hier werden maximal 20 Knoten angezeigt. Weitere kostenlose Knoten erhalten Sie in der App.)</h4>
+    
+```
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5VEVYV0I2WEJIeXY5U2ZRSnpDU1JXQ25SWXV0RmRVWGcxd2JjYnV0eFB3WkU2VXhjdXJrYTNHa29hdGdFZFg0ODNYWlNIZUpwM2pYY1RTaExDUk04clBnTUYzdllOZlM=@autodiscover.fuzzyaytor.cyou:42982#USA
+trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#
+vless://419f25c1-bc35-412e-93fb-258efee859b5@167.104.223.29:443?security=reality&encryption=none&pbk=qOraT1A2tq0v0HIZlcplEnqXx4Sn-99z_EKNqTEZv1M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=167.104.223.29.sslip.io&sid=6ecabc17bcfb4291#USA
+hysteria2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160?insecure=1&security=tls&sni=www.bing.com#USA
+vmess://eyJhZGQiOiAiMTQwLjIzOC4yLjI1MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiU1x1MDBmY2Rrb3JlYSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#Deutschland
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.112:8443?security=tls&sni=hopp-germany-new.ddnsguru.com#USA
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.140:8443?insecure=1&security=tls&sni=grape-turbo-fr.roxa.org#Niederlande
+vless://e01b5875-0b0b-4056-bbf5-0b0ecdc97937@128.1.12.164:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&pbk=Z41OxiwFrf0VAEv7_qXoEMKSmLJPjEPPJzXpP1s6gGk&security=reality&sid=977a84fa5512be5a&sni=www.cloudflare.com&type=tcp#USA
+vless://a88e2744-3555-4a0a-9635-0aae23e038f8@45.134.38.204:8057?encryption=none&security=reality&sni=www.amd.com&fp=chrome&pbk=hjJ1VN2xwcl1n7vrwvOspB2NFWrXNySUNPexutOVvAM&sid=109754c5259066d1&spx=/uj25Mj0ycdPzVU2&type=tcp&headerType=none#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.18:443#UK
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.136:8443?security=tls&sni=grape-turbo-fr.roxa.org#Niederlande
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.62.167:443?security=reality&type=tcp&packetEncoding=xudp&sni=eu-west.cendora.ru&fp=firefox&flow=xtls-rprx-vision&sid=dd3ff38418d29d22&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0#UK
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#USA
+vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=/vless/&security=none&encryption=none&type=ws#Frankreich
+vless://b2e8f455-3bd9-477c-b8f0-a3198f601565@54.38.138.175:443?encryption=none&fp=chrome&headerType=http&path=%2Fnaranv2ray&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&security=reality&sid=9e0fac51cc19d2&sni=play.google.com&type=tcp#Polen
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.144:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spanien
+vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@pl1.nihaovpn.ru:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=pl1.nihaovpn.ru&fp=chrome&pbk=2stsLH56yUXFwc7ICrN111GveMOIrWSDFiUr6XWFhx4&sid=d9622c6fea10c1&allowinsecure=1&type=tcp&headerType=none#Spanien
+hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-germany.unlimited-access.ru:8443?insecure=1&security=tls&sni=hy2-germany.unlimited-access.ru#Ukraine
+vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?path=/connect&security=tls&encryption=none&host=129.121.95.159&fp=chrome&type=ws&sni=129.121.95.159#USA
+```
+<h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
+ <p>QR-Code für die Abonnementadresse oben</p>
+ <img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de.png' width=250 height=250>
+ <blockquote style='text-align: center;'>Für weitere Knoten, kostenlose Abonnementadressen und Abonnementkonvertierungen laden Sie bitte die Shared-Node-App-Software herunter, die auf dieser Website <a href='https://shadowsharing.com'>ShadowShare bereitgestellt wird </a> Knotennutzung exportieren, iOS- und Android-Downloads unterstützen. Android-Benutzern wird empfohlen, <a href='https://github.com/Pawdroid/shadowrocket_for_android'>shadowrocket für Android</a> direkt mit Android Rocket zu verwenden alle freien Knoten integriert. </blockquote>
+ <h4>Inländischen iOS-Benutzern wird empfohlen, den App Store so schnell wie möglich herunterzuladen und zu speichern kann zu einem späteren Zeitpunkt heruntergeladen werden</h4>
+ <h4>Die neueste Version des schnellen und hochwertigen VPN <a href='https://pawdollvpn.com'>PawdollVPN</a> unterstützt Android- und iOS-Plattformen. Sie können es gerne herunterladen und verwenden Für einen begrenzten Zeitraum wird eine unbegrenzte kostenlose Testversion bereitgestellt. </h4>
+ <div class="nv-content-wrap-Eintragsinhalt">
+ <h2>Konvertierung von Client-Abonnementadressen wie Clash und SS mit einem Klick:</h2>
+ <p>Wenn der SS/SSR/V2ray-Client den SSR-Knotenlink nicht direkt verwenden kann, verwenden Sie das unten verlinkte Tool, um ihn in eine Abonnementadresse umzuwandeln. Dann SSR/SSD/Surge/Quantum/Surfboard/Loon und andere mobile und Computer-Clients Hier kann verwendet werden:</p>
+ <p><a href="https://acl4ssr-sub.github.io" target="_blank" rel="noreferrer noopener nofollow">https://acl4ssr-sub.github.io</a></p>
+ <h2>V2ray/SSR Android iPhone/PC-Client-Download</h2>
+ <h3>V2Ray-Client-Download</h3>
+ <p>Download-Links für die neuesten Versionen des V2ray-Windows-Clients, des V2ray-Android-Clients, des V2ray-MacOS-Clients für Apple-Computer, des V2ray-iOS-Clients für iPhones und des V2ray-Linux-Clients werden ebenfalls bereitgestellt. </p>
+ <h4>Windows7/8/10-<strong>V2ray WinPC Computer Client</strong>Programm-Download</h4>
+ <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>V2rayN-Download</td><td><a href="https://github. com/2dust/v2rayN/releases" target="_blank" rel="noreferrer noopener">Offizieller Website-Download</a></td></tr><tr><td>V2rayW-Download</td><td> <a href="https://github.com/Cenmrev/V2RayW/releases" target="_blank" rel="noreferrer noopener">Offizieller Website-Download</a></td></tr><tr><td> Clash-Download</td><td><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases" target="_blank" rel="noreferrer noopener">Offizieller Website-Download</a></td> </tr><tr><td>V2rayS-Download</td><td><a href="https://github.com/Shinlor/V2RayS/releases" target="_blank" rel="noreferrer noopener">Offizieller Website-Download</a></td></tr><tr><td>Mellow-Download</td><td><a href="https://github.com/mellow-io/mellow/releases" target="_blank" rel="noreferrer noopener">Offizieller Website-Download</a></td></tr><tr><td>Qv2ray-Download</td><td><a href= „https://github.com/Qv2ray/Qv2ray“ target="_blank" rel="noreferrer noopener">Offizieller Website-Download</a></td></tr></tbody></table></figure>
+ <h4><strong>Android/Xiaomi MIUI/Huawei EMUI-V2ray Android Mobile Client</strong>Apk-Programm-Download</h4>
+ <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>V2rayNG-Download</td><td><a href="https://github. com/2dust/v2rayNG/releases" target="_blank" rel="noreferrer noopener">Offizieller Website-Download</a></td></tr><tr><td>Android Rocket-Download</td><td><a href="https://github.com/Pawdroid/shadowrocket_for_android/releases" target="_blank" rel="noreferrer noopener">Offizieller Website-Download</a></td></tr><tr> <td>BifrostV-Download</td><td><a rel="noreferrer noopener" href="https://www.appsapk.com/downloading/latest/com.github.dawndiy.bifrostv-0.6.8.apk " target="_blank">Markt-Download</a></td></tr><tr><td>Clash-Download</td><td><a href="https://github.com/Kr328/ClashForAndroid/releases" target="_blank" rel="noreferrer noopener">Offizieller Website-Download</a></td></tr><tr><td>Kitsunebi-Download</td><td><a rel =" noreferrer noopener" href="https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android" target="_blank">Markt-Download</a></td></tr></tbody></table></figure>
+ <h4><strong>MacOS-V2ray <strong>Apple Computer</strong>Client</strong>Programm-Download</h4>
+ <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>V2rayU-Download</td><td><a href="https://github. com/yanue/V2rayU/releases" target="_blank" rel="noreferrer noopener">Offizieller Website-Download</a></td></tr><tr><td>V2rayX-Download</td><td> <a href="https://github.com/Cenmrev/V2RayX/releases" target="_blank" rel="noreferrer noopener">Offizieller Website-Download</a></td></tr><tr><td> ClashX-Download</td><td><a href="https://github.com/yichengchen/clashX/releases" target="_blank" rel="noreferrer noopener">Offizieller Website-Download</a></td> </tr></tbody></table></figure>
+ <h4><strong>Linux</strong>–<strong>V2ray Ubuntu/Centos-Computer-Client</strong>Programm-Download</h4>
+ <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>Qv2ray-Download</td><td><a href="https://github. com/Qv2ray/Qv2ray" target="_blank" rel="noreferrer noopener">Offizieller Website-Download</a></td></tr><tr><td>Sanfter Download</td><td><a href ="https://github.com/mellow-io/mellow/releases" target="_blank" rel="noreferrer noopener">Offizieller Website-Download</a></td></tr><tr><td> V2rayL-Download</td><td><a rel="noreferrer noopener" href="https://github.com/jiangxufeng/v2rayL" target="_blank">Offizielles Installationsdokument</a></td></tr></tbody></table></figure>
+ <h4>iOS-<strong>V2ray Apple<strong>Mobile Client</strong>-App-Programm</strong> herunterladen</h4>
+ <p>Im Apple AppStore gibt es derzeit keinen kostenlosen V2ray-iOS-Client. Kostenpflichtige Apps wie Shadowrocket, pepi, i2Ray, Kitsunebi und Quantumult sind derzeit verfügbar. </p>
+ <h3>ShadowsocksR/SSR-Client-Download</h3>
+ <p>ShadowsocksR wird als SSR abgekürzt und hat auch niedliche Spitznamen wie Sauerjoghurt, rosa Flugzeug und Papierflieger, die weit verbreitet sind. </p>
+ <p>Wir haben die Download-Adressen der neuesten Versionen des SSR-Windows-Clients, des SSR-Android-Clients, des SSR-MacOS-Clients für Apple-Computer und des SSR-iOS-Clients für Apple-Telefone zusammengestellt, um sie mit allen zu teilen. </p>
+ <h4><strong>Windows7/8/10-<strong>SSR Small Plane WinPC Computer Client</strong>Programm-Download</strong></h4>
+ <p><a rel="noreferrer noopener" href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases" target="_blank">Offizieller Website-Download</a></p>
+ <h4><strong><strong>Android/Xiaomi MIUI/Huawei EMUI-SSR Kleinflugzeug Android Mobile Client</strong>Apk-Programm-Download</strong></h4>
+ <p><a rel="noreferrer noopener" href="https://github.com/shadowsocksrr/shadowsocksr-android/releases" target="_blank">Offizieller Website-Download</a></p>
+ <h4><strong><strong>MacOS-SSR Small Plane Apple Computer Client</strong>Programm-Download</strong></h4>
+ <p><a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases" target="_blank" rel="noreferrer noopener">Offizieller Website-Download</a></p>
+ <h4><strong>iOS-<strong>SSR Small Plane Apple Mobile Client App</strong></strong>Herunterladen</h4>
+ <p>Öffnen Sie den Apple App Store auf dem iPhone oder iPad und suchen Sie nach Mume, Potatso Lite, FastSocks und Shadowrocket. </p></div>
+    
