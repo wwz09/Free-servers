@@ -36,26 +36,18 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-vless://399c4c9b-27e1-37f1-9dce-22ccc2727a86@nian.001.url111.kcloud02.top:15007/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bing.com&fp=chrome&security=reality&pbk=qVNutDFjEp3v2wjeUl_Yy6l9TXawXfSjAsFj3iktmRA&sid=2c4d005b#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
 hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&security=tls&sni=www.bing.com#%E6%96%B0%E5%8A%A0%E5%9D%A1+%E7%94%B2%E9%AA%A8%E6%96%87%E6%9C%BA%E6%88%BF
-vless://399c4c9b-27e1-37f1-9dce-22ccc2727a86@nian.001.url111.kcloud02.top:15003/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=R_3usai5pYqcc0aIzXPfaoe-VE_7JOe60fUNMicwfQ8&sid=4c517b9e#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-trojan://humanity@join-telegram-channel-tirexnet.trex.kdns.fr:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@104.18.152.77:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://d6d0ba7b-fa88-4b2c-9915-530ae4a81035@172.67.152.71:8880?path=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2&security=none&encryption=none&fm=https://t.me/ShadowFlux2&host=aged-mud-9b4c.202-2dc.workers.dev&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@104.18.152.225:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-hy2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs=@fin14qr.wwwinternetvideo.click:443/?insecure=1&security=tls&sni=fin14qr.wwwinternetvideo.click#%E7%88%B1%E5%B0%94%E5%85%B0+V2CROSS.COM
-trojan://humanity@104.18.152.140:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?path=/&security=none&encryption=none&host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&type=ws#%E7%BE%8E%E5%9B%BD+%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2
-trojan://humanity@104.18.152.108:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://791a171e-c0af-4bd7-b8ce-43541c7585db@177.3.208.85:443?security=reality&encryption=none&pbk=CMTA5uuaIVIeqHslZMT3CbFwP8F5ysMLii72ybsTlyY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=policies.google.com&sid=e2a4c6b8#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
-trojan://humanity@104.16.174.37:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://5d8fae5f-0427-4da3-99ab-242905fa5c69@fast.iqiraq.shop:443?encryption=none&path=/&security=tls&type=ws#%E8%8F%B2%E5%BE%8B%E5%AE%BE+V2CROSS.COM
-trojan://humanity@104.16.174.109:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@104.18.23.63:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@104.16.73.213:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@104.21.46.3:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@104.18.152.230:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://60e2a548-96aa-4850-a279-1edab743c39b@nl1.cnyvpn.com:2096?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=dhlparcel.nl&pbk=0XSgK4OAEjNPsjYdhNBV5xl5mCCRRzYucSQ9LIO0Gkg&sid=3dad96f8693ea653&fp=chrome#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://399c4c9b-27e1-37f1-9dce-22ccc2727a86@82.38.46.66:15006?security=reality&type=tcp&packetEncoding=xudp&sni=www.adobe.com&fp=firefox&flow=xtls-rprx-vision&sid=029a6cc4&pbk=g9KZONtwSL8mL772rps2nXVAuQpsgHY33K_pHpI89Rg#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+trojan://humanity@104.21.46.3:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://5bfc6650-8b56-416a-b0e9-b98fc6367c0d@84.32.61.79:443?security=reality&encryption=none&pbk=jA_Xd8qfMloJg0lbdxPnEcDJc3MltgueXpxYQAWnlD0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=us.api-yandex.net&sid=0f4dacf66101e05f#%E7%AB%8B%E9%99%B6%E5%AE%9B+V2CROSS.COM
+vless://c6cff605-90cf-4953-bf97-0a44e43f229d@167.104.223.29:443?security=reality&encryption=none&pbk=fyfX-egDrRvXNW1Gt2P_8rH4jdupAcmhFLOCZCzCowo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=167.104.223.29.sslip.io&sid=fc36b4a584871aa5#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://humanity@141.101.90.101:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E+CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@198.41.223.96:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6K2lnZEpJa0pnRjM5UTV3WGRkQVA5UmxqNjY3akc2cHVjWjNwSWhxM0N5WT0=@140.245.99.244:56927#%E7%BE%8E%E5%9B%BD+%E6%95%99%E8%82%B2%E7%BD%91
 trojan://humanity@104.26.14.137:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97+CloudFlare%E8%8A%82%E7%82%B9
+vless://5d8fae5f-0427-4da3-99ab-242905fa5c69@fast.iqiraq.shop:443?encryption=none&path=%2F&security=tls&type=ws#%E8%8F%B2%E5%BE%8B%E5%AE%BE+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
