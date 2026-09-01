@@ -35,26 +35,26 @@
  <h4>Daftar node: (Maksimal 20 node ditampilkan di sini. Node gratis lainnya bisa didapatkan di aplikasi.)</h4>
     
 ```
-vless://07821f66-cdb7-4c70-9de6-e230cffac470@wgrcqwtkfyqujs43.ghydgdbdbddvv.workers.dev:443?security=tls&type=ws&path=/vl/-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN-i10VPN?ed&packetEncoding=xudp&alpn=http/1.1&sni=wgrcqwtkfyqujs43.ghydgdbdbddvv.workers.dev&fp=chrome&encryption=none#United+States
-vmess://eyJhZGQiOiAiMTQ5Ljg4LjIzLjIwNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgIm5ldCI6ICJyYXciLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxODAwMCIsICJwcyI6ICJTaW5nYXBvcmUiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://566c0473-382e-aabb-c62a-f5bb00000000@104.21.14.116:443?security=tls&type=ws&path=/sync&host=ez-4b5fd4.appelidmymat.workers.dev&packetEncoding=xudp&sni=ez-4b5fd4.appelidmymat.workers.dev&fp=chrome&encryption=none#
-ss://YWVzLTI1Ni1nY206c0ZTMzQxZWNlYUlpU20yZA==@154.53.63.33:443#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.213:8080#United+Kingdom
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#Italy
-vless://103744ce-0153-49b1-2eac-d293a6ddd7e2@172.66.216.117:443?security=tls&type=ws&path=/sync&host=nahan-mouse-7749.amirsina2026.workers.dev&packetEncoding=xudp&sni=nahan-mouse-7749.amirsina2026.workers.dev&fp=chrome&encryption=none#United+States
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#United+States
-vless://710fc22f-06b2-4b6d-bb3e-f57c17b670a6@bc-vn-hn.ray-balance.space:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ray-balance.space&fp=chrome&security=reality&pbk=d1NlaZfnsYjWfxRTqIBk1ldBUmdE-kRTEQ_sWd1JYwI&sid=#United+Kingdom
-vmess://eyJhZGQiOiAiNDcuMjUwLjQ1LjIzNCIsICJhaWQiOiAwLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjgwMDM5YjRkLWJhYzAtNGY4OS04MmM3LTU0ZmFkM2IwYTFlYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiA4NjEzLCAicHMiOiAiTWFsYXlzaWEiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-hysteria2://49f8bb8047@srv-12c1e0.21freedom.net:11592?security=tls&sni=srv-12c1e0.21freedom.net#Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.36:8080#United+Kingdom
-vless://d7d8af23-36cd-4c66-a42a-4469c177210f@104.21.234.13:2053?path=%2FeyJqdW5rIjoiMXZFdnZOdVFvSkNWIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTg2LjIxOS44MiJdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fancy-rain-136e.thisisalee.workers.dev&fp=random&type=ws&allowInsecure=0&sni=faNCy-raIn-136E.tHiSiSAleE.worKeRS.Dev#
-vless://50c91104-c1fc-471e-914f-3ad252a0a34c@cf7.466688.xyz:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net@https://t.me/QiangLieTuiJian&host=quiet-snowflake-e1dd.374-ac3.workers.dev&packetEncoding=xudp&encryption=none#
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.81:8443?insecure=1&security=tls&sni=hopp-legend-se.roxa.org#Hong+Kong
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.210:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#United+Kingdom
-vless://bd9ff08b-d042-3650-48e4-c4b400000000@104.21.117.9:443?security=tls&type=ws&path=/NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN&host=netlivpn2950.bbxff.workers.dev&packetEncoding=xudp&sni=netlivpn2950.bbxff.workers.dev&fp=chrome&encryption=none#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443?insecure=1&security=tls&sni=18.118.193.169#United+States
-vless://4caaaae0-516b-4026-b2b2-69fea69df19a@107.151.250.183:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=firefox&flow=xtls-rprx-vision&sid=9019bbea8ff8781e&pbk=LDpWYUJjGRJomvaN-gfgY96EJOF2DDHiFcNPEBLtoW0&encryption=none#United+States
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-au-002.fastervpn.world#United+States
+vless://d31aefb3-775b-4e87-a093-a4677addf10a@144.31.140.127:443?security=reality&encryption=none&pbk=3EwukQs0ows0H4l2atTgz_Mo5SV-v5p14D4zfA41tU4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=c010293d0bafac#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#United+States
+trojan://FH72359861@44.251.158.80:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=obliging-louse.rooster465.autos#United+States
+vless://25844c02-a1fe-43ec-a6b9-44e3bf375b83@104.21.23.72:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=dark-breeze-a59a.494.workers.dev&packetEncoding=xudp&encryption=none#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.219:8080#United+Kingdom
+vless://923e051a-f598-4ea5-9c6c-f7e37c438a60@104.21.96.56:80?security=none&type=ws&path=/vl/D2pryqVs9LAgCYdTK76lsafWY?ed=2560&host=vkvd8bpskvxgjwdvcidxgoccr.javanbaghe.workers.dev&packetEncoding=xudp#
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.113:443?security=reality&type=raw&packetEncoding=xudp&sni=getsavesafe.net&fp=chrome&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
+vless://cbfeff27-6e7a-4e99-b5ad-6b830e191741@172.67.209.139:443?security=tls&type=ws&path=/vl/wk14rIXEvRltsm88Nsboi?ed=2560&host=srv-b890f5-eb36b6.omidiabolfazl155-c5f1.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=sRv-B890f5-Eb36b6.OmIdiaBoLfAZl155-c5f1.wORkErS.DEV&fp=chrome&encryption=none#United+States
+vless://9ec16323-954c-4b09-aec9-367e18844fa8@channel.t-me-sh4dow-vpn.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoiWlNHcnk5RHUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0=&host=channel.t-me-sh4dow-vpn.workers.dev&ed=2560&packetEncoding=xudp&alpn=http/1.1&sni=cHAnnel.T-mE-sH4DOW-Vpn.WOrkerS.dEv&fp=chrome&encryption=none#United+States
+trojan://humanity@172.67.149.60:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#United+States
+vless://5a4d9f40-56db-402a-9fbc-31c9229bdcf6@172.66.140.62:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=floral-resonance-4baf.468.workers.dev&packetEncoding=xudp#United+States
+vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&security=reality&sid=c84f&sni=deepl.com&type=tcp#United+States
+vless://766f6c65-0000-4000-8000-787000000002@172.67.208.166:2083?security=tls&type=ws&path=/volexprosy&host=volexproxy.karjadidd.workers.dev&packetEncoding=xudp&sni=volexproxy.karjadidd.workers.dev&fp=chrome&encryption=none#United+States
+trojan://humanity@104.16.174.121:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
+vmess://eyJhZGQiOiAiMTcyLjExMS4xNDYuNjQiLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzLyIsICJwb3J0IjogODAsICJwcyI6ICJKYXBhbiIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vless://9b6923a6-2f2c-4cc7-a753-4272d94c7875@104.18.93.3:80?encryption=none&security=none&type=ws&host=worker3.ditib3776666.workers.dev&path=%2FM1kt3L6OgXnYDodt#
+vless://18907dc3-7e4c-476f-9ed8-b360db563bf9@172.67.143.139:8080?security=none&type=ws&path=/eyJqdW5rIjoiN3FOeFprWFkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=&host=server8.faway91418.workers.dev&ed=2560&packetEncoding=xudp&encryption=none#United+States
+vless://5800fc03-aaf7-4f4e-b547-52d14a91e1b7@149.28.138.97:30680?security=tls&type=ws&path=/@Marisa_kristi&host=mw5qisav.wjwqvie0wb1eqhb8e83clqdoq3m5p9a4on.workers.dev&packetEncoding=xudp&sni=mw5qisav.wjwqvie0wb1eqhb8e83clqdoq3m5p9a4on.workers.dev&fp=chrome#Singapore
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>
