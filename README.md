@@ -36,18 +36,15 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-vless://2297ea1f-2415-4a2c-be20-4a3a978283a2@31.76.60.49:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=uk1.hat.onl&fp=chrome&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&headertype=none#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?path=/4bc027a44532&security=none&encryption=none&host=Telegram-Leviko_v2ray&type=ws#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
-vless://a289a3d3-5833-4b28-8809-ae72898a98d0@ru05.abvpn.ru:443?&security=tls&fp=edge&sni=ru05.abvpn.ru&type=ws&headerType=none&host=ru05.abvpn.ru&path=%2Fwebsocket#%E6%AC%A7%E7%9B%9F+V2CROSS.COM
-trojan://MiTiVPN@151.101.56.7:443?path=/---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI---TOOTFFARANGI&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%E7%BE%8E%E5%9B%BD+%E4%B9%94%E6%B2%BB%E4%BA%9A%E6%B4%B2%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7Fastly%E8%8A%82%E7%82%B9
-vless://58c14e54-6db0-46fb-a1fb-8f3184197d94@lgkr.87544899.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maps.apple.com&fp=chrome&security=reality&pbk=lQmGSphKsWB-pO-xKkjj_dE3fPAIeSHSsFqsAJvq-lA&sid=e1696a6e2520fdb1#%E7%BE%8E%E5%9B%BD+%E7%A7%91%E7%BD%97%E6%8B%89%E5%A4%9A%E5%B7%9E%E9%98%BF%E6%8B%89%E5%B8%95%E9%9C%8D%E5%8E%BF%E6%A0%BC%E6%9E%97%E4%BC%8D%E5%BE%B7%E6%9D%91%E5%B8%82NTT%E7%BE%8E%E5%9B%BD%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
-vless://6379673b-197f-4944-ba81-a45c66aefe9c@31.77.182.49:8443?security=reality&type=tcp&packetEncoding=xudp&sni=fr.aeternavpn.space&fp=qq&flow=xtls-rprx-vision&sid=a1b2c3d4&pbk=WblkmqKUs4-IiNsawjWBV16uB_FBxLr8xFVi6eDPkxk&encryption=none#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-trojan://humanity@104.26.14.137:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://c87e551b-3999-4b76-b3bf-bdfd6ef176fd@153.76.208.232:443?security=reality&encryption=none&pbk=kCKXYcvEQ2cz4d0jBmBjyzbesUZ3AHQBukhqXWPiRlA&headerType=none&fp=chrome&spx=/c1762d24c4fc297&type=tcp&sni=yandex.com.am&sid=f3deb2#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://humanity@104.26.15.137:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-hysteria2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&security=tls&sni=www.bing.com#%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC+Oracle+Cloud
-trojan://humanity@141.101.90.101:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E+CloudFlare%E8%8A%82%E7%82%B9
-vless://2297ea1f-2415-4a2c-be20-4a3a978283a2@193.238.154.18:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=es1.hat.onl&fp=chrome&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHi#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.245:2087?Telegram=Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server-----Cfox_Server&path=/8f2690e2d016&encryption=none&type=ws#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://1aa96574-c28b-4ee9-855d-ebdbbf1f7e90@172.67.140.160:443?encryption=none&security=tls&sni=1-StATiC-iMg-m13.xdc.CcWu.Cc&type=ws&host=1-StaTic-ImG-m13.Xdc.cCWU.Cc&path=%2FED3ZQPu7lqyeDGD58KabZ#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@104.26.15.137:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://5a92a9d2-3067-49cd-bfc5-989bbdfc5d52@31.76.4.128:5001?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi.aeternavpn.space&fp=qq&pbk=HNjZe5pYUhcuE8sASYVVrVSMW_jFfekgLnrnO4xXIyQ&sid=a1b2c3d4&type=tcp&headerType=none#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@join-telegram-channel-tirexnet.trex.kdns.fr:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@172.67.149.60:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@104.26.14.137:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
