@@ -35,26 +35,26 @@
  <h4>Knotenliste: (Hier werden maximal 20 Knoten angezeigt. Weitere kostenlose Knoten erhalten Sie in der App.)</h4>
     
 ```
-vless://d67af820-f54c-48ab-862c-19086357f276@62.133.62.179:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#Frankreich
-vless://615d9f74-4d51-bad3-f240-2a8400000000@104.18.29.234:443?security=tls&type=ws&path=/silaber&host=main.packetloss-com.workers.dev&packetEncoding=xudp&sni=main.packetloss-com.workers.dev&fp=firefox&encryption=none#
-vless://8525fe74-67e6-4a55-8a26-95f227bd1384@8.39.125.152:8443?encryption=none&fp=chrome&host=bitter-shadow-4fc5.alvlirm852.workers.dev&path=%2F&security=tls&sni=bitter-shadow-4fc5.alvlirm852.workers.dev&type=ws#Malaysia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#UK
-trojan://EQ30679154@sincere-gelding.rooster465.autos:443?security=tls&sni=sincere-gelding.rooster465.autos#USA
-vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@141.101.122.147:443?&security=tls&fp=chrome&sni=a.cwvps.eu.org&type=ws&headerType=none&host=a.cwvps.eu.org&path=%2Fws#
-vless://401d950d-4f5c-45c7-bf44-8b69acf35f6f@www.speedtest.net:8080?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=7x70yyvt7eqotx-iq9n3rjt1xn1jwkh9.asdfsafdsaf.workers.dev&path=%2FeyJqdW5rIjoiSHhmQ3BHMnAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=none&type=ws#
-vless://34b7efee-3c88-440f-9495-92c12a0de50e@51.89.194.151:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=5b83742cfc81b064&pbk=v0-nm8GGINN0mEHP5kgcgWrl_TFDcr2ZS8yLLW8c93M#UK
-hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@replay.wwwinternetvideo.click:443?insecure=1&security=tls&sni=replay.wwwinternetvideo.click#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@ca225.vpnbook.com:443#Kanada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#UK
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@66.235.200.30:8880?security=none&type=ws&path=/&host=vms.lifetime47.workers.dev&packetEncoding=xudp#USA
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@5.180.42.210:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=nordic.cendora.ru&fp=chrome&flow=xtls-rprx-vision&sid=2186a755ed67b034&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU#Zypern
-trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#USA
-vless://615d9f74-4d51-bad3-f240-2a840000000b@104.18.13.149:443?security=tls&type=ws&path=/silaber&host=main.packetloss-com.workers.dev&packetEncoding=xudp&sni=main.packetloss-com.workers.dev&fp=firefox&encryption=none#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.48:8080#UK
-vmess://eyJhZGQiOiAiMTI5LjE0Ni4xNDMuODAiLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJkNDYwM2NjMi1lMGVlLTQ2NTEtODNmNS0xZGI1YjcxNjgxNzciLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ4MTExIiwgInBzIjogIlVTQSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-ss://YWVzLTI1Ni1nY206alNVN2JHS3VwUTk2WUZ2Zg==@139.180.133.90:80#Singapur
-trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@104.21.43.90:443?allowInsecure=1&fp=chrome&path=%2F&security=tls&sni=app-538961.user-y0o4gm.workers.dev&type=ws#
-vless://969bcce0-de8a-4b02-8cf8-d00d2d2ca7a5@93.152.217.41:40443?security=reality&type=raw&packetEncoding=xudp&sni=deepl.com&fp=chrome&sid=5b97&pbk=VG-FwQBMFzPcemJ_JqtkbO-2WKLmQp2h0CmAj-DfLkA#S%C3%BCdkorea
+trojan://humanity@104.18.12.149:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#
+trojan://humanity@104.17.111.4:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.161.50:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime08.workers.dev&packetEncoding=xudp#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#UK
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@162.35.231.143:443?security=reality&type=tcp&packetEncoding=xudp&sni=savesafe.co&fp=chrome&flow=xtls-rprx-vision&sid=f63805c3ecc7a483&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&encryption=none#USA
+vless://455cfdc6-9abf-4e40-863f-5ff6cc63457c@107.181.151.241:443?security=reality&type=raw&packetEncoding=xudp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=18e4d2d21241&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&encryption=none#UK
+vless://f319a005-6bd0-44b3-910c-a596a2573efe@77.91.84.96:57228?security=reality&type=tcp&packetEncoding=xudp&sni=www.googletagmanager.com&fp=chrome&flow=xtls-rprx-vision&sid=6e3e0d3abe3e78a4&pbk=iWiQ0JyYhl_yzWSbIh4L4wOiiXBOhNVMhWmgtDvF1jo&encryption=none#Schweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#UK
+trojan://f18d6149-e214-8554-e737-f7523c8b2eea@188.114.97.6:443?fp=chrome&path=%2Fsync&security=tls&sni=0403.infinityconfig4.workers.dev&type=ws#Niederlande
+vless://50c91104-c1fc-471e-914f-3ad252a0a34c@cf6.466688.xyz:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net@https://t.me/QiangLieTuiJian&host=quiet-snowflake-e1dd.374-ac3.workers.dev&packetEncoding=xudp&encryption=none#
+trojan://ND91608427@44.246.163.102:443?security=tls&sni=fleet-bonefish.rooster465.autos&type=tcp#USA
+vless://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@172.67.143.54:8080?security=none&type=ws&path=/taha3&host=aged-silence-8d7d.tahaggs.workers.dev&packetEncoding=xudp#USA
+vless://b1ecd06b-a931-47a2-8f48-d1d133d2b4f3@57.129.130.200:52014?security=tls&type=ws&path=/@Marisa_kristi&host=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&packetEncoding=xudp&sni=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&fp=chrome&encryption=none#Frankreich
+vless://9206ae06-88ee-49b1-a558-531ade80fcaa@178.128.112.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=%2DO8QFkqeMAc6TzQp6eY1s38my_8jhBd7HDHxNki6QlY&security=reality&sid=7f7f&sni=www.amazon.com&type=tcp#Singapur
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.128.224.158:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapur
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.170:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=chrome&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spanien
+trojan://humanity@104.18.152.175:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#
+vless://903fed13-8e78-4fa2-a83e-b392b289741f@175.41.179.37:51262?security=tls&type=ws&path=/@Marisa_kristi&host=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&packetEncoding=xudp&sni=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&fp=chrome&encryption=none#Singapur
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#USA
+trojan://Telegram_healer_config@104.21.17.125:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FhYgAqUlh5GyczDyXP%3Fed&security=tls&sni=30f67sBQ8jJwMt7GYtfc14.0M68-Qz3hqYfnLAR6n3Iq.wORkErs.dEv&type=ws#
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

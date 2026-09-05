@@ -35,26 +35,26 @@
  <h4>Liste des nœuds: (20 nœuds maximum sont affichés ici. Les autres nœuds gratuits sont disponibles dans l'application.)</h4>
     
 ```
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@chatgpt.com:443?encryption=none&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&fp=chrome&type=ws&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=/?ed#
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#Ta%C3%AFwan
-trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
-trojan://humanity@104.16.174.72:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-vless://d682c8f4-e719-577e-cbe9-2e5b00000003@104.21.19.53:8080?security=none&type=ws&path=/sync&host=0406.infinityconfig7.workers.dev&packetEncoding=xudp#
-vless://b9ea760d-3200-4d6d-8000-30514ebbce5a@104.26.13.40:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=aged-pine-d8c4.379.workers.dev&packetEncoding=xudp#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-006.fastervpn.world:443?insecure=1&security=tls&sni=vpn-us-006.fastervpn.world#%C3%89tats+Unis
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.141:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Espagne
+vless://6cc29a05-4828-4e48-a34a-20b7ada60e85@66.81.247.155:2083?security=tls&type=ws&path=/OAZko425kNFF0PpQ&host=testmikonim.hydrymhmdamyn7.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=testmikonim.hydrymhmdamyn7.workers.dev&fp=chrome#%C3%89tats+Unis
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#Cor%C3%A9e+du+Sud
+vless://7b102311-43fd-4e8f-877e-8090623c101d@103.102.228.113:443?security=tls&type=ws&path=/TelegramU0001F1E8U0001F1F3 @VPNine1fp=chrome&host=vp58.cc.cd&packetEncoding=xudp&sni=vp58.cc.cd&fp=chrome#France
+vless://401d950d-4f5c-45c7-bf44-8b69acf35f6f@7x70yyvt7eqotx-iq9n3rjt1xn1jwkh9.asdfsafdsaf.workers.dev:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=7x70yyvt7eqotx-iq9n3rjt1xn1jwkh9.asdfsafdsaf.workers.dev&path=%2FeyJqdW5rIjoiR2xWQ1FCQzYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=7x70yyvT7eQOtx-IQ9N3RJT1xn1jwkh9.asDFsAFdsAF.WORkerS.Dev&type=ws#%C3%89tats+Unis
+vless://bf645ffe-a3cc-4480-8e4c-9bcd1af41052@170.101.109.37:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=ab88d256&pbk=rTnh7Y8RsSA5HSvFf-pWT49x8va6U6XHMRgNiMuwB0A&encryption=none#%C3%89tats+Unis
+vless://7074b9d7-2183-8919-fc11-ca5e00000000@104.21.200.243:2053?security=tls&type=ws&path=/NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN&host=netlivpn2584.vjvdgbc.workers.dev&packetEncoding=xudp&sni=netlivpn2584.vjvdgbc.workers.dev&fp=chrome&encryption=none#
 vmess://eyJhZGQiOiAibGN2OHY5bDdveWFteHhmei52LjNkbnMudmlwIiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJsY3Y4djlsN095YW14eGZaLnYuM2Rucy52aXAiLCAiaWQiOiAiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzLXZtZXNzIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdTAwYzl0YXRzIFVuaXMiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICJsY3Y4djlsN095YW14eGZaLnYuM2Rucy52aXAiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-hysteria2://OD6gGbGU9a@hys26.wba-pn.ru:443?insecure=1&security=tls&sni=hys26.wba-pn.ru#Allemagne
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.29.40:8880?security=none&type=ws&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&host=vms.lifetime08.workers.dev&packetEncoding=xudp#Royaume-Uni
-hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@faq.wwwinternetvideo.click:443?insecure=1&security=tls&sni=cabinet.wwwinternetvideo.click#Royaume-Uni
-trojan://humanity@104.18.152.246:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
-trojan://humanity@2.144.21.112:40443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#Iran
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@64.188.77.13:13443?security=reality&type=tcp&packetEncoding=xudp&sni=auto.cendora.ru&fp=firefox&flow=xtls-rprx-vision&sid=a7f3c91b2e6d84c0&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM#%C3%89tats+Unis
-vless://d8c14c5c-a80a-4f6f-a5fb-52071849c443@104.21.34.106:443?security=tls&type=ws&path=/eyJqdW5rIjoiZTFWRGJFS0NUd2F2NkRmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&host=cgxgqcheiamna-jks01fidlsnqojwf-s.aliama.workers.dev&packetEncoding=xudp&sni=cgxgqcheiamna-jks01fidlsnqojwf-s.aliama.workers.dev&fp=chrome&encryption=none#
-trojan://Telegram_healer_config@www.speedtest.net:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FmPZ7O1CUbIBPGNPZQ2HeV%3Fed%3D2560&security=tls&sni=TO6R63-KKChIGHQM2.VxZ0DDUq7tO7su0cDqF.WoRKeRs.DeV&type=ws#
-vless://8787dd0a-095a-414e-804f-a7d16a1ae166@2.26.255.36:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=po1.hys.braidx.tech&type=tcp#Royaume-Uni
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&security=tls&sni=t.me#Ta%C3%AFwan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#Pays-Bas
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#Canada
+vless://c6bc8627-ab12-457b-b143-0ea0de51b1ed@45.12.254.86:443?flow=xtls-rprx-vision&fp=chrome&pbk=4Al0xAzgmDer_tEDUj7kx5SJ6A2a4FRi1S5oa0WBMR8&security=reality&sid=953e8078&sni=www.apple.com&type=tcp#Maldives
+vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@51.77.76.61:8444?alpn=http/1.1&encryption=none&fp=chrome&host=link.meshbeat.online&path=/api/v1/devices/ff3c56308c/telemetry&security=tls&sni=link.meshbeat.online&type=ws#Royaume-Uni
+vless://565326ee-c588-4843-9472-a051578ab1ae@172.67.152.71:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=lucky-cell-e8c5.490-f12.workers.dev&packetEncoding=xudp&encryption=none#%C3%89tats+Unis
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.30:8880?encryption=none&host=vms.lifetime36.workers.dev&path=%2F&security=none&type=ws#%C3%89tats+Unis
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.226:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapour
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443?insecure=1&security=tls&sni=3.149.228.246#%C3%89tats+Unis
+vless://532a9115-aee7-4d39-9638-1e5146de075b@104.19.164.155:2083?security=tls&type=ws&path=/js/cHlpcC55Z2tray5kcGRucy5vcmc=/&host=muddy-math-c1fc.tmpnriqueau89.workers.dev&packetEncoding=xudp&sni=muddy-math-c1fc.tmpnriqueau89.workers.dev&fp=chrome&encryption=none#
+vless://57bd62cf-5550-4075-8fa3-d4519aae8df0@188.114.97.6:80?path=%2FeyJqdW5rIjoiRURaNEp6YUhMbVlqdzQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0&security=&encryption=none&host=silent-feather-8539.sddadad2233122eew.workers.dev&type=ws#Pays-Bas
+vless://86442a2b-417d-426d-9b42-955573b5c6e4@172.67.215.44:2052?security=none&type=ws&path=/eyJqdW5rIjoiaUhoWE5FbWloZWY1MGxobSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjg5LjE2OS4zNC45OSJdfQ==&host=ez-bfa272.ezaccess1d90628.workers.dev&ed=2560&packetEncoding=xudp&encryption=none#%C3%89tats+Unis
+vless://255386a8-aec5-4425-bfe7-ca49b7448deb@unesaa2.surup.shop:46142?security=reality&type=tcp&packetEncoding=xudp&sni=www.yahoo.com&fp=chrome&sid=39feeba3085c&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&encryption=none#%C3%89tats+Unis
+vless://766f6c65-0000-4000-8000-787000000002@172.67.208.166:2083?security=tls&type=ws&path=/volexprosy&host=volexproxy.karjadidd.workers.dev&packetEncoding=xudp&sni=volexproxy.karjadidd.workers.dev&fp=chrome&encryption=none#%C3%89tats+Unis
+trojan://ND91608427@44.246.163.102:443?security=tls&sni=fleet-bonefish.rooster465.autos&type=tcp#%C3%89tats+Unis
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>
