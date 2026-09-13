@@ -36,19 +36,16 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-vless://42c62a5a-cd31-4551-80ef-908732370287@188.164.248.78:2096?security=tls&type=ws&path=/proxyip=154.17.22.207,69.63.210.157,134.195.211.13,172.236.245.153,209.146.115.209,64.186.224.194,149.28.94.52,107.151.188.57&host=fq.jp188.dpdns.org&packetEncoding=none&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&sni=fq.jp188.dpdns.org&fp=chrome#%E8%8D%B7%E5%85%B0+V2CROSS.COM
-hy2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443/?insecure=1&security=tls&sni=admin.wwwinternetvideo.click#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://humanity@172.67.74.2:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@104.26.15.137:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@104.20.6.134:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://MiTiVPN@199.232.78.160:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://MiTiVPN@167.82.76.7:443?path=@bored_vpn&security=tls&alpn=http/1.1&host=mitivpn---ss--s---mitivpn-33.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://humanity@172.67.74.2:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@gta.internet-card.sbs:443?insecure=1&security=tls&sni=gta.internet-card.sbs#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-trojan://MiTiVPN@199.232.78.101:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://92089155-6602-4122-86d4-fe6de20e8c4d@31.59.150.174:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hotcoals.aeternavpn.space&fp=safari&pbk=RWu6ktBE4DFbUz_prmz-5KuolLhO53ehh19mNxhP-wI&sid=a1b2c3d4&type=tcp&headerType=none#%E4%BC%8A%E6%9C%97+V2CROSS.COM
-vless://827a0eb0-21bf-4bce-96ef-0a7bac5d68f5@87.199.208.136:443?security=reality&encryption=none&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nid3.pinkmoon.pro&sid=8ffa160e608bf539#%E6%B3%A2%E5%85%B0+V2CROSS.COM
-trojan://humanity@188.114.97.7:443?type=ws&path=/assignment&security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8#%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97+CloudFlare%E8%8A%82%E7%82%B9
-vless://1aa96574-c28b-4ee9-855d-ebdbbf1f7e90@104.21.3.206:443?security=tls&type=ws&path=/ED3ZQPu7lqyeDGD58KabZ&host=6-m13.0943e131-87F4-4B7f-bc60-9D984cC0Ada2.KdnS.Fr&packetEncoding=xudp&sni=6-m13.0943E131-87f4-4b7f-Bc60-9D984cC0ADa2.KdnS.FR&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-hysteria2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160?insecure=1&security=tls&sni=www.bing.com#%E4%BC%8A%E6%9C%97+V2CROSS.COM
+hy2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@gta.internet-card.sbs:443/?insecure=1&security=tls&sni=gta.internet-card.sbs#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+vless://a90c264d-3853-4eef-9a3d-628b2d02d15e@104.21.80.194:443?security=tls&type=ws&path=/CjBjB9sn5pCvaSwScc&host=9-m19.South-AfrIcA-liNK.CcWU.CC&packetEncoding=xudp&sni=9-M19.sOUTH-AFRIcA-LINK.CCWu.cC&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@172.64.158.146:8880?security=none&type=ws&path=/?ed=2560security=tls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&packetEncoding=xudp&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://a90c264d-3853-4eef-9a3d-628b2d02d15e@172.67.176.60:443?security=tls&type=ws&path=/CjBjB9sn5pCvaSwScc&host=3-m19.south-afriCa.Ccwu.Cc&packetEncoding=xudp&sni=3-M19.SoUtH-afRIcA.CCwu.Cc&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://7e26fd8f-d75a-473d-84ba-9f4e3f47d086@172.67.185.131:443?security=tls&type=ws&path=/8qMLgNapWf6SBxo8fhQlVPYO&host=4-m20.20260721-a5c2-48bd-bb63-efdae93240e3.ccwu.cc&packetEncoding=xudp&sni=4-m20.20260721-a5c2-48bd-bb63-efdae93240e3.ccwu.cc&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://238e492b-bc20-4380-92b6-135d39112ca4@200.165.235.78:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=api8.eaglors.com&fp=chrome&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&sid=52ccb3687fe0b7ec&spx=/HesarWeb#%E5%B7%B4%E8%A5%BF+%E5%9C%A3%E4%BF%9D%E7%BD%97
+trojan://humanity@141.101.90.101:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E+CloudFlare%E8%8A%82%E7%82%B9
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
