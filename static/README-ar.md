@@ -35,26 +35,26 @@
  <h4>قائمة العقد: (يتم عرض 20 عقدة كحد أقصى هنا. تتوفر العقد المجانية الأخرى في التطبيق)</h4>
     
 ```
-vless://c49a0981-6d37-4ec0-9a01-1b63ccc07e4f@time.is:2096?path=/eyJqdW5rIjoiZHlCcVpqeEYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OjExOjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=peekconfig.hamrahfree1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=pEeKcOnFig.haMRaHfREe1.wOrKerS.DEv#United+States
-vless://11e9eea1-b1a9-4f02-a1a1-b24f7664b1cf@8.47.69.9:443?security=tls&type=ws&path=/eyJqdW5rIjoiYW1sczlYWkFHOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&host=ancient-heart-60c5.dpccgizieb.workers.dev&packetEncoding=xudp&sni=ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV&fp=chrome&encryption=none#Slovakia
-ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg==@194.233.94.119:443#Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#South+Africa
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#United+Kingdom
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.70.32:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=baltic.cendora.ru&fp=qq&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&sid=4a46213c935e2ee4&type=tcp&headerType=none#United+Kingdom
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.169.222.30:8880?security=none&type=ws&path=/&host=vms.lifetime40.workers.dev&packetEncoding=xudp#United+States
-vless://b9ede7a5-5b4b-4aee-ac37-2c307e587e47@courses.mftplus.qzz.io:2096?security=tls&type=ws&path=/eyJqdW5rIjoidVkzQm1ROUg4dyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&host=courses.mftplus.qzz.io&ed=2560&packetEncoding=xudp&sni=courses.mftplus.qzz.io&fp=chrome&encryption=none#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#The+Netherlands
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:18007?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&encryption=none#Japan
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@185.193.30.94:443/?type=ws&encryption=none&flow=&host=terazhediii.info&path=/hdgrbws&security=tls&sni=terazhediii.info&fp=chrome#United+Kingdom
-vmess://eyJhZGQiOiAidnBzMTIzLmtieGEudG9wIiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ2cHMxMjMua2J4YS50b3AiLCAiaWQiOiAiY2QwN2Q2ZTYtZjYzMS00NzU3LWEwM2MtYjg3MjdjNTY4Yzg1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8xMjMiLCAicG9ydCI6IDQ0MywgInBzIjogIiIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-vless://4ff70740-8c80-48ae-985f-2afe4924e908@172.64.155.209:8443?security=tls&type=ws&path=/sync&host=pubb.clnahanpnln.workers.dev&packetEncoding=xudp&sni=pubb.clnahanpnln.workers.dev&fp=chrome&encryption=none#United+States
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.41:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
-vless://00ff7e5f-9b6f-4401-aab9-4d044660411f@172.64.145.158:8880?security=none&type=ws&path=/&host=summer-bonus-aa63.52-c03.workers.dev&packetEncoding=xudp#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.48:443#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.0.177:8388#United+States
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@usejh2.neobo-tooth.ru:2096?encryption=none&security=&type=ws#The+Netherlands
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.242.242.30:8880?security=none&type=ws&path=/&host=vms.lifetime58.workers.dev&packetEncoding=xudp&encryption=none#United+States
-vless://766f6c65-0000-4000-8000-787000000002@volexproxy.karjadidd.workers.dev:2083?encryption=none&security=tls&type=ws#United+States
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.86:443?security=reality&type=raw&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.136:8443?security=tls&sni=grape-turbo-fr.roxa.org#The+Netherlands
+vless://bf645ffe-a3cc-4480-8e4c-9bcd1af41052@170.101.109.37:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=ab88d256&pbk=rTnh7Y8RsSA5HSvFf-pWT49x8va6U6XHMRgNiMuwB0A&encryption=none#United+States
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&encryption=none#United+States
+trojan://humanity@104.17.111.1:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576?security=reality&type=raw&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#France
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@64.188.77.13:443?security=reality&encryption=none&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eu-west.cendora.ru&sid=dd3ff38418d29d22#United+States
+vless://255386a8-aec5-4425-bfe7-ca49b7448deb@birmengham.surup.shop:46142?security=reality&type=tcp&packetEncoding=xudp&sni=www.yahoo.com&fp=chrome&sid=39feeba3085c&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&encryption=none#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.144:8080#The+Netherlands
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.84:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=firefox&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
+vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&encryption=none&headerType=none&type=tcp#Japan
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.52.5:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapore
+vless://401d950d-4f5c-45c7-bf44-8b69acf35f6f@7x70yyvt7eqotx-iq9n3rjt1xn1jwkh9.asdfsafdsaf.workers.dev:2053?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=7x70yyvt7eqotx-iq9n3rjt1xn1jwkh9.asdfsafdsaf.workers.dev&path=%2FeyJqdW5rIjoiYVgxNXpobkJlaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=7x70yyvT7eQoTX-Iq9n3RJT1XN1JWkh9.ASdfsAFDsaf.WOrkERs.DEv&type=ws#United+States
+vless://e6bad6ca-ab7c-4bdd-b07e-5c8ec407decd@172.67.223.190:2086?security=none&type=ws&path=/eyJqdW5rIjoidGpkTkY2VHk0bE1pV3AiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0=?ed=2560&host=cool-hill-7fe5.thenewata.workers.dev&packetEncoding=xudp&encryption=none#United+States
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.169.222.40:8880?security=none&type=ws&path=/?ed=2560&https://t.me/YouTube@小青科学网🇨🇳&host=vms.lifetime40.workers.dev&packetEncoding=xudp&encryption=none#United+States
+vless://d96e05a1-18bb-45da-9e9f-ab7caab6952a@ee.cdn-global.pro:443?security=reality&type=tcp&packetEncoding=xudp&sni=ee.cdn-global.pro&fp=chrome&flow=xtls-rprx-vision&sid=7a3f9e2b1c8d4f6a&pbk=RO5YMxxtJmZo2w370qG-seJ41toowHPbz6i2uXJ2gG0&encryption=none#United+States
+ss://YWVzLTI1Ni1nY206a0tFZDByQnJkNTZGdXJqeg==@2.58.81.221:443#United+States
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.83.2.50:8880?security=none&type=ws&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&host=vms.lifetime28.workers.dev&packetEncoding=xudp#Seychelles
+vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@51.77.76.61:8444?alpn=http/1.1&encryption=none&fp=chrome&host=link.meshbeat.online&path=/api/v1/devices/ff3c56308c/telemetry&security=tls&sni=link.meshbeat.online&type=ws#United+Kingdom
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#United+States
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>
