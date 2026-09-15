@@ -36,19 +36,18 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-vless://ed91e79c-f6bf-4fba-8cc0-6d45acaec22b@aldebaran.yokkastars.com:40443?security=reality&type=raw&packetEncoding=xudp&sni=deepl.com&fp=chrome&sid=7606&pbk=dvx6zPztKbgHpYaW6J4OZQC74Uy0JS6HUVdDfbjG5V4#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-hysteria2://b3a11068-1a7e-4643-85de-7c82cce46943@82.38.171.81:10451?insecure=1&security=tls&sni=uk.shamanapp.online#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-in-001.fastervpn.world:443?insecure=1&security=tls&sni=www.bing.com#%E7%BE%8E%E5%9B%BD+Xerox
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@104.18.39.218:2086?security=none&type=ws&path=/?ed=2560security=tls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&packetEncoding=xudp&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-hy2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@gta.internet-card.sbs:443?security=tls&sni=gta.internet-card.sbs#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-trojan://humanity@104.20.6.134:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@104.21.8.107:443?alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 hysteria2://CompanyHy2_2026%21@38.54.6.46:36712?insecure=1&security=tls&sni=www.microsoft.com#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.147.104:8443?security=tls&type=ws&path=/&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&packetEncoding=xudp&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://2c070f10-57e8-442b-b6cb-ff39b35d929d@95.85.245.163:442?security=reality&encryption=none&pbk=urhSusjL1QqHdmlCrvbC9yBftecrgQMuhWmfGh0CUFg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=p-nt-www-amazon-com-kalias.amazon.com&sid=ab#%E6%8D%B7%E5%85%8B+V2CROSS.COM
+vless://ef5c5d5c-08c6-4549-b05e-d1ff29ecc8ba@172.67.204.201:443?security=tls&type=ws&path=/JRr6VGcSLFc034DC6sDbwyWJLbB&host=7-m16.CHiaN-MAi-8.KDNS.Fr&packetEncoding=none&sni=7-m16.CHiaN-MAi-8.KDNs.FR&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+hy2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@gta.internet-card.sbs:443?security=tls&sni=gta.internet-card.sbs#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+trojan://humanity@172.67.221.242:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://fb67fd37-8d41-43a9-a093-c0b807fc5299@pr-media.pepro.site:14443?encryption=none&security=tls&sni=pr-media.pepro.site&fp=qq&type=ws&path=%2Fws#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 trojan://humanity@104.21.46.3:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&path=/assignment#%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97+CloudFlare%E8%8A%82%E7%82%B9
+vless://a90c264d-3853-4eef-9a3d-628b2d02d15e@104.21.16.216:443?security=tls&type=ws&path=/CjBjB9sn5pCvaSwScc&host=6-M19.omAN-lINE.KdnS.fR&packetEncoding=xudp&alpn=http/1.1&sni=6-m19.oMAn-LiNe.kdNs.fr&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@31.76.71.252:443?security=tls&sni=gta.internet-card.sbs#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+vless://1aa96574-c28b-4ee9-855d-ebdbbf1f7e90@104.21.86.133:443?security=tls&type=ws&path=/ED3ZQPu7lqyeDGD58KabZ&host=1-m13.aYuTThaYA-9.kDNS.fR&packetEncoding=xudp&sni=1-m13.AyutThAya-9.KDNs.fr&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@172.67.188.109:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://1aa96574-c28b-4ee9-855d-ebdbbf1f7e90@104.21.5.156:443?security=tls&type=ws&path=/ED3ZQPu7lqyeDGD58KabZ&host=5-m13.1332aFDC-0737-4bB1-8cA8-Ee4f0cD20bC6.Kdns.fR&packetEncoding=xudp&sni=5-M13.1332afdc-0737-4BB1-8CA8-EE4F0cd20Bc6.KdNs.FR&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
