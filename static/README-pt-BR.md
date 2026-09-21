@@ -35,26 +35,26 @@
  <h4>Lista de nós: (No máximo 20 nós são exibidos aqui. Outros nós gratuitos estão disponíveis no app.)</h4>
     
 ```
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.242.1:13443?security=reality&type=tcp&packetEncoding=xudp&sni=auto.cendora.ru&fp=qq&flow=xtls-rprx-vision&sid=a7f3c91b2e6d84c0&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&encryption=none#EUA
-vless://7812d96c-fbd5-4689-a480-e359dde49b7b@104.17.147.22:443?security=tls&type=ws&path=/eyJqdW5rIjoiWWdUTFZiaTRQU3YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&host=bpb-f23ddedd.jcxkvlndl.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=BPb-F23dDEdd.JCXkvlnDL.WOrkERS.deV&fp=chrome&encryption=none#
-vless://b8ca2900-3ed7-4b58-970e-060d0a6cbf99@35.187.156.27:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=d79d3dc3816c329d&pbk=HsoG0C19O-NY_EcFpK0ybZv9lFol0MjDJLzjDzWAGXs#Taiwan
-vless://d98c1be3-7837-4d8a-a9fc-05e7a807ccb0@172.67.219.238:8080?security=none&type=ws&path=/eyJqdW5rIjoiSWZqSHF3Q2RLIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&host=server1.poludiro.workers.dev&packetEncoding=xudp#EUA
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#Canad%C3%A1
-vless://d195909a-eff4-489d-a261-955b904894cb@free.server6peekconfig.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoieUhYMWhoZEVEIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560&host=free.server6peekconfig.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=fREE.sERVer6PeeKCOnFIG.wOrkErs.dEv&fp=chrome&encryption=none#EUA
-vless://e56059f1-5a1a-4d0a-a2d0-58ecb4eb2f3f@172.66.47.45:443?security=tls&type=ws&path=/eyJqdW5rIjoiZWlPODVjTnhnaSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&host=ezaccess-project-f62c30.pages.dev&packetEncoding=xudp&alpn=http/1.1&sni=EZAcCESS-pROjECt-F62c30.PAGES.dEv&fp=chrome&encryption=none#EUA
-vless://abc2f94e-af29-4f59-a0a0-6e3299d51f64@cold-bush-a762.lidrezvpn.workers.dev:8880?security=none&type=ws&path=/eyJqdW5rIjoiQXZDMHBUakpZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19?ed=2560&host=cold-bush-a762.lidrezvpn.workers.dev&packetEncoding=xudp&encryption=none#EUA
-vless://4ff70740-8c80-48ae-985f-2afe4924e908@104.18.32.47:8443?security=tls&type=ws&path=/sync&host=pubb.clnahanpnln.workers.dev&packetEncoding=xudp&sni=pubb.clnahanpnln.workers.dev&fp=chrome&encryption=none#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443#Reino+Unido
-trojan://humanity@104.18.152.152:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
-vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni45NyIsICJhaWQiOiAwLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTgwIiwgInBzIjogIlJlaW5vIFVuaWRvIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-vless://3076f0f0-558c-cbb3-0570-ca4200000014@104.25.244.62:80?security=none&type=ws&path=/sync&host=abolfazl-1.danayyabwalfdl6.workers.dev&packetEncoding=xudp&sni=abolfazl-1.danayyabwalfdl6.workers.dev&encryption=none#
-vless://abd3678b-f654-404c-adc7-1355865197e1@172.67.134.102:8880?security=none&type=ws&path=/eyJqdW5rIjoiNUZVWmdPNWNpTW5LOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ&host=vless.a-amr79.workers.dev&packetEncoding=xudp#EUA
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-ca-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-ca-002.fastervpn.world#Canad%C3%A1
-vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@87.120.84.32:33843?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=deproxy2.lckdwn.ru#Holanda
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@chatgpt.com:443?encryption=none&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&fp=chrome&type=ws&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=/?ed#
-vless://54502a61-2af6-40e7-8331-2c9fc40e5903@time.is:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=old-cloud-a96a.rohamsahh90.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=old-cloud-a96a.rohamsahh90.workers.dev#EUA
-vless://d682c8f4-e719-577e-cbe9-2e5b00000001@0406.infinityconfig7.workers.dev:2053?security=tls&type=ws&path=/sync&host=0406.infinityconfig7.workers.dev&packetEncoding=xudp&sni=0406.infinityconfig7.workers.dev&fp=chrome&encryption=none#
-ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:80#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#Reino+Unido
+vless://febfeec2-9a21-4afc-9edb-0833466672cd@31.58.181.88:8443?security=reality&type=raw&packetEncoding=xudp&sni=tradingview.com&fp=chrome&flow=xtls-rprx-vision&pbk=AERbWB2uslqIzm1hSlOZZEH3Y9qg_zlWRRyLfh97kXc#Ir%C3%A3
+vless://ef8907eb-8bb5-4735-80f2-1d0068500d95@116.204.164.17:7443?security=tls&type=ws&path=/@Marisa_kristi&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&packetEncoding=xudp&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&fp=chrome&encryption=none#Paquist%C3%A3o
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#Holanda
+vless://8fe31772-a4b7-4a70-9fa2-34124c7284ca@194.31.223.87:5443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de.wlrus.cfd#Holanda
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:10574?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#Singapura
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&type=ws&path=/&host=uae.unixzone.us&packetEncoding=xudp&encryption=none#Emirados+%C3%81rabes+Unidos
+vless://a8890c1b-3622-3106-c4be-d8671be32d2b@summer-meadow-af5b.woowoorrrkk.workers.dev:443?encryption=none&security=tls&type=ws#EUA
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.122:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=chrome&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Espanha
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.96:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Espanha
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.207.196.30:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime11.workers.dev&packetEncoding=xudp&encryption=none#Austr%C3%A1lia
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:8443?security=tls&type=raw&packetEncoding=xudp&sni=estproxy4.lockdwn.com&fp=chrome#Ir%C3%A3
+trojan://humanity@104.19.229.21:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&encryption=none#EUA
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@15.204.247.175:8008#EUA
+trojan://humanity@104.20.6.134:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chat.openai.com:8880?security=none&type=ws&path=/&host=vms.lifetime29.workers.dev&packetEncoding=xudp&encryption=none#EUA
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?security=tls&sni=hy2.123266.xyz#EUA
+vless://5a4d9f40-56db-402a-9fbc-31c9229bdcf6@172.66.140.62:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=floral-resonance-4baf.468.workers.dev&packetEncoding=xudp#EUA
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443?security=tls&sni=admin.wwwinternetvideo.click#%C3%81frica+do+Sul
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
