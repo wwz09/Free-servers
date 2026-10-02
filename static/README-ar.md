@@ -35,26 +35,26 @@
  <h4>قائمة العقد: (يتم عرض 20 عقدة كحد أقصى هنا. تتوفر العقد المجانية الأخرى في التطبيق)</h4>
     
 ```
-vless://d4d4d103-5074-47e9-96e6-5431f4e35c57@nodefulcrum.mooo.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=nodefulcrum.mooo.com&fp=chrome&flow=xtls-rprx-vision&sid=6547735997055a35&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&encryption=none#United+Kingdom
-hy2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-germany.unlimited-access.ru:8443/?insecure=1&security=tls&sni=hy2-germany.unlimited-access.ru#Ukraine
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#United+Kingdom
-vless://a8890c1b-3622-3106-c4be-d8671be32d2b@104.21.78.9:443?security=tls&type=ws&path=/sync&host=summer-meadow-af5b.woowoorrrkk.workers.dev&packetEncoding=xudp&sni=summer-meadow-af5b.woowoorrrkk.workers.dev&fp=chrome&encryption=none#
-ss://YWVzLTI1Ni1nY206SGk5d2sxNFZudHpHcTdrcQ==@154.12.242.150:443#United+States
-vless://33918b20-9e02-4dc6-8b30-79b2d4b2e0e6@104.21.22.180:443?security=tls&type=ws&path=/eyJqdW5rIjoiUjJBU3JkVlRwSWtnciIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbImJwYi55b3VzZWYuaXNlZ2Fyby5jb20iXX0&host=aUto-scaLe-238B2B.inFra-coRE-1630dD.WorKerS.DeV&packetEncoding=xudp&alpn=http/1.1&sni=aUTo-sCALe-238B2B.infRa-CorE-1630dd.wORKerS.DEv&fp=chrome&encryption=none#
-vless://11e9eea1-b1a9-4f02-a1a1-b24f7664b1cf@8.47.69.9:443?security=tls&type=ws&path=/eyJqdW5rIjoiYW1sczlYWkFHOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&host=ancient-heart-60c5.dpccgizieb.workers.dev&packetEncoding=xudp&sni=ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV&fp=chrome&encryption=none#Slovakia
-vless://a22bff60-a40a-4250-bde2-4c660e363b47@104.20.6.153:8880?security=none&type=ws&path=/j100sy9wn073cxbvir&host=index.harmonica02.workers.dev&packetEncoding=xudp#
-vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&host=MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPMTMVPN---MTMVPN---MTMVPN---MTMVPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#France
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-006.fastervpn.world:443?insecure=1&security=tls&sni=vpn-us-006.fastervpn.world#United+States
-vmess://eyJhZGQiOiAiMTY5LjE5Ny4xNDIuMjIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJuZXQiOiAicmF3IiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTgwMDAiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#United+Kingdom
-vless://d028eaf5-c5ef-49a0-85c6-4f4816af8053@104.27.68.164:2086?security=none&type=ws&path=/eyJqdW5rIjoiZUJZR2pXVFByVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwOS4xMjAuMTU4LjE0OSJdfQ==?ed=2560&host=misty-bread-fd96.salehinezhadali.workers.dev&packetEncoding=xudp&encryption=none#
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#
-ss://Y2hhY2hhMjAtcG9seTEzMDU6azFkQk9tT0I0b3FpN1VtcDM3YTFiUQ==@82.38.31.189:8080#United+Kingdom
-vless://7da33b25-cdd6-e481-afcf-c5d532361a70@ez-1bc8ab.sekiro-c18.workers.dev:443?security=tls&type=ws&path=/sync&host=ez-1bc8ab.sekiro-c18.workers.dev&packetEncoding=xudp&sni=ez-1bc8ab.sekiro-c18.workers.dev&fp=chrome&encryption=none#
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.4.30:8880?security=none&type=ws&path=/&host=vms.lifetime59.workers.dev&packetEncoding=xudp&encryption=none#The+Netherlands
-vless://907a940c-bad0-4356-a280-7dec12f1479e@sk1i-il4mxi.sparkra.top:443?security=reality&type=raw&packetEncoding=xudp&sni=www.bing.com&fp=firefox&flow=xtls-rprx-vision&sid=83dee8596e65d99e&pbk=zVJVCkcnyPjMZvx-GMQnnbkEgNiws80sppKB6A0uqBY#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURkVsRzJGVnF5cUc=@176.97.64.144:8388#Singapore
-vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?security=reality&type=raw&packetEncoding=xudp&sni=www.foxsports.com&fp=chrome&flow=xtls-rprx-vision&sid=91af08b1ce1f&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&encryption=none#United+Kingdom
+vless://0c6c9627-95fe-418a-bd4c-50df888c44bd@45.131.4.115:80?security=none&type=ws&path=/ffEt2nn4iTWiXfi8&host=worker3.bobiv63003.workers.dev&packetEncoding=xudp&encryption=none#The+Netherlands
+vless://57bd62cf-5550-4075-8fa3-d4519aae8df0@188.114.97.6:80?path=%2FeyJqdW5rIjoiRURaNEp6YUhMbVlqdzQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0&security=&encryption=none&host=silent-feather-8539.sddadad2233122eew.workers.dev&type=ws#The+Netherlands
+hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@82.38.60.15:8443?insecure=1&security=tls&sni=hopp-us.yyuyy.com#United+Kingdom
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@5.34.182.23:443?security=reality&type=tcp&packetEncoding=xudp&sni=eu-central.cendora.ru&fp=chrome&flow=xtls-rprx-vision&sid=00bca5982f82d083&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&encryption=none#Ukraine
+vless://73796e63-0000-4000-8000-000000000000@104.16.174.164:443?security=tls&type=ws&path=/sync&host=wireguard.ahmad-kh5716.workers.dev&packetEncoding=xudp&sni=wireguard.ahmad-kh5716.workers.dev&fp=chrome#
+vless://6eb831ea-8829-457b-a5d1-52f640a97486@116.204.164.5:7443?security=tls&type=ws&path=/@Marisa_kristi&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&packetEncoding=xudp&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&encryption=none#Pakistan
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#France
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.149.192:443?security=tls&type=ws&path=/?ed&host=powered-by-surena.configfarsi695fd42d43c58.workers.dev&packetEncoding=xudp&sni=powered-by-surena.configfarsi695fd42d43c58.workers.dev&fp=chrome&encryption=none#United+States
+ss://YWVzLTI1Ni1nY206c0ZTMzQxZWNlYUlpU20yZA==@154.53.63.33:443#United+States
+trojan://humanity@104.17.111.3:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
+vmess://eyJhZGQiOiAiNDcuMjUwLjEzNS4yNDQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImFlZGM2NmI4LTk5ZDctNGEyMS04MzEwLTYxODcwZTdmODcwZCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMTAwMDAiLCAicHMiOiAiTWFsYXlzaWEiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=a3a578ab&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To#Israel
+vless://50414e45-4c5f-5a45-5553-ef859652a80e@172.67.175.23:443?security=tls&type=ws&path=/stream/TrexBridge/ef859652a80e&host=trex-panel-nubj0s.samifakor.workers.dev&packetEncoding=xudp&sni=trex-panel-nubj0s.samifakor.workers.dev&fp=chrome&encryption=none#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.207:8080#United+Kingdom
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.172:8080?security=tls&sni=hopp-romania-new.roxa.org#Romania
+hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@nl01ntrhy01.tcp-reset-club.net:443?insecure=1&security=tls&sni=nl01ntrhy01.tcp-reset-club.net#The+Netherlands
+trojan://humanity@104.16.174.124:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
+vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-fra02.rkitman.ru:443?security=reality&encryption=none&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node-fra02.rkitman.ru&sid=88d9dc52ef39c8bd#United+Kingdom
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.120.9:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapore
+trojan://humanity@chat.openai.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#United+States
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>
