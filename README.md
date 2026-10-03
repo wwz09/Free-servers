@@ -36,14 +36,25 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-vless://6c713691-3ca2-4446-ad25-113d1bed6b03@ee10.zazazuza.ru:8443?alpn=http/1.1&encryption=none&fp=chrome&host=fdghyt.com&path=/vpn-wss/fluxor/59011/&security=tls&sni=fdghyt.com&type=ws#%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A+V2CROSS.COM
-trojan://humanity@82.117.245.125:2053?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
-hysteria2://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@de1.xiaoliyu.cyou:4433?insecure=1&security=tls&sni=de1.xiaoliyu.cyou#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A+V2CROSS.COM
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.143:8443?security=tls&sni=hop-germany-september.dynuddns.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-hysteria2://6c077487-06af-4fb1-9e46-d485d98f0a31@108.181.5.106:51285?insecure=1&security=tls&sni=www.bing.com#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
-vless://37615d66-5467-44a3-bc23-f2c3bef7f761@tk1.high-speed-test-56424.me:443?security=reality&type=tcp&packetEncoding=xudp&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=21270a66&pbk=p8VhFzvFOBAhWAEAeWmwDxT3xBSRsGYixqi0qnLFnBM&encryption=none#%E7%BE%8E%E5%9B%BD+%E6%83%A0%E6%99%AEHP
-vless://bc5ec86c-3e65-4272-994c-59a924c72a68@fbsv6.guardora.pro:443?encryption=none&security=tls&sni=fbsv6.guardora.pro&fp=firefox&type=ws&path=%2Fws#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://6c713691-3ca2-0008-ad25-113d1bed6b03@89.125.96.79:2053?path=/vpn-wss/fluxor/59011/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=wss.zazazuza.ru&fp=chrome&type=ws&allowInsecure=0&sni=wss.zazazuza.ru#%E7%88%B1%E5%B0%94%E5%85%B0+V2CROSS.COM
+vless://1c5ed2e1-56da-41ab-9a78-159d9892ec17@185.147.26.210:443?security=reality&encryption=none&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=example.com&sid=e4aa362b5f9d07d7#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
 hysteria2://cf83b611-6cba-4535-adcb-8da06c6a9146@144.31.212.253:443?security=tls&sni=vps155-edge.kermemehori.ru#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://f769b7ea-9cd1-4d61-b578-7644b7c8eb3d@104.21.55.229:8880?security=none&type=ws&path=/pyip&host=quiet-waterfall-e914.180-ac4.workers.dev&packetEncoding=xudp&sni=quiet-waterfall-e914.180-ac4.workers.dev&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.133.1.30:8880?security=none&type=ws&path=/&host=vms.lifetime36.workers.dev&packetEncoding=xudp#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+vless://NN@162.159.152.4:80?path=/CooonfigCooonfigCooonfigCooonfigCooonfig&security=none&encryption=none&host=msjsi.azazilvpn.sbs.&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://b85c8be2-3109-4b8a-aa82-f0d8fe06f5ae@anydesk.com:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=young-dust-b8d9.31-8ba.workers.dev&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://bb5f4b63-0b91-4f2c-8a02-66c3f99c1aaa@194.76.18.2:8880?security=none&type=ws&path=/pyip=Telegram🇨🇳 @WangCai2&host=yellow-mouse-fcce.400-318.workers.dev&packetEncoding=xudp&encryption=none#%E5%BE%B7%E5%9B%BD+V2CROSS.COM
+hysteria2://0a11d3b4-682c-4bfb-afb0-820b8285cb4b@mix.pantera-radio.ru:443?insecure=1&security=tls&sni=mix.pantera-radio.ru#%E5%B7%B4%E8%A5%BF+%E5%9C%A3%E4%BF%9D%E7%BD%97
+hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@els.mangshe.xyz:2060?insecure=1&security=tls&sni=els.mangshe.xyz#%E4%BF%84%E7%BD%97%E6%96%AF+%E8%8E%AB%E6%96%AF%E7%A7%91JustHost
+vless://454431fc-71e2-42b1-b375-5b55dd06666a@31.76.119.123:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=chrome&type=tcp&sni=example.org#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&security=tls&sni=www.bing.com#%E6%96%B0%E5%8A%A0%E5%9D%A1+%E7%94%B2%E9%AA%A8%E6%96%87%E6%9C%BA%E6%88%BF
+vless://f6e14309-5cff-4f5d-bce1-06a260159bbe@www.glassdoor.com:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=steep-bread-32f0.92-d12.workers.dev&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://9bf81377-d077-4569-9fc9-5f0a55180651@172.64.151.134:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=super-feather-91c4.267.workers.dev&packetEncoding=xudp&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://aa5d861a-7799-41a7-bdf4-7a6414cf98fd@undef.network:2052?type=ws&host=uwu.blueknightnet.qzz.io&path=/@BlueKnight_net--@BlueKnight_net#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://Trojan%4082164024@pl.tronsg.com:443?security=tls&sni=pl.tronsg.com&type=tcp#%E6%B3%A2%E5%85%B0+%E6%BB%A8%E6%B5%B7%E7%9C%81%E6%A0%BC%E4%BD%86%E6%96%AF%E5%85%8BFriendhosting%E6%9C%89%E9%99%90%E8%B4%A3%E4%BB%BB%E5%85%AC%E5%8F%B8
+vless://c0e8fb58-a60f-4c15-9444-4e7c109797a8@176.96.131.251:1280?path=/&security=none&encryption=none&type=ws#%E5%9C%9F%E8%80%B3%E5%85%B6+V2CROSS.COM
+vless://454431fc-71e2-42b1-b375-5b55dd06666a@77.83.246.202:443?security=reality&encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&headerType=none&fp=chrome&type=tcp&sni=example.org#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
+vless://0c40bce9-8710-4820-8f22-0742b61df999@34.165.56.30:443?&security=reality&pbk=AeQDUAVCESyA1hFkw6lENmgWAY3sBH9CFPpPAddPwVc&sid=fffff8acddadcac3&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#%E7%BE%8E%E5%9B%BD+%E5%BE%97%E5%85%8B%E8%90%A8%E6%96%AF%E5%B7%9E
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
