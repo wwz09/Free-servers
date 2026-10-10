@@ -36,13 +36,12 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-vless://f15a5586-23f6-453f-97f5-c301b949e699@172.64.151.134:8880?security=none&type=ws&path=/&host=mute-sunset-0849.40-aeb.workers.dev&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://89238afb-0166-4ff0-85de-f7bec650a818@91.107.249.108:35696?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com&packetEncoding=xudp&encryption=none#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@217.11.164.183:2112?security=reality&encryption=none&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&headerType=&fp=chrome&spx=/b0801adb7de08fd&type=tcp&sni=www.apple.com&sid=06#%E6%A0%BC%E9%B2%81%E5%90%89%E4%BA%9A+V2CROSS.COM
+vless://3cd1770d-f285-4cf4-8979-e9dd8f4be36a@23.134.76.212:443?security=reality&encryption=none&pbk=cYmfBXsDs1sqQ2ZBW3xsFroB7JHV_ufFT5m7ab7STnU&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=us.dark-bit.cc&sid=9ab513f082d4c6e1#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM
 vless://9ebf4fda-7395-4800-b42f-b2dda649880a@13.143.137.206:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&security=reality&sid=d2061bb1&sni=ya.ru&type=tcp#%E7%BE%8E%E5%9B%BD+Xerox
-hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@rb.mangshe.xyz:2060?insecure=1&security=tls&sni=127.0.0.1#%E5%9C%9F%E8%80%B3%E5%85%B6+V2CROSS.COM
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s592.wagahaha.xyz:10829?encryption=none&type=tcp&headerType=&fp=firefox&host=4d99b056s591.csgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u695098u4d99b056s591.csgfw.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@185.119.19.105:10829?encryption=none&flow=xtls-rprx-vision&security=tls&sni=u695098u2c5f47d6s8746.gogocs.xyz&fp=firefox&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none&host=2c5f47d6s8746.gogocs.xyz#%E5%BE%B7%E5%9B%BD+V2CROSS.COM
-vless://318c935d-c195-41d3-99ad-9bbcfdab3386@fl1.balancer.vbuste-bot.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fl1.balancer.vbuste-bot.com&fp=chrome&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a&type=tcp&headerType=none#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
+vless://85fe968d-fbb5-40dc-8422-30635eccb149@c20s5.portablesubmarines.com:443?security=reality&encryption=none&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=portal.citygrainla.com&sid=051f20c2344a2dfd#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?encryption=none&security=&type=tcp#%E7%91%9E%E5%A3%AB+V2CROSS.COM
+hysteria2://f25f19f29ce3fb53a35bf1b35b452a43@129.159.156.109:50160?insecure=1&security=tls&sni=www.bing.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
