@@ -36,19 +36,13 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-vless://2f9107cb-9af0-4c94-a89d-50437218e5fa@ap2.directly.chat:443?encryption=none&security=tls&sni=ap2.directly.chat&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=ap2.directly.chat&path=/md/1#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
-vless://0afc6426-606c-48e7-bd70-3c424a416842@us22.sofast.live:58011#%E5%8C%97%E4%BA%AC%E5%B8%82+%E7%99%BE%E5%BA%A6%E7%94%B5%E4%BF%A1%E8%8A%82%E7%82%B9
-vless://a5172fb0-b4e8-42dc-a3ee-28239e2ff759@50.7.211.243:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=xn--80abgtcaqw1f.xn----9sbekcigdcaa6cd7cafr7e.xn--p1ai&fp=chrome&pbk=8ENbaQRCWZk-wewSrdHq1_rVjJY4CrxqXUo_5vZNdi4&sid=b2b44805&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD+FDC%E8%8A%9D%E5%8A%A0%E5%93%A5%E6%9C%BA%E6%88%BF
-vless://3cd1770d-f285-4cf4-8979-e9dd8f4be36a@23.134.76.212:443?security=reality&encryption=none&pbk=cYmfBXsDs1sqQ2ZBW3xsFroB7JHV_ufFT5m7ab7STnU&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=us.dark-bit.cc&sid=9ab513f082d4c6e1#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM
-vless://a5172fb0-b4e8-42dc-a3ee-28239e2ff759@50.7.211.245:443?security=reality&encryption=none&pbk=8ENbaQRCWZk-wewSrdHq1_rVjJY4CrxqXUo_5vZNdi4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=xn--80abgtcaqw1f.xn----9sbekcigdcaa6cd7cafr7e.xn--p1ai&sid=b2b44805#%E7%BE%8E%E5%9B%BD+FDC%E8%8A%9D%E5%8A%A0%E5%93%A5%E6%9C%BA%E6%88%BF
-vless://0de87762-7d50-49e7-a5ae-7ac85760e083@skk.moe:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=delicate-fog-bbae.205-635.workers.dev&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@apinbxs.mate-fox.com:41563?security=reality&type=tcp&packetEncoding=none&sni=iosapps.itunes.apple.com&fp=ios&flow=xtls-rprx-vision&sid=25c79e5856c7&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc#%E9%A6%99%E6%B8%AF+%E7%89%B9%E5%88%AB%E8%A1%8C%E6%94%BF%E5%8C%BA
-hysteria2://7e68e32f-8015-4f37-9082-70e8b0b58043@47.129.227.153:443?insecure=1&security=tls&sni=www.bing.com#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@2.26.231.218:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-vless://9ebf4fda-7395-4800-b42f-b2dda649880a@gw1.edgemedia.lol:13443?security=reality&encryption=none&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=d2061bb1#%E7%BE%8E%E5%9B%BD+Xerox
-trojan://bpb-trojan@russia.com:443?fp=chrome&path=%2Ftrh3&security=tls&sni=6982410.xyz&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://f769b7ea-9cd1-4d61-b578-7644b7c8eb3d@104.21.55.229:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=quiet-waterfall-e914.180-ac4.workers.dev&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.106.30:8880?security=none&type=ws&path=/&host=vms.lifetime54.workers.dev&packetEncoding=xudp&encryption=none#%E7%AB%8B%E9%99%B6%E5%AE%9B+V2CROSS.COM
+vless://f15a5586-23f6-453f-97f5-c301b949e699@172.64.151.134:8880?security=none&type=ws&path=/&host=mute-sunset-0849.40-aeb.workers.dev&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://89238afb-0166-4ff0-85de-f7bec650a818@91.107.249.108:35696?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com&packetEncoding=xudp&encryption=none#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://9ebf4fda-7395-4800-b42f-b2dda649880a@13.143.137.206:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&security=reality&sid=d2061bb1&sni=ya.ru&type=tcp#%E7%BE%8E%E5%9B%BD+Xerox
+hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@rb.mangshe.xyz:2060?insecure=1&security=tls&sni=127.0.0.1#%E5%9C%9F%E8%80%B3%E5%85%B6+V2CROSS.COM
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s592.wagahaha.xyz:10829?encryption=none&type=tcp&headerType=&fp=firefox&host=4d99b056s591.csgfw.top&path=&flow=xtls-rprx-vision&security=tls&sni=u695098u4d99b056s591.csgfw.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@185.119.19.105:10829?encryption=none&flow=xtls-rprx-vision&security=tls&sni=u695098u2c5f47d6s8746.gogocs.xyz&fp=firefox&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none&host=2c5f47d6s8746.gogocs.xyz#%E5%BE%B7%E5%9B%BD+V2CROSS.COM
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@fl1.balancer.vbuste-bot.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fl1.balancer.vbuste-bot.com&fp=chrome&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a&type=tcp&headerType=none#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
