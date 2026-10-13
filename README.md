@@ -36,15 +36,11 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?path=/?telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97+CloudFlare%E8%8A%82%E7%82%B9
-hysteria2://8bd04756-3beb-4348-82c9-d35453df50ce@qcloudge1.exitvpn.shop:20270?security=tls&sni=qcloudge1.exitvpn.shop#%E7%BE%8E%E5%9B%BD+%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@143.20.156.116:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=unsafe#%E6%AF%94%E5%88%A9%E6%97%B6+V2CROSS.COM
-vless://e3fb01b6-69b4-41d7-babf-696d992de194@cctvhikvision.center:2053?security=tls&type=ws&path=/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net--@BlueKnight_net--@BlueKnight_net--@BlueKnight_net&host=uwu.blueknightnet.qzz.io&packetEncoding=xudp&sni=uwu.blueknightnet.qzz.io&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%E5%A5%A5%E5%9C%B0%E5%88%A9+V2CROSS.COM
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@192.227.169.125:10829?encryption=none&flow=xtls-rprx-vision&security=tls&sni=u695098u764943ccs478.gogocs.xyz&fp=firefox&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none&host=764943ccs478.gogocs.xyz#%E7%BE%8E%E5%9B%BD+%E7%BA%BD%E7%BA%A6%E5%B7%9E%E4%BC%8A%E5%88%A9%E5%8E%BF%E5%A8%81%E5%BB%89%E6%96%AF%E7%BB%B4%E5%B0%94%E6%9D%91ColoCrossing%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
-trojan://humanity@45.38.3.25:443?alpn=http%2F1.1&fp=unsafe&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://e6df2095-a73c-4043-8693-8d5a03686870@cf.130519.xyz:443?security=tls&type=ws&path=/cart/docs/www/proxyip=108.160.132.132&host=lucasjow.us.ci&packetEncoding=xudp&sni=lucasjow.us.ci&fp=qq#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@saas.sin.fan:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@140.225.208.50:2083?path=%2Fvless-ws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=random&type=ws&allowInsecure=0&sni=speedtestmark.com#%E7%BE%8E%E5%9B%BD+%E5%9C%A3%E5%87%AF%E7%91%9F%E7%90%B3%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6
+vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?security=reality&encryption=none&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=dcb858da#%E5%BE%B7%E5%9B%BD+V2CROSS.COM
+vless://0b3c3f4f-843a-5b0a-98fe-132c88fbefc0@86153507-1976-48f1-ac86-e8ab274470a8.fly.dev:443?encryption=none&security=tls&sni=86153507-1976-48f1-ac86-e8ab274470a8.fly.dev&fp=chrome&type=ws&path=%2Fws%2F0b3c3f4f-843a-5b0a-98fe-132c88fbefc0#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://3c52e091-6714-4915-949f-2149fe69951b@104.16.10.2:443?path=/ws&security=tls&encryption=none&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104","1"],"delays":["0"],"maxSplit":"0"}},{"type":"fragment","settings":{"packets":"1-1","lengths":["114","1"],"delays":["1"],"maxSplit":"11"}}]}&insecure=0&host=v2ray.simspeedup.com&type=ws&allowInsecure=0&sni=v2ray.simspeedup.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+hysteria2://8bd04756-3beb-4348-82c9-d35453df50ce@qcloudge1.exitvpn.shop:20270?security=tls&sni=qcloudge1.exitvpn.shop#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
