@@ -36,14 +36,17 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-trojan://humanity@104.27.21.22:443?alpn=http%2F1.1&fp=unsafe&path=%2Fassignment&security=tls&sni=www.volumeroot.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-hysteria2://8bd04756-3beb-4348-82c9-d35453df50ce@finkawwwbroy5.qcloud.surf:20326?security=tls&sni=finkawwwbroy5.qcloud.surf#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
-vless://d9eb02da-a469-44a7-a393-ba1c5fbbc8c4@177.1.187.139:1984?&security=reality&flow=xtls-rprx-vision&pbk=ikKnBJfcuPy1U0O3Cb71zv_G1liM5QcAYhR10A0Ech0&sid=0f00666a&fp=random&sni=ruori.ai&type=tcp&headerType=none&host=ruori.ai&path=%2F#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
-hysteria2://8bd04756-3beb-4348-82c9-d35453df50ce@qcloudge1.exitvpn.shop:20270?security=tls&sni=qcloudge1.exitvpn.shop#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
-trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&alpn=http/1.1&type=ws&host=www.pleadcourt.org&path=/assignment#%E7%BE%8E%E5%9B%BD+%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%B7%9E%E6%B4%9B%E6%9D%89%E7%9F%B6Cloudflare+Warp%E8%8A%82%E7%82%B9
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-001.fastervpn.world:443?insecure=1&security=tls&sni=vpn-au-001.fastervpn.world#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+AT%26T
-vless://0afc6426-606c-48e7-bd70-3c424a416842@us22.sofast.live:58011?encryption=none&security=&type=tcp#%E6%97%A5%E6%9C%AC+V2CROSS.COM
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-de-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-de-002.fastervpn.world#%E7%BE%8E%E5%9B%BD+Amazon+EC2%E6%9C%8D%E5%8A%A1%E5%99%A8
+vless://a96ad3ea-4820-43d2-bbf3-27c6bf19d652@129.101.121.70:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=xX9ZxZRrF_EER9-8fOegxR97HV5KaMaftAD7eq10UXw&security=reality&sid=75dd7e79a7876314&sni=storage.yandex.net&type=tcp#%E7%BE%8E%E5%9B%BD+%E7%88%B1%E8%BE%BE%E8%8D%B7%E5%A4%A7%E5%AD%A6
+trojan://humanity@108.162.194.134:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@31.77.126.2:443?path=/fdip=sstp://vpn:vpn@vpn748359672.opengw.net:1458?ed=2560&security=tls&alpn=http/1.1&encryption=none&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=snip.edgeoneai.cc.cd&fp=unsafe&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.159.135.234:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://6c713691-3ca2-4446-ad25-113d1bed6b03@46.243.183.2:443?security=reality&encryption=none&pbk=lrbP-ePUk7nbeLS8vBLbP5yyld7ZLmTB4_VQWRO31T8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stream.indigo.ru&sid=8a68df3a93c63ac8#%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+trojan://Trojan%4082164024@ca.tronsg.com:443?security=tls&sni=ca.tronsg.com&type=tcp#%E5%8A%A0%E6%8B%BF%E5%A4%A7+%E5%AE%89%E5%A4%A7%E7%95%A5%E7%9C%81%E5%A4%9A%E4%BC%A6%E5%A4%9AChoops%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vmess://eyJhZGQiOiAib2MuaW1mdW4uZnVuIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJhZDQ1ZjhmNi0wZjBhLTRjYzQtYjkwNy1jNDU4MjQwN2RjOTQiLCAibmFtZSI6ICJKUCBcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUgfCBAUmF5ZGlrYWx4IHwgMDMxQTNBIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAxODExMiwgInBzIjogIlx1NjVlNVx1NjcyYyBcdTRlMWNcdTRlYWNPcmFjbGVcdTRlOTFcdThiYTFcdTdiOTdcdTY1NzBcdTYzNmVcdTRlMmRcdTVmYzMiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://6c713691-3ca2-0009-ad25-113d1bed6b03@140.225.199.210:443?security=reality&encryption=none&pbk=JWDpSUaLgiXGXpgZzzxfDnYGvi4MBFcadN6cHZ-He1E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hatch.senko.ru&sid=b8c6965f3596688a#%E7%BE%8E%E5%9B%BD+%E5%9C%A3%E5%87%AF%E7%91%9F%E7%90%B3%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.111.102:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=unsafe&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MUp2bG10VDR2OHkxeUdjekR0VDZXdz09OmtZa2VaUk5vL1VyeE1HeGtKWHRoMGc9PQ==@95.38.68.148:2089#%E4%BC%8A%E6%9C%97+V2CROSS.COM
+vless://5aaa5259-f924-4682-a4a3-149d472a9dcc@jp.sofast.live:52683?encryption=none&security=&type=tcp#%E6%97%A5%E6%9C%AC+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
