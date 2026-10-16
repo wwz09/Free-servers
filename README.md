@@ -36,13 +36,13 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?security=reality&encryption=none&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=buylite.music.apple.com&sid=6c6c7c97#%E6%96%B0%E5%8A%A0%E5%9D%A1+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&type=tcp#%E6%B1%9F%E8%8B%8F%E7%9C%81%E5%8D%97%E4%BA%AC%E5%B8%82+%E8%85%BE%E8%AE%AF%E4%BA%91
+trojan://humanity@82.117.245.125:2053?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+vless://6c713691-3ca2-0009-ad25-113d1bed6b03@140.225.199.210:443?security=reality&encryption=none&pbk=JWDpSUaLgiXGXpgZzzxfDnYGvi4MBFcadN6cHZ-He1E&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hatch.senko.ru&sid=b8c6965f3596688a#%E7%BE%8E%E5%9B%BD+%E5%9C%A3%E5%87%AF%E7%91%9F%E7%90%B3%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6
+vless://8bd04756-3beb-4348-82c9-d35453df50ce@qcloudge1.exitvpn.shop:20268?security=reality&encryption=none&pbk=5H_MmyfvF4SkwS84wTbLmtcZDecXJIJtZ3uisiKQpSM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=0c774b50#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
+vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.site&sid=00000000#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?sid=6c6c7c97&security=reality&fp=chrome&sni=buylite.music.apple.com&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&type=tcp&headerType=none&flow=xtls-rprx-vision&encryption=none#%E7%BE%8E%E5%9B%BD+%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2
 vless://741809be-e44e-000b-b411-bf66f0ae3860@152.233.71.81:443?security=reality&type=tcp&packetEncoding=xudp&sni=brointelengence.com&fp=chrome&flow=xtls-rprx-vision&sid=1c3e8241a8743df9&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&encryption=none#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
-vless://6c6be9c5-e364-4053-a8ef-c9c3ec5edd0b@78.135.77.55:443?security=reality&encryption=none&pbk=QWyYs5c2v8Tmna5k3FJA7bcyv-oQQbsREtHclza4pH0&headerType=none&fp=chrome&spx=/8e99f789bcafc02&type=tcp&sni=www.akakce.com&sid=209d915f3688b110#%E5%9C%9F%E8%80%B3%E5%85%B6+V2CROSS.COM
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.159.130.234:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443%3Fed%3D2560%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://a00e48ce-e56e-4ac1-8272-38983f0d8f99@150.241.87.196:443?security=reality&encryption=none&pbk=cp947CBxZl6dHGM5epfaXvKyj7Gh3CVBnprViDFL6Rk&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nh-pl-01.farmerly.cc&sid=2174c487a4c9664b#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@saas.sin.fan:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&alpn=h3%2Ch2&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn748359672.opengw.net%3A1458%3Fed%3D2560#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://5aaa5259-f924-4682-a4a3-149d472a9dcc@jp.sofast.live:52683?fp=chrome#%E6%B1%9F%E8%8B%8F%E7%9C%81%E5%8D%97%E4%BA%AC%E5%B8%82+%E8%85%BE%E8%AE%AF%E4%BA%91
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
