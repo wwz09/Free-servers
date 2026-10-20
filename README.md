@@ -36,16 +36,16 @@
 <h4>节点列表：(这里最多只显示20个节点，其他免费节点请到app里获取)</h4>
 
 ```
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.17.147.22:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@139.100.226.187:8443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443#%E6%B3%95%E5%9B%BD+V2CROSS.COM
-vless://d342d11e-d224-4463-b982-532309285094@172.64.158.170:443?path=/&security=tls&encryption=none&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://humanity@8.47.69.0:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%E7%BE%8E%E5%9B%BD+%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%B7%9E%E6%B4%9B%E6%9D%89%E7%9F%B6Cloudflare+Warp%E8%8A%82%E7%82%B9
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.159.135.234:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.179.171:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.159.130.234:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443%3Fed%3D2560#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.67.118.45:443?type=ws&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&alpn=http/1.1&path=/fdip#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@130.78.190.134:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome#%E8%8D%B7%E5%85%B0+V2CROSS.COM
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.178.215:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@141.98.233.6:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome#%E6%B3%A2%E5%85%B0+V2CROSS.COM
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@178.93.160.236:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@31.77.126.2:443?path=/fdip=sstp://vpn:vpn@vpn748359672.opengw.net:1458?ed=2560&security=tls&alpn=http/1.1&encryption=none&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["0", "104", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["114", "1"], "delays": ["1"], "maxSplit": "11"}}]}&insecure=0&host=snip.edgeoneai.cc.cd&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.170.217.60:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.178.215:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fdip=sstp://vpn:vpn@public-vpn-200.opengw.net:443fp=chrome&security=tls#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@123.111.169.70:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%E9%9F%A9%E5%9B%BD+Hanaro+Telecom
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@60.130.209.253:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome#%E6%97%A5%E6%9C%AC+%E8%BD%AF%E9%93%B6%E7%BD%91%E7%BB%9C
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.179.171:443?security=tls&type=ws&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.178.205:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.64.150.43:443?&security=tls&fp=unsafe&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
