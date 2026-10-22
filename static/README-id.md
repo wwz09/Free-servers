@@ -35,26 +35,26 @@
  <h4>Daftar node: (Maksimal 20 node ditampilkan di sini. Node gratis lainnya bisa didapatkan di aplikasi.)</h4>
     
 ```
-vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@178.162.253.64:443?security=reality&type=raw&packetEncoding=xudp&sni=de.servers.gracevpnbuy.com&fp=firefox&flow=xtls-rprx-vision&sid=b91a73752053b039&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&encryption=none#Germany
-vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?security=reality&type=raw&packetEncoding=xudp&sni=deepl.com&fp=qq&flow=xtls-rprx-vision&sid=01d1bf2d4755d40c&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&encryption=none#United+States
-trojan://humanity@104.18.152.161:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-trojan://Telegram_healer_config@172.67.218.38:443?path=%2Ftr%2FdxyX388XOtyAjF3A%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=1v95V6tjywCyTBAhl7f7lX8B27G.l4495eycQmSE9he0YVoemJfc4IBYf-4.wORkerS.dEV#United+States
-vless://4cbdaf4f-ca34-4a00-9a96-49eaa6564b42@31.177.83.201:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#Russia
-vmess://eyJhZGQiOiAicnVzaC02aXQ2Yi50ZWVvcHAucXVlc3QiLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInJ1c2gtNml0NmIudGVlb3BwLnF1ZXN0IiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdmlkZW8va3o0OWhmL2diaW41anZlLm0zdTgiLCAicG9ydCI6IDQ0MywgInBzIjogIiIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJydXNoLTZpdDZiLnRlZW9wcC5xdWVzdCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#United+Kingdom
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@154.196.139.50:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=asia.cendora.ru&fp=firefox&flow=xtls-rprx-vision&sid=e53048e82bb20077&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU#Singapore
-vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4yNTAiLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE4MCIsICJwcyI6ICJVbml0ZWQgS2luZ2RvbSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640#United+States
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@185.193.30.94:443/?type=ws&encryption=none&flow=&host=terazhediii.info&path=/hdgrbws&security=tls&sni=terazhediii.info&fp=chrome#United+Kingdom
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.30:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime23.workers.dev&packetEncoding=xudp&sni=212.183.88.30&encryption=none#Austria
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.96.245:443?insecure=1&security=tls&sni=t.me#South+Korea
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:443?encryption=none&security=&type=ws#Iran
-vless://8525fe74-67e6-4a55-8a26-95f227bd1384@188.114.97.7:2083?security=tls&type=ws&path=/proxyip=104.223.62.204,99.254.66.219,45.133.17.106,40.233.87.120,40.233.110.251,40.233.68.138,68.233.122.42,144.217.76.62&host=shy-fog-af06.alvlirm333.workers.dev&ed=2048&packetEncoding=xudp&sni=shy-fog-af06.alvlirm333.workers.dev&fp=chrome&encryption=none#The+Netherlands
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.137:8443?security=tls&sni=grape-turbo-fr.roxa.org#The+Netherlands
-vless://a22bff60-a40a-4250-bde2-4c660e363b47@188.114.98.16:2082?security=none&type=ws&path=/rry8le3tt8f3g5j7kr&host=index.harmonica02.workers.dev&packetEncoding=xudp&encryption=none#The+Netherlands
-vless://9e65fe63-b771-c63d-5272-fdd700000000@nameless-moon-7c4d.shafmrhjlos23.workers.dev:443?encryption=none&security=tls&type=ws#United+States
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#France
+trojan://humanity@104.18.152.204:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
+vless://1c94a079-e41d-48d3-b5b6-d8f7f761a00d@188.114.97.6:443?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=silent-king-5030.aiprointer.workers.dev&path=/eyJqdW5rIjoiZ3RXWk45UVhpRVB3R3VPIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19&security=tls&sni=SILENt-kiNG-5030.AipRoINteR.WorkErS.DEv&type=ws#The+Netherlands
+vless://928e6cce-8ced-4243-9a48-a6642edd09b0@166.108.235.162:13779?security=reality&type=raw&packetEncoding=xudp&sni=tesla.com&fp=chrome&sid=af1bdd293097b664&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&encryption=none#Singapore
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.108:8443?insecure=1&security=tls&sni=hopp-germany-new.ddnsguru.com#United+States
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?encryption=none&security=&type=ws#The+Netherlands
+vless://50414e45-4c5f-5a45-5553-ef859652a80e@172.67.193.182:443?security=tls&type=ws&path=/stream/TrexBridge/ef859652a80e&host=trex-panel-nubj0s.samifakor.workers.dev&packetEncoding=xudp&sni=trex-panel-nubj0s.samifakor.workers.dev&fp=chrome&encryption=none#United+States
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.96:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
+vless://d028eaf5-c5ef-49a0-85c6-4f4816af8053@173.245.49.114:2086?security=none&type=ws&path=/eyJqdW5rIjoiZUJZR2pXVFByVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwOS4xMjAuMTU4LjE0OSJdfQ==&host=misty-bread-fd96.salehinezhadali.workers.dev&packetEncoding=xudp#France
+vless://c49a0981-6d37-4ec0-9a01-1b63ccc07e4f@time.is:2096?path=/eyJqdW5rIjoiZHlCcVpqeEYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OjExOjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=peekconfig.hamrahfree1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=pEeKcOnFig.haMRaHfREe1.wOrKerS.DEv#United+States
+vless://b9ede7a5-5b4b-4aee-ac37-2c307e587e47@courses.mftplus.qzz.io:2096?security=tls&type=ws&path=/eyJqdW5rIjoidVkzQm1ROUg4dyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&host=courses.mftplus.qzz.io&ed=2560&packetEncoding=xudp&sni=courses.mftplus.qzz.io&fp=chrome&encryption=none#United+States
+vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&security=reality&sid=c84f&sni=deepl.com&type=tcp#United+States
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.185.108.50:8880?security=none&type=ws&path=/?https://t.me/youtube@ZYFXSfp=chrome&host=vms.lifetime23.workers.dev&packetEncoding=xudp#Germany
+trojan://Telegram_healer_config@188.114.96.7:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FJ6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr%3Fed%3D2560&security=tls&sni=BjSa2yGFITzjtHo8ucZe29xf2m2q9C.G3FIAJpF0Erm9k3x6WW-YeGzl2.workeRs.dEV&type=ws#The+Netherlands
+trojan://humanity@104.18.152.244:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
 vless://255386a8-aec5-4425-bfe7-ca49b7448deb@unesaa2.surup.shop:46142?security=reality&type=tcp&packetEncoding=xudp&sni=www.yahoo.com&fp=chrome&sid=39feeba3085c&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&encryption=none#United+States
-hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@193.41.5.243:8443?insecure=1&security=tls&sni=hy2-germany.unlimited-access.ru#Ukraine
+vless://437ebf3c-a92c-4f40-9fc5-9af78c28802d@45.82.67.183:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=daiJkQwpAcBk7oH1iZzRthMj-jAlqovX7vAiwVqfjTU&security=reality&sid=8880a9f75eb46d91&sni=northwaleswildlifetrust.org.uk&type=tcp#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@ca225.vpnbook.com:443#Canada
+vless://e9b8d1c2-c46e-4385-bb58-5931cd08ddd6@84.32.44.232:15084?security=tls&type=ws&path=/@Marisa_kristi&host=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev&packetEncoding=xudp&sni=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev&fp=chrome&encryption=none#United+States
+trojan://humanity@198.41.223.96:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

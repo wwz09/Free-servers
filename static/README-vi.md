@@ -35,26 +35,26 @@
  <h4>Danh sách nút: (Tối đa 20 nút được hiển thị tại đây. Các nút miễn phí khác có thể lấy trong ứng dụng.)</h4>
     
 ```
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:17623?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&encryption=none#Singapore
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388#The+Netherlands
-vless://d8a7b463-dc98-474d-a87e-8781476aef32@172.66.132.196:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=ancient-tree-7dc9.336-5f9.workers.dev&packetEncoding=xudp&encryption=none#United+States
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&security=tls&sni=vpn-de-001.fastervpn.world#Germany
-vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?encryption=none&security=&type=tcp#Russia
-trojan://humanity@104.18.152.246:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
-hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@faq.wwwinternetvideo.click:443?insecure=1&security=tls&sni=cabinet.wwwinternetvideo.click#United+Kingdom
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#United+States
-vless://4ce7cb8a-f9b1-4bfa-a80d-9e168c61a633@104.21.78.225:443?security=tls&type=ws&path=/sync&host=curly-night-6928.ggdhchjk.workers.dev&packetEncoding=xudp&sni=curly-night-6928.ggdhchjk.workers.dev&fp=chrome&encryption=none#
-vless://5d8eb33a-2166-4daf-88fe-4be5799c493b@141.101.120.73:443?encryption=none&fp=chrome&host=noisy-term-e657.airdrop2014aa5168.workers.dev&path=%2F&security=tls&sni=noisy-term-e657.airdrop2014aa5168.workers.dev&type=ws#
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.168.30:8880?security=none&type=ws&path=/&host=vms.lifetime05.workers.dev&packetEncoding=xudp#The+Netherlands
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.195.30:8880?security=none&type=ws&path=/&host=vms.lifetime38.workers.dev&packetEncoding=xudp&encryption=none#United+States
-vless://2b8738de-1af5-4267-b101-c05707769ed4@172.64.80.1:2083?security=tls&type=ws&path=/eyJqdW5rIjoiY0Y0cENQUmxsNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&host=fans.liverpool.qzz.io&ed=2560&packetEncoding=xudp&sni=fans.liverpool.qzz.io&fp=chrome&encryption=none#United+States
-trojan://Telegram_healer_config@104.21.17.125:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FhYgAqUlh5GyczDyXP%3Fed&security=tls&sni=30f67sBQ8jJwMt7GYtfc14.0M68-Qz3hqYfnLAR6n3Iq.wORkErs.dEv&type=ws#
-trojan://humanity@104.16.174.71:443?host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@104.105.78.231:17780/?type=tcp&encryption=none&flow=&sni=amp-api-edge.apps.apple.com&fp=chrome&security=reality&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#United+States
-vless://f82332b2-dc8c-eac4-ac12-f276e37e278a@45.155.70.124:8443?security=reality&type=tcp&packetEncoding=xudp&sni=s1.test.anti-zapret.com&fp=chrome&sid=58fbcddfaae3ade9&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY#The+Netherlands
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.140:8443?insecure=1&security=tls&sni=grape-turbo-fr.roxa.org#The+Netherlands
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.226:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&security=reality&sid=f63805c3ecc7a483&sni=savesafe.co&type=tcp#United+Kingdom
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.76.106:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapore
+vless://20d7c485-5d24-49b5-a5cc-bb7a7daf9908@193.148.59.178:443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=%2DGMpCber8qtrKzJbwvpLcwlIhOy-5zS66u_x9lLvIjE&security=reality&sid=e3daad69&sni=www.apple.com&type=tcp#Singapore
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@derman.neobo-tooth.ru:2096?security=none&type=ws&path=/&host=derman.neobo-tooth.ru&packetEncoding=none#Germany
+hysteria2://P6qkAwznuC076mbIR2cGPg==@43.156.90.144:34567?insecure=1&security=tls&sni=43.156.90.144#Singapore
+vless://31aa0950-eb19-45ff-94a2-af416deb3b90@45.130.125.207:8443?security=tls&type=ws&path=/eyJqdW5rIjoiZm5INktPV0lGcHI1NjNSOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&host=square-salad-ebde.zdfgvccfguuyggg.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=SquarE-saLaD-EbDe.ZDFGVcCfgUUYgGG.wOrKeRS.DEV&fp=chrome&encryption=none#Seychelles
+vless://63f1ce15-1a88-4698-8a0e-59b85d75e607@104.21.74.24:443?security=tls&type=ws&path=/eyJqdW5rIjoiNDIxWGNPNW5CQXYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OmIwOjY0OjpdIiwiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ==&host=free.server11peekconfig.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=FRee.SeRver11pEEkcONFIg.WorkeRS.DEv&fp=chrome&encryption=none#
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@91.193.59.251:2053?security=tls&type=ws&path=/socks5=888:888@hkip.1d.mom:1080&host=vlso6.1d.mom&packetEncoding=xudp&sni=vlso6.1d.mom&fp=chrome&encryption=none#United+Kingdom
+vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@103.246.146.239:8444?alpn=http/1.1&encryption=none&fp=chrome&host=nl1.meshbeat.online&path=/api/v1/devices/4d1e7a9c02/telemetry&security=tls&sni=nl1.meshbeat.online&type=ws#The+Netherlands
+vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#Japan
+vless://c49a0981-6d37-4ec0-9a01-1b63ccc07e4f@soskeynets.hamrahfree1.workers.dev:2096?security=tls&type=ws&path=/eyJqdW5rIjoiZHlCcVpqeEYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OjExOjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==&host=peekconfig.hamrahfree1.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=pEeKcOnFig.haMRaHfREe1.wOrKerS.DEv&fp=chrome&encryption=none#United+States
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.70.32:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=baltic.cendora.ru&fp=qq&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&sid=4a46213c935e2ee4&type=tcp&headerType=none#United+Kingdom
+vless://6cc29a05-4828-4e48-a34a-20b7ada60e85@66.81.247.155:2083?security=tls&type=ws&path=/OAZko425kNFF0PpQ&host=testmikonim.hydrymhmdamyn7.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=testmikonim.hydrymhmdamyn7.workers.dev&fp=chrome#United+States
+vless://30430ca4-9a16-4689-a276-4014599d2f39@217.217.254.126:2053?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=3fc9b11ceeb2cc6b&pbk=yVb3JqVqlnXhiIb3E-gAVvgsXCpWgoeLIAJau9yuZ1I#Spain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#United+Kingdom
+vless://4a956dfd-b65a-4846-b6da-c85fc79918a5@104.21.46.101:2086?security=none&type=ws&path=/eyJqdW5rIjoibW81VDZwNXg5S2IiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0=?ed=2560&host=green-scene-32df.atalastchance.workers.dev&packetEncoding=xudp&encryption=none#
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.16.72.2:443?security=tls&type=ws&path=/sg-amz&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#
+vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@167.233.219.201:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&sid=f648da8196bdb32e&pbk=3ei2ET7SLe8rAO3KOlUWyXy0U22zb86VNOqUCshRVl8&encryption=none#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.230:443#The+Netherlands
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@44.255.13.86:443?insecure=1&security=tls&sni=44.255.13.86#United+States
+vmess://eyJhZGQiOiAiMTQwLjgzLjU3LjIwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInNnLjExMTYwMzIxLmRlNS5uZXQiLCAiaWQiOiAiMWYwMWUzODktZmJjYi00OTRjLWU0NmEtMjEwZWMzNjMyOWMyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIxMzExOCIsICJwcyI6ICJKYXBhbiIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogInNnLjExMTYwMzIxLmRlNS5uZXQiLCAidGVzdF9uYW1lIjogIjM0IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
