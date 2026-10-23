@@ -1,8 +1,13 @@
+# Free-servers · مفت نوڈز اور کلائنٹس کی رہنمائی
+
+مفت نوڈز، سبسکرپشن لنکس اور مختلف پلیٹ فارمز پر کلائنٹس استعمال کرنے کی ہدایات۔
+
 
 <div align="center">
 
 **Languages:**
 
+[![Chinese](https://img.shields.io/badge/Language-Chinese-red?style=for-the-badge)](../README.md)
 [![English](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](README-en.md)
 [![Arabic](https://img.shields.io/badge/Language-Arabic-red?style=for-the-badge)](README-ar.md)
 [![German](https://img.shields.io/badge/Language-German-red?style=for-the-badge)](README-de.md)
@@ -20,74 +25,221 @@
 [![Bangla](https://img.shields.io/badge/Language-Bangla-red?style=for-the-badge)](README-bn.md)
 
 </div>
-<h2>ٹیلیگرام کمیونیکیشن گروپ میں شامل ہونے کے لیے کلک کریں:</h2>
- <blockquote>
- <p style="text-align: center;"><a href="https://t.me/shadowrocket_android">https://t.me/shadowrocket_android</a></p>
- </blockquote>
- <h2>مفت نوڈ اور رکنیت کا پتہ:</h2>
- <blockquote>
- <p style="text-align: center;">اعلی معیار کے نوڈس ہر روز ریئل ٹائم رفتار میں اپ ڈیٹ ہوتے ہیں، ہر 6 گھنٹے بعد اپ ڈیٹ ہوتے ہیں</p>
- </blockquote>
- <h4>اس صفحہ پر، کسی نے دستی طور پر حقیقی وقت میں ہر نوڈ کی رفتار کی پیمائش کی، لیکن اب بھی مختلف علاقوں میں آپریٹر نیٹ ورکس میں فرق موجود ہیں، اور ٹائم آؤٹ نوڈس ہو سکتے ہیں۔ </h4>
- <blockquote>
- <p style="text-align: center;">کھاؤ -> نیند -> ٹیسٹ نوڈس۔ </p>
- </blockquote>
- <h4>نوڈ کی فہرست: (یہاں زیادہ سے زیادہ 20 نوڈز دکھائے جاتے ہیں۔ دیگر مفت نوڈز ایپ میں حاصل کریں)</h4>
-    
+
+## Shadowrockets
+
+[Shadowrockets](https://shadowrockets.app) **Android، Windows، macOS اور Linux** کے لیے کلائنٹس فراہم کرتا ہے۔ ان میں مفت نوڈز شامل ہیں، ایک کلک سے کنکشن اور لیٹنسی ٹیسٹ کی سہولت ہے، جبکہ اختیاری رکنیت بھی دستیاب ہے۔ خصوصیات اور رکنیت کے فوائد پلیٹ فارم اور ورژن کے لحاظ سے مختلف ہوتے ہیں۔
+
+| پلیٹ فارم | انسٹالیشن پیکیج کا انتخاب |
+| --- | --- |
+| Android | ڈیوائس کے آرکیٹیکچر کے مطابق APK منتخب کریں، یا Google Play سے انسٹال کریں۔ |
+| Windows | x64، ARM64۔ |
+| macOS | Intel کے لیے x64 اور Apple Silicon کے لیے ARM64 استعمال کریں۔ |
+| Linux | x64، ARM64؛ deb اور پورٹیبل پیکیجز دستیاب ہیں۔ |
+
+**ڈاؤن لوڈ:** [آفیشل ویب سائٹ سے ڈاؤن لوڈ](https://shadowrockets.app/download/) · [Google Play](https://play.google.com/store/apps/details?id=com.v2cross.proxy)
+
+Android پروجیکٹ اور ورژنز: [GitHub](https://github.com/Pawdroid/shadowrocket_for_android) · [Releases](https://github.com/Pawdroid/shadowrocket_for_android/releases)؛ انسٹالیشن کی ہدایات اور ورژن کی تفصیلات کے لیے [تبدیلیوں کا ریکارڈ](https://shadowrockets.app/changelog/) دیکھیں۔
+
+<h2>Telegram کے مباحثہ گروپ میں شامل ہونے کے لیے کلک کریں:</h2>
+<blockquote>
+<p style="text-align: center;"><a href="https://t.me/shadowrocket_android">https://t.me/shadowrocket_android</a></p>
+</blockquote>
+
+<h2>مفت نوڈز اور سبسکرپشنز</h2>
+<blockquote>
+<p style="text-align: center;">معیاری نوڈز کی رفتار روزانہ حقیقی وقت میں جانچی جاتی ہے اور انہیں اپ ڈیٹ کیا جاتا ہے؛ اپ ڈیٹ ہر 6 گھنٹے بعد ہوتا ہے</p>
+</blockquote>
+<p>علاقے، سروس فراہم کنندہ یا نوڈ کی حالت کے باعث مفت نوڈز کا کنکشن ٹائم آؤٹ ہو سکتا ہے یا وہ کام کرنا بند کر سکتے ہیں۔</p>
+<blockquote>
+<p style="text-align: center;">کھانا->سونا->نوڈز جانچنا۔</p>
+</blockquote>
+<h3>نوڈز کی فہرست</h3>
+<p>یہاں زیادہ سے زیادہ 20 نوڈز دکھائے جاتے ہیں۔</p>
+
+
 ```
-trojan://humanity@185.18.250.252:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#Switzerland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.159:8080#The+Netherlands
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.83.43:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapore
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#United+States
-vless://8892e34a-339b-4526-b88d-cf68c516231c@152.70.58.201:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.nvidia.com&fp=firefox&flow=xtls-rprx-vision&sid=52c723e0fad49689&pbk=Hg_ivwbClYmR-SEHdoGgq4yEk6ltbjS5c4yiQRa4_28&encryption=none#The+Netherlands
-vless://cd74983f-12f5-4836-aae5-17fbc136f888@153.56.134.149:37217?encryption=none&type=tcp&headerType=none#United+States
-vless://dd358774-cd02-42b7-9716-d9f3627cefac@149.112.84.49:54237?security=reality&encryption=none&pbk=wqgM2hNgNhv3a0_zLHYiitoFGkN_ubAQMhW48WfW-io&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=c386acc3c7b89538#EPODONIOS
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.140:8443?insecure=1&security=tls&sni=grape-turbo-fr.roxa.org#The+Netherlands
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@173.245.49.30:8880?type=ws&host=vms.lifetime36.workers.dev&path=/#France
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#South+Korea
-vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@185.193.30.94:443/?type=ws&encryption=none&flow=&host=terazhediii.info&path=/hdgrbws&security=tls&sni=terazhediii.info&fp=chrome#United+Kingdom
-trojan://Telegram_healer_config@172.67.132.19:443?path=%2Ftr%2FbDodLFtTQwCZ6EX3ffMYJ06j9EjLse4d%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=VRE6R9qRbQI0t25TG.SRTB0M3hdbwr2cJZ8fjUr.WoRKeRS.dev#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640#United+States
+vless://c743b343-b1c9-4e44-98a9-274df2015727@139.64.166.55:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=eedf31ed&pbk=cudJBi1zLMATgg_nlqMK5O6Lshlv8EQ2BBQjxbpF4AY#The+Netherlands
+trojan://humanity@www.ignitelimit.com:443?security=tls&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.49:8080#United+Kingdom
 vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.224:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&sid=f63805c3ecc7a483&sni=savesafe.co#United+Kingdom
-trojan://Telegram_healer_config@188.114.96.7:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FJ6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr%3Fed%3D2560&security=tls&sni=BjSa2yGFITzjtHo8ucZe29xf2m2q9C.G3FIAJpF0Erm9k3x6WW-YeGzl2.workeRs.dEV&type=ws#The+Netherlands
-vless://23187ddc-16a5-432d-bf4e-dd42a7ae39f7@104.16.99.215:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=steep-thunder-97fa.108-d10.workers.dev&packetEncoding=xudp#
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node14.mxvpn.dev:443?security=reality&type=tcp&packetEncoding=xudp&sni=node14.mxvpn.dev&fp=chrome&flow=xtls-rprx-vision&sid=bbc68cec8bb8d2e3&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw#Russia
-vless://6b6733fb-580b-411b-8bf8-51137c2aa037@www.zsu.gov.ua:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=restless-sky-eb31.438-aa8.workers.dev&packetEncoding=xudp&encryption=none#United+States
-ss://Y2hhY2hhMjAtcG9seTEzMDU6azFkQk9tT0I0b3FpN1VtcDM3YTFiUQ==@82.38.31.189:8080#United+Kingdom
-vless://b113f831-8658-467f-a819-927d16a54d6a@95.154.237.47:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=lanacion.com.ar&fp=chrome&security=reality&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629#United+Kingdom
-vless://d028eaf5-c5ef-49a0-85c6-4f4816af8053@188.114.97.235:2086?security=none&type=ws&path=/eyJqdW5rIjoiZUJZR2pXVFByVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwOS4xMjAuMTU4LjE0OSJdfQ==?ed=2560&host=misty-bread-fd96.salehinezhadali.workers.dev&packetEncoding=xudp&encryption=none#The+Netherlands
+vless://289c4c75-9ea6-4c23-bda2-17d32c533db4@91.227.77.126:2087?security=none&type=tcp&headerType=http&path=/&packetEncoding=xudp#Bulgaria
+vless://9a3de3e0-2a6e-4bb2-81bd-1a4e51dfa110@104.16.0.1:443?security=tls&type=ws&path=/&host=vpn.renshengxuanze.ccwu.cc&packetEncoding=xudp&sni=vpn.renshengxuanze.ccwu.cc&fp=chrome#
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.122:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=chrome&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
+hysteria2://P6qkAwznuC076mbIR2cGPg==@43.156.90.144:34567?insecure=1&security=tls&sni=43.156.90.144#Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.230:443#The+Netherlands
+vless://710fc22f-06b2-4b6d-bb3e-f57c17b670a6@bc-vn-hn.ray-balance.space:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ray-balance.space&fp=chrome&security=reality&pbk=d1NlaZfnsYjWfxRTqIBk1ldBUmdE-kRTEQ_sWd1JYwI&sid=#United+Kingdom
+vless://8fc03edf-6833-4c58-bbe4-0b35806dae84@79.127.243.217:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=firefox&flow=xtls-rprx-vision&sid=01d72fe094c8f6ef&pbk=IZz9Lj4tnHzNj9AkGlcOQxQXMJe0EGZLtIyX1a_yNAg#United+Kingdom
+vless://33aa2b47-484b-49f6-8f23-fb34602d221f@188.127.247.129:443?security=reality&type=raw&packetEncoding=xudp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=0c&pbk=Kb0rDCu2kKhfnC6bsi0DMRxDej9S-Mu1vVza1H1l4U4#Russia
+vless://a22bff60-a40a-4250-bde2-4c660e363b47@188.114.98.16:2082?security=none&type=ws&path=/rry8le3tt8f3g5j7kr&host=index.harmonica02.workers.dev&packetEncoding=xudp&encryption=none#The+Netherlands
+vless://b80b392c-0cf4-42f9-ae54-9f862e3ba276@150.241.73.177:13443?security=reality&type=tcp&packetEncoding=xudp&sni=auto.cendora.ru&fp=chrome&flow=xtls-rprx-vision&sid=a7f3c91b2e6d84c0&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM#Spain
+vless://a747c516-34bd-41b8-8590-a9d1edb79e95@164.90.176.31:2083?security=tls&type=ws&path=/&host=summer-hall-8b23.asddsaasan.workers.dev&packetEncoding=xudp&sni=summer-hall-8b23.asddsaasan.workers.dev&fp=random&encryption=none#Germany
+vless://7061b26c-0f6c-49b5-be42-af2c011c04bc@54.37.136.194:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=bdc1efeb01044e93&pbk=TtGgrgk1OLMjWBaomJ1JkUOvmtMx7sLJdvvN0bxmZF8#France
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.211:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
+vless://432289de-8dec-46ef-9a3f-001a3af178a7@45.76.87.125:14750?security=tls&type=ws&path=/@Marisa_kristi&host=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&packetEncoding=xudp&sni=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&fp=chrome&encryption=none#Germany
+vmess://eyJhZGQiOiAiMjAwMTpiYzg6MzJkNzoxYTk6OjIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjNhOTY2ZDIwLTdiOWQtNDhjYy1iYTJjLThkMzgxNjFiNmQzYSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9naXRodWIuY29tL0FsdmluOTk5OS1uZXdwYWMvZmFucWlhbmciLCAicGNzIjogIiIsICJwb3J0IjogIjIzMzg4IiwgInBzIjogIkZyYW5jZSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAidmNuIjogIiJ9
 ```
-<h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
- <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>
- <img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK.png' width=250 height=250>
- <blockquote style='text-align: center;'>مزید نوڈس، مفت سبسکرپشن ایڈریسز اور سبسکرپشن تبادلوں کے لیے، براہ کرم اس سائٹ کی طرف سے فراہم کردہ مشترکہ نوڈ ایپ سافٹ ویئر ڈاؤن لوڈ کریں <a href='https://shadowsharing.com'>ShadowShare . تمام مفت نوڈس بلٹ ان ہیں۔ </a></blockquote>
- <h4>یہ تجویز کیا جاتا ہے کہ گھریلو iOS صارفین <a href='https://apps.apple.com/cn/app/shadowshare/id1612647259'>App Store ڈاؤن لوڈ کریں</a> اور اسے جلد از جلد محفوظ کریں۔ مستقبل میں کسی وقت ڈاؤن لوڈ کیا جا سکتا ہے</h4>
- <h4>تیز رفتار اور اعلیٰ معیار کے VPN کی تازہ ترین ریلیز <a href='https://pawdollvpn.com'>PawdollVPN</a> نے Android اور iOS پلیٹ فارمز کو سپورٹ کیا ہے اسے ڈاؤن لوڈ کرنے اور استعمال کرنے میں آپ کا استقبال ہے۔ ایک محدود وقت کے لیے لامحدود مفت ٹرائل فراہم کیا جاتا ہے۔ </h4>
- <div class="nv-content-wrap entry-content">
- <h2>کلائنٹ سبسکرپشن پتوں کی ایک کلک کی تبدیلی جیسے کہ Clash اور SS:</h2>
- <p>اگر SS/SSR/V2ray کلائنٹ براہ راست SSR نوڈ لنک کا استعمال نہیں کر سکتا، تو اسے سبسکرپشن ایڈریس میں تبدیل کرنے کے لیے نیچے لنک کا استعمال کریں پھر SSR/SSD/Surge/Quantum/Surfboard/Loon اور دیگر موبائل اور کمپیوٹر کلائنٹس۔ یہاں استعمال کیا جا سکتا ہے:</p>
- <p><a href="https://acl4ssr-sub.github.io" target="_blank" rel="noreferrer noopener nofollow">https://acl4ssr-sub.github.io</a></p>
- <h2>V2ray/SSR Android iPhone/PC کلائنٹ ڈاؤن لوڈ</h2>
- <h3>V2Ray کلائنٹ ڈاؤن لوڈ</h3>
- <p>V2ray ونڈوز کلائنٹ، V2ray اینڈرائیڈ کلائنٹ، ایپل کمپیوٹرز کے لیے V2ray MacOS کلائنٹ، iPhones کے لیے V2ray iOS کلائنٹ، اور V2ray Linux کلائنٹ کے تازہ ترین ورژن کے لیے ڈاؤن لوڈ لنکس بھی فراہم کیے گئے ہیں۔ </p>
- <h4>Windows7/8/10-<strong>V2ray WinPC کمپیوٹر کلائنٹ</strong>پروگرام ڈاؤن لوڈ</h4>
- <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>V2rayN ڈاؤن لوڈ</td><td><a href="https://github. com/2dust/v2rayN/releases" target="_blank" rel="noreferrer noopener">آفیشل ویب سائٹ ڈاؤن لوڈ</a></td></tr><tr><td>V2rayW ڈاؤن لوڈ</td><td> <a href="https://github.com/Cenmrev/V2RayW/releases" target="_blank" rel="noreferrer noopener">آفیشل ویب سائٹ ڈاؤن لوڈ</a></td></tr><tr><td> Clash ڈاؤن لوڈ</td><td><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases" target="_blank" rel="noreferrer noopener">آفیشل ویب سائٹ ڈاؤن لوڈ</a></td> </tr><tr><td>V2rayS ڈاؤن لوڈ کریں</td><td><a href="https://github.com/Shinlor/V2RayS/releases" target="_blank" rel="noreferrer noopener"> آفیشل ویب سائٹ ڈاؤن لوڈ</a></td></tr><tr><td>میلو ڈاؤن لوڈ</td><td><a href="https://github.com/mellow-io/mellow/releases" target="_blank" rel="noreferrer noopener">آفیشل ویب سائٹ ڈاؤن لوڈ</a></td></tr><tr><td>Qv2ray ڈاؤن لوڈ</td><td><a href= "https://github.com/Qv2ray/Qv2ray" target="_blank" rel="noreferrer noopener">آفیشل ویب سائٹ ڈاؤن لوڈ</a></td></tr></tbody></table></figure>
- <h4><strong>Android/Xiaomi MIUI/Huawei EMUI-V2ray Android موبائل کلائنٹ</strong>Apk پروگرام ڈاؤن لوڈ</h4>
- <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>V2rayNG ڈاؤن لوڈ</td><td><a href="https://github. com/2dust/v2rayNG/releases" target="_blank" rel="noreferrer noopener">آفیشل ویب سائٹ ڈاؤن لوڈ</a></td></tr><tr><td>Android راکٹ ڈاؤن لوڈ</td><td><a href="https://github.com/Pawdroid/shadowrocket_for_android/releases" target="_blank" rel="noreferrer noopener">آفیشل ویب سائٹ ڈاؤن لوڈ</a></td></tr><tr> <td>BifrostV ڈاؤن لوڈ</td><td><a rel="noreferrer noopener" href="https://www.appsapk.com/downloading/latest/com.github.dawndiy.bifrostv-0.6.8.apk " target="_blank">مارکیٹ ڈاؤن لوڈ</a></td></tr><tr><td>کلاش ڈاؤن لوڈ</td><td><a href="https://github.com/Kr328/ClashForAndroid/releases" target="_blank" rel="noreferrer noopener">آفیشل ویب سائٹ ڈاؤن لوڈ</a></td></tr><tr><td>Kitsunebi ڈاؤن لوڈ</td><td><a rel =" noreferrer noopener" href="https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android" target="_blank">مارکیٹ ڈاؤن لوڈ</a></td></tr></tbody></table></figure>
- <h4><strong>MacOS-V2ray <strong>ایپل کمپیوٹر</strong>کلائنٹ</strong>پروگرام ڈاؤن لوڈ</h4>
- <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>V2rayU ڈاؤن لوڈ</td><td><a href="https://github. com/yanue/V2rayU/releases" target="_blank" rel="noreferrer noopener">آفیشل ویب سائٹ ڈاؤن لوڈ</a></td></tr><tr><td>V2rayX ڈاؤن لوڈ</td><td> <a href="https://github.com/Cenmrev/V2RayX/releases" target="_blank" rel="noreferrer noopener">آفیشل ویب سائٹ ڈاؤن لوڈ</a></td></tr><tr><td> ClashX ڈاؤن لوڈ</td><td><a href="https://github.com/yichengchen/clashX/releases" target="_blank" rel="noreferrer noopener">آفیشل ویب سائٹ ڈاؤن لوڈ</a></td> </tr></tbody></table></figure>
- <h4><strong>Linux</strong>–<strong>V2ray Ubuntu/Centos کمپیوٹر کلائنٹ</strong>پروگرام ڈاؤن لوڈ</h4>
- <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>Qv2ray ڈاؤن لوڈ</td><td><a href="https://github. com/Qv2ray/Qv2ray" target="_blank" rel="noreferrer noopener">آفیشل ویب سائٹ ڈاؤن لوڈ</a></td></tr><tr><td>میلو ڈاؤن لوڈ</td><td><a href="https://github.com/mellow-io/mellow/releases" target="_blank" rel="noreferrer noopener">آفیشل ویب سائٹ ڈاؤن لوڈ</a></td></tr><tr><td> V2rayL ڈاؤن لوڈ</td><td><a rel="noreferrer noopener" href="https://github.com/jiangxufeng/v2rayL" target="_blank">آفیشل انسٹالیشن دستاویز</a></td></tr></tbody></table></figure>
- <h4>iOS-<strong>V2ray Apple<strong>موبائل کلائنٹ</strong>ایپ پروگرام</strong>ڈاؤن لوڈ کریں</h4>
- <p>Apple AppStore مارکیٹ میں کوئی مفت V2ray iOS کلائنٹ دستیاب نہیں ہے جیسے Shadowrocket، pepi، i2Ray، Kitsunebi اور Quantumult۔ </p>
- <h3>ShadowsocksR/SSR کلائنٹ ڈاؤن لوڈ</h3>
- <p>ShadowsocksR کو مختصراً SSR کہا جاتا ہے، اور اس کے خوبصورت عرفی نام بھی ہیں جیسے سوور یوگرٹ، گلابی ہوائی جہاز، اور کاغذی ہوائی جہاز، جو بڑے پیمانے پر استعمال ہوتے ہیں۔ </p>
- <p>ہم نے سب کے ساتھ اشتراک کرنے کے لیے SSR Windows کلائنٹ، SSR Android کلائنٹ، ایپل کمپیوٹرز کے لیے SSR MacOS کلائنٹ اور Apple فونز کے لیے SSR iOS کلائنٹ کے تازہ ترین ورژنز کے ڈاؤن لوڈ ایڈریسز مرتب کیے ہیں۔ </p>
- <h4><strong>Windows7/8/10-<strong>SSR Small Plane WinPC کمپیوٹر کلائنٹ</strong>پروگرام ڈاؤن لوڈ</strong></h4>
- <p><a rel="noreferrer noopener" href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases" target="_blank">آفیشل ویب سائٹ ڈاؤن لوڈ</a></p>
- <h4><strong><strong>Android/Xiaomi MIUI/Huawei EMUI-SSR چھوٹا طیارہ Android موبائل کلائنٹ</strong>Apk پروگرام ڈاؤن لوڈ</strong></h4>
- <p><a rel="noreferrer noopener" href="https://github.com/shadowsocksrr/shadowsocksr-android/releases" target="_blank">آفیشل ویب سائٹ ڈاؤن لوڈ</a></p>
- <h4><strong><strong>MacOS-SSR سمال پلین ایپل کمپیوٹر کلائنٹ</strong>پروگرام ڈاؤن لوڈ</strong></h4>
- <p><a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases" target="_blank" rel="noreferrer noopener">آفیشل ویب سائٹ ڈاؤن لوڈ</a></p>
- <h4><strong>iOS-<strong>SSR سمال پلین ایپل موبائل کلائنٹ ایپ</strong></strong>ڈاؤن لوڈ کریں</h4>
- <p>iPhone یا iPad پر Apple App Store کھولیں اور Mume، Potatso Lite، FastSocks، اور Shadowrocket تلاش کریں۔ </p></div>
-    
+
+
+
+### سبسکرپشن کا پتہ
+
+درج ذیل پتہ ایسے کلائنٹ میں کاپی کریں جو متعلقہ سبسکرپشن فارمیٹ کو سپورٹ کرتا ہو، یا درآمد کرنے کے لیے QR کوڈ اسکین کریں۔
+
+<p><a href="https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK">https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</a></p>
+
+<img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK.png' width=250 height=250 alt='سبسکرپشن کے پتے کا QR کوڈ'>
+
+## دیگر مصنوعات اور ڈاؤن لوڈ لنکس
+
+### ShadowShare
+
+نوڈز اور سبسکرپشنز شیئر کرنے کا ٹول، جس میں Android اور iOS کے ڈاؤن لوڈ لنکس دستیاب ہیں۔
+
+[آفیشل ویب سائٹ](https://shadowsharing.com) · [iOS App Store](https://apps.apple.com/cn/app/shadowshare/id1612647259)
+
+### Pawdoll
+
+VPN کلائنٹ؛ مصنوعات کی تفصیلات اور ڈاؤن لوڈ کے لیے [آفیشل ویب سائٹ](https://pawdollvpn.com) دیکھیں۔
+
+### Surflare
+
+Surflare، VPN اور پراکسی خدمات فراہم کرتا ہے:
+
+- Windows، macOS، Linux، Android اور iOS کے لیے کلائنٹس دستیاب ہیں۔
+- VPN ایپ اسمارٹ ٹریفک روٹنگ اور ملٹی ہاپ VPN کو سپورٹ کرتی ہے۔
+- پراکسی سروس SOCKS5 اور HTTP کو سپورٹ کرتی ہے اور ایسے سافٹ ویئر میں استعمال ہو سکتی ہے جو متعلقہ پراکسی کنفیگریشن کو سپورٹ کرتے ہیں۔
+
+**رعایتی کوڈ: `pawdroid`۔** اصل رعایت اور اہل پلانز چیک آؤٹ صفحے کے مطابق ہوں گے۔
+
+[آفیشل ویب سائٹ](https://www.surflare.com/)
+
+## دیگر کلائنٹس
+
+درج ذیل کلائنٹس آپ کے اپنے نوڈز یا سبسکرپشنز درآمد کرنے کے لیے موزوں ہیں۔ آپ انہیں اپنے آلے کے پلیٹ فارم اور کنفیگریشن فارمیٹ کے مطابق منتخب کر سکتے ہیں۔ فیس کا کالم صرف کلائنٹ کی قیمت ظاہر کرتا ہے؛ اس میں نوڈز یا سبسکرپشن سروس شامل نہیں۔ قیمت کے طریقۂ کار، سسٹم کی ضروریات اور علاقائی دستیابی کے لیے سرکاری صفحات دیکھیں۔
+
+[Windows](#clients-windows) · [macOS](#clients-macos) · [Linux](#clients-linux) · [Android](#clients-android) · [iOS / iPadOS](#clients-ios) · [راؤٹر پلگ اِنز](#router-plugins) · [سبسکرپشن فارمیٹس](#subscription-formats)
+
+<a id="clients-windows"></a>
+
+### Windows
+
+| کلائنٹ | خصوصیات / کنفیگریشن فارمیٹ | فیس کی نوعیت | سرکاری ڈاؤن لوڈ |
+| --- | --- | --- | --- |
+| **v2rayN** | نوڈ شیئرنگ لنکس اور عام V2Ray سبسکرپشنز۔ | مفت | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
+| **Clash Verge Rev** | Clash / Mihomo YAML کنفیگریشن، قواعد اور پراکسی گروپس۔ | مفت | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
+| **Hiddify** | مختلف پلیٹ فارمز پر معاونت یافتہ سبسکرپشنز اور کنفیگریشنز کا انتظام۔ | مفت | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
+| **Clash Party** | پہلے Mihomo Party کے نام سے معروف؛ Mihomo پر مبنی قواعد کے مطابق کام کرنے والا پراکسی کلائنٹ۔ | مفت | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
+| **FlClash** | Clash / Mihomo کنفیگریشن، قواعد اور پراکسی گروپس۔ | مفت | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
+| **Karing** | متعدد پروٹوکولز کی پراکسی، Clash / sing-box کے روٹنگ قواعد کی معاونت کے ساتھ۔ | مفت | [سرکاری پروجیکٹ اور ڈاؤن لوڈ](https://github.com/KaringX/karing) |
+| **Throne** | sing-box پر مبنی ڈیسک ٹاپ نوڈز اور روٹنگ کا انتظام۔ | مفت | [سرکاری پروجیکٹ اور ڈاؤن لوڈ](https://github.com/throneproj/Throne) |
+
+<a id="clients-macos"></a>
+
+### macOS
+
+| کلائنٹ | خصوصیات / کنفیگریشن فارمیٹ | فیس کی نوعیت | سرکاری ڈاؤن لوڈ |
+| --- | --- | --- | --- |
+| **v2rayN** | نوڈ شیئرنگ لنکس اور عام V2Ray سبسکرپشنز۔ | مفت | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
+| **Clash Verge Rev** | Clash / Mihomo YAML کنفیگریشن، قواعد اور پراکسی گروپس۔ | مفت | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
+| **Hiddify** | مختلف پلیٹ فارمز پر معاونت یافتہ سبسکرپشنز اور کنفیگریشنز کا انتظام۔ | مفت | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
+| **Clash Party** | پہلے Mihomo Party کے نام سے معروف؛ Mihomo پر مبنی قواعد کے مطابق کام کرنے والا پراکسی کلائنٹ۔ | مفت | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
+| **FlClash** | Clash / Mihomo کنفیگریشن، قواعد اور پراکسی گروپس۔ | مفت | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
+| **Karing** | متعدد پروٹوکولز کی پراکسی، Clash / sing-box کے روٹنگ قواعد کی معاونت کے ساتھ۔ | مفت | [سرکاری پروجیکٹ اور ڈاؤن لوڈ](https://github.com/KaringX/karing) |
+| **Throne** | sing-box پر مبنی ڈیسک ٹاپ نوڈز اور روٹنگ کا انتظام۔ | مفت | [سرکاری پروجیکٹ اور ڈاؤن لوڈ](https://github.com/throneproj/Throne) |
+| **Surge Mac** | قواعد پر مبنی پراکسی اور نیٹ ورک ڈیبگنگ؛ Surge کنفیگریشن فارمیٹ استعمال کرتا ہے۔ | بامعاوضہ؛ Mac اور iOS کے لائسنس الگ ہیں | [سرکاری ویب سائٹ](https://nssurge.com/) |
+| **Quantumult X** | قواعد کے مطابق ٹریفک کی تقسیم اور نیٹ ورک ڈیبگنگ؛ اپنا کنفیگریشن فارمیٹ استعمال کرتا ہے۔ | بامعاوضہ | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
+| **sing-box for Apple platforms** | مقامی یا ریموٹ sing-box JSON کنفیگریشن؛ کور کے ورژن سے مطابقت ضروری ہے۔ | مفت | [سرکاری ڈاؤن لوڈ ہدایات](https://sing-box.sagernet.org/clients/apple/) |
+
+ڈاؤن لوڈ کرتے وقت Intel / Apple Silicon آرکیٹیکچر اور macOS سسٹم کی ضروریات کی تصدیق کریں۔ Surge Mac اور iOS ورژن کے لائسنس الگ ہیں۔
+
+<a id="clients-linux"></a>
+
+### Linux
+
+| کلائنٹ | خصوصیات / کنفیگریشن فارمیٹ | فیس کی نوعیت | سرکاری ڈاؤن لوڈ |
+| --- | --- | --- | --- |
+| **v2rayN** | نوڈ شیئرنگ لنکس اور عام V2Ray سبسکرپشنز۔ | مفت | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
+| **Clash Verge Rev** | Clash / Mihomo YAML کنفیگریشن، قواعد اور پراکسی گروپس۔ | مفت | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
+| **Hiddify** | مختلف پلیٹ فارمز پر معاونت یافتہ سبسکرپشنز اور کنفیگریشنز کا انتظام۔ | مفت | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
+| **Clash Party** | پہلے Mihomo Party کے نام سے معروف؛ Mihomo پر مبنی قواعد کے مطابق کام کرنے والا پراکسی کلائنٹ۔ | مفت | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
+| **FlClash** | Clash / Mihomo کنفیگریشن، قواعد اور پراکسی گروپس۔ | مفت | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
+| **Karing** | متعدد پروٹوکولز کی پراکسی، Clash / sing-box کے روٹنگ قواعد کی معاونت کے ساتھ۔ | مفت | [سرکاری پروجیکٹ اور ڈاؤن لوڈ](https://github.com/KaringX/karing) |
+| **Throne** | sing-box پر مبنی ڈیسک ٹاپ نوڈز اور روٹنگ کا انتظام۔ | مفت | [سرکاری پروجیکٹ اور ڈاؤن لوڈ](https://github.com/throneproj/Throne) |
+
+<a id="clients-android"></a>
+
+### Android
+
+| کلائنٹ | خصوصیات / کنفیگریشن فارمیٹ | فیس کی نوعیت | سرکاری ڈاؤن لوڈ |
+| --- | --- | --- | --- |
+| **v2rayNG** | نوڈ شیئرنگ لنکس اور عام V2Ray سبسکرپشنز۔ | مفت | [GitHub Releases](https://github.com/2dust/v2rayNG/releases) |
+| **FlClash** | Clash / Mihomo کنفیگریشن، قواعد اور پراکسی گروپس۔ | مفت | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
+| **Hiddify** | مختلف پلیٹ فارمز پر معاونت یافتہ سبسکرپشنز اور کنفیگریشنز کا انتظام۔ | مفت | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
+| **Karing** | متعدد پروٹوکولز کی پراکسی، Clash / sing-box کے روٹنگ قواعد کی معاونت کے ساتھ۔ | مفت | [سرکاری پروجیکٹ اور ڈاؤن لوڈ](https://github.com/KaringX/karing) |
+| **Clash Meta for Android** | Clash / Mihomo کنفیگریشن، قواعد اور پراکسی گروپس۔ | مفت | [GitHub Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest) |
+| **sing-box for Android** | مقامی یا ریموٹ sing-box JSON کنفیگریشن؛ کور کے ورژن سے مطابقت ضروری ہے۔ | مفت | [سرکاری ڈاؤن لوڈ ہدایات](https://sing-box.sagernet.org/clients/android/) |
+| **Surfboard** | Surge کنفیگریشن فارمیٹ؛ کچھ خصوصیات مطابقت نہیں رکھتیں۔ | سرکاری وضاحت کے مطابق | [GitHub Releases](https://github.com/getsurfboard/surfboard/releases/latest) |
+| **NekoBox for Android** | sing-box پر مبنی متعدد پروٹوکولز کا کلائنٹ؛ تجربہ کار صارفین کے لیے متبادل، جس کی دیکھ بھال کم کی جاتی ہے۔ | مفت | [GitHub Releases](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) |
+
+NekoBox کے سرکاری پروجیکٹ نے واضح کیا ہے کہ اس کی دیکھ بھال کم کی جاتی ہے اور نئی خصوصیات کی درخواستیں قبول نہیں کی جاتیں۔ اس نے یہ بھی بتایا ہے کہ Google Play پر اسی نام کا ورژن اب کسی تیسرے فریق کے کنٹرول میں ہے؛ براہ کرم اوپر دیا گیا GitHub لنک استعمال کریں۔
+
+<a id="clients-ios"></a>
+
+### iOS / iPadOS
+
+| کلائنٹ | خصوصیات / کنفیگریشن فارمیٹ | فیس کی نوعیت | سرکاری ڈاؤن لوڈ |
+| --- | --- | --- | --- |
+| **Shadowrocket** | نوڈز کا انتظام اور قواعد پر مبنی پراکسی۔ | بامعاوضہ | [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118) |
+| **Stash** | معاونت یافتہ Clash کنفیگریشن اور قواعد کے مطابق ٹریفک کی تقسیم۔ | بامعاوضہ | [App Store](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
+| **sing-box for Apple platforms** | مقامی یا ریموٹ sing-box JSON کنفیگریشن؛ کور کے ورژن سے مطابقت ضروری ہے۔ | مفت | [سرکاری ڈاؤن لوڈ ہدایات](https://sing-box.sagernet.org/clients/apple/) |
+| **Karing** | متعدد پروٹوکولز کی پراکسی، Clash / sing-box کے روٹنگ قواعد کی معاونت کے ساتھ۔ | مفت | [App Store](https://apps.apple.com/us/app/karing/id6472431552) |
+| **Quantumult X** | قواعد کے مطابق ٹریفک کی تقسیم اور نیٹ ورک ڈیبگنگ؛ اپنا کنفیگریشن فارمیٹ استعمال کرتا ہے۔ | بامعاوضہ | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
+| **Surge** | قواعد پر مبنی پراکسی اور نیٹ ورک ڈیبگنگ؛ Surge کنفیگریشن فارمیٹ استعمال کرتا ہے۔ | مفت ڈاؤن لوڈ؛ Pro اَن لاک، اور اپ ڈیٹس کی الگ اختیاری سبسکرپشن | [App Store](https://apps.apple.com/us/app/surge-5/id1442620678) |
+| **Loon** | نوڈز کا انتظام، قواعد کے مطابق ٹریفک کی تقسیم اور نیٹ ورک ڈیبگنگ؛ اپنا کنفیگریشن فارمیٹ استعمال کرتا ہے۔ | بامعاوضہ | [App Store](https://apps.apple.com/us/app/loon/id1373567447) |
+| **Egern** | قواعد کے مطابق ٹریفک کی تقسیم اور نیٹ ورک ڈیبگنگ۔ | مفت ڈاؤن لوڈ؛ ایپ کے اندر Pro کی خریداری | [App Store](https://apps.apple.com/us/app/egern/id1616105820) |
+| **Streisand** | نوڈز اور سبسکرپشنز کا انتظام، متعدد پراکسی پروٹوکولز کی معاونت کے ساتھ۔ | مفت | [App Store](https://apps.apple.com/us/app/streisand/id6450534064) |
+| **Potatso** | پراکسی کنفیگریشن اور قواعد کے مطابق ٹریفک کی تقسیم۔ | مفت؛ ایپ کے اندر Pro کی خریداری | [App Store](https://apps.apple.com/us/app/potatso/id1239860606) |
+
+<a id="router-plugins"></a>
+
+### راؤٹر پلگ اِنز
+
+درج ذیل پلگ اِنز ایسے راؤٹر فرم ویئر کے لیے ہیں جو متعلقہ اجزا کی معاونت کرتے ہوں۔ انسٹال کرنے سے پہلے فرم ویئر ورژن، CPU آرکیٹیکچر، مطلوبہ اجزا اور سبسکرپشن فارمیٹ کی تصدیق کریں؛ ڈیسک ٹاپ یا موبائل کے انسٹالیشن پیکجز براہِ راست استعمال نہیں کیے جا سکتے۔
+
+| پلگ اِن | موزوں ماحول / کنفیگریشن فارمیٹ | فیس کی نوعیت | سرکاری پروجیکٹ |
+| --- | --- | --- | --- |
+| **OpenClash** | OpenWrt؛ Clash / Mihomo YAML کنفیگریشن۔ عام V2Ray سبسکرپشنز کو عموماً پہلے معاونت یافتہ فارمیٹ میں تبدیل کرنا پڑتا ہے۔ | مفت اور اوپن سورس | [GitHub](https://github.com/vernesong/OpenClash) |
+| **PassWall2 / PassWall** | OpenWrt؛ متعدد پروٹوکولز کی پراکسی۔ مطلوبہ اجزا فرم ویئر، CPU آرکیٹیکچر اور منتخب کور کے لحاظ سے مختلف ہوتے ہیں۔ | مفت اور اوپن سورس | [PassWall2](https://github.com/Openwrt-Passwall/openwrt-passwall2) · [PassWall](https://github.com/Openwrt-Passwall/openwrt-passwall) |
+| **Nikki** | Mihomo پر مبنی؛ OpenWrt ≥ 24.10، Linux ≥ 5.13 اور firewall4 کا استعمال ضروری ہے۔ | مفت اور اوپن سورس | [GitHub](https://github.com/nikkinikki-org/OpenWrt-nikki) |
+| **HomeProxy** | sing-box پر مبنی؛ ImmortalWrt پر چلنے والے ARM64 / AMD64 آلات کے لیے۔ | مفت اور اوپن سورس | [GitHub](https://github.com/immortalwrt/homeproxy) |
+
+<a id="subscription-formats"></a>
+
+### سبسکرپشن فارمیٹس اور مطابقت
+
+| کنفیگریشن کی قسم | استعمال کی ہدایات |
+| --- | --- |
+| **نوڈ لنکس / عام V2Ray سبسکرپشنز** | عموماً نوڈ لنکس کی فہرست ہوتی ہے، جسے مکمل طور پر Base64 میں بھی انکوڈ کیا جا سکتا ہے؛ کلائنٹ میں متعلقہ پروٹوکول کی معاونت ضروری ہے۔ |
+| **Clash / Mihomo YAML** | اس میں نوڈز، پراکسی گروپس اور قواعد شامل ہو سکتے ہیں؛ اضافی فیلڈز کی معاونت مختلف کورز میں مختلف ہو سکتی ہے۔ |
+| **sing-box JSON** | کلائنٹ کے استعمال کردہ sing-box کور کے ورژن سے مطابقت ضروری ہے۔ |
+| **Surge / Quantumult X / Loon وغیرہ کی مخصوص کنفیگریشنز** | ہر ایک کے اپنے کنفیگریشن اصول ہیں؛ کچھ نحو ملتی جلتی ہونے کے باوجود مکمل مطابقت کی ضمانت نہیں۔ |
+
+مختلف فارمیٹس کو براہِ راست ایک دوسرے کی جگہ استعمال نہیں کیا جا سکتا۔ تبدیلی کے دوران قواعد، DNS، پراکسی گروپس یا پروٹوکول پیرامیٹرز ضائع ہو سکتے ہیں۔ درآمد کرنے سے پہلے مطلوبہ کلائنٹ اور اس کے کور کے ورژن کی تصدیق کریں؛ Stash جیسے کلائنٹس بھی تمام Mihomo ایکسٹینشنز کی معاونت کی ضمانت نہیں دیتے۔
+
+تبدیلی کی ضرورت ہو تو [سبسکرپشن کنورژن ٹول](https://acl4ssr-sub.github.io) استعمال کیا جا سکتا ہے۔ نجی رسائی کی معلومات پر مشتمل سبسکرپشنز صرف قابلِ اعتماد سروسز کے سپرد کریں۔
+
+### استعمال کا طریقہ
+
+1. سرکاری ذریعے سے اپنے سسٹم اور CPU آرکیٹیکچر کے مطابق کلائنٹ ڈاؤن لوڈ کریں۔
+2. کلائنٹ کے فراہم کردہ بلٹ اِن نوڈز استعمال کریں، یا معاونت یافتہ سبسکرپشنز اور کنفیگریشنز درآمد کر کے نوڈز کی فہرست اپ ڈیٹ کریں۔
+3. نوڈ منتخب کر کے لیٹنسی جانچیں، پھر کنیکٹ ہونے کے بعد عملی رسائی کی تصدیق کریں۔
+
+### سبسکرپشن اپ ڈیٹ اور کنکشن کے مسائل کی جانچ
+
+- **سبسکرپشن اپ ڈیٹ کرنا:** کلائنٹ میں سبسکرپشن اپ ڈیٹ کر کے نوڈز کی تازہ فہرست حاصل کریں؛ کامیاب اپ ڈیٹ کا مطلب یہ نہیں کہ نوڈز اس وقت دستیاب ہیں۔
+- **درآمد نہ ہونا:** دیکھیں کہ سبسکرپشن ایڈریس مکمل ہے۔ اسے حاصل کرنے میں ناکامی پر نیٹ ورک اور خرابی کا پیغام دیکھیں؛ پارسنگ ناکام ہونے پر سبسکرپشن فارمیٹ اور کلائنٹ کے کور ورژن کی تصدیق کریں۔
+- **کنیکٹ نہ ہونا:** پہلے سبسکرپشن اپ ڈیٹ کریں اور دوسرے نوڈز آزمائیں، پھر کلائنٹ کے خرابی کے پیغام کے مطابق پراکسی یا VPN موڈ کی جانچ کریں۔
+
+لیٹنسی کے نتائج صرف اسی ٹیسٹ کی عکاسی کرتے ہیں؛ یہ نوڈ کی حفاظت کا ثبوت نہیں، نہ ہی تمام سروسز تک رسائی کی ضمانت ہیں۔

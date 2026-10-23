@@ -1,8 +1,13 @@
+# Free-servers · বিনামূল্যের নোড ও ক্লায়েন্ট নির্দেশিকা
+
+বিনামূল্যের নোড, সাবস্ক্রিপশন লিংক এবং বিভিন্ন প্ল্যাটফর্মে ক্লায়েন্ট ব্যবহারের নির্দেশনা।
+
 
 <div align="center">
 
 **Languages:**
 
+[![Chinese](https://img.shields.io/badge/Language-Chinese-red?style=for-the-badge)](../README.md)
 [![English](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](README-en.md)
 [![Arabic](https://img.shields.io/badge/Language-Arabic-red?style=for-the-badge)](README-ar.md)
 [![German](https://img.shields.io/badge/Language-German-red?style=for-the-badge)](README-de.md)
@@ -20,74 +25,221 @@
 [![Bangla](https://img.shields.io/badge/Language-Bangla-red?style=for-the-badge)](README-bn.md)
 
 </div>
-<h2>টেলিগ্রাম যোগাযোগ গ্রুপে যোগ দিতে ক্লিক করুন:</h2>
- <blockquote>
- <p style="text-align: center;"><a href="https://t.me/shadowrocket_android">https://t.me/shadowrocket_android</a></p>
- </blockquote>
- <h2>ফ্রি নোড এবং সদস্যতা ঠিকানা:</h2>
- <blockquote>
- <p style="text-align: center;">উচ্চ-মানের নোডগুলি প্রতিদিন রিয়েল-টাইম গতিতে আপডেট করা হয়, প্রতি 6 ঘণ্টায় আপডেট হয়</p>
- </blockquote>
- <h4>এই পৃষ্ঠায়, কেউ ম্যানুয়ালি রিয়েল টাইমে প্রতিটি নোডের গতি পরিমাপ করেছে, কিন্তু এখনও বিভিন্ন অঞ্চলে অপারেটর নেটওয়ার্কে পার্থক্য রয়েছে এবং টাইমআউট নোড থাকতে পারে। </h4>
- <blockquote>
- <p style="text-align: center;">খাও -> ঘুম -> টেস্ট নোড। </p>
- </blockquote>
- <h4>নোড তালিকা: (এখানে সর্বোচ্চ 20টি নোড দেখানো হয়। অন্যান্য বিনামূল্যের নোড অ্যাপে পাওয়া যাবে)</h4>
-    
+
+## Shadowrockets
+
+[Shadowrockets](https://shadowrockets.app) **Android, Windows, macOS ও Linux**-এর জন্য ক্লায়েন্ট সরবরাহ করে। এতে বিনামূল্যের নোড অন্তর্ভুক্ত রয়েছে, এক ক্লিকে সংযোগ ও লেটেন্সি পরীক্ষার সুবিধা আছে এবং ঐচ্ছিক সদস্যতাও পাওয়া যায়। নির্দিষ্ট ফিচার ও সদস্যতার সুবিধা প্ল্যাটফর্ম এবং সংস্করণভেদে আলাদা হয়।
+
+| প্ল্যাটফর্ম | ইনস্টলেশন প্যাকেজ নির্বাচন |
+| --- | --- |
+| Android | ডিভাইসের আর্কিটেকচার অনুযায়ী APK বেছে নিন, অথবা Google Play থেকে ইনস্টল করুন। |
+| Windows | x64, ARM64। |
+| macOS | Intel-এর জন্য x64 এবং Apple Silicon-এর জন্য ARM64 ব্যবহার করুন। |
+| Linux | x64, ARM64; deb ও পোর্টেবল প্যাকেজ পাওয়া যায়। |
+
+**ডাউনলোড:** [অফিশিয়াল ওয়েবসাইট থেকে ডাউনলোড](https://shadowrockets.app/download/) · [Google Play](https://play.google.com/store/apps/details?id=com.v2cross.proxy)
+
+Android প্রকল্প ও সংস্করণ: [GitHub](https://github.com/Pawdroid/shadowrocket_for_android) · [Releases](https://github.com/Pawdroid/shadowrocket_for_android/releases); ইনস্টলেশনের নির্দেশনা ও সংস্করণের বিবরণের জন্য [পরিবর্তনের তালিকা](https://shadowrockets.app/changelog/) দেখুন।
+
+<h2>Telegram আলোচনা গ্রুপে যোগ দিতে ক্লিক করুন:</h2>
+<blockquote>
+<p style="text-align: center;"><a href="https://t.me/shadowrocket_android">https://t.me/shadowrocket_android</a></p>
+</blockquote>
+
+<h2>বিনামূল্যের নোড ও সাবস্ক্রিপশন</h2>
+<blockquote>
+<p style="text-align: center;">মানসম্মত নোডের গতি প্রতিদিন রিয়েল টাইমে পরীক্ষা ও আপডেট করা হয়; প্রতি 6 ঘণ্টায় আপডেট হয়</p>
+</blockquote>
+<p>অঞ্চল, সেবা প্রদানকারী বা নোডের অবস্থার কারণে বিনামূল্যের নোডের সংযোগ টাইম আউট হতে পারে বা নোড অকার্যকর হতে পারে।</p>
+<blockquote>
+<p style="text-align: center;">খাওয়া->ঘুমানো->নোড পরীক্ষা করা।</p>
+</blockquote>
+<h3>নোডের তালিকা</h3>
+<p>এখানে সর্বোচ্চ 20টি নোড দেখানো হয়।</p>
+
+
 ```
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#United+States
-vless://6cc29a05-4828-4e48-a34a-20b7ada60e85@66.81.247.155:2083?security=tls&type=ws&path=/OAZko425kNFF0PpQ&host=testmikonim.hydrymhmdamyn7.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=testmikonim.hydrymhmdamyn7.workers.dev&fp=chrome#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.216:8080#United+Kingdom
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#United+States
-vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@178.162.253.64:443?security=reality&type=raw&packetEncoding=xudp&sni=de.servers.gracevpnbuy.com&fp=firefox&flow=xtls-rprx-vision&sid=b91a73752053b039&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&encryption=none#Germany
-vless://a8890c1b-3622-3106-c4be-d8671be32d2b@104.21.78.9:443?security=tls&type=ws&path=/sync&host=summer-meadow-af5b.woowoorrrkk.workers.dev&packetEncoding=xudp&sni=summer-meadow-af5b.woowoorrrkk.workers.dev&fp=chrome&encryption=none#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-kr-003.fastervpn.world:443?insecure=1&security=tls&sni=127.0.0.1#South+Korea
-vless://50414e45-4c5f-5a45-5553-ef859652a80e@172.67.175.23:443?security=tls&type=ws&path=/stream/TrexBridge/ef859652a80e&host=trex-panel-nubj0s.samifakor.workers.dev&packetEncoding=xudp&sni=trex-panel-nubj0s.samifakor.workers.dev&fp=chrome&encryption=none#United+States
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@95.85.227.142:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.wikihow.com&fp=firefox&flow=xtls-rprx-vision&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U#Czechia
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@chat.openai.com:8880?security=none&type=ws&path=/&host=vms.lifetime29.workers.dev&packetEncoding=xudp&encryption=none#
-vless://fee1da7e-a258-4456-8e5e-8ecf6518ed12@104.21.19.76:2096?security=tls&type=ws&path=/eyJqdW5rIjoiemxGMEFDU1VDRyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&host=ez-82c7e7.abobaba.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=ez-82c7e7.aBoBaBA.WorkeRS.dEv&fp=chrome&encryption=none#
-trojan://humanity@104.17.177.143:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.75.123:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapore
-vless://d0f6c857-c814-438a-83f8-f34232294194@109.169.84.146:443?security=reality&encryption=none&pbk=vvpu_ljhBuTWmM9w5Hl6jj8ZTiE_JYq29S77zNDeCjQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=ff6975658b6cefce#United+Kingdom
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#
-vless://401d950d-4f5c-45c7-bf44-8b69acf35f6f@7x70yyvt7eqotx-iq9n3rjt1xn1jwkh9.asdfsafdsaf.workers.dev:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=7x70yyvt7eqotx-iq9n3rjt1xn1jwkh9.asdfsafdsaf.workers.dev&path=%2FeyJqdW5rIjoiR2xWQ1FCQzYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=7x70yyvT7eQOtx-IQ9N3RJT1xn1jwkh9.asDFsAFdsAF.WORkerS.Dev&type=ws#
+vless://d9e4721d-cdac-44c7-bc91-117367eac194@216.152.147.28:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=b9f8d3f8&pbk=kjiuPmjM4IutdZudHfcPZHEwcrBEFY4qBLlvfC6A_Ss#United+States
+vless://6f361c37-bc54-43dd-8c8b-0f59354745a5@220.130.75.250:10000/?type=tcp&encryption=none&flow=&packetEncoding=xudp#Taiwan
+vless://96e341a7-3077-4613-b482-41bd9c90cc4d@ezaccess-project-4c7950.ez-dc9bbb.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoiN2w4dDlRNVV5NkZ5NU1aeSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&host=ezaccess-project-4c7950.ez-dc9bbb.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=eZaCCesS-proJEcT-4C7950.Ez-dC9bBB.WorKErs.dEV&fp=chrome&encryption=none#United+States
+trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@space.byu.id.yxls.eu.cc:443?allowInsecure=1&fp=chrome&path=%2Fsg-orcl&security=tls&sni=space.byu.id.yxls.eu.cc&type=ws#United+States
+vless://e56059f1-5a1a-4d0a-a2d0-58ecb4eb2f3f@172.66.47.45:443?security=tls&type=ws&path=/eyJqdW5rIjoiZWlPODVjTnhnaSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&host=ezaccess-project-f62c30.pages.dev&packetEncoding=xudp&alpn=http/1.1&sni=EZAcCESS-pROjECt-F62c30.PAGES.dEv&fp=chrome&encryption=none#United+States
+hy2://Foc_Mcxi45rM9v3ve_N92fdrK_10_Ssc5@185.39.31.117:8443/?insecure=1&security=tls&sni=grape-beer.yyuyy.com#Japan
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.207:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
+vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@104.105.78.231:17780/?type=tcp&encryption=none&flow=&sni=amp-api-edge.apps.apple.com&fp=chrome&security=reality&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#United+States
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.169.222.30:8880?security=none&type=ws&path=/&host=vms.lifetime40.workers.dev&packetEncoding=xudp#United+States
+vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&type=ws&path=/&host=rayan-007.nastaran.dpdns.org&packetEncoding=xudp&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&fp=chrome&encryption=none#United+States
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.235.30:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime07.workers.dev&packetEncoding=xudp#Cura%C3%A7ao
+hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@217.60.33.215:443?insecure=1&security=tls&sni=streambox.wwwinternetvideo.click#Iran
+trojan://0b5fa773-6f37-4134-87d4-0c349742b6f6@app-538961.user-y0o4gm.workers.dev:443?fp=chrome&path=%2F&security=tls&sni=app-538961.user-y0o4gm.workers.dev&type=ws#
+trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#
+vless://4c7480b2-d67b-4bb9-9f33-0700dfcbdee6@116.204.164.27:7443?security=tls&type=ws&path=/@Marisa_kristi&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&packetEncoding=xudp&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&encryption=none#Pakistan
+vless://7b102311-43fd-4e8f-877e-8090623c101d@proxyip.hk.cmliussss.net:443?security=tls&type=ws&path=/&host=vp10.pages.dev&packetEncoding=none&sni=vp10.pages.dev&fp=chrome#Hong+Kong
+vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:8443?security=tls&type=tcp&packetEncoding=xudp&sni=neth.lckdwn.ru&fp=chrome#Germany
 vless://7c6a566b-4c4a-b8f2-1719-a3096b424141@peekconfigg.vipserver1-39d.workers.dev:8080?encryption=none&security=&type=ws#
-vless://4c0b7280-76bb-495c-9c8b-f05712ebf805@www.5h.com:443?security=tls&type=ws&path=/&host=youxuanku.kdns.fr&packetEncoding=xudp&sni=youxuanku.kdns.fr&fp=chrome&encryption=none#
-vless://cf990ae8-ee77-4436-aa3a-bbc2fb040c53@116.202.19.249:443?security=none&type=tcp&headerType=http&path=/&host=store.steampowered.com&packetEncoding=xudp&encryption=none#Germany
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@94.183.157.249:443?security=reality&type=tcp&packetEncoding=xudp&sni=eu-central.cendora.ru&fp=chrome&flow=xtls-rprx-vision&sid=00bca5982f82d083&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&encryption=none#Iran
+vless://ee71862e-816b-4d26-97d2-f200898e385d@212.118.40.187:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=MfOXevYFoqnwIn6dUiPZvWYRfYHyb5lzBy3R1OSsrWg&security=reality&sid=f3e8b2b1&sni=www.cisco.com&type=tcp#The+Netherlands
+vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@us.rexten.cc:443?security=reality&type=tcp&packetEncoding=xudp&sni=us.rexten.cc&fp=firefox&flow=xtls-rprx-vision&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ#T%C3%BCrkiye
 ```
-<h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
- <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>
- <img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn.png' width=250 height=250>
- <blockquote style='text-align: center;'>আরো নোড, বিনামূল্যের সাবস্ক্রিপশন ঠিকানা এবং সাবস্ক্রিপশন রূপান্তরের জন্য, অনুগ্রহ করে এই সাইটের দেওয়া শেয়ার্ড নোড অ্যাপ সফ্টওয়্যারটি ডাউনলোড করুন <a href='https://shadowsharing.com'>ShadowShare </a> নোড ব্যবহার রপ্তানি করুন, iOS এবং Android ডাউনলোড সমর্থন করুন, Android ব্যবহারকারীদের সরাসরি <a href='https://github.com/Pawdroid/shadowrocket_for_android'>অ্যান্ড্রয়েডের জন্য শ্যাডোরকেট</a> অ্যান্ড্রয়েড রকেট ব্যবহার করার পরামর্শ দেওয়া হচ্ছে সমস্ত বিনামূল্যে নোড অন্তর্নির্মিত. </blockquote>
- <h4>দেশীয় iOS ব্যবহারকারীদের <a href='https://apps.apple.com/cn/app/shadowshare/id1612647259'>অ্যাপ স্টোর ডাউনলোড করুন</a> এবং যত তাড়াতাড়ি সম্ভব এটি সংরক্ষণ করুন ভবিষ্যতে কোনো সময়ে ডাউনলোড করা হতে পারে</h4>
- <h4>হাই-স্পিড এবং উচ্চ-মানের VPN <a href='https://pawdollvpn.com'>PawdollVPN</a> এর সর্বশেষ রিলিজ অ্যান্ড্রয়েড এবং উইন্ডোজ প্ল্যাটফর্মগুলিকে এটি ডাউনলোড করতে এবং ব্যবহার করতে স্বাগত জানাই৷ একটি সীমিত সময়ের জন্য একটি সীমাহীন বিনামূল্যে ট্রায়াল প্রদান করা হয়. </h4>
- <div class="nv-content-wrap entry-content">
- <h2>ক্ল্যাশ এবং এসএসের মতো ক্লায়েন্ট সাবস্ক্রিপশন ঠিকানাগুলির এক-ক্লিক রূপান্তর:</h2>
- <p>যদি SS/SSR/V2ray ক্লায়েন্ট সরাসরি SSR নোড লিঙ্ক ব্যবহার করতে না পারে, তাহলে এটিকে একটি সাবস্ক্রিপশন ঠিকানায় রূপান্তর করতে নীচে লিঙ্ক করা টুলটি ব্যবহার করুন তারপর SSR/SSD/Surge/Quantum/Surfboard/Loon এবং অন্যান্য মোবাইল এবং কম্পিউটার ক্লায়েন্ট। এখানে ব্যবহার করা যেতে পারে:</p>
- <p><a href="https://acl4ssr-sub.github.io" target="_blank" rel="noreferrer noopener nofollow">https://acl4ssr-sub.github.io</a></p>
- <h2>V2ray/SSR Android iPhone/PC ক্লায়েন্ট ডাউনলোড</h2>
- <h3>V2Ray ক্লায়েন্ট ডাউনলোড</h3>
- <p>V2ray Windows ক্লায়েন্ট, V2ray Android ক্লায়েন্ট, Apple কম্পিউটারের জন্য V2ray MacOS ক্লায়েন্ট, iPhones-এর জন্য V2ray iOS ক্লায়েন্ট, এবং V2ray Linux ক্লায়েন্টের সর্বশেষ সংস্করণগুলির জন্য ডাউনলোড লিঙ্কগুলিও প্রদান করা হয়েছে। </p>
- <h4>Windows7/8/10-<strong>V2ray WinPC কম্পিউটার ক্লায়েন্ট</strong>প্রোগ্রাম ডাউনলোড</h4>
- <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>V2rayN ডাউনলোড</td><td><a href="https://github. com/2dust/v2rayN/releases" target="_blank" rel="noreferrer noopener">অফিসিয়াল ওয়েবসাইট ডাউনলোড</a></td></tr><tr><td>V2rayW ডাউনলোড</td><td> <a href="https://github.com/Cenmrev/V2RayW/releases" target="_blank" rel="noreferrer noopener">অফিসিয়াল ওয়েবসাইট ডাউনলোড</a></td></tr><tr><td> সংঘর্ষ ডাউনলোড</td><td><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases" target="_blank" rel="noreferrer noopener">অফিসিয়াল ওয়েবসাইট ডাউনলোড</a></td> </tr><tr><td>V2rayS ডাউনলোড</td><td><a href="https://github.com/Shinlor/V2RayS/releases" target="_blank" rel="noreferrer noopener"> অফিসিয়াল ওয়েবসাইট ডাউনলোড</a></td></tr><tr><td>ম্যালো ডাউনলোড</td><td><a href="https://github.com/mellow-io/mellow/releases" target="_blank" rel="noreferrer noopener">অফিসিয়াল ওয়েবসাইট ডাউনলোড</a></td></tr><tr><td>Qv2ray ডাউনলোড</td><td><a href= "https://github.com/Qv2ray/Qv2ray" target="_blank" rel="noreferrer noopener">অফিসিয়াল ওয়েবসাইট ডাউনলোড</a></td></tr></tbody></table></figure>
- <h4><strong>Android/Xiaomi MIUI/Huawei EMUI-V2ray Android মোবাইল ক্লায়েন্ট</strong>Apk প্রোগ্রাম ডাউনলোড</h4>
- <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>V2rayNG ডাউনলোড</td><td><a href="https://github. com/2dust/v2rayNG/releases" target="_blank" rel="noreferrer noopener">অফিসিয়াল ওয়েবসাইট ডাউনলোড</a></td></tr><tr><td>Android রকেট ডাউনলোড</td><td><a href="https://github.com/Pawdroid/shadowrocket_for_android/releases" target="_blank" rel="noreferrer noopener">অফিসিয়াল ওয়েবসাইট ডাউনলোড</a></td></tr><tr> <td>BifrostV ডাউনলোড</td><td><a rel="noreferrer noopener" href="https://www.appsapk.com/downloading/latest/com.github.dawndiy.bifrostv-0.6.8.apk " target="_blank">বাজার ডাউনলোড</a></td></tr><tr><td>ক্ল্যাশ ডাউনলোড</td><td><a href="https://github.com/Kr328/ClashForAndroid/releases" target="_blank" rel="noreferrer noopener">অফিসিয়াল ওয়েবসাইট ডাউনলোড</a></td></tr><tr><td>Kitsunebi ডাউনলোড</td><td><a rel =" noreferrer noopener" href="https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android" target="_blank">মার্কেট ডাউনলোড</a></td></tr></tbody></table></figure>
- <h4><strong>MacOS-V2ray <strong>অ্যাপল কম্পিউটার</strong>ক্লায়েন্ট</strong>প্রোগ্রাম ডাউনলোড</h4>
- <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>V2rayU ডাউনলোড</td><td><a href="https://github. com/yanue/V2rayU/releases" target="_blank" rel="noreferrer noopener">অফিসিয়াল ওয়েবসাইট ডাউনলোড</a></td></tr><tr><td>V2rayX ডাউনলোড</td><td> <a href="https://github.com/Cenmrev/V2RayX/releases" target="_blank" rel="noreferrer noopener">অফিসিয়াল ওয়েবসাইট ডাউনলোড</a></td></tr><tr><td> ClashX ডাউনলোড</td><td><a href="https://github.com/yichengchen/clashX/releases" target="_blank" rel="noreferrer noopener">অফিসিয়াল ওয়েবসাইট ডাউনলোড</a></td> </tr></tbody></table></figure>
- <h4><strong>Linux</strong>–<strong>V2ray Ubuntu/Centos কম্পিউটার ক্লায়েন্ট</strong>প্রোগ্রাম ডাউনলোড</h4>
- <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>Qv2ray ডাউনলোড</td><td><a href="https://github. com/Qv2ray/Qv2ray" target="_blank" rel="noreferrer noopener">অফিসিয়াল ওয়েবসাইট ডাউনলোড</a></td></tr><tr><td>ম্যালো ডাউনলোড</td><td><a href ="https://github.com/mellow-io/mellow/releases" target="_blank" rel="noreferrer noopener">অফিসিয়াল ওয়েবসাইট ডাউনলোড</a></td></tr><tr><td> V2rayL ডাউনলোড</td><td><a rel="noreferrer noopener" href="https://github.com/jiangxufeng/v2rayL" target="_blank">অফিসিয়াল ইনস্টলেশন ডকুমেন্ট</a></td></tr></tbody></table></figure>
- <h4>iOS-<strong>V2ray Apple<strong>মোবাইল ক্লায়েন্ট</strong>অ্যাপ প্রোগ্রাম</strong>ডাউনলোড করুন</h4>
- <p>অ্যাপল অ্যাপস্টোরের বাজারে কোনো বিনামূল্যের V2ray iOS ক্লায়েন্ট নেই যা বর্তমানে Shadowrocket, pepi, i2Ray, Kitsunebi এবং Quantumult-এর মতো প্রদত্ত অ্যাপ উপলব্ধ। </p>
- <h3>শ্যাডোসক্সআর/এসএসআর ক্লায়েন্ট ডাউনলোড</h3>
- <p>শ্যাডোসকসআরকে সংক্ষেপে এসএসআর বলা হয়, এবং এটিতে টক দই, গোলাপী বিমান এবং কাগজের বিমানের মতো সুন্দর ডাকনামও রয়েছে যা ব্যাপকভাবে ব্যবহৃত হয়। </p>
- <p>আমরা সকলের সাথে শেয়ার করার জন্য SSR Windows ক্লায়েন্ট, SSR Android ক্লায়েন্ট, Apple কম্পিউটারের জন্য SSR MacOS ক্লায়েন্ট এবং Apple ফোনের জন্য SSR iOS ক্লায়েন্টের সর্বশেষ সংস্করণগুলির ডাউনলোড ঠিকানাগুলি সংকলন করেছি৷ </p>
- <h4><strong>ওয়াইndows7/8/10-<strong>SSR ছোট প্লেন WinPC কম্পিউটার ক্লায়েন্ট</strong>প্রোগ্রাম ডাউনলোড</strong></h4>
- <p><a rel="noreferrer noopener" href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases" target="_blank">অফিসিয়াল ওয়েবসাইট ডাউনলোড</a></p>
- <h4><strong><strong>Android/Xiaomi MIUI/Huawei EMUI-SSR ছোট প্লেন অ্যান্ড্রয়েড মোবাইল ক্লায়েন্ট</strong>Apk প্রোগ্রাম ডাউনলোড</strong></h4>
- <p><a rel="noreferrer noopener" href="https://github.com/shadowsocksrr/shadowsocksr-android/releases" target="_blank">অফিসিয়াল ওয়েবসাইট ডাউনলোড</a></p>
- <h4><strong><strong>MacOS-SSR ছোট প্লেন অ্যাপল কম্পিউটার ক্লায়েন্ট</strong>প্রোগ্রাম ডাউনলোড</strong></h4>
- <p><a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases" target="_blank" rel="noreferrer noopener">অফিসিয়াল ওয়েবসাইট ডাউনলোড</a></p>
- <h4><strong>iOS-<strong>SSR ছোট প্লেন অ্যাপল মোবাইল ক্লায়েন্ট অ্যাপ</strong></strong>ডাউনলোড করুন</h4>
- <p>iPhone বা iPad এ Apple App Store খুলুন এবং Mume, Potatso Lite, FastSocks, এবং Shadowrocket সার্চ করুন। </p></div>
-    
+
+
+
+### সাবস্ক্রিপশন ঠিকানা
+
+নিচের ঠিকানাটি সংশ্লিষ্ট সাবস্ক্রিপশন ফরম্যাট সমর্থন করে এমন ক্লায়েন্টে কপি করুন, অথবা আমদানি করতে QR কোড স্ক্যান করুন।
+
+<p><a href="https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn">https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</a></p>
+
+<img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn.png' width=250 height=250 alt='সাবস্ক্রিপশন ঠিকানার QR কোড'>
+
+## অন্যান্য পণ্য ও ডাউনলোড লিংক
+
+### ShadowShare
+
+নোড ও সাবস্ক্রিপশন শেয়ার করার টুল, যাতে Android ও iOS-এর ডাউনলোড লিংক রয়েছে।
+
+[অফিশিয়াল ওয়েবসাইট](https://shadowsharing.com) · [iOS App Store](https://apps.apple.com/cn/app/shadowshare/id1612647259)
+
+### Pawdoll
+
+VPN ক্লায়েন্ট; পণ্যের বিবরণ ও ডাউনলোডের জন্য [অফিশিয়াল ওয়েবসাইট](https://pawdollvpn.com) দেখুন।
+
+### Surflare
+
+Surflare VPN ও প্রক্সি সেবা সরবরাহ করে:
+
+- Windows, macOS, Linux, Android ও iOS-এর জন্য ক্লায়েন্ট রয়েছে।
+- VPN অ্যাপ স্মার্ট ট্র্যাফিক রাউটিং ও মাল্টি-হপ VPN সমর্থন করে।
+- প্রক্সি সেবা SOCKS5 ও HTTP সমর্থন করে এবং সংশ্লিষ্ট প্রক্সি কনফিগারেশন সমর্থন করে এমন সফটওয়্যারে ব্যবহার করা যায়।
+
+**ছাড়ের কোড: `pawdroid`।** প্রকৃত ছাড় ও প্রযোজ্য প্ল্যান চেকআউট পৃষ্ঠায় দেখানো তথ্য অনুযায়ী হবে।
+
+[অফিশিয়াল ওয়েবসাইট](https://www.surflare.com/)
+
+## অন্যান্য ক্লায়েন্ট
+
+নিচের ক্লায়েন্টগুলোতে নিজস্ব নোড বা সাবস্ক্রিপশন আমদানি করা যায়। ডিভাইসের প্ল্যাটফর্ম ও কনফিগারেশন ফরম্যাট অনুযায়ী বেছে নিন। খরচের কলামটি শুধু ক্লায়েন্টের জন্য প্রযোজ্য; এতে নোড বা সাবস্ক্রিপশন পরিষেবার খরচ অন্তর্ভুক্ত নয়। মূল্যব্যবস্থা, সিস্টেমের প্রয়োজনীয়তা এবং অঞ্চলভিত্তিক প্রাপ্যতার জন্য অফিসিয়াল পৃষ্ঠা দেখুন।
+
+[Windows](#clients-windows) · [macOS](#clients-macos) · [Linux](#clients-linux) · [Android](#clients-android) · [iOS / iPadOS](#clients-ios) · [রাউটার প্লাগইন](#router-plugins) · [সাবস্ক্রিপশন ফরম্যাট](#subscription-formats)
+
+<a id="clients-windows"></a>
+
+### Windows
+
+| ক্লায়েন্ট | বৈশিষ্ট্য / কনফিগারেশন ফরম্যাট | খরচের ধরন | অফিসিয়াল ডাউনলোড |
+| --- | --- | --- | --- |
+| **v2rayN** | নোড শেয়ারিং লিংক ও প্রচলিত V2Ray সাবস্ক্রিপশন। | বিনামূল্যে | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
+| **Clash Verge Rev** | Clash / Mihomo YAML কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
+| **Hiddify** | বিভিন্ন প্ল্যাটফর্মে সমর্থিত সাবস্ক্রিপশন ও কনফিগারেশন পরিচালনা। | বিনামূল্যে | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
+| **Clash Party** | পূর্বনাম Mihomo Party; Mihomo-ভিত্তিক নিয়মনির্ভর প্রক্সি ক্লায়েন্ট। | বিনামূল্যে | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
+| **FlClash** | Clash / Mihomo কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
+| **Karing** | একাধিক প্রোটোকলের প্রক্সি; Clash / sing-box রাউটিং নিয়ম সমর্থন করে। | বিনামূল্যে | [অফিসিয়াল প্রকল্প ও ডাউনলোড](https://github.com/KaringX/karing) |
+| **Throne** | sing-box-ভিত্তিক ডেস্কটপ নোড ও রাউটিং পরিচালনা। | বিনামূল্যে | [অফিসিয়াল প্রকল্প ও ডাউনলোড](https://github.com/throneproj/Throne) |
+
+<a id="clients-macos"></a>
+
+### macOS
+
+| ক্লায়েন্ট | বৈশিষ্ট্য / কনফিগারেশন ফরম্যাট | খরচের ধরন | অফিসিয়াল ডাউনলোড |
+| --- | --- | --- | --- |
+| **v2rayN** | নোড শেয়ারিং লিংক ও প্রচলিত V2Ray সাবস্ক্রিপশন। | বিনামূল্যে | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
+| **Clash Verge Rev** | Clash / Mihomo YAML কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
+| **Hiddify** | বিভিন্ন প্ল্যাটফর্মে সমর্থিত সাবস্ক্রিপশন ও কনফিগারেশন পরিচালনা। | বিনামূল্যে | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
+| **Clash Party** | পূর্বনাম Mihomo Party; Mihomo-ভিত্তিক নিয়মনির্ভর প্রক্সি ক্লায়েন্ট। | বিনামূল্যে | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
+| **FlClash** | Clash / Mihomo কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
+| **Karing** | একাধিক প্রোটোকলের প্রক্সি; Clash / sing-box রাউটিং নিয়ম সমর্থন করে। | বিনামূল্যে | [অফিসিয়াল প্রকল্প ও ডাউনলোড](https://github.com/KaringX/karing) |
+| **Throne** | sing-box-ভিত্তিক ডেস্কটপ নোড ও রাউটিং পরিচালনা। | বিনামূল্যে | [অফিসিয়াল প্রকল্প ও ডাউনলোড](https://github.com/throneproj/Throne) |
+| **Surge Mac** | Surge কনফিগারেশন ফরম্যাটে নিয়মনির্ভর প্রক্সি ও নেটওয়ার্ক ডিবাগিং। | সশুল্ক; Mac ও iOS-এর জন্য পৃথক লাইসেন্স | [অফিসিয়াল ওয়েবসাইট](https://nssurge.com/) |
+| **Quantumult X** | নিজস্ব কনফিগারেশন ফরম্যাটে নিয়মনির্ভর ট্র্যাফিক রাউটিং ও নেটওয়ার্ক ডিবাগিং। | সশুল্ক | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
+| **sing-box for Apple platforms** | স্থানীয় বা দূরবর্তী sing-box JSON কনফিগারেশন; কোর সংস্করণের সঙ্গে মিলতে হবে। | বিনামূল্যে | [অফিসিয়াল ডাউনলোড নির্দেশনা](https://sing-box.sagernet.org/clients/apple/) |
+
+ডাউনলোডের সময় Intel / Apple Silicon আর্কিটেকচার ও macOS-এর সিস্টেমের প্রয়োজনীয়তা যাচাই করুন। Surge Mac ও iOS সংস্করণের লাইসেন্স পৃথক।
+
+<a id="clients-linux"></a>
+
+### Linux
+
+| ক্লায়েন্ট | বৈশিষ্ট্য / কনফিগারেশন ফরম্যাট | খরচের ধরন | অফিসিয়াল ডাউনলোড |
+| --- | --- | --- | --- |
+| **v2rayN** | নোড শেয়ারিং লিংক ও প্রচলিত V2Ray সাবস্ক্রিপশন। | বিনামূল্যে | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
+| **Clash Verge Rev** | Clash / Mihomo YAML কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
+| **Hiddify** | বিভিন্ন প্ল্যাটফর্মে সমর্থিত সাবস্ক্রিপশন ও কনফিগারেশন পরিচালনা। | বিনামূল্যে | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
+| **Clash Party** | পূর্বনাম Mihomo Party; Mihomo-ভিত্তিক নিয়মনির্ভর প্রক্সি ক্লায়েন্ট। | বিনামূল্যে | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
+| **FlClash** | Clash / Mihomo কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
+| **Karing** | একাধিক প্রোটোকলের প্রক্সি; Clash / sing-box রাউটিং নিয়ম সমর্থন করে। | বিনামূল্যে | [অফিসিয়াল প্রকল্প ও ডাউনলোড](https://github.com/KaringX/karing) |
+| **Throne** | sing-box-ভিত্তিক ডেস্কটপ নোড ও রাউটিং পরিচালনা। | বিনামূল্যে | [অফিসিয়াল প্রকল্প ও ডাউনলোড](https://github.com/throneproj/Throne) |
+
+<a id="clients-android"></a>
+
+### Android
+
+| ক্লায়েন্ট | বৈশিষ্ট্য / কনফিগারেশন ফরম্যাট | খরচের ধরন | অফিসিয়াল ডাউনলোড |
+| --- | --- | --- | --- |
+| **v2rayNG** | নোড শেয়ারিং লিংক ও প্রচলিত V2Ray সাবস্ক্রিপশন। | বিনামূল্যে | [GitHub Releases](https://github.com/2dust/v2rayNG/releases) |
+| **FlClash** | Clash / Mihomo কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
+| **Hiddify** | বিভিন্ন প্ল্যাটফর্মে সমর্থিত সাবস্ক্রিপশন ও কনফিগারেশন পরিচালনা। | বিনামূল্যে | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
+| **Karing** | একাধিক প্রোটোকলের প্রক্সি; Clash / sing-box রাউটিং নিয়ম সমর্থন করে। | বিনামূল্যে | [অফিসিয়াল প্রকল্প ও ডাউনলোড](https://github.com/KaringX/karing) |
+| **Clash Meta for Android** | Clash / Mihomo কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest) |
+| **sing-box for Android** | স্থানীয় বা দূরবর্তী sing-box JSON কনফিগারেশন; কোর সংস্করণের সঙ্গে মিলতে হবে। | বিনামূল্যে | [অফিসিয়াল ডাউনলোড নির্দেশনা](https://sing-box.sagernet.org/clients/android/) |
+| **Surfboard** | Surge কনফিগারেশন ফরম্যাট; কিছু বৈশিষ্ট্য সামঞ্জস্যপূর্ণ নয়। | অফিসিয়াল তথ্য দেখুন | [GitHub Releases](https://github.com/getsurfboard/surfboard/releases/latest) |
+| **NekoBox for Android** | sing-box-ভিত্তিক বহু-প্রোটোকল ক্লায়েন্ট; অভিজ্ঞ ব্যবহারকারীদের জন্য বিকল্প, বর্তমানে রক্ষণাবেক্ষণ সীমিত। | বিনামূল্যে | [GitHub Releases](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) |
+
+NekoBox কর্তৃপক্ষ জানিয়েছে যে রক্ষণাবেক্ষণ সীমিত এবং নতুন বৈশিষ্ট্যের অনুরোধ গ্রহণ করা হয় না। তারা আরও জানিয়েছে, Google Play-এ একই নামের সংস্করণটি এখন তৃতীয় পক্ষের নিয়ন্ত্রণে; ওপরের GitHub লিংকটি ব্যবহার করুন।
+
+<a id="clients-ios"></a>
+
+### iOS / iPadOS
+
+| ক্লায়েন্ট | বৈশিষ্ট্য / কনফিগারেশন ফরম্যাট | খরচের ধরন | অফিসিয়াল ডাউনলোড |
+| --- | --- | --- | --- |
+| **Shadowrocket** | নোড পরিচালনা ও নিয়মনির্ভর প্রক্সি। | সশুল্ক | [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118) |
+| **Stash** | সমর্থিত Clash কনফিগারেশন ও নিয়মনির্ভর ট্র্যাফিক রাউটিং। | সশুল্ক | [App Store](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
+| **sing-box for Apple platforms** | স্থানীয় বা দূরবর্তী sing-box JSON কনফিগারেশন; কোর সংস্করণের সঙ্গে মিলতে হবে। | বিনামূল্যে | [অফিসিয়াল ডাউনলোড নির্দেশনা](https://sing-box.sagernet.org/clients/apple/) |
+| **Karing** | একাধিক প্রোটোকলের প্রক্সি; Clash / sing-box রাউটিং নিয়ম সমর্থন করে। | বিনামূল্যে | [App Store](https://apps.apple.com/us/app/karing/id6472431552) |
+| **Quantumult X** | নিজস্ব কনফিগারেশন ফরম্যাটে নিয়মনির্ভর ট্র্যাফিক রাউটিং ও নেটওয়ার্ক ডিবাগিং। | সশুল্ক | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
+| **Surge** | Surge কনফিগারেশন ফরম্যাটে নিয়মনির্ভর প্রক্সি ও নেটওয়ার্ক ডিবাগিং। | বিনামূল্যে ডাউনলোড; Pro আনলক এবং ঐচ্ছিক আপডেট সাবস্ক্রিপশন | [App Store](https://apps.apple.com/us/app/surge-5/id1442620678) |
+| **Loon** | নিজস্ব কনফিগারেশন ফরম্যাটে নোড পরিচালনা, নিয়মনির্ভর ট্র্যাফিক রাউটিং ও নেটওয়ার্ক ডিবাগিং। | সশুল্ক | [App Store](https://apps.apple.com/us/app/loon/id1373567447) |
+| **Egern** | নিয়মনির্ভর ট্র্যাফিক রাউটিং ও নেটওয়ার্ক ডিবাগিং। | বিনামূল্যে ডাউনলোড; অ্যাপের মধ্যে Pro কেনার সুবিধা | [App Store](https://apps.apple.com/us/app/egern/id1616105820) |
+| **Streisand** | নোড ও সাবস্ক্রিপশন পরিচালনা; একাধিক প্রক্সি প্রোটোকল সমর্থন করে। | বিনামূল্যে | [App Store](https://apps.apple.com/us/app/streisand/id6450534064) |
+| **Potatso** | প্রক্সি কনফিগারেশন ও নিয়মনির্ভর ট্র্যাফিক রাউটিং। | বিনামূল্যে; অ্যাপের মধ্যে Pro কেনার সুবিধা | [App Store](https://apps.apple.com/us/app/potatso/id1239860606) |
+
+<a id="router-plugins"></a>
+
+### রাউটার প্লাগইন
+
+নিচের প্লাগইনগুলো সংশ্লিষ্ট উপাদান সমর্থনকারী রাউটার ফার্মওয়্যারের জন্য। ইনস্টল করার আগে ফার্মওয়্যার সংস্করণ, CPU আর্কিটেকচার, প্রয়োজনীয় উপাদান ও সাবস্ক্রিপশন ফরম্যাট যাচাই করুন। ডেস্কটপ বা মোবাইলের ইনস্টলেশন প্যাকেজ সরাসরি ব্যবহার করা যাবে না।
+
+| প্লাগইন | উপযোগী পরিবেশ / কনফিগারেশন ফরম্যাট | খরচের ধরন | অফিসিয়াল প্রকল্প |
+| --- | --- | --- | --- |
+| **OpenClash** | OpenWrt; Clash / Mihomo YAML কনফিগারেশন। সাধারণ V2Ray সাবস্ক্রিপশন সাধারণত আগে সমর্থিত ফরম্যাটে রূপান্তর করতে হয়। | বিনামূল্যে ও ওপেন সোর্স | [GitHub](https://github.com/vernesong/OpenClash) |
+| **PassWall2 / PassWall** | OpenWrt; বহু-প্রোটোকল প্রক্সি। প্রয়োজনীয় উপাদান ফার্মওয়্যার, CPU আর্কিটেকচার ও নির্বাচিত কোরের ওপর নির্ভর করে। | বিনামূল্যে ও ওপেন সোর্স | [PassWall2](https://github.com/Openwrt-Passwall/openwrt-passwall2) · [PassWall](https://github.com/Openwrt-Passwall/openwrt-passwall) |
+| **Nikki** | Mihomo-ভিত্তিক; OpenWrt ≥ 24.10, Linux ≥ 5.13 ও firewall4 প্রয়োজন। | বিনামূল্যে ও ওপেন সোর্স | [GitHub](https://github.com/nikkinikki-org/OpenWrt-nikki) |
+| **HomeProxy** | sing-box-ভিত্তিক; ImmortalWrt চালিত ARM64 / AMD64 ডিভাইসের জন্য। | বিনামূল্যে ও ওপেন সোর্স | [GitHub](https://github.com/immortalwrt/homeproxy) |
+
+<a id="subscription-formats"></a>
+
+### সাবস্ক্রিপশন ফরম্যাট ও সামঞ্জস্য
+
+| কনফিগারেশনের ধরন | ব্যবহারের নির্দেশনা |
+| --- | --- |
+| **নোড লিংক / প্রচলিত V2Ray সাবস্ক্রিপশন** | সাধারণত নোড লিংকের তালিকা; সম্পূর্ণ তালিকাটি Base64-এ এনকোড করা থাকতে পারে। ক্লায়েন্টকে সংশ্লিষ্ট প্রোটোকল সমর্থন করতে হবে। |
+| **Clash / Mihomo YAML** | এতে নোড, প্রক্সি গ্রুপ ও নিয়ম থাকতে পারে; বর্ধিত ফিল্ডের সমর্থন কোরভেদে ভিন্ন হতে পারে। |
+| **sing-box JSON** | ক্লায়েন্টে ব্যবহৃত sing-box কোর সংস্করণের সঙ্গে মিলতে হবে। |
+| **Surge / Quantumult X / Loon ইত্যাদির নিজস্ব কনফিগারেশন** | প্রতিটির নিজস্ব কনফিগারেশন মান রয়েছে; কিছু সিনট্যাক্স মিললেও পূর্ণ সামঞ্জস্য নিশ্চিত নয়। |
+
+ভিন্ন ফরম্যাট সরাসরি একটির বদলে অন্যটি ব্যবহার করা যায় না। রূপান্তরের সময় নিয়ম, DNS, প্রক্সি গ্রুপ বা প্রোটোকল প্যারামিটার হারিয়ে যেতে পারে। আমদানির আগে গন্তব্য ক্লায়েন্ট ও তার কোর সংস্করণ যাচাই করুন; Stash-এর মতো ক্লায়েন্টও সব Mihomo এক্সটেনশন সমর্থনের নিশ্চয়তা দেয় না।
+
+রূপান্তর প্রয়োজন হলে [সাবস্ক্রিপশন রূপান্তর টুল](https://acl4ssr-sub.github.io) ব্যবহার করতে পারেন। ব্যক্তিগত ক্রেডেনশিয়ালযুক্ত সাবস্ক্রিপশন কেবল বিশ্বস্ত পরিষেবাকে প্রক্রিয়াকরণের জন্য দিন।
+
+### ব্যবহারের ধাপ
+
+1. অফিসিয়াল লিংক থেকে সিস্টেম ও CPU আর্কিটেকচারের সঙ্গে সামঞ্জস্যপূর্ণ ক্লায়েন্ট ডাউনলোড করুন।
+2. ক্লায়েন্টে দেওয়া অন্তর্নির্মিত নোড ব্যবহার করুন, অথবা সমর্থিত সাবস্ক্রিপশন ও কনফিগারেশন আমদানি করে নোডের তালিকা আপডেট করুন।
+3. নোড বেছে নিয়ে লেটেন্সি পরীক্ষা করুন এবং সংযোগের পরে বাস্তবে অ্যাক্সেস হচ্ছে কি না যাচাই করুন।
+
+### সাবস্ক্রিপশন আপডেট ও সংযোগের সমস্যা সমাধান
+
+- **সাবস্ক্রিপশন আপডেট:** সর্বশেষ নোডের তালিকা পেতে ক্লায়েন্টে সাবস্ক্রিপশন আপডেট করুন; আপডেট সফল হলেই নোডগুলো বর্তমানে ব্যবহারযোগ্য, এমন নয়।
+- **আমদানি করা যাচ্ছে না:** সাবস্ক্রিপশনের ঠিকানা সম্পূর্ণ কি না যাচাই করুন। তথ্য আনা ব্যর্থ হলে নেটওয়ার্ক ও ত্রুটির বার্তা দেখুন; পার্সিং ব্যর্থ হলে সাবস্ক্রিপশন ফরম্যাট ও ক্লায়েন্টের কোর সংস্করণ যাচাই করুন।
+- **সংযোগ হচ্ছে না:** প্রথমে সাবস্ক্রিপশন আপডেট করে অন্য নোড চেষ্টা করুন, তারপর ক্লায়েন্টের ত্রুটির বার্তা অনুযায়ী প্রক্সি বা VPN মোড যাচাই করুন।
+
+লেটেন্সির ফলাফল শুধু এই পরীক্ষার অবস্থা দেখায়; এটি নোডের নিরাপত্তা বা সব পরিষেবায় অ্যাক্সেসের নিশ্চয়তা দেয় না।

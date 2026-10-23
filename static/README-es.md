@@ -1,8 +1,13 @@
+# Free-servers · Guía de nodos gratuitos y clientes
+
+Nodos gratuitos, enlaces de suscripción e instrucciones para clientes multiplataforma.
+
 
 <div align="center">
 
 **Languages:**
 
+[![Chinese](https://img.shields.io/badge/Language-Chinese-red?style=for-the-badge)](../README.md)
 [![English](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](README-en.md)
 [![Arabic](https://img.shields.io/badge/Language-Arabic-red?style=for-the-badge)](README-ar.md)
 [![German](https://img.shields.io/badge/Language-German-red?style=for-the-badge)](README-de.md)
@@ -20,74 +25,221 @@
 [![Bangla](https://img.shields.io/badge/Language-Bangla-red?style=for-the-badge)](README-bn.md)
 
 </div>
-<h2>Haz clic para unirte al grupo de comunicación de Telegram:</h2>
- <blockquote>
- <p style="text-align: center;"><a href="https://t.me/shadowrocket_android">https://t.me/shadowrocket_android</a></p>
- </blockquote>
- <h2>Nodo gratuito y dirección de suscripción:</h2>
- <blockquote>
- <p style="text-align: center;">Los nodos de alta calidad se actualizan en tiempo real todos los días y cada 6 horas</p>
- </blockquote>
- <h4>En esta página, alguien midió manualmente la velocidad de cada nodo en tiempo real, pero todavía existen diferencias en las redes de operadores en diferentes regiones y puede haber nodos con tiempo de espera. </h4>
- <blockquote>
- <p style="text-align: center;">Comer -> dormir -> probar nodos. </p>
- </blockquote>
- <h4>Lista de nodos: (Aquí se muestran como máximo 20 nodos. Los demás nodos gratuitos se obtienen en la app.)</h4>
-    
+
+## Shadowrockets
+
+[Shadowrockets](https://shadowrockets.app) ofrece clientes para **Android, Windows, macOS y Linux**, con nodos gratuitos integrados, conexión con un clic, pruebas de latencia y una membresía opcional. Las funciones y las ventajas de la membresía varían según la plataforma y la versión.
+
+| Plataforma | Selección del paquete de instalación |
+| --- | --- |
+| Android | Elige el APK según la arquitectura del dispositivo; también puedes instalarlo desde Google Play. |
+| Windows | x64, ARM64. |
+| macOS | Usa x64 para Intel y ARM64 para Apple Silicon. |
+| Linux | x64, ARM64; paquetes deb y portátiles disponibles. |
+
+**Descargas:** [Sitio oficial](https://shadowrockets.app/download/) · [Google Play](https://play.google.com/store/apps/details?id=com.v2cross.proxy)
+
+Proyecto y versiones de Android: [GitHub](https://github.com/Pawdroid/shadowrocket_for_android) · [Releases](https://github.com/Pawdroid/shadowrocket_for_android/releases). Consulta las instrucciones de instalación y las notas de las versiones en el [registro de cambios](https://shadowrockets.app/changelog/).
+
+<h2>Haz clic para unirte al grupo de Telegram:</h2>
+<blockquote>
+<p style="text-align: center;"><a href="https://t.me/shadowrocket_android">https://t.me/shadowrocket_android</a></p>
+</blockquote>
+
+<h2>Nodos gratuitos y suscripciones</h2>
+<blockquote>
+<p style="text-align: center;">Se comprueba la velocidad de los nodos de calidad en tiempo real cada día; la lista se actualiza cada 6 horas.</p>
+</blockquote>
+<p>Los nodos gratuitos pueden agotar el tiempo de espera o dejar de funcionar según la región, el proveedor de Internet o el estado del nodo.</p>
+<blockquote>
+<p style="text-align: center;">Comer->Dormir->Probar nodos.</p>
+</blockquote>
+<h3>Lista de nodos</h3>
+<p>Aquí se muestran hasta 20 nodos.</p>
+
+
 ```
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?fp=chrome&security=tls&sni=tr-switzerlandgopota.unlimited-access.ru&type=tcp#Suiza
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.86:443?security=reality&type=raw&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Espa%C3%B1a
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@193.151.108.89:13443?security=reality&type=tcp&packetEncoding=xudp&sni=auto.cendora.ru&fp=qq&flow=xtls-rprx-vision&sid=a7f3c91b2e6d84c0&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM#Rusia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#Reino+Unido
-vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@as.tunnelx.space:443?security=reality&type=tcp&packetEncoding=xudp&sni=as.tunnelx.space&fp=firefox&flow=xtls-rprx-vision&sid=4e9b0c2d1a3f5768&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA#Austria
-vless://bd8c736e-cae1-43d7-b573-9672e6ca4989@104.19.35.170:443?security=tls&type=ws&path=/vl/zXLTmz3hE3szn64f?ed=2560&host=l0n0qgkdttu061g57fhqzbet333s4t.ade-1004.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=l0n0QgKdtTu061g57fhqZBet333S4t.adE-1004.WOrkerS.Dev&fp=chrome&encryption=none#
-vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.235.179:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#Bahr%C3%A9in
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.13:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=chrome&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Espa%C3%B1a
-trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@join.my.telegram.channel.cmliussss.to.unlock.more.premium.nodes.cf.090227.xyz:443?fp=chrome&path=%2F&security=tls&sni=_acme-challenge.sb.cloudns.biz&type=ws#
-vless://d5598622-46b8-b017-3af3-232500000001@104.16.72.101:80?security=none&type=ws&path=/sync&host=nahan-core.netizo09.workers.dev&packetEncoding=xudp&encryption=none#
-vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?security=reality&type=tcp&packetEncoding=xudp&sni=max.ru&fp=qq&flow=xtls-rprx-vision&sid=a696de84963656de&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc#Chequia
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.5.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nordic.cendora.ru&fp=qq&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&type=tcp&headerType=none&host=nordic.cendora.ru#Reino+Unido
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-sg-001.fastervpn.world:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapur
-vless://8525fe74-67e6-4a55-8a26-95f227bd1384@172.64.189.5:2083?security=tls&type=ws&path=/&host=calm-smoke-1a21.alvlirm6262.workers.dev&packetEncoding=xudp&sni=calm-smoke-1a21.alvlirm6262.workers.dev&fp=random&encryption=none#Estados+Unidos
-vless://923e051a-f598-4ea5-9c6c-f7e37c438a60@vkvd8bpskvxgjwdvcidxgoccr.javanbaghe.workers.dev:80?path=%2Fvl%2FD2pryqVs9LAgCYdTK76lsafWY%3Fed%3D2560&security=&encryption=none&host=vkvd8bpskvxgjwdvcidxgoccr.javanbaghe.workers.dev&type=ws#Estados+Unidos
-vless://4ce7cb8a-f9b1-4bfa-a80d-9e168c61a633@172.64.80.1:443?security=tls&type=ws&path=/sync&host=curly-night-6928.ggdhchjk.workers.dev&packetEncoding=xudp&sni=curly-night-6928.ggdhchjk.workers.dev&fp=chrome&encryption=none#Estados+Unidos
-vmess://eyJhZGQiOiAicnVzaC13MW5pdS50ZWVvcHAub25saW5lIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogImNocm9tZSIsICJob3N0IjogInJ1c2gtdzFuaXUudGVlb3BwLm9ubGluZSIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZpZGVvL3Y0c3gzcS96eHpydXJrYy5tM3U4IiwgInBvcnQiOiAiNDQzIiwgInBzIjogIkVzdGFkb3MgVW5pZG9zIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAicnVzaC13MW5pdS50ZWVvcHAub25saW5lIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://d4d0d523-0c2a-4b9d-b630-0637f0b77904@146.190.124.36:74?security=tls&type=ws&path=/@Marisa_kristi&host=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev&packetEncoding=xudp&sni=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev&fp=chrome&encryption=none#Estados+Unidos
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2053?security=reality&type=tcp&packetEncoding=xudp&sni=vk.ru&fp=random&flow=xtls-rprx-vision&sid=1eb8ea8dae937ae0&pbk=dRLd_E_GYCkCcwxLN5EcRQYsREKqisb26_ZSehxUpWY#Holanda
-vless://c6ba83a7-c4b5-481f-8f71-0f17deff0bf2@billowing-sunset-e340.qaraatayi.workers.dev:8080?security=none&type=ws&path=/eyJqdW5rIjoiOUhPbnRlV0xaekI1cjciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0=?ed=2560&host=billowing-sunset-e340.qaraatayi.workers.dev&packetEncoding=xudp&encryption=none#Estados+Unidos
+trojan://netra@104.21.60.109:2087?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FWcvMTQZ5OFOfnBZDZ%3Fed%3D2560&security=tls&sni=LAtE-FroST-9DA7.ShOamEni5.woRKers.Dev&type=ws#
+vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=%2Fvless%2F&security=none&encryption=none&host=google.com&type=ws#Francia
+vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node14.mxvpn.dev:443?security=reality&type=tcp&packetEncoding=xudp&sni=node14.mxvpn.dev&fp=chrome&flow=xtls-rprx-vision&sid=bbc68cec8bb8d2e3&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw#Rusia
+vless://6c52b79f-fd02-41bc-bf75-4c80fbc6a939@151.242.168.181:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=urD2miGxEfHylELSqqggBKCYIMSNXNTbdPijru7-eAQ&security=reality&sid=46babe29a750b634&sni=kibi-institut.de&type=tcp#Ir%C3%A1n
+vless://03a8d415-1d9c-470d-9e2d-ea0fd6aef9c0@104.21.6.82:8080?security=none&type=ws&path=/eyJqdW5rIjoiSWdvVk5ETHBhRnNQamIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560&host=server7.wimig16819.workers.dev&packetEncoding=xudp#
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.41:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Espa%C3%B1a
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@91.193.59.251:2053?security=tls&type=ws&path=/socks5=888:888@hkip.1d.mom:1080&host=vlso6.1d.mom&packetEncoding=xudp&sni=vlso6.1d.mom&fp=chrome&encryption=none#Reino+Unido
+vless://d028eaf5-c5ef-49a0-85c6-4f4816af8053@173.245.49.114:2086?security=none&type=ws&path=/eyJqdW5rIjoiZUJZR2pXVFByVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwOS4xMjAuMTU4LjE0OSJdfQ==&host=misty-bread-fd96.salehinezhadali.workers.dev&packetEncoding=xudp#Francia
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.11.30:8880?security=none&type=ws&path=/&host=vms.lifetime28.workers.dev&packetEncoding=xudp#Estados+Unidos
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.182:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#Estados+Unidos
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#Reino+Unido
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#Canad%C3%A1
+vless://af19ce98-b58b-43ef-9f0d-2ae6343e28fe@172.67.133.44:2096?security=tls&type=ws&path=/eyJqdW5rIjoic2phSXhvRm5pQmxZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19?ed=2560&host=blue-disk-1124.sawmansafi.workers.dev&packetEncoding=xudp&sni=blue-disk-1124.sawmansafi.workers.dev&fp=chrome&encryption=none#Estados+Unidos
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#Jap%C3%B3n
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#Reino+Unido
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@5.180.42.210:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=nordic.cendora.ru&fp=chrome&flow=xtls-rprx-vision&sid=2186a755ed67b034&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU#Chipre
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?security=reality&type=raw&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#Francia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388#Holanda
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?encryption=none&security=&type=ws#Letonia
 ```
-<h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
- <p>Código QR para la dirección de suscripción anterior</p>
- <img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es.png' ancho=250 alto=250>
- <blockquote style='text-align: center;'>Para obtener más nodos, direcciones de suscripción gratuitas y conversiones de suscripción, descargue el software de aplicación de nodo compartido proporcionado por este sitio <a href='https://shadowsharing.com'>ShadowShare </a> Exporta el uso del nodo, admite descargas de iOS y Android; se recomienda a los usuarios de Android que utilicen directamente <a href='https://github.com/Pawdroid/shadowrocket_for_android'>shadowrocket para Android</a> Android Rocket, con Todos los nodos gratuitos integrados. </blockquote>
- <h4>Se recomienda que los usuarios nacionales de iOS <a href='https://apps.apple.com/cn/app/shadowshare/id1612647259'>App Store descarguen</a> y la guarden lo antes posible. puede descargarse en algún momento en el futuro.</h4>
- <h4>La última versión de VPN <a href='https://pawdollvpn.com'>PawdollVPN</a> de alta velocidad y alta calidad es compatible con las plataformas Android y iOS. Puedes descargarla y usarla. Se proporciona una prueba gratuita ilimitada por tiempo limitado. </h4>
- <div class="nv-content-wrap entrada-contenido">
- <h2>Conversión con un clic de direcciones de suscripción de clientes como Clash y SS:</h2>
- <p>Si el cliente SS/SSR/V2ray no puede usar directamente el enlace del nodo SSR, use la herramienta vinculada a continuación para convertirlo en una dirección de suscripción. Luego, SSR/SSD/Surge/Quantum/Surfboard/Loon y otros clientes móviles y de computadora. se puede utilizar aquí:</p>
- <p><a href="https://acl4ssr-sub.github.io" target="_blank" rel="noreferrer noopener nofollow">https://acl4ssr-sub.github.io</a></p>
- <h2>Descarga del cliente V2ray/SSR Android para iPhone/PC</h2>
- <h3>Descarga del cliente V2Ray</h3>
- <p>También se proporcionan enlaces de descarga para las últimas versiones del cliente V2ray Windows, el cliente V2ray Android, el cliente V2ray MacOS para computadoras Apple, el cliente V2ray iOS para iPhone y el cliente V2ray Linux. </p>
- <h4>Windows7/8/10-<strong>V2ray WinPC Computer Client</strong>Descarga del programa</h4>
- <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>Descarga V2rayN</td><td><a href="https://github. com/2dust/v2rayN/releases" target="_blank" rel="noreferrer noopener">Descarga del sitio web oficial</a></td></tr><tr><td>Descarga V2rayW</td><td> <a href="https://github.com/Cenmrev/V2RayW/releases" target="_blank" rel="noreferrer noopener">Descarga del sitio web oficial</a></td></tr><tr><td> Descarga de Clash</td><td><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases" target="_blank" rel="noreferrer noopener">Descarga del sitio web oficial</a></td> </tr><tr><td>Descarga de V2rayS</td><td><a href="https://github.com/Shinlor/V2RayS/releases" target="_blank" rel="noreferrer noopener">Descarga del sitio web oficial</a></td></tr><tr><td>Descarga suave</td><td><a href="https://github.com/mellow-io/mellow/releases" target="_blank" rel="noreferrer noopener">Descarga del sitio web oficial</a></td></tr><tr><td>Descarga de Qv2ray</td><td><a href= "https://github.com/Qv2ray/Qv2ray" target="_blank" rel="noreferrer noopener">Descarga del sitio web oficial</a></td></tr></tbody></table></figure>
- <h4><strong>Cliente móvil Android/Xiaomi MIUI/Huawei EMUI-V2ray Android</strong>Descarga del programa Apk</h4>
- <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>Descarga V2rayNG</td><td><a href="https://github. com/2dust/v2rayNG/releases" target="_blank" rel="noreferrer noopener">Descarga del sitio web oficial</a></td></tr><tr><td>Descarga de Android Rocket</td><td><a href="https://github.com/Pawdroid/shadowrocket_for_android/releases" target="_blank" rel="noreferrer noopener">Descarga del sitio web oficial</a></td></tr><tr> <td>Descargar BifrostV</td><td><a rel="noreferrer noopener" href="https://www.appsapk.com/downloading/latest/com.github.dawndiy.bifrostv-0.6.8.apk " target="_blank">Descarga de Market</a></td></tr><tr><td>Descarga de Clash</td><td><a href="https://github.com/Kr328/ClashForAndroid/releases" target="_blank" rel="noreferrer noopener">Descarga del sitio web oficial</a></td></tr><tr><td>Descarga de Kitsunebi</td><td><a rel ="noreferrer noopener" href="https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android" target="_blank">Descarga de mercado</a></td></tr></tbody></table></figure>
- <h4><strong>Descarga del programa cliente de computadora MacOS-V2ray Apple</strong></h4>
- <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>Descarga de V2rayU</td><td><a href="https://github. com/yanue/V2rayU/releases" target="_blank" rel="noreferrer noopener">Descarga del sitio web oficial</a></td></tr><tr><td>Descarga de V2rayX</td><td> <a href="https://github.com/Cenmrev/V2RayX/releases" target="_blank" rel="noreferrer noopener">Descarga del sitio web oficial</a></td></tr><tr><td> Descarga de ClashX</td><td><a href="https://github.com/yichengchen/clashX/releases" target="_blank" rel="noreferrer noopener">Descarga del sitio web oficial</a></td> </tr></tbody></table></figure>
- <h4><strong>Linux</strong>–<strong>Cliente informático V2ray Ubuntu/Centos</strong>Descarga del programa</h4>
- <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>Descarga de Qv2ray</td><td><a href="https://github. com/Qv2ray/Qv2ray" target="_blank" rel="noreferrer noopener">Descarga del sitio web oficial</a></td></tr><tr><td>Descarga suave</td><td><a href ="https://github.com/mellow-io/mellow/releases" target="_blank" rel="noreferrer noopener">Descarga del sitio web oficial</a></td></tr><tr><td> Descarga de V2rayL</td><td><a rel="noreferrer noopener" href="https://github.com/jiangxufeng/v2rayL" target="_blank">Documento de instalación oficial</a></td></tr></tbody></table></figure>
- <h4>iOS-<strong>V2ray Apple<strong>Mobile Client</strong>Programa de aplicación</strong>Descarga</h4>
- <p>Actualmente no hay ningún cliente V2ray iOS gratuito en el mercado de aplicaciones de Apple. Hay aplicaciones pagas disponibles, como Shadowrocket, pepi, i2Ray, Kitsunebi y Quantumult. </p>
- <h3>Descarga del cliente ShadowsocksR/SSR</h3>
- <p>ShadowsocksR se abrevia como SSR y también tiene lindos apodos como yogur amargo, avión rosa y avión de papel, que se usan ampliamente. </p>
- <p>Hemos recopilado las direcciones de descarga de las últimas versiones del cliente SSR para Windows, el cliente SSR para Android, el cliente SSR MacOS para computadoras Apple y el cliente SSR iOS para teléfonos Apple para compartir con todos. </p>
- <h4><strong>Windows7/8/10-<strong>SSR Small Plane WinPC Computer Client</strong>Descarga del programa</strong></h4>
- <p><a rel="noreferrer noopener" href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases" target="_blank">Descarga del sitio web oficial</a></p>
- <h4><strong><strong>Android/Xiaomi MIUI/Huawei EMUI-SSR cliente móvil Android de avión pequeño</strong>descarga del programa Apk</strong></h4>
- <p><a rel="noreferrer noopener" href="https://github.com/shadowsocksrr/shadowsocksr-android/releases" target="_blank">Descarga del sitio web oficial</a></p>
- <h4><strong><strong>MacOS-SSR Small Plane Apple Computer Client</strong>Descarga del programa</strong></h4>
- <p><a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases" target="_blank" rel="noreferrer noopener">Descarga del sitio web oficial</a></p>
- <h4><strong>iOS-<strong>Aplicación de cliente móvil Apple SSR Small Plane</strong></strong>Descargar</h4>
- <p>Abre Apple App Store en iPhone o iPad y busca Mume, Potatso Lite, FastSocks y Shadowrocket. </p></div>
-    
+
+
+
+### Dirección de suscripción
+
+Copia la siguiente dirección en un cliente compatible con el formato de suscripción correspondiente o escanea el código QR para importarla.
+
+<p><a href="https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es">https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</a></p>
+
+<img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es.png' width=250 height=250 alt='Código QR de la dirección de suscripción'>
+
+## Otros productos y enlaces de descarga
+
+### ShadowShare
+
+Herramienta para compartir nodos y suscripciones, con enlaces de descarga para Android e iOS.
+
+[Sitio oficial](https://shadowsharing.com) · [iOS App Store](https://apps.apple.com/cn/app/shadowshare/id1612647259)
+
+### Pawdoll
+
+Cliente VPN. Consulta la información del producto y las descargas en el [sitio oficial](https://pawdollvpn.com).
+
+### Surflare
+
+Surflare ofrece servicios de VPN y proxy:
+
+- Ofrece clientes para Windows, macOS, Linux, Android e iOS.
+- La aplicación VPN admite tunelización dividida inteligente y VPN multisalto.
+- El servicio de proxy admite SOCKS5 y HTTP y puede utilizarse en software compatible con la configuración de proxy correspondiente.
+
+**Código de descuento: `pawdroid`.** El descuento y los planes aplicables se indican en la página de pago.
+
+[Sitio oficial](https://www.surflare.com/)
+
+## Otros clientes
+
+Los siguientes clientes permiten importar tus propios nodos o suscripciones. Elige según la plataforma de tu dispositivo y el formato de configuración. La columna de precios se refiere únicamente al cliente y no incluye nodos ni servicios de suscripción; consulta las páginas oficiales para conocer las condiciones de pago, los requisitos del sistema y la disponibilidad regional.
+
+[Windows](#clients-windows) · [macOS](#clients-macos) · [Linux](#clients-linux) · [Android](#clients-android) · [iOS / iPadOS](#clients-ios) · [Complementos para routers](#router-plugins) · [Formatos de suscripción](#subscription-formats)
+
+<a id="clients-windows"></a>
+
+### Windows
+
+| Cliente | Características / formato de configuración | Precio | Descarga oficial |
+| --- | --- | --- | --- |
+| **v2rayN** | Enlaces para compartir nodos y suscripciones V2Ray habituales. | Gratis | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
+| **Clash Verge Rev** | Configuraciones Clash / Mihomo YAML, reglas y grupos de proxies. | Gratis | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
+| **Hiddify** | Gestión multiplataforma de suscripciones y configuraciones compatibles. | Gratis | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
+| **Clash Party** | Antes Mihomo Party; cliente proxy basado en Mihomo con enrutamiento mediante reglas. | Gratis | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
+| **FlClash** | Configuraciones Clash / Mihomo, reglas y grupos de proxies. | Gratis | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
+| **Karing** | Proxy multiprotocolo compatible con reglas de enrutamiento de Clash / sing-box. | Gratis | [Proyecto oficial y descargas](https://github.com/KaringX/karing) |
+| **Throne** | Gestión de nodos y enrutamiento en escritorio basada en sing-box. | Gratis | [Proyecto oficial y descargas](https://github.com/throneproj/Throne) |
+
+<a id="clients-macos"></a>
+
+### macOS
+
+| Cliente | Características / formato de configuración | Precio | Descarga oficial |
+| --- | --- | --- | --- |
+| **v2rayN** | Enlaces para compartir nodos y suscripciones V2Ray habituales. | Gratis | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
+| **Clash Verge Rev** | Configuraciones Clash / Mihomo YAML, reglas y grupos de proxies. | Gratis | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
+| **Hiddify** | Gestión multiplataforma de suscripciones y configuraciones compatibles. | Gratis | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
+| **Clash Party** | Antes Mihomo Party; cliente proxy basado en Mihomo con enrutamiento mediante reglas. | Gratis | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
+| **FlClash** | Configuraciones Clash / Mihomo, reglas y grupos de proxies. | Gratis | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
+| **Karing** | Proxy multiprotocolo compatible con reglas de enrutamiento de Clash / sing-box. | Gratis | [Proyecto oficial y descargas](https://github.com/KaringX/karing) |
+| **Throne** | Gestión de nodos y enrutamiento en escritorio basada en sing-box. | Gratis | [Proyecto oficial y descargas](https://github.com/throneproj/Throne) |
+| **Surge Mac** | Proxy basado en reglas y depuración de red con el formato de configuración de Surge. | De pago; licencias independientes para Mac e iOS | [Sitio oficial](https://nssurge.com/) |
+| **Quantumult X** | Enrutamiento basado en reglas y depuración de red con su propio formato de configuración. | De pago | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
+| **sing-box for Apple platforms** | Configuraciones sing-box JSON locales o remotas; deben ser compatibles con la versión del núcleo. | Gratis | [Instrucciones oficiales de descarga](https://sing-box.sagernet.org/clients/apple/) |
+
+Antes de descargar, comprueba la arquitectura Intel / Apple Silicon y los requisitos de macOS. Surge Mac y la versión para iOS requieren licencias independientes.
+
+<a id="clients-linux"></a>
+
+### Linux
+
+| Cliente | Características / formato de configuración | Precio | Descarga oficial |
+| --- | --- | --- | --- |
+| **v2rayN** | Enlaces para compartir nodos y suscripciones V2Ray habituales. | Gratis | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
+| **Clash Verge Rev** | Configuraciones Clash / Mihomo YAML, reglas y grupos de proxies. | Gratis | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
+| **Hiddify** | Gestión multiplataforma de suscripciones y configuraciones compatibles. | Gratis | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
+| **Clash Party** | Antes Mihomo Party; cliente proxy basado en Mihomo con enrutamiento mediante reglas. | Gratis | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
+| **FlClash** | Configuraciones Clash / Mihomo, reglas y grupos de proxies. | Gratis | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
+| **Karing** | Proxy multiprotocolo compatible con reglas de enrutamiento de Clash / sing-box. | Gratis | [Proyecto oficial y descargas](https://github.com/KaringX/karing) |
+| **Throne** | Gestión de nodos y enrutamiento en escritorio basada en sing-box. | Gratis | [Proyecto oficial y descargas](https://github.com/throneproj/Throne) |
+
+<a id="clients-android"></a>
+
+### Android
+
+| Cliente | Características / formato de configuración | Precio | Descarga oficial |
+| --- | --- | --- | --- |
+| **v2rayNG** | Enlaces para compartir nodos y suscripciones V2Ray habituales. | Gratis | [GitHub Releases](https://github.com/2dust/v2rayNG/releases) |
+| **FlClash** | Configuraciones Clash / Mihomo, reglas y grupos de proxies. | Gratis | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
+| **Hiddify** | Gestión multiplataforma de suscripciones y configuraciones compatibles. | Gratis | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
+| **Karing** | Proxy multiprotocolo compatible con reglas de enrutamiento de Clash / sing-box. | Gratis | [Proyecto oficial y descargas](https://github.com/KaringX/karing) |
+| **Clash Meta for Android** | Configuraciones Clash / Mihomo, reglas y grupos de proxies. | Gratis | [GitHub Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest) |
+| **sing-box for Android** | Configuraciones sing-box JSON locales o remotas; deben ser compatibles con la versión del núcleo. | Gratis | [Instrucciones oficiales de descarga](https://sing-box.sagernet.org/clients/android/) |
+| **Surfboard** | Formato de configuración de Surge; algunas funciones no son compatibles. | Consulta la información oficial | [GitHub Releases](https://github.com/getsurfboard/surfboard/releases/latest) |
+| **NekoBox for Android** | Cliente multiprotocolo basado en sing-box; alternativa para usuarios avanzados, con mantenimiento limitado. | Gratis | [GitHub Releases](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) |
+
+El proyecto oficial de NekoBox indica que el mantenimiento es limitado y que no acepta solicitudes de nuevas funciones. También advierte que la versión con el mismo nombre en Google Play está bajo el control de un tercero; utiliza el enlace de GitHub anterior.
+
+<a id="clients-ios"></a>
+
+### iOS / iPadOS
+
+| Cliente | Características / formato de configuración | Precio | Descarga oficial |
+| --- | --- | --- | --- |
+| **Shadowrocket** | Gestión de nodos y proxy basado en reglas. | De pago | [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118) |
+| **Stash** | Configuraciones Clash compatibles y enrutamiento basado en reglas. | De pago | [App Store](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
+| **sing-box for Apple platforms** | Configuraciones sing-box JSON locales o remotas; deben ser compatibles con la versión del núcleo. | Gratis | [Instrucciones oficiales de descarga](https://sing-box.sagernet.org/clients/apple/) |
+| **Karing** | Proxy multiprotocolo compatible con reglas de enrutamiento de Clash / sing-box. | Gratis | [App Store](https://apps.apple.com/us/app/karing/id6472431552) |
+| **Quantumult X** | Enrutamiento basado en reglas y depuración de red con su propio formato de configuración. | De pago | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
+| **Surge** | Proxy basado en reglas y depuración de red con el formato de configuración de Surge. | Descarga gratuita; desbloqueo de Pro y suscripción opcional a actualizaciones | [App Store](https://apps.apple.com/us/app/surge-5/id1442620678) |
+| **Loon** | Gestión de nodos, enrutamiento basado en reglas y depuración de red con su propio formato de configuración. | De pago | [App Store](https://apps.apple.com/us/app/loon/id1373567447) |
+| **Egern** | Enrutamiento basado en reglas y depuración de red. | Descarga gratuita; Pro mediante compra dentro de la aplicación | [App Store](https://apps.apple.com/us/app/egern/id1616105820) |
+| **Streisand** | Gestión de nodos y suscripciones compatible con varios protocolos proxy. | Gratis | [App Store](https://apps.apple.com/us/app/streisand/id6450534064) |
+| **Potatso** | Configuración de proxy y enrutamiento basado en reglas. | Gratis; Pro mediante compra dentro de la aplicación | [App Store](https://apps.apple.com/us/app/potatso/id1239860606) |
+
+<a id="router-plugins"></a>
+
+### Complementos para routers
+
+Los siguientes complementos están destinados a firmware de routers compatible con los componentes necesarios. Antes de instalarlos, comprueba la versión del firmware, la arquitectura de CPU, las dependencias y el formato de suscripción. No se pueden utilizar directamente los paquetes de instalación de escritorio o móviles.
+
+| Complemento | Entorno compatible / formato de configuración | Precio | Proyecto oficial |
+| --- | --- | --- | --- |
+| **OpenClash** | OpenWrt; configuraciones Clash / Mihomo YAML. Las suscripciones V2Ray habituales suelen requerir una conversión previa a un formato compatible. | Gratis y de código abierto | [GitHub](https://github.com/vernesong/OpenClash) |
+| **PassWall2 / PassWall** | OpenWrt; proxy multiprotocolo. Los componentes necesarios varían según el firmware, la arquitectura de CPU y el núcleo elegido. | Gratis y de código abierto | [PassWall2](https://github.com/Openwrt-Passwall/openwrt-passwall2) · [PassWall](https://github.com/Openwrt-Passwall/openwrt-passwall) |
+| **Nikki** | Basado en Mihomo; requiere OpenWrt ≥ 24.10, Linux ≥ 5.13 y firewall4. | Gratis y de código abierto | [GitHub](https://github.com/nikkinikki-org/OpenWrt-nikki) |
+| **HomeProxy** | Basado en sing-box; destinado a dispositivos ARM64 / AMD64 con ImmortalWrt. | Gratis y de código abierto | [GitHub](https://github.com/immortalwrt/homeproxy) |
+
+<a id="subscription-formats"></a>
+
+### Formatos de suscripción y compatibilidad
+
+| Tipo de configuración | Indicaciones de uso |
+| --- | --- |
+| **Enlaces de nodos / suscripciones V2Ray habituales** | Normalmente contienen una lista de enlaces de nodos, que también puede estar codificada íntegramente en Base64; el cliente debe admitir los protocolos correspondientes. |
+| **Clash / Mihomo YAML** | Puede incluir nodos, grupos de proxies y reglas; la compatibilidad con los campos de extensión puede variar según el núcleo. |
+| **sing-box JSON** | Debe ser compatible con la versión del núcleo sing-box que utiliza el cliente. |
+| **Configuraciones específicas de Surge / Quantumult X / Loon y otros** | Cada uno tiene sus propias especificaciones de configuración; aunque parte de la sintaxis sea similar, no se garantiza una compatibilidad completa. |
+
+Los distintos formatos no son intercambiables directamente. La conversión puede perder reglas, DNS, grupos de proxies o parámetros de protocolo. Antes de importar, comprueba el cliente de destino y la versión de su núcleo; clientes como Stash tampoco garantizan la compatibilidad con todas las extensiones de Mihomo.
+
+Si necesitas convertir una suscripción, puedes utilizar la [herramienta de conversión de suscripciones](https://acl4ssr-sub.github.io). Las suscripciones que contengan credenciales privadas solo deben procesarse mediante servicios de confianza.
+
+### Cómo empezar
+
+1. Descarga desde el enlace oficial un cliente compatible con tu sistema y arquitectura de CPU.
+2. Usa los nodos integrados del cliente o importa suscripciones y configuraciones compatibles y actualiza la lista de nodos.
+3. Selecciona un nodo y comprueba su latencia; después de conectarte, verifica el acceso real.
+
+### Actualización de suscripciones y solución de problemas de conexión
+
+- **Actualizar la suscripción:** Actualiza la suscripción en el cliente para obtener la lista de nodos más reciente; una actualización correcta no significa que los nodos estén disponibles en ese momento.
+- **No se puede importar:** Comprueba que la dirección de suscripción esté completa. Si falla la descarga, revisa la red y el mensaje de error; si falla el análisis, comprueba el formato de suscripción y la versión del núcleo del cliente.
+- **No se puede conectar:** Primero actualiza la suscripción y prueba otros nodos; después revisa el modo de proxy o VPN según el mensaje de error del cliente.
+
+Los resultados de latencia solo reflejan esa prueba; no demuestran que el nodo sea seguro ni garantizan el acceso a todos los servicios.

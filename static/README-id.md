@@ -1,8 +1,13 @@
+# Free-servers · Panduan Node Gratis dan Aplikasi Klien
+
+Node gratis, alamat langganan, dan panduan penggunaan aplikasi klien lintas platform.
+
 
 <div align="center">
 
 **Languages:**
 
+[![Chinese](https://img.shields.io/badge/Language-Chinese-red?style=for-the-badge)](../README.md)
 [![English](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](README-en.md)
 [![Arabic](https://img.shields.io/badge/Language-Arabic-red?style=for-the-badge)](README-ar.md)
 [![German](https://img.shields.io/badge/Language-German-red?style=for-the-badge)](README-de.md)
@@ -20,74 +25,221 @@
 [![Bangla](https://img.shields.io/badge/Language-Bangla-red?style=for-the-badge)](README-bn.md)
 
 </div>
-<h2>Klik untuk bergabung dengan grup komunikasi Telegram:</h2>
- <blockquote>
- <p style="text-align: center;"><a href="https://t.me/shadowrocket_android">https://t.me/shadowrocket_android</a></p>
- </blockquote>
- <h2>Node gratis dan alamat berlangganan:</h2>
- <blockquote>
- <p style="text-align: center;">Node berkualitas tinggi diperbarui dengan kecepatan real-time setiap hari, diperbarui setiap 6 jam</p>
- </blockquote>
- <h4>Di halaman ini, seseorang secara manual mengukur kecepatan setiap node secara real-time, namun masih terdapat perbedaan jaringan operator di berbagai wilayah, dan mungkin terdapat batas waktu node. </h4>
- <blockquote>
- <p style="text-align: center;">Makan -> tidur -> node pengujian. </p>
- </blockquote>
- <h4>Daftar node: (Maksimal 20 node ditampilkan di sini. Node gratis lainnya bisa didapatkan di aplikasi.)</h4>
-    
+
+## Shadowrockets
+
+[Shadowrockets](https://shadowrockets.app) menyediakan aplikasi klien untuk **Android, Windows, macOS, dan Linux** dengan node gratis bawaan, dukungan koneksi sekali ketuk, pengujian latensi, serta keanggotaan opsional. Fitur dan manfaat keanggotaan berbeda menurut platform dan versi.
+
+| Platform | Pilihan paket instalasi |
+| --- | --- |
+| Android | Pilih APK yang sesuai dengan arsitektur perangkat atau instal melalui Google Play. |
+| Windows | x64, ARM64. |
+| macOS | Gunakan x64 untuk Intel dan ARM64 untuk Apple Silicon. |
+| Linux | x64, ARM64; tersedia paket deb dan portabel. |
+
+**Unduh:** [Unduh dari situs resmi](https://shadowrockets.app/download/) · [Google Play](https://play.google.com/store/apps/details?id=com.v2cross.proxy)
+
+Proyek dan rilis Android: [GitHub](https://github.com/Pawdroid/shadowrocket_for_android) · [Releases](https://github.com/Pawdroid/shadowrocket_for_android/releases). Lihat panduan instalasi dan informasi versi di [catatan perubahan](https://shadowrockets.app/changelog/).
+
+<h2>Klik untuk bergabung dengan grup diskusi Telegram:</h2>
+<blockquote>
+<p style="text-align: center;"><a href="https://t.me/shadowrocket_android">https://t.me/shadowrocket_android</a></p>
+</blockquote>
+
+<h2>Node Gratis dan Langganan</h2>
+<blockquote>
+<p style="text-align: center;">Node berkualitas diuji kecepatannya secara langsung setiap hari dan diperbarui setiap 6 jam</p>
+</blockquote>
+<p>Node gratis dapat mengalami batas waktu koneksi atau tidak berfungsi, tergantung wilayah, operator, atau kondisi node.</p>
+<blockquote>
+<p style="text-align: center;">Makan->Tidur->Uji node.</p>
+</blockquote>
+<h3>Daftar Node</h3>
+<p>Maksimal 20 node ditampilkan di sini.</p>
+
+
 ```
-ss://YWVzLTI1Ni1nY206NVFDZUlLVVpVRXA0bVI5Wg==@194.233.94.119:443#Singapore
-vless://fcd5a9bf-b5e2-44f2-8bc2-77ef222c7187@31.43.179.0:80?security=none&type=ws&path=/m10d8k6Ny5XLimc0?ed=2560&host=worker3.dawejoy4544.workers.dev&packetEncoding=xudp&encryption=none#Kazakhstan
-vless://85cc845e-644c-0045-8288-f0c03c83c1ec@151.236.24.67:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=auto.quattro-tech.ru&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&allowInsecure=1#Iceland
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?encryption=none&security=&type=ws#Latvia
-vless://78b9ac78-ebdf-4e51-8114-f6b0cd6d2169@server15.peekconf1-741.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoiOUZIcXVMV3FlbnoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OjExOjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==?ed=2560&host=server15.peekconf1-741.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=sErVER15.PEeKCOnF1-741.wOrkErs.Dev&fp=chrome&encryption=none#
-vless://20d7c485-5d24-49b5-a5cc-bb7a7daf9908@193.148.59.178:443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=%2DGMpCber8qtrKzJbwvpLcwlIhOy-5zS66u_x9lLvIjE&security=reality&sid=e3daad69&sni=www.apple.com&type=tcp#Singapore
-vless://8fe31772-a4b7-4a70-9fa2-34124c7284ca@194.31.223.87:3443?encryption=none&security=tls&sni=de.wlrus.cfd&type=grpc#The+Netherlands
-vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#United+States
-hysteria2://6c077487-06af-4fb1-9e46-d485d98f0a31@45.88.43.116:52454?insecure=1&security=tls&sni=www.bing.com#Japan
-ss://YWVzLTI1Ni1nY206UFN3YXZUSFdEMG5rZmN5Vw==@62.146.171.57:80#Germany
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.30:8880?security=none&type=ws&path=/&host=vms.lifetime38.workers.dev&packetEncoding=xudp#Russia
-trojan://humanity@104.18.152.179:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-vless://af00e0c4-decf-48f2-9013-56abe9c9efcd@150.241.102.8:443?security=reality&type=tcp&packetEncoding=xudp&sni=us.windconnect.pro&fp=firefox&flow=xtls-rprx-vision&sid=6c91479b193d956c&pbk=yHJL_ycxGuiOUB4EQbaiO2QEmkR4sHmN07dzkb1Cf3U#Spain
-vless://64774bd8-3116-4eaa-a046-5ea4fc230b81@node-nd01.rkitman.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=node-nd01.rkitman.ru&fp=chrome&pbk=8C7evg_SSrJbxMTaUqJoylqB9HSNsmBvmUlgs_c5EiU&sid=88d9dc52ef39c8bd&type=tcp&headerType=none#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#United+Kingdom
-vless://56c673ba-865a-48ec-8dc0-fd7133a7ecfd@172.67.179.98:8880?security=none&type=ws&path=/&host=curly-surf-4401.75-08c.workers.dev&packetEncoding=xudp#United+States
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node14.mxvpn.dev:443?security=reality&type=tcp&packetEncoding=xudp&sni=node14.mxvpn.dev&fp=chrome&flow=xtls-rprx-vision&sid=bbc68cec8bb8d2e3&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw#Russia
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.191.206:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapore
-vless://b1ecd06b-a931-47a2-8f48-d1d133d2b4f3@57.129.130.200:52014?security=tls&type=ws&path=/@Marisa_kristi&host=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&packetEncoding=xudp&sni=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&fp=chrome&encryption=none#France
-hysteria2://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.27.210:8080?security=tls&sni=borat-hopp.bumbleshrimp.com#United+States
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.220:443?security=reality&type=tcp&packetEncoding=xudp&sni=savesafe.co&fp=firefox&flow=xtls-rprx-vision&sid=f63805c3ecc7a483&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.48:8080#United+Kingdom
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#France
+trojan://humanity@104.18.152.152:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
+trojan://humanity@104.18.152.155:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
+vless://48919b51-1cfe-4077-b46f-0a8751374461@23.251.47.193:30011?security=tls&type=ws&path=/@Marisa_kristi&host=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&packetEncoding=xudp&sni=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&fp=chrome&encryption=none#United+States
+vmess://eyJhZGQiOiAiNDcuODMuMTkuMTQ4IiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICI2SkR2QXJhemdVM3FRUjZRLnYuM2Rucy52aXAiLCAiaWQiOiAiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzLXZtZXNzIiwgInBvcnQiOiA0NDMsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiNkpEdkFyYXpnVTNxUVI2US52LjNkbnMudmlwIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#The+Netherlands
+vless://25844c02-a1fe-43ec-a6b9-44e3bf375b83@104.21.23.72:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=dark-breeze-a59a.494.workers.dev&packetEncoding=xudp&encryption=none#
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#Denmark
+trojan://FH72359861@44.251.158.80:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=obliging-louse.rooster465.autos#United+States
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@91.193.59.191:2087?security=tls&type=ws&path=/socks5=888:888@hkip.1d.mom:1080&host=vlso5.1d.mom&packetEncoding=xudp&sni=vlso5.1d.mom&fp=chrome&encryption=none#United+Kingdom
+vless://14da77da-4fb3-4e49-ac4f-7881ea19b267@31.77.131.154:443?encryption=none&security=none&type=ws&path=/#United+Kingdom
+vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@188.137.235.179:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc#Bahrain
+vmess://eyJhZGQiOiAiMTU2LjI0NS4yMzIuMjM5IiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYjE1ZTQ4MWQtMTdlNC00MWE4LTg0YzItMjNkNGYwNTE0ZDlhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDM1MDQzLCAicHMiOiAiSG9uZyBLb25nIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#United+Kingdom
+vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@neth1.nihaovpn.ru:443?encryption=none&type=tcp&security=reality&headerType=none&sni=stackoverflow.com&fp=chrome&insecure=1&allowInsecure=1&pbk=KXLSKenDdZrp3WANgHvkIuEFuGNb02R39SIFhWyhR3o&sid=a8a897f350b14b20&flow=xtls-rprx-vision#United+Kingdom
+vless://d8523317-503e-43ad-b2c3-e5f77d725848@31.76.46.138:20422?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&sid=90&pbk=ZUQTvwYk_hDqSrw36uc18MkeEIXIGZZGsf5XWVwdqAQ#United+Kingdom
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.235.30:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime07.workers.dev&packetEncoding=xudp#Cura%C3%A7ao
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.96:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
 ```
-<h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
- <p>Kode QR untuk alamat berlangganan di atas</p>
- <img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id.png' lebar=250 tinggi=250>
- <blockquote style='text-align: center;'>Untuk lebih banyak node, alamat langganan gratis, dan konversi langganan, silakan unduh perangkat lunak aplikasi node bersama yang disediakan oleh situs ini <a href='https://shadowsharing.com'>ShadowShare </a> Ekspor penggunaan node, mendukung unduhan iOS dan Android, pengguna Android disarankan untuk menggunakan langsung <a href='https://github.com/Pawdroid/shadowrocket_for_android'>shadowrocket untuk android</a> Android Rocket, dengan semua node gratis ada di dalamnya. </blockquote>
- <h4>Disarankan agar pengguna iOS domestik <a href='https://apps.apple.com/cn/app/shadowshare/id1612647259'>App Store mengunduh</a> dan menyimpannya sesegera mungkin dapat diunduh suatu saat nanti.</h4>
- <h4>Rilis terbaru VPN berkecepatan tinggi dan berkualitas tinggi <a href='https://pawdollvpn.com'>VPN Cepat</a> telah mendukung platform Android dan Windows. Anda dapat mengunduh dan menggunakannya . Uji coba gratis tanpa batas disediakan untuk waktu terbatas. </h4>
- <div class="nv-content-wrap entri-konten">
- <h2>Konversi sekali klik dari alamat langganan klien seperti Clash dan SS:</h2>
- <p>Jika klien SS/SSR/V2ray tidak dapat langsung menggunakan tautan simpul SSR, gunakan alat yang ditautkan di bawah ini untuk mengubahnya menjadi alamat berlangganan. Kemudian SSR/SSD/Surge/Quantum/Surfboard/Loon dan klien seluler dan komputer lainnya dapat digunakan. Di sini:</p>
- <p><a href="https://acl4ssr-sub.github.io" target="_blank" rel="noreferrer noopener nofollow">https://acl4ssr-sub.github.io</a></p>
- <h2>Unduh klien V2ray/SSR Android iPhone/PC</h2>
- <h3>Unduhan klien V2Ray</h3>
- <p>Tautan unduhan untuk klien V2ray Windows versi terbaru, klien V2ray Android, klien V2ray MacOS untuk komputer Apple, klien V2ray iOS untuk iPhone, dan klien V2ray Linux juga disediakan. </p>
- <h4>Windows7/8/10-<strong>Klien Komputer V2ray WinPC</strong>Unduhan Program</h4>
- <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>Unduhan V2rayN</td><td><a href="https://github. com/2dust/v2rayN/releases" target="_blank" rel="noreferrer noopener">Unduh situs web resmi</a></td></tr><tr><td>Unduhan V2rayW</td><td> <a href="https://github.com/Cenmrev/V2RayW/releases" target="_blank" rel="noreferrer noopener">Unduhan situs web resmi</a></td></tr><tr><td> Unduhan Clash</td><td><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases" target="_blank" rel="noreferrer noopener">Unduhan situs web resmi</a></td> </tr><tr><td>Unduh V2rayS</td><td><a href="https://github.com/Shinlor/V2RayS/releases" target="_blank" rel="noreferrer noopener"> Unduhan situs web resmi</a></td></tr><tr><td>Unduhan lembut</td><td><a href="https://github.com/mellow-io/mellow/releases" target="_blank" rel="noreferrer noopener">Unduhan situs web resmi</a></td></tr><tr><td>Unduhan Qv2ray</td><td><a href= "https://github.com/Qv2ray/Qv2ray" target="_blank" rel="noreferrer noopener">Unduhan situs web resmi</a></td></tr></tbody></table></figure>
- <h4><strong>Klien seluler Android Android/Xiaomi MIUI/Huawei EMUI-V2ray</strong>Unduh program Apk</h4>
- <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>Unduhan V2rayNG</td><td><a href="https://github. com/2dust/v2rayNG/releases" target="_blank" rel="noreferrer noopener">Unduh situs web resmi</a></td></tr><tr><td>Unduhan Android Rocket</td><td><a href="https://github.com/Pawdroid/shadowrocket_for_android/releases" target="_blank" rel="noreferrer noopener">Unduh situs web resmi</a></td></tr><tr> <td>Unduh BifrostV</td><td><a rel="noreferrer noopener" href="https://www.appsapk.com/downloading/latest/com.github.dawndiy.bifrostv-0.6.8.apk " target="_blank">Unduhan Pasar</a></td></tr><tr><td>Unduhan Clash</td><td><a href="https://github.com/Kr328/ClashForAndroid/releases" target="_blank" rel="noreferrer noopener">Unduhan situs web resmi</a></td></tr><tr><td>Unduhan Kitsunebi</td><td><a rel =" noreferrer noopener" href="https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android" target="_blank">Unduhan pasar</a></td></tr></tbody></table></figure>
- <h4><strong>Unduhan Program Klien</strong>MacOS-V2ray <strong>Komputer Apple</strong></h4>
- <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>Unduh V2rayU</td><td><a href="https://github. com/yanue/V2rayU/releases" target="_blank" rel="noreferrer noopener">Unduh situs web resmi</a></td></tr><tr><td>Unduhan V2rayX</td><td> <a href="https://github.com/Cenmrev/V2RayX/releases" target="_blank" rel="noreferrer noopener">Unduhan situs web resmi</a></td></tr><tr><td> Unduhan ClashX</td><td><a href="https://github.com/yichengchen/clashX/releases" target="_blank" rel="noreferrer noopener">Unduhan situs web resmi</a></td> </tr></tbody></table></figure>
- <h4><strong>Linux</strong>–<strong>Klien komputer V2ray Ubuntu/Centos</strong>Unduhan program</h4>
- <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>Unduhan Qv2ray</td><td><a href="https://github. com/Qv2ray/Qv2ray" target="_blank" rel="noreferrer noopener">Unduhan situs resmi</a></td></tr><tr><td>Unduhan lambat</td><td><a href ="https://github.com/mellow-io/mellow/releases" target="_blank" rel="noreferrer noopener">Unduhan situs web resmi</a></td></tr><tr><td> Unduhan V2rayL</td><td><a rel="noreferrer noopener" href="https://github.com/jiangxufeng/v2rayL" target="_blank">Dokumen instalasi resmi</a></td></tr></tbody></table></figure>
- <h4>iOS-<strong>V2ray Apple<strong>Klien Seluler</strong>Program Aplikasi</strong>Unduh</h4>
- <p>Tidak ada klien iOS V2ray gratis di pasar Apple AppStore saat ini tersedia seperti Shadowrocket, pepi, i2Ray, Kitsunebi, dan Quantumult. </p>
- <h3>Unduhan klien ShadowsocksR/SSR</h3>
- <p>ShadowsocksR disingkat SSR, dan juga memiliki nama panggilan lucu seperti yogurt asam, pesawat merah muda, dan pesawat kertas, yang banyak digunakan. </p>
- <p>Kami telah mengumpulkan alamat unduhan versi terbaru klien SSR Windows, klien SSR Android, klien SSR MacOS untuk komputer Apple, dan klien SSR iOS untuk ponsel Apple untuk dibagikan kepada semua orang. </p>
- <h4><strong>Windows7/8/10-Unduhan Program Klien Komputer WinPC Pesawat Kecil SSR</strong></h4>
- <p><a rel="noreferrer noopener" href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases" target="_blank">Unduh situs web resmi</a></p>
- <h4><strong><strong>Android/Xiaomi MIUI/Huawei EMUI-SSR klien seluler Android pesawat kecil</strong>Unduhan program Apk</strong></h4>
- <p><a rel="noreferrer noopener" href="https://github.com/shadowsocksrr/shadowsocksr-android/releases" target="_blank">Unduh situs web resmi</a></p>
- <h4><strong>Unduhan Program Klien Komputer Apple Pesawat Kecil MacOS-SSR</strong></h4>
- <p><a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases" target="_blank" rel="noreferrer noopener">Unduh situs web resmi</a></p>
- <h4><strong>iOS-Aplikasi Klien Seluler Apple Pesawat Kecil SSR</strong>Unduh</h4>
- <p>Buka Apple App Store di iPhone atau iPad dan cari Mume, Potatso Lite, FastSocks, dan Shadowrocket. </p></div>
-    
+
+
+
+### Alamat Langganan
+
+Salin alamat berikut ke aplikasi klien yang mendukung format langganan terkait, atau pindai kode QR untuk mengimpornya.
+
+<p><a href="https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id">https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</a></p>
+
+<img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id.png' width=250 height=250 alt='Kode QR alamat langganan'>
+
+## Produk Lain dan Tautan Unduhan
+
+### ShadowShare
+
+Alat berbagi node dan langganan dengan tautan unduhan untuk Android dan iOS.
+
+[Situs resmi](https://shadowsharing.com) · [iOS App Store](https://apps.apple.com/cn/app/shadowshare/id1612647259)
+
+### Pawdoll
+
+Aplikasi klien VPN. Informasi produk dan unduhan tersedia di [situs resmi](https://pawdollvpn.com).
+
+### Surflare
+
+Surflare menyediakan layanan VPN dan proxy:
+
+- Menyediakan aplikasi klien untuk Windows, macOS, Linux, Android, dan iOS.
+- Aplikasi VPN mendukung perutean cerdas dan VPN multi-hop.
+- Layanan proxy mendukung SOCKS5 dan HTTP, serta dapat digunakan pada perangkat lunak yang mendukung konfigurasi proxy terkait.
+
+**Kode promo: `pawdroid`.** Diskon yang berlaku dan paket yang memenuhi syarat mengacu pada halaman pembayaran.
+
+[Situs resmi](https://www.surflare.com/)
+
+## Aplikasi Klien Lain
+
+Aplikasi klien berikut cocok untuk mengimpor node atau langganan milik Anda sendiri. Pilih berdasarkan platform perangkat dan format konfigurasi. Kolom biaya hanya berlaku untuk aplikasi klien, tidak termasuk layanan node atau langganan; model pembayaran, persyaratan sistem, dan ketersediaan menurut wilayah mengacu pada halaman resmi.
+
+[Windows](#clients-windows) · [macOS](#clients-macos) · [Linux](#clients-linux) · [Android](#clients-android) · [iOS / iPadOS](#clients-ios) · [Plugin Router](#router-plugins) · [Format Langganan](#subscription-formats)
+
+<a id="clients-windows"></a>
+
+### Windows
+
+| Aplikasi klien | Fitur / format konfigurasi | Jenis biaya | Unduhan resmi |
+| --- | --- | --- | --- |
+| **v2rayN** | Tautan berbagi node dan langganan V2Ray yang umum digunakan. | Gratis | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
+| **Clash Verge Rev** | Konfigurasi Clash / Mihomo YAML, aturan, dan grup proxy. | Gratis | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
+| **Hiddify** | Mengelola langganan dan konfigurasi yang didukung di berbagai platform. | Gratis | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
+| **Clash Party** | Sebelumnya bernama Mihomo Party; aplikasi klien proxy berbasis aturan yang menggunakan Mihomo. | Gratis | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
+| **FlClash** | Konfigurasi Clash / Mihomo, aturan, dan grup proxy. | Gratis | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
+| **Karing** | Proxy multiprotokol yang mendukung aturan perutean Clash / sing-box. | Gratis | [Proyek resmi dan unduhan](https://github.com/KaringX/karing) |
+| **Throne** | Pengelolaan node dan perutean di desktop berbasis sing-box. | Gratis | [Proyek resmi dan unduhan](https://github.com/throneproj/Throne) |
+
+<a id="clients-macos"></a>
+
+### macOS
+
+| Aplikasi klien | Fitur / format konfigurasi | Jenis biaya | Unduhan resmi |
+| --- | --- | --- | --- |
+| **v2rayN** | Tautan berbagi node dan langganan V2Ray yang umum digunakan. | Gratis | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
+| **Clash Verge Rev** | Konfigurasi Clash / Mihomo YAML, aturan, dan grup proxy. | Gratis | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
+| **Hiddify** | Mengelola langganan dan konfigurasi yang didukung di berbagai platform. | Gratis | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
+| **Clash Party** | Sebelumnya bernama Mihomo Party; aplikasi klien proxy berbasis aturan yang menggunakan Mihomo. | Gratis | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
+| **FlClash** | Konfigurasi Clash / Mihomo, aturan, dan grup proxy. | Gratis | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
+| **Karing** | Proxy multiprotokol yang mendukung aturan perutean Clash / sing-box. | Gratis | [Proyek resmi dan unduhan](https://github.com/KaringX/karing) |
+| **Throne** | Pengelolaan node dan perutean di desktop berbasis sing-box. | Gratis | [Proyek resmi dan unduhan](https://github.com/throneproj/Throne) |
+| **Surge Mac** | Proxy berbasis aturan dan penelusuran kesalahan jaringan, menggunakan format konfigurasi Surge. | Berbayar; lisensi Mac dan iOS terpisah | [Situs resmi](https://nssurge.com/) |
+| **Quantumult X** | Perutean berbasis aturan dan penelusuran kesalahan jaringan, menggunakan format konfigurasi sendiri. | Berbayar | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
+| **sing-box for Apple platforms** | Konfigurasi sing-box JSON lokal atau jarak jauh; harus sesuai dengan versi inti. | Gratis | [Panduan unduhan resmi](https://sing-box.sagernet.org/clients/apple/) |
+
+Saat mengunduh, periksa arsitektur Intel / Apple Silicon dan persyaratan sistem macOS. Surge Mac dan versi iOS menggunakan lisensi terpisah.
+
+<a id="clients-linux"></a>
+
+### Linux
+
+| Aplikasi klien | Fitur / format konfigurasi | Jenis biaya | Unduhan resmi |
+| --- | --- | --- | --- |
+| **v2rayN** | Tautan berbagi node dan langganan V2Ray yang umum digunakan. | Gratis | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
+| **Clash Verge Rev** | Konfigurasi Clash / Mihomo YAML, aturan, dan grup proxy. | Gratis | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
+| **Hiddify** | Mengelola langganan dan konfigurasi yang didukung di berbagai platform. | Gratis | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
+| **Clash Party** | Sebelumnya bernama Mihomo Party; aplikasi klien proxy berbasis aturan yang menggunakan Mihomo. | Gratis | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
+| **FlClash** | Konfigurasi Clash / Mihomo, aturan, dan grup proxy. | Gratis | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
+| **Karing** | Proxy multiprotokol yang mendukung aturan perutean Clash / sing-box. | Gratis | [Proyek resmi dan unduhan](https://github.com/KaringX/karing) |
+| **Throne** | Pengelolaan node dan perutean di desktop berbasis sing-box. | Gratis | [Proyek resmi dan unduhan](https://github.com/throneproj/Throne) |
+
+<a id="clients-android"></a>
+
+### Android
+
+| Aplikasi klien | Fitur / format konfigurasi | Jenis biaya | Unduhan resmi |
+| --- | --- | --- | --- |
+| **v2rayNG** | Tautan berbagi node dan langganan V2Ray yang umum digunakan. | Gratis | [GitHub Releases](https://github.com/2dust/v2rayNG/releases) |
+| **FlClash** | Konfigurasi Clash / Mihomo, aturan, dan grup proxy. | Gratis | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
+| **Hiddify** | Mengelola langganan dan konfigurasi yang didukung di berbagai platform. | Gratis | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
+| **Karing** | Proxy multiprotokol yang mendukung aturan perutean Clash / sing-box. | Gratis | [Proyek resmi dan unduhan](https://github.com/KaringX/karing) |
+| **Clash Meta for Android** | Konfigurasi Clash / Mihomo, aturan, dan grup proxy. | Gratis | [GitHub Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest) |
+| **sing-box for Android** | Konfigurasi sing-box JSON lokal atau jarak jauh; harus sesuai dengan versi inti. | Gratis | [Panduan unduhan resmi](https://sing-box.sagernet.org/clients/android/) |
+| **Surfboard** | Format konfigurasi Surge; beberapa fitur tidak kompatibel. | Mengacu pada keterangan resmi | [GitHub Releases](https://github.com/getsurfboard/surfboard/releases/latest) |
+| **NekoBox for Android** | Aplikasi klien multiprotokol berbasis sing-box; alternatif untuk pengguna tingkat lanjut, dengan pemeliharaan terbatas. | Gratis | [GitHub Releases](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) |
+
+Proyek NekoBox telah menyatakan secara resmi bahwa pemeliharaannya terbatas dan tidak menerima permintaan fitur baru. Proyek ini juga memperingatkan bahwa versi dengan nama yang sama di Google Play kini dikendalikan pihak ketiga; gunakan hanya tautan GitHub di atas.
+
+<a id="clients-ios"></a>
+
+### iOS / iPadOS
+
+| Aplikasi klien | Fitur / format konfigurasi | Jenis biaya | Unduhan resmi |
+| --- | --- | --- | --- |
+| **Shadowrocket** | Pengelolaan node dan proxy berbasis aturan. | Berbayar | [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118) |
+| **Stash** | Konfigurasi Clash yang didukung dan perutean berbasis aturan. | Berbayar | [App Store](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
+| **sing-box for Apple platforms** | Konfigurasi sing-box JSON lokal atau jarak jauh; harus sesuai dengan versi inti. | Gratis | [Panduan unduhan resmi](https://sing-box.sagernet.org/clients/apple/) |
+| **Karing** | Proxy multiprotokol yang mendukung aturan perutean Clash / sing-box. | Gratis | [App Store](https://apps.apple.com/us/app/karing/id6472431552) |
+| **Quantumult X** | Perutean berbasis aturan dan penelusuran kesalahan jaringan, menggunakan format konfigurasi sendiri. | Berbayar | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
+| **Surge** | Proxy berbasis aturan dan penelusuran kesalahan jaringan, menggunakan format konfigurasi Surge. | Unduh gratis; buka fitur Pro, dengan langganan pembaruan opsional | [App Store](https://apps.apple.com/us/app/surge-5/id1442620678) |
+| **Loon** | Pengelolaan node, perutean berbasis aturan, dan penelusuran kesalahan jaringan, menggunakan format konfigurasi sendiri. | Berbayar | [App Store](https://apps.apple.com/us/app/loon/id1373567447) |
+| **Egern** | Perutean berbasis aturan dan penelusuran kesalahan jaringan. | Unduh gratis; Pro melalui pembelian dalam aplikasi | [App Store](https://apps.apple.com/us/app/egern/id1616105820) |
+| **Streisand** | Pengelolaan node dan langganan dengan dukungan berbagai protokol proxy. | Gratis | [App Store](https://apps.apple.com/us/app/streisand/id6450534064) |
+| **Potatso** | Konfigurasi proxy dan perutean berbasis aturan. | Gratis; Pro melalui pembelian dalam aplikasi | [App Store](https://apps.apple.com/us/app/potatso/id1239860606) |
+
+<a id="router-plugins"></a>
+
+### Plugin Router
+
+Plugin berikut ditujukan untuk firmware router yang mendukung komponen terkait. Sebelum menginstal, periksa versi firmware, arsitektur CPU, dependensi, dan format langganan. Paket instalasi untuk desktop atau ponsel tidak dapat langsung digunakan.
+
+| Plugin | Lingkungan / format konfigurasi | Jenis biaya | Proyek resmi |
+| --- | --- | --- | --- |
+| **OpenClash** | OpenWrt; konfigurasi Clash / Mihomo YAML. Langganan V2Ray biasa umumnya perlu dikonversi terlebih dahulu ke format yang didukung. | Gratis dan sumber terbuka | [GitHub](https://github.com/vernesong/OpenClash) |
+| **PassWall2 / PassWall** | OpenWrt; proxy multiprotokol. Komponen yang diperlukan bergantung pada firmware, arsitektur CPU, dan inti yang dipilih. | Gratis dan sumber terbuka | [PassWall2](https://github.com/Openwrt-Passwall/openwrt-passwall2) · [PassWall](https://github.com/Openwrt-Passwall/openwrt-passwall) |
+| **Nikki** | Berbasis Mihomo; memerlukan OpenWrt ≥ 24.10, Linux ≥ 5.13, dan penggunaan firewall4. | Gratis dan sumber terbuka | [GitHub](https://github.com/nikkinikki-org/OpenWrt-nikki) |
+| **HomeProxy** | Berbasis sing-box; ditujukan untuk perangkat ARM64 / AMD64 dengan ImmortalWrt. | Gratis dan sumber terbuka | [GitHub](https://github.com/immortalwrt/homeproxy) |
+
+<a id="subscription-formats"></a>
+
+### Format Langganan dan Kompatibilitas
+
+| Jenis konfigurasi | Panduan penggunaan |
+| --- | --- |
+| **Tautan node / langganan V2Ray yang umum digunakan** | Biasanya berupa daftar tautan node, yang mungkin juga seluruhnya dikodekan dalam Base64; aplikasi klien harus mendukung protokol terkait. |
+| **Clash / Mihomo YAML** | Dapat memuat node, grup proxy, dan aturan; dukungan untuk bidang ekstensi dapat berbeda antar inti. |
+| **sing-box JSON** | Harus sesuai dengan versi inti sing-box yang digunakan aplikasi klien. |
+| **Konfigurasi khusus Surge / Quantumult X / Loon dan lainnya** | Masing-masing memiliki spesifikasi konfigurasi sendiri; kemiripan sebagian sintaks tidak menjamin kompatibilitas penuh. |
+
+Format yang berbeda tidak dapat langsung saling menggantikan. Konversi dapat menghilangkan aturan, DNS, grup proxy, atau parameter protokol. Sebelum mengimpor, periksa aplikasi klien tujuan dan versi intinya; aplikasi seperti Stash juga tidak menjamin dukungan untuk semua ekstensi Mihomo.
+
+Jika perlu melakukan konversi, Anda dapat menggunakan [alat konversi langganan](https://acl4ssr-sub.github.io). Langganan yang memuat kredensial pribadi hanya boleh diproses oleh layanan tepercaya.
+
+### Langkah Penggunaan
+
+1. Unduh aplikasi klien yang sesuai dengan sistem operasi dan arsitektur CPU dari sumber resmi.
+2. Gunakan node bawaan aplikasi klien, atau impor langganan dan konfigurasi yang didukung, lalu perbarui daftar node.
+3. Pilih node dan uji latensinya, lalu periksa akses sebenarnya setelah terhubung.
+
+### Pembaruan Langganan dan Pemecahan Masalah Koneksi
+
+- **Memperbarui langganan:** Perbarui langganan di aplikasi klien untuk mendapatkan daftar node terbaru; pembaruan yang berhasil tidak berarti node saat ini dapat digunakan.
+- **Tidak dapat mengimpor:** Periksa apakah alamat langganan sudah lengkap. Jika pengambilan data gagal, periksa jaringan dan pesan kesalahan; jika penguraian data gagal, periksa format langganan dan versi inti aplikasi klien.
+- **Tidak dapat terhubung:** Perbarui langganan dan coba node lain terlebih dahulu, lalu periksa mode proxy atau VPN berdasarkan pesan kesalahan aplikasi klien.
+
+Hasil latensi hanya mencerminkan pengujian ini, bukan menunjukkan keamanan node atau menjamin bahwa semua layanan dapat diakses.
