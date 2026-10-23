@@ -1,0 +1,245 @@
+# Free-servers · 免费节点与客户端指南
+
+免费节点、订阅入口与跨平台客户端使用说明。
+
+
+<div align="center">
+
+**Languages:**
+
+[![Chinese](https://img.shields.io/badge/Language-Chinese-red?style=for-the-badge)](README.md)
+[![English](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](static/README-en.md)
+[![Arabic](https://img.shields.io/badge/Language-Arabic-red?style=for-the-badge)](static/README-ar.md)
+[![German](https://img.shields.io/badge/Language-German-red?style=for-the-badge)](static/README-de.md)
+[![Vietnamese](https://img.shields.io/badge/Language-Vietnamese-red?style=for-the-badge)](static/README-vi.md)
+[![Indonesian](https://img.shields.io/badge/Language-Indonesian-red?style=for-the-badge)](static/README-id.md)
+[![Urdu](https://img.shields.io/badge/Language-Urdu-red?style=for-the-badge)](static/README-ur-PK.md)
+[![Portuguese](https://img.shields.io/badge/Language-Portuguese-red?style=for-the-badge)](static/README-pt-BR.md)
+[![Spanish](https://img.shields.io/badge/Language-Spanish-red?style=for-the-badge)](static/README-es.md)
+[![Russian](https://img.shields.io/badge/Language-Russian-red?style=for-the-badge)](static/README-ru.md)
+[![Polish](https://img.shields.io/badge/Language-Polish-red?style=for-the-badge)](static/README-pl.md)
+[![Korean](https://img.shields.io/badge/Language-Korean-red?style=for-the-badge)](static/README-ko-KR.md)
+[![French](https://img.shields.io/badge/Language-French-red?style=for-the-badge)](static/README-fr.md)
+[![Japanese](https://img.shields.io/badge/Language-Japanese-red?style=for-the-badge)](static/README-ja.md)
+[![Hindi](https://img.shields.io/badge/Language-Hindi-red?style=for-the-badge)](static/README-hi.md)
+[![Bangla](https://img.shields.io/badge/Language-Bangla-red?style=for-the-badge)](static/README-bn.md)
+
+</div>
+
+## Shadowrockets
+
+[Shadowrockets](https://shadowrockets.app) 提供 **Android、Windows、macOS 和 Linux** 客户端，内置免费节点，支持一键连接、延迟测试，并提供可选会员。具体功能与会员权益因平台、版本而异。
+
+| 平台 | 安装包选择 |
+| --- | --- |
+| Android | 按设备架构选择 APK，也可通过 Google Play 安装。 |
+| Windows | x64、ARM64。 |
+| macOS | Intel 使用 x64；Apple Silicon 使用 ARM64。 |
+| Linux | x64、ARM64，提供 deb 和便携包。 |
+
+**下载：** [官网下载](https://shadowrockets.app/download/) · [Google Play](https://play.google.com/store/apps/details?id=com.v2cross.proxy)
+
+Android 项目与版本：[GitHub](https://github.com/Pawdroid/shadowrocket_for_android) · [Releases](https://github.com/Pawdroid/shadowrocket_for_android/releases)；安装及版本说明见[更新日志](https://shadowrockets.app/changelog/)。
+
+<h2>点击加入 Telegram 电报交流群：</h2>
+<blockquote>
+<p style="text-align: center;"><a href="https://t.me/shadowrocket_android">https://t.me/shadowrocket_android</a></p>
+</blockquote>
+
+<h2>免费节点与订阅</h2>
+<blockquote>
+<p style="text-align: center;">优质节点每天实时测速更新，6小时更新一次</p>
+</blockquote>
+<p>免费节点可能因地区、运营商或节点状态而超时、失效。</p>
+<blockquote>
+<p style="text-align: center;">吃饭->睡觉->测节点。</p>
+</blockquote>
+<h3>节点列表</h3>
+<p>此处最多展示20个节点。</p>
+
+
+```
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.140.29.253:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#%E7%BE%8E%E5%9B%BD+Xerox
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@128.1.186.61:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome#%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%B7%9E%E6%B4%9B%E6%9D%89%E7%9F%B6+Zenlayer
+trojan://humanity@104.19.229.21:443?path=%2F%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.17.3.81:443?security=tls&type=ws&path=%2Ffdip%23TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&alpn=http%2F1.1&sni=snip.edgeoneai.cc.cd&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@62.133.60.134:8443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.4.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime59.workers.dev&packetEncoding=xudp&encryption=none#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:55688?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bilibili-vn.biliimg.com&fp=chrome&pbk=KeV1nArisy7FO5DjqTSmn0hBnlNd38rzhbIMMpe-MBw&sid=a46bb5972cf50671&type=tcp&headerType=none#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@203.88.117.227:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A+V2CROSS.COM
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.20.6.134:443?sni=snip.edgeoneai.cc.cd&alpn=h3%2Ch2&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.240.213.98:2053?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.17.139.37:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://0afc6426-606c-48e7-bd70-3c424a416842@us22.sofast.live:58011?encryption=none&type=tcp#%E5%8C%97%E4%BA%AC%E5%B8%82+%E8%81%9A%E9%BE%99%E6%97%A0%E9%99%90%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&security=reality&sid=28f5c1f8f98a&sni=www.lamer.com.sg&type=tcp#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.159.128.253:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.17.134.88:443?security=tls&type=ws&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.71.230.237:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&alpn=h3%2Ch2&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
+vless://c6cfcc53-9271-4ef7-88c5-5141621c8db1@31.59.216.141:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=193.23.216.239.cdn-one.org&fp=chrome&pbk=7zsU1U-30jh-qqfmqZukMfoqHB75ksKFA5aQFi8LGW4&sid=70b4ca&type=tcp&headerType=none#%E4%BC%8A%E6%9C%97+V2CROSS.COM
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
+```
+
+
+
+### 订阅地址
+
+将以下地址复制到支持相应订阅格式的客户端，或扫描二维码导入。
+
+<p><a href="https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub">https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</a></p>
+
+<img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub.png' width=250 height=250 alt='订阅地址二维码'>
+
+## 其他产品与下载入口
+
+### ShadowShare
+
+共享节点与订阅工具，提供 Android、iOS 下载入口。
+
+[官方网站](https://shadowsharing.com) · [iOS App Store](https://apps.apple.com/cn/app/shadowshare/id1612647259)
+
+### Pawdoll
+
+VPN 客户端，产品说明与下载见[官方网站](https://pawdollvpn.com)。
+
+### Surflare
+
+Surflare 提供 VPN 与代理服务：
+
+- 提供 Windows、macOS、Linux、Android 和 iOS 客户端。
+- VPN 应用支持智能分流、多跳 VPN。
+- 代理服务支持 SOCKS5 与 HTTP，可用于支持相应代理配置的软件。
+
+**优惠码：`pawdroid`。** 实际优惠及适用套餐以结算页面为准。
+
+[官方网站](https://www.surflare.com/)
+
+## 其他客户端
+
+以下客户端适合导入自有节点或订阅，可按设备平台和配置格式选择。费用栏仅指客户端本身，不包含节点或订阅服务；收费方式、系统要求及地区可用性以官方页面为准。
+
+[Windows](#clients-windows) · [macOS](#clients-macos) · [Linux](#clients-linux) · [Android](#clients-android) · [iOS / iPadOS](#clients-ios) · [路由器插件](#router-plugins) · [订阅格式](#subscription-formats)
+
+<a id="clients-windows"></a>
+
+### Windows
+
+| 客户端 | 特点 / 配置格式 | 费用类型 | 官方下载 |
+| --- | --- | --- | --- |
+| **v2rayN** | 节点分享链接与常见 V2Ray 订阅。 | 免费 | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
+| **Clash Verge Rev** | Clash / Mihomo YAML 配置、规则与代理组。 | 免费 | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
+| **Hiddify** | 跨平台管理受支持的订阅与配置。 | 免费 | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
+| **Clash Party** | 原 Mihomo Party；基于 Mihomo 的规则代理客户端。 | 免费 | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
+| **FlClash** | Clash / Mihomo 配置、规则与代理组。 | 免费 | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
+| **Karing** | 多协议代理，支持 Clash / sing-box 路由规则。 | 免费 | [官方项目与下载](https://github.com/KaringX/karing) |
+| **Throne** | 基于 sing-box 的桌面节点与路由管理。 | 免费 | [官方项目与下载](https://github.com/throneproj/Throne) |
+
+<a id="clients-macos"></a>
+
+### macOS
+
+| 客户端 | 特点 / 配置格式 | 费用类型 | 官方下载 |
+| --- | --- | --- | --- |
+| **v2rayN** | 节点分享链接与常见 V2Ray 订阅。 | 免费 | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
+| **Clash Verge Rev** | Clash / Mihomo YAML 配置、规则与代理组。 | 免费 | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
+| **Hiddify** | 跨平台管理受支持的订阅与配置。 | 免费 | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
+| **Clash Party** | 原 Mihomo Party；基于 Mihomo 的规则代理客户端。 | 免费 | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
+| **FlClash** | Clash / Mihomo 配置、规则与代理组。 | 免费 | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
+| **Karing** | 多协议代理，支持 Clash / sing-box 路由规则。 | 免费 | [官方项目与下载](https://github.com/KaringX/karing) |
+| **Throne** | 基于 sing-box 的桌面节点与路由管理。 | 免费 | [官方项目与下载](https://github.com/throneproj/Throne) |
+| **Surge Mac** | 规则代理与网络调试，使用 Surge 配置格式。 | 付费；Mac 与 iOS 独立授权 | [官方网站](https://nssurge.com/) |
+| **Quantumult X** | 规则分流与网络调试，使用自身配置格式。 | 付费 | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
+| **sing-box for Apple platforms** | 本地或远程 sing-box JSON 配置，需匹配核心版本。 | 免费 | [官方下载说明](https://sing-box.sagernet.org/clients/apple/) |
+
+下载时请核对 Intel / Apple Silicon 架构及 macOS 系统要求。Surge Mac 与 iOS 版分别授权。
+
+<a id="clients-linux"></a>
+
+### Linux
+
+| 客户端 | 特点 / 配置格式 | 费用类型 | 官方下载 |
+| --- | --- | --- | --- |
+| **v2rayN** | 节点分享链接与常见 V2Ray 订阅。 | 免费 | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
+| **Clash Verge Rev** | Clash / Mihomo YAML 配置、规则与代理组。 | 免费 | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
+| **Hiddify** | 跨平台管理受支持的订阅与配置。 | 免费 | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
+| **Clash Party** | 原 Mihomo Party；基于 Mihomo 的规则代理客户端。 | 免费 | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
+| **FlClash** | Clash / Mihomo 配置、规则与代理组。 | 免费 | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
+| **Karing** | 多协议代理，支持 Clash / sing-box 路由规则。 | 免费 | [官方项目与下载](https://github.com/KaringX/karing) |
+| **Throne** | 基于 sing-box 的桌面节点与路由管理。 | 免费 | [官方项目与下载](https://github.com/throneproj/Throne) |
+
+<a id="clients-android"></a>
+
+### Android
+
+| 客户端 | 特点 / 配置格式 | 费用类型 | 官方下载 |
+| --- | --- | --- | --- |
+| **v2rayNG** | 节点分享链接与常见 V2Ray 订阅。 | 免费 | [GitHub Releases](https://github.com/2dust/v2rayNG/releases) |
+| **FlClash** | Clash / Mihomo 配置、规则与代理组。 | 免费 | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
+| **Hiddify** | 跨平台管理受支持的订阅与配置。 | 免费 | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
+| **Karing** | 多协议代理，支持 Clash / sing-box 路由规则。 | 免费 | [官方项目与下载](https://github.com/KaringX/karing) |
+| **Clash Meta for Android** | Clash / Mihomo 配置、规则与代理组。 | 免费 | [GitHub Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest) |
+| **sing-box for Android** | 本地或远程 sing-box JSON 配置，需匹配核心版本。 | 免费 | [官方下载说明](https://sing-box.sagernet.org/clients/android/) |
+| **Surfboard** | Surge 配置格式，部分功能不兼容。 | 以官方说明为准 | [GitHub Releases](https://github.com/getsurfboard/surfboard/releases/latest) |
+| **NekoBox for Android** | 基于 sing-box 的多协议客户端；进阶备选，较少维护。 | 免费 | [GitHub Releases](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) |
+
+NekoBox 官方已说明较少维护、不接受新功能请求，并提示 Google Play 同名版本已由第三方控制；请使用上方 GitHub 入口。
+
+<a id="clients-ios"></a>
+
+### iOS / iPadOS
+
+| 客户端 | 特点 / 配置格式 | 费用类型 | 官方下载 |
+| --- | --- | --- | --- |
+| **Shadowrocket** | 节点管理与规则代理。 | 付费 | [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118) |
+| **Stash** | 受支持的 Clash 配置与规则分流。 | 付费 | [App Store](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
+| **sing-box for Apple platforms** | 本地或远程 sing-box JSON 配置，需匹配核心版本。 | 免费 | [官方下载说明](https://sing-box.sagernet.org/clients/apple/) |
+| **Karing** | 多协议代理，支持 Clash / sing-box 路由规则。 | 免费 | [App Store](https://apps.apple.com/us/app/karing/id6472431552) |
+| **Quantumult X** | 规则分流与网络调试，使用自身配置格式。 | 付费 | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
+| **Surge** | 规则代理与网络调试，使用 Surge 配置格式。 | 免费下载；Pro 解锁，另有可选更新订阅 | [App Store](https://apps.apple.com/us/app/surge-5/id1442620678) |
+| **Loon** | 节点管理、规则分流与网络调试，使用自身配置格式。 | 付费 | [App Store](https://apps.apple.com/us/app/loon/id1373567447) |
+| **Egern** | 规则分流与网络调试。 | 免费下载；Pro 内购 | [App Store](https://apps.apple.com/us/app/egern/id1616105820) |
+| **Streisand** | 节点与订阅管理，支持多种代理协议。 | 免费 | [App Store](https://apps.apple.com/us/app/streisand/id6450534064) |
+| **Potatso** | 代理配置与规则分流。 | 免费；Pro 内购 | [App Store](https://apps.apple.com/us/app/potatso/id1239860606) |
+
+<a id="router-plugins"></a>
+
+### 路由器插件
+
+以下插件面向支持相应组件的路由器固件。安装前请核对固件版本、CPU 架构、依赖组件和订阅格式，不能直接套用桌面或手机端的安装包。
+
+| 插件 | 适用环境 / 配置格式 | 费用类型 | 官方项目 |
+| --- | --- | --- | --- |
+| **OpenClash** | OpenWrt；Clash / Mihomo YAML 配置。普通 V2Ray 订阅通常需先转换为受支持的格式。 | 免费开源 | [GitHub](https://github.com/vernesong/OpenClash) |
+| **PassWall2 / PassWall** | OpenWrt；多协议代理，所需组件随固件、CPU 架构及选用核心而异。 | 免费开源 | [PassWall2](https://github.com/Openwrt-Passwall/openwrt-passwall2) · [PassWall](https://github.com/Openwrt-Passwall/openwrt-passwall) |
+| **Nikki** | 基于 Mihomo；要求 OpenWrt ≥ 24.10、Linux ≥ 5.13，并使用 firewall4。 | 免费开源 | [GitHub](https://github.com/nikkinikki-org/OpenWrt-nikki) |
+| **HomeProxy** | 基于 sing-box；面向 ImmortalWrt 的 ARM64 / AMD64 设备。 | 免费开源 | [GitHub](https://github.com/immortalwrt/homeproxy) |
+
+<a id="subscription-formats"></a>
+
+### 订阅格式与兼容性
+
+| 配置类型 | 使用说明 |
+| --- | --- |
+| **节点链接 / 常见 V2Ray 订阅** | 通常为节点链接列表，也可能整体采用 Base64 编码；客户端需支持相应协议。 |
+| **Clash / Mihomo YAML** | 可包含节点、代理组和规则；不同内核对扩展字段的支持可能不同。 |
+| **sing-box JSON** | 需匹配客户端使用的 sing-box 核心版本。 |
+| **Surge / Quantumult X / Loon 等专用配置** | 各自有配置规范；即使部分语法相近，也不能保证完整兼容。 |
+
+不同格式不能直接互换。转换可能丢失规则、DNS、代理组或协议参数，导入前应核对目标客户端及其核心版本；Stash 等客户端也不保证支持全部 Mihomo 扩展。
+
+需要转换时，可使用[订阅转换工具](https://acl4ssr-sub.github.io)。包含私人凭据的订阅，仅应交由可信服务处理。
+
+### 使用流程
+
+1. 从官方入口下载与系统、CPU 架构匹配的客户端。
+2. 使用客户端提供的内置节点，或导入受支持的订阅、配置并更新节点列表。
+3. 选择节点并测试延迟，连接后检查实际访问情况。
+
+### 订阅更新与连接排查
+
+- **更新订阅：** 在客户端中更新订阅，获取最新节点列表；更新成功不代表节点当前可用。
+- **无法导入：** 检查订阅地址是否完整。获取失败时检查网络和错误提示；解析失败时核对订阅格式与客户端核心版本。
+- **无法连接：** 先更新订阅并尝试其他节点，再根据客户端错误提示检查代理或 VPN 模式。
+
+延迟结果只反映此次测试，不代表节点安全，也不保证所有服务均可访问。
