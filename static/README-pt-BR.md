@@ -59,26 +59,26 @@ Projeto e versões para Android: [GitHub](https://github.com/Pawdroid/shadowrock
 
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080#Reino+Unido
-trojan://Telegram_healer_config@172.67.191.121:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FV2VWNDZAAEIdXVjOCkLfJnefnR5Pum%3Fed%3D2560&security=tls&sni=47hr9Isj-655383SND63hjaP38q6t.K-f3VpqALtfSxbtAXe.WORKerS.dev&type=ws#EUA
-vless://814bd064-544d-4255-a070-5705c03f6da9@103.106.229.190:13898?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#Mal%C3%A1sia
-vmess://eyJhZGQiOiAiMTQ5Ljg4LjIzLjIwMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgIm5ldCI6ICJyYXciLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxODAwMCIsICJwcyI6ICJTaW5nYXB1cmEiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://b406bc51-9002-474c-beae-b194b02c91da@144.31.131.241:8443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mold.speedload.online&sid=a20d3ed244c76426#EUA
-vless://401d950d-4f5c-45c7-bf44-8b69acf35f6f@188.114.97.3:2053?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=7x70yyvt7eqotx-iq9n3rjt1xn1jwkh9.asdfsafdsaf.workers.dev&path=%2FeyJqdW5rIjoidTBROThObHpLVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=7X70yYvt7EqotX-iq9N3RJt1Xn1JWKH9.ASdfSafDSAf.wOrkERs.dev&type=ws#Holanda
-vless://50414e45-4c5f-5a45-5553-ef859652a80e@172.67.175.23:443?security=tls&type=ws&path=/stream/TrexBridge/ef859652a80e&host=trex-panel-nubj0s.samifakor.workers.dev&packetEncoding=xudp&sni=trex-panel-nubj0s.samifakor.workers.dev&fp=chrome&encryption=none#EUA
-vless://fb520c26-b22f-49ac-8959-81a5502c446c@51.15.18.50:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=3840d3efd67048f7&pbk=Plah4QAGKliwFHIcc8vQWHHLjEGQ7YFALFAwKKwzAwo&encryption=none#Fran%C3%A7a
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.75.199.30:8880?security=none&type=ws&path=/&host=vms.lifetime59.workers.dev&packetEncoding=none#Reino+Unido
-vless://a0942d92-28c9-4ff2-bc9f-0d79577b858f@107.175.93.213:32866/?type=tcp&encryption=none&flow=&sni=intel.com&fp=chrome&security=reality&pbk=_i7HLtmv04hzaUP64qqUuBnsRuwQM7zPz3Dz5Lxn_lI&sid=a9a4ca225bca8dfe#Canad%C3%A1
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#Fran%C3%A7a
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#Reino+Unido
-trojan://Telegram_healer_config@188.114.96.3:443?path=%2Ftr%2FN61UxT346epoPVmA9xFM6H00%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6M1RGYiecLMrX9HEf1.z6-0hLNuBjIBWzPa85.wOrkers.DEv#Holanda
-vless://af19ce98-b58b-43ef-9f0d-2ae6343e28fe@104.21.5.75:2096?security=tls&type=ws&path=/eyJqdW5rIjoiS2FGSWxzNmpiUSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ==?ed=2560&host=blue-disk-1124.sawmansafi.workers.dev&packetEncoding=xudp&sni=blue-disk-1124.sawmansafi.workers.dev&fp=chrome&encryption=none#
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.242.1:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&sni=eu-central.cendora.ru#EUA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ==@102.129.229.85:31700#Tail%C3%A2ndia
-vless://d028eaf5-c5ef-49a0-85c6-4f4816af8053@173.245.49.114:2086?security=none&type=ws&path=/eyJqdW5rIjoiZUJZR2pXVFByVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwOS4xMjAuMTU4LjE0OSJdfQ==&host=misty-bread-fd96.salehinezhadali.workers.dev&packetEncoding=xudp#Fran%C3%A7a
-vless://e58affc8-c3cd-4034-ada3-f0d05460908a@188.114.97.0:2053?security=tls&type=ws&path=/vl/6WH1eyAn5WtJv9JQFgH7dpYeWBj0rzV?ed=2560&host=cdrj8-s4040wxye-81i70v-p.pages.dev&packetEncoding=xudp&alpn=http/1.1&sni=CDRJ8-s4040wxYE-81i70V-p.PaGES.dEV&fp=chrome&encryption=none#Holanda
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#EUA
-trojan://humanity@104.16.174.117:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
+vless://30235bbe-f791-4e53-89f9-5d9363af9b0a@free77-sg3.node2.top:443?security=tls&type=ws&path=/XFJVPNfp=chrome&host=sie704.pages.dev&packetEncoding=xudp&sni=sie704.pages.dev&fp=chrome#EUA
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.225:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Espanha
+vless://d9e4721d-cdac-44c7-bc91-117367eac194@216.152.147.28:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=b9f8d3f8&pbk=kjiuPmjM4IutdZudHfcPZHEwcrBEFY4qBLlvfC6A_Ss#EUA
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443?insecure=1&security=tls&sni=3.149.228.246#EUA
+trojan://humanity@193.239.160.134:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#Su%C3%AD%C3%A7a
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#EUA
+vless://32349ee8-8551-45fa-a265-8704cec72936@neth.lckdwn.ru:8443?security=tls&type=tcp&packetEncoding=xudp&alpn=h2,http/1.1&sni=neth.lckdwn.ru&fp=edge#Alemanha
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@95.40.120.162:8316#Pol%C3%B4nia
+hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.81:8443?insecure=1&security=tls&sni=hopp-legend-se.roxa.org#Hong+Kong
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:443?security=reality&type=raw&packetEncoding=xudp&sni=www.wikihow.com&fp=firefox&flow=xtls-rprx-vision&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U#Ch%C3%A9quia
+vless://34b7efee-3c88-440f-9495-92c12a0de50e@51.89.194.151:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=5b83742cfc81b064&pbk=v0-nm8GGINN0mEHP5kgcgWrl_TFDcr2ZS8yLLW8c93M#Reino+Unido
+vless://d7d8af23-36cd-4c66-a42a-4469c177210f@104.21.234.13:2053?path=%2FeyJqdW5rIjoiMXZFdnZOdVFvSkNWIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTg2LjIxOS44MiJdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fancy-rain-136e.thisisalee.workers.dev&fp=random&type=ws&allowInsecure=0&sni=faNCy-raIn-136E.tHiSiSAleE.worKeRS.Dev#
+vless://0aab6adc-104c-4339-8d25-09755ffe2cbd@liang92.dpdns.org:443?security=tls&type=ws&path=/&host=liang92.dpdns.org&packetEncoding=xudp&sni=liang92.dpdns.org&fp=chrome#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:443#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#Noruega
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.75.50:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime08.workers.dev&packetEncoding=xudp#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#Reino+Unido
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?encryption=none&security=&type=ws#Holanda
+trojan://Telegram_healer_config@to6r63-kkchighqm2.vxz0dduq7to7su0cdqf.workers.dev:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FxwtrOUcg21SS0Ega%3Fed%3D2560&security=tls&sni=To6R63-kKChiGHqm2.vxz0Dduq7to7Su0CDQf.worKERs.DEV&type=ws#EUA
 ```
 
 

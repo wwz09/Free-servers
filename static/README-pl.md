@@ -59,26 +59,26 @@ Projekt i wydania dla systemu Android: [GitHub](https://github.com/Pawdroid/shad
 
 
 ```
-trojan://humanity@45.130.125.112:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#Seychelles
-vless://47388561-cf0c-4cfc-91f8-fdfd9fa3d756@150.40.117.221:8443?security=reality&encryption=none&pbk=B5F8h8tpeZ-1ydiT0uFgdc30jJyw8H89Y8e-p_VV6yw&headerType=none&fp=chrome&spx=/HesarWeb&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=7b#Japan
-vless://33aa2b47-484b-49f6-8f23-fb34602d221f@188.127.247.129:443?security=reality&type=raw&packetEncoding=xudp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=0c&pbk=Kb0rDCu2kKhfnC6bsi0DMRxDej9S-Mu1vVza1H1l4U4#Russia
-trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
-vless://48919b51-1cfe-4077-b46f-0a8751374461@23.251.47.193:30011?security=tls&type=ws&path=/@Marisa_kristi&host=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&packetEncoding=xudp&sni=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&fp=chrome&encryption=none#United+States
-trojan://Telegram_healer_config@www.speedtest.net:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FmPZ7O1CUbIBPGNPZQ2HeV%3Fed%3D2560&security=tls&sni=TO6R63-KKChIGHQM2.VxZ0DDUq7tO7su0cDqF.WoRKeRs.DeV&type=ws#
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-006.fastervpn.world:443?insecure=1&security=tls&sni=vpn-us-006.fastervpn.world#United+States
-vless://20d7c485-5d24-49b5-a5cc-bb7a7daf9908@193.148.59.178:443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=%2DGMpCber8qtrKzJbwvpLcwlIhOy-5zS66u_x9lLvIjE&security=reality&sid=e3daad69&sni=www.apple.com&type=tcp#Singapore
-vless://878dd962-027b-4bd3-a1f8-66be68a03c4d@deepl.com:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=young-wind-3c58.240-2ce.workers.dev&packetEncoding=xudp&encryption=none#
-hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@olp.crsmaps.com:443?insecure=1&security=tls&sni=olp.crsmaps.com#Brazil
-vless://3b4274c1-4744-452e-9903-e11ccc0c9900@201.24.49.79:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#Brazil
-vless://bba14c1d-f08c-4c9a-ac87-cf85d38d8aff@188.114.97.3:2086?security=none&type=ws&path=/eyJqdW5rIjoiSzhjREpaaGVoVXpCN2NvNiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ&host=tight-thunder-ce8e.hamid-r-aliakbari1379-0f0.workers.dev&packetEncoding=xudp&encryption=none#The+Netherlands
-vless://d23cb516-40db-4aa4-8142-6b45ff882f90@94.183.209.59:443?encryption=none&security=&type=ws#Iran
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.137:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
-vless://a04814d9-d006-4e7b-ae20-8ab304b3b429@151.242.17.99:8443/?type=grpc&encryption=none&flow=&sni=de.emvservice.com&fp=chrome&security=reality&pbk=6Yskxg5U0WxPGtuCAAGH9uD57T4U8LeGrErTBNvIrwM&sid=bc#Iran
-hysteria2://P6qkAwznuC076mbIR2cGPg==@43.156.90.144:34567?insecure=1&security=tls&sni=43.156.90.144#Singapore
-vless://78b9ac78-ebdf-4e51-8114-f6b0cd6d2169@server15.peekconf1-741.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoiOUZIcXVMV3FlbnoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OjExOjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==?ed=2560&host=server15.peekconf1-741.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=sErVER15.PEeKCOnF1-741.wOrkErs.Dev&fp=chrome&encryption=none#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#The+Netherlands
-vless://1443b7a1-7ba9-4ec9-b904-2e867367b5d7@odd-violet-5440.asdgrweeee13.workers.dev:443?security=tls&type=ws&path=/sync&host=odd-violet-5440.asdgrweeee13.workers.dev&packetEncoding=xudp&sni=odd-violet-5440.asdgrweeee13.workers.dev&fp=chrome&encryption=none#
-trojan://Telegram_healer_config@188.114.96.7:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FJ6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr%3Fed%3D2560&security=tls&sni=BjSa2yGFITzjtHo8ucZe29xf2m2q9C.G3FIAJpF0Erm9k3x6WW-YeGzl2.workeRs.dEV&type=ws#The+Netherlands
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.158.218:2087?security=tls&type=ws&path=/&host=round-art-52ee.eadfgv.workers.dev&packetEncoding=xudp&sni=round-art-52ee.eadfgv.workers.dev&fp=chrome#
+vless://3bb6fd82-3a15-eaea-6168-4dac2b70079e@141.101.123.76:443?security=tls&type=ws&path=/sync&host=nahan-fog-af01.dfghttr2012.workers.dev&packetEncoding=xudp&sni=nahan-fog-af01.dfghttr2012.workers.dev&fp=chrome&encryption=none#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#United+Kingdom
+trojan://Telegram_healer_config@188.114.97.3:443?path=%2Ftr%2Fox5zBiRQjs2Rscy0XwxXY2ZzE%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6M1RGyIeClMRx9hef1.z6-0HlnubjIbWZpa85.wOrKerS.DEv#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.39:8080#United+Kingdom
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.229:443?security=reality&type=raw&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#United+States
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.133:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.73.137:443?flow=xtls-rprx-vision&sni=eu-central.cendora.ru&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&type=tcp&fp=chrome&encryption=none&headerType=none&security=reality&sid=00bca5982f82d083#Spain
+vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?security=none&type=ws&path=/vless/&packetEncoding=xudp&encryption=none#France
+vmess://eyJhZGQiOiAicnVzaC02aXQ2Yi50ZWVvcHAucXVlc3QiLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInJ1c2gtNml0NmIudGVlb3BwLnF1ZXN0IiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdmlkZW8va3o0OWhmL2diaW41anZlLm0zdTgiLCAicG9ydCI6IDQ0MywgInBzIjogIiIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJydXNoLTZpdDZiLnRlZW9wcC5xdWVzdCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:443?security=reality&encryption=none&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&headerType=none&fp=chrome&type=tcp&sni=www.amd.com&sid=5caa2ef81132c306#United+Kingdom
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2096?encryption=none&security=&type=ws#Germany
+hysteria2://V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8@player.wwwinternetvideo.click:443?insecure=1&security=tls&sni=player.wwwinternetvideo.click#United+States
+vless://93dac4b8-3879-4179-abdb-9666a9e2ca8d@deproxy2.lckdwn.ru:33843?security=tls&type=tcp&packetEncoding=xudp&alpn=h2,http/1.1&sni=deproxy2.lckdwn.ru&fp=edge#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.26:443#United+Kingdom
+hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.137:8443?security=tls&sni=grape-turbo-fr.roxa.org#The+Netherlands
+trojan://humanity@104.16.7.70:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
+vless://e56059f1-5a1a-4d0a-a2d0-58ecb4eb2f3f@172.66.47.45:443?security=tls&type=ws&path=/eyJqdW5rIjoiZWlPODVjTnhnaSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&host=ezaccess-project-f62c30.pages.dev&packetEncoding=xudp&alpn=http/1.1&sni=EZAcCESS-pROjECt-F62c30.PAGES.dEv&fp=chrome&encryption=none#United+States
+hysteria2://fe6262e0bf@srv-5e3ad1.21freedom.net:11592?security=tls&sni=srv-5e3ad1.21freedom.net#Germany
+vless://5659b42c-636f-4563-ac41-87d565d0dd1e@cf9.466688.xyz:8880?security=none&type=ws&path=/pyip=ProxyIP.JP.autumniussss.net&host=autumn-base-0eb9.116-d25.workers.dev&packetEncoding=xudp&encryption=none#
 ```
 
 
