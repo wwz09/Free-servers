@@ -59,26 +59,26 @@ Android پروجیکٹ اور ورژنز: [GitHub](https://github.com/Pawdroid/s
 
 
 ```
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.135:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
-vmess://eyJhZGQiOiAiMTY5LjE5Ny4xNDIuMjIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJuZXQiOiAicmF3IiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTgwMDAiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.164:443#United+Kingdom
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.40:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime28.workers.dev&packetEncoding=xudp#Romania
-vless://9fa6d846-5961-8e0e-ce27-77de00000000@104.21.50.18:443?security=tls&type=ws&path=/sync&host=fancy-wind-799d.cloudneryacc.workers.dev&packetEncoding=xudp&sni=fancy-wind-799d.cloudneryacc.workers.dev&fp=chrome&encryption=none#
-vless://0ab6b3f5-65f0-4a80-9672-6a311fab1187@77.239.126.62:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=es.ultraspeed.top&fp=chrome&security=reality&pbk=WdQ6Bx39POGXpoEpeUeROr1RKv3FtchyVeXwkOii7nc&sid=a19afc0b48abf9e8#United+Kingdom
-vless://a22bff60-a40a-4250-bde2-4c660e363b47@104.17.169.13:2053?path=/axch1mttbxz2k55y01&security=tls&encryption=none&insecure=0&host=inDeX.HaRMONiCA01.WORkers.DeV&type=ws&allowInsecure=0&sni=inDeX.HaRMONiCA01.WORkers.DeV#
-vless://756e8f39-04e8-436d-b5c6-905d37d9562c@188.114.96.3:2087?security=tls&type=ws&path=/eyJqdW5rIjoiR1BxUFhYR0w1TlBLMTRsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&host=ez-98919a.motoricb.workers.dev&packetEncoding=xudp&sni=ez-98919a.motoricb.workers.dev&fp=chrome&encryption=none#The+Netherlands
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.46.167.30:8880?security=&encryption=none&host=vms.lifetime50.workers.dev&type=ws#United+States
-vless://7c6a566b-4c4a-b8f2-1719-a3096b424141@peekconfigg.vipserver1-39d.workers.dev:443?encryption=none&security=tls&type=ws#United+States
-vmess://eyJhZGQiOiAiNjcuMjIwLjg1LjQ2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE4MDAwIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?security=reality&encryption=none&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=01d1bf2d4755d40c#United+States
-vless://7061b26c-0f6c-49b5-be42-af2c011c04bc@54.37.136.194:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=bdc1efeb01044e93&pbk=TtGgrgk1OLMjWBaomJ1JkUOvmtMx7sLJdvvN0bxmZF8#France
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@162.35.231.140:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&security=reality&sid=f63805c3ecc7a483&sni=savesafe.co&type=tcp#United+States
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80?security=none&type=ws&path=/http&host=de.vpnbase.net&packetEncoding=xudp#Seychelles
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#France
-vless://3aaabf99-32c6-4032-8695-c9f0eb28be6f@104.16.98.215:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=divine-sound-9e93.22-be2.workers.dev&packetEncoding=xudp#
-vless://8384341b-cd89-4a21-a022-cc4bd4e648ca@46.29.238.139:40443?security=reality&type=raw&packetEncoding=xudp&sni=deepl.com&fp=firefox&sid=68da&pbk=7i4Y7v80NVAIi_4_9roDkqcXmexIHli87dfZuFaQMUI#Norway
-hysteria2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.227:8443?insecure=1&security=tls&sni=hopp-legend-se.roxa.org#United+States
-vless://52322144-50c7-9d9f-6ba9-fdb600000003@104.24.212.81:443?security=tls&type=ws&path=/sync&host=broad-wind-e1ca.salmanmahigir9508.workers.dev&packetEncoding=xudp&sni=broad-wind-e1ca.salmanmahigir9508.workers.dev&fp=chrome&encryption=none#
+vmess://eyJhZGQiOiAibnljcWcxOXprd2FjcG0xYi52LjNkbnMudmlwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIk5ZY1FnMTl6a3dhQ1BNMUIudi4zZG5zLnZpcCIsICJpZCI6ICJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiSG9uZyBLb25nIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiTlljUWcxOXprd2FDUE0xQi52LjNkbnMudmlwIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+trojan://humanity@185.18.250.252:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#Switzerland
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#France
+vless://32349ee8-8551-45fa-a265-8704cec72936@neth.lckdwn.ru:8443?security=tls&type=tcp&packetEncoding=xudp&alpn=h2,http/1.1&sni=neth.lckdwn.ru&fp=edge#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI=@108.181.57.93:8388#United+States
+ss://YWVzLTI1Ni1nY206a1JLWkUzWmhFQ3dhd3kxTg==@94.72.127.55:80#Poland
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.59.30:8880?encryption=none&host=vms.lifetime58.workers.dev&path=%2F&security=none&type=ws#Cyprus
+vless://b6c29ae7-4748-4049-b642-b695c0d2c776@de-193-58.neobo-tooth.ru:2053?security=reality&type=raw&packetEncoding=xudp&sni=vk.ru&fp=firefox&flow=xtls-rprx-vision&sid=a6bbc4aecf5d961f&pbk=6RshLCSAs31qGRa_tWi63KClbh2Kzj9ooXpdaPJKbjs#United+States
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.27:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=chrome&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.49:8080#United+Kingdom
+vless://33918b20-9e02-4dc6-8b30-79b2d4b2e0e6@104.21.22.180:443?security=tls&type=ws&path=/eyJqdW5rIjoiUjJBU3JkVlRwSWtnciIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbImJwYi55b3VzZWYuaXNlZ2Fyby5jb20iXX0&host=aUto-scaLe-238B2B.inFra-coRE-1630dD.WorKerS.DeV&packetEncoding=xudp&alpn=http/1.1&sni=aUTo-sCALe-238B2B.infRa-CorE-1630dd.wORKerS.DEv&fp=chrome&encryption=none#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001286ek2.cybervena.com:50099#Taiwan
+vless://31aa0950-eb19-45ff-94a2-af416deb3b90@time.is:8443?path=/eyJqdW5rIjoiZm5INktPV0lGcHI1NjNSOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0?ed=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=square-salad-ebde.zdfgvccfguuyggg.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=SquarE-saLaD-EbDe.ZDFGVcCfgUUYgGG.wOrKeRS.DEV#
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.30:8880?security=none&type=ws&path=/&host=vms.lifetime28.workers.dev&packetEncoding=xudp#Romania
+vless://8892e34a-339b-4526-b88d-cf68c516231c@152.70.58.201:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.nvidia.com&fp=firefox&flow=xtls-rprx-vision&sid=52c723e0fad49689&pbk=Hg_ivwbClYmR-SEHdoGgq4yEk6ltbjS5c4yiQRa4_28&encryption=none#The+Netherlands
+vless://77a89d8d-9de3-cf40-bafb-e68f0000001a@cfip.1323123.xyz:443?security=tls&type=ws&path=/sync&host=ez-5b038e.ezaccess1c7f862.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=ez-5b038e.ezaccess1c7f862.workers.dev&fp=chrome&encryption=none#
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#Canada
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#United+States
+vless://19b64e79-73b4-4478-bbfc-fb57737b94f8@45.195.2.133:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=445ab326fc7c90ac&sni=storage.yandex.net&type=tcp#Italy
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.22:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
 ```
 
 
