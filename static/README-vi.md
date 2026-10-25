@@ -59,26 +59,26 @@ Dự án và các bản phát hành Android: [GitHub](https://github.com/Pawdroi
 
 
 ```
-vless://f2a73750-3087-48ff-a763-1348c15dce68@162.159.153.4:443?security=tls&type=ws&path=/&host=rAyAn-007.mAxImA.DpDnS.OrG&packetEncoding=xudp&sni=rAyAn-007.mAxImA.DpDnS.OrG&fp=chrome#
-vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?security=reality&type=raw&packetEncoding=xudp&sni=www.foxsports.com&fp=chrome&flow=xtls-rprx-vision&sid=91af08b1ce1f&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&encryption=none#United+Kingdom
-vmess://eyJhZGQiOiAicnVzaC10MnR2di5jZWVvcHAuc2l0ZSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJydXNoLXQydHZ2LmNlZW9wcC5zaXRlIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdmlkZW8va2U3MTZ6Lzd4MjE5aHp5Lm0zdTgiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICJydXNoLXQydHZ2LmNlZW9wcC5zaXRlIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-hy2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443/?insecure=1&security=tls&sni=pixelcast.wwwinternetvideo.click#Ireland
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.207:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
-trojan://humanity@104.16.174.22:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#
-vless://4c7480b2-d67b-4bb9-9f33-0700dfcbdee6@116.204.164.27:7443?security=tls&type=ws&path=/@Marisa_kristi&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&packetEncoding=xudp&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&encryption=none#Pakistan
-vless://67e40783-6546-4fda-90f6-9ee3c5b2efff@188.114.98.0:80?security=none&type=ws&path=/CkgzR7qmHg0TxS4D&host=worker3.ragiki7564.workers.dev&ed=2560&packetEncoding=xudp&sni=worker3.ragiki7564.workers.dev#The+Netherlands
-vless://06c4e938-2954-478f-a870-ca1b163e30e9@estproxy4.lockdwn.com:443?encryption=none&security=&type=ws#Iran
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#United+States
-ss://YWVzLTI1Ni1nY206alNVN2JHS3VwUTk2WUZ2Zg==@139.180.133.90:80#Singapore
-vless://63f1ce15-1a88-4698-8a0e-59b85d75e607@free.server11peekconfig.workers.dev:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=free.server11peekconfig.workers.dev&path=%2FeyJqdW5rIjoiNDIxWGNPNW5CQXYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OmIwOjY0OjpdIiwiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ%3D%3D&security=tls&sni=FRee.SeRver11pEEkcONFIg.WorkeRS.DEv&type=ws#United+States
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.22:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.230:2087?security=tls&type=ws&path=/&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&ed=2560&packetEncoding=xudp&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&encryption=none#United+States
-trojan://humanity@104.16.174.148:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#
-trojan://humanity@104.18.152.97:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
-vless://878dd962-027b-4bd3-a1f8-66be68a03c4d@deepl.com:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=young-wind-3c58.240-2ce.workers.dev&packetEncoding=xudp&encryption=none#
-vmess://eyJhZGQiOiAibTAxYzdiMnoyNmR0cWdlZS52LjNkbnMudmlwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIk0wMWM3QjJ6MjZEdFFHRWUudi4zZG5zLnZpcCIsICJpZCI6ICJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiSG9uZyBLb25nIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://07f9bc85-613f-4a33-8da1-191973c43c0a@app-q0zc4t.user-4gfyh5.workers.dev:443?encryption=none&security=tls&type=ws#United+States
-hysteria2://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.27.221:8443?security=tls&sni=borat-hopp.bumbleshrimp.com#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#United+States
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@166.62.109.30:8880?encryption=none&host=vms.lifetime18.workers.dev&path=%2F&security=none&type=ws#United+States
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&type=ws&path=/&host=uae.unixzone.us&packetEncoding=xudp&encryption=none#United+Arab+Emirates
+vless://234c52f2-0d7b-dc4a-0d6b-b0b300000023@172.67.96.178:80?security=none&type=ws&path=/sync&host=billowing-surf-d251.netizo06.workers.dev&packetEncoding=xudp&sni=billowing-surf-d251.netizo06.workers.dev&encryption=none#United+States
+vless://d5598622-46b8-b017-3af3-232500000001@104.16.72.101:80?security=none&type=ws&path=/sync&host=nahan-core.netizo09.workers.dev&packetEncoding=xudp&encryption=none#
+trojan://bpb-trojan@172.67.135.88:443?fp=chrome&path=%2Ftr%3Fed%3D2560&security=tls&sni=vless.herogoing.top&type=ws#United+States
+ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:80#United+Kingdom
+vless://7b102311-43fd-4e8f-877e-8090623c101d@77.239.104.82:443?security=tls&type=ws&path=/Telegram🇨🇳 @VPNine1&host=vp58.cc.cd&packetEncoding=xudp&sni=vp58.cc.cd&fp=chrome#United+Kingdom
+vless://3087ca05-1a7c-45fa-aec9-805adeaedb1b@104.18.131.112:80?security=none&type=ws&path=/?ed=2560&host=tianshu.kevqwkt451.workers.dev&packetEncoding=xudp#
+vless://3b4274c1-4744-452e-9903-e11ccc0c9900@201.24.49.79:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#Brazil
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.40:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime08.workers.dev&packetEncoding=xudp#Russia
+trojan://humanity@172.67.74.2:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#United+States
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:8080#United+Kingdom
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#United+States
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?security=none&type=ws&path=/&packetEncoding=xudp&sni=estproxy4.lockdwn.com#Iran
+vless://d31aefb3-775b-4e87-a093-a4677addf10a@144.31.140.127:443?security=reality&encryption=none&pbk=3EwukQs0ows0H4l2atTgz_Mo5SV-v5p14D4zfA41tU4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=c010293d0bafac#United+States
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meow-warsaw.nethcloud.top:443?security=reality&type=raw&packetEncoding=xudp&sni=www.wikihow.com&fp=firefox&flow=xtls-rprx-vision&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U#Czechia
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.59.30:8880?encryption=none&host=vms.lifetime58.workers.dev&path=%2F&security=none&type=ws#Cyprus
+vless://68cf8d29-5aa0-44b3-88a9-f1a576b6e84c@107.181.151.39:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.microsoft.com&fp=firefox&flow=xtls-rprx-vision&sid=73a9e631a09b&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk#United+Kingdom
 ```
 
 
@@ -131,32 +131,32 @@ Các ứng dụng khách sau phù hợp để nhập nút hoặc đăng ký củ
 
 ### Windows
 
-| Ứng dụng khách | Tính năng / định dạng cấu hình | Loại phí | Tải xuống chính thức |
-| --- | --- | --- | --- |
-| **v2rayN** | Liên kết chia sẻ nút và các đăng ký V2Ray thông dụng. | Miễn phí | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
-| **Clash Verge Rev** | Cấu hình Clash / Mihomo YAML, quy tắc và nhóm proxy. | Miễn phí | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
-| **Hiddify** | Quản lý các đăng ký và cấu hình được hỗ trợ trên nhiều nền tảng. | Miễn phí | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
-| **Clash Party** | Trước đây là Mihomo Party; ứng dụng khách proxy theo quy tắc dựa trên Mihomo. | Miễn phí | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
-| **FlClash** | Cấu hình Clash / Mihomo, quy tắc và nhóm proxy. | Miễn phí | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
-| **Karing** | Proxy đa giao thức, hỗ trợ quy tắc định tuyến Clash / sing-box. | Miễn phí | [Dự án chính thức và tải xuống](https://github.com/KaringX/karing) |
-| **Throne** | Quản lý nút và định tuyến trên máy tính, dựa trên sing-box. | Miễn phí | [Dự án chính thức và tải xuống](https://github.com/throneproj/Throne) |
+| Ứng dụng khách | Tính năng / định dạng cấu hình | Loại phí | Tải xuống chính thức | Hướng dẫn cấu hình |
+| --- | --- | --- | --- | --- |
+| **v2rayN** | Liên kết chia sẻ nút và các đăng ký V2Ray thông dụng. | Miễn phí | [GitHub Releases](https://github.com/2dust/v2rayN/releases) | [Hướng dẫn chính thức [中文]](https://github.com/2dust/v2rayN/wiki/Description-of-some-ui) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#v2rayn)<br>URI / Base64 |
+| **Clash Verge Rev** | Cấu hình Clash / Mihomo YAML, quy tắc và nhóm proxy. | Miễn phí | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [Hướng dẫn chính thức [中文]](https://www.clashverge.dev/guide/quickstart.html) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#clash-verge-rev)<br>Clash / Mihomo YAML |
+| **Hiddify** | Quản lý các đăng ký và cấu hình được hỗ trợ trên nhiều nền tảng. | Miễn phí | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) | [Hướng dẫn chính thức [English]](https://hiddify.com/app/How-to-use-Hiddify-app/) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#hiddify)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Clash Party** | Trước đây là Mihomo Party; ứng dụng khách proxy theo quy tắc dựa trên Mihomo. | Miễn phí | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) | [Hướng dẫn chính thức [中文]](https://clashparty.org/docs/handson) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#clash-party)<br>Clash / Mihomo YAML |
+| **FlClash** | Cấu hình Clash / Mihomo, quy tắc và nhóm proxy. | Miễn phí | [GitHub Releases](https://github.com/chen08209/FlClash/releases) | [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#flclash)<br>Clash / Mihomo YAML |
+| **Karing** | Proxy đa giao thức, hỗ trợ quy tắc định tuyến Clash / sing-box. | Miễn phí | [Dự án chính thức và tải xuống](https://github.com/KaringX/karing) | [Hướng dẫn chính thức [English]](https://karing.app/en/quickstart) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#karing)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Throne** | Quản lý nút và định tuyến trên máy tính, dựa trên sing-box. | Miễn phí | [Dự án chính thức và tải xuống](https://github.com/throneproj/Throne) | [Hướng dẫn chính thức [English]](https://throneproj.github.io/get_started/configuration/) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#throne)<br>URI / Base64 · sing-box JSON · Clash YAML proxies |
 
 <a id="clients-macos"></a>
 
 ### macOS
 
-| Ứng dụng khách | Tính năng / định dạng cấu hình | Loại phí | Tải xuống chính thức |
-| --- | --- | --- | --- |
-| **v2rayN** | Liên kết chia sẻ nút và các đăng ký V2Ray thông dụng. | Miễn phí | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
-| **Clash Verge Rev** | Cấu hình Clash / Mihomo YAML, quy tắc và nhóm proxy. | Miễn phí | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
-| **Hiddify** | Quản lý các đăng ký và cấu hình được hỗ trợ trên nhiều nền tảng. | Miễn phí | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
-| **Clash Party** | Trước đây là Mihomo Party; ứng dụng khách proxy theo quy tắc dựa trên Mihomo. | Miễn phí | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
-| **FlClash** | Cấu hình Clash / Mihomo, quy tắc và nhóm proxy. | Miễn phí | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
-| **Karing** | Proxy đa giao thức, hỗ trợ quy tắc định tuyến Clash / sing-box. | Miễn phí | [Dự án chính thức và tải xuống](https://github.com/KaringX/karing) |
-| **Throne** | Quản lý nút và định tuyến trên máy tính, dựa trên sing-box. | Miễn phí | [Dự án chính thức và tải xuống](https://github.com/throneproj/Throne) |
-| **Surge Mac** | Proxy theo quy tắc và gỡ lỗi mạng, sử dụng định dạng cấu hình Surge. | Trả phí; giấy phép riêng cho Mac và iOS | [Trang web chính thức](https://nssurge.com/) |
-| **Quantumult X** | Định tuyến theo quy tắc và gỡ lỗi mạng, sử dụng định dạng cấu hình riêng. | Trả phí | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
-| **sing-box for Apple platforms** | Cấu hình sing-box JSON cục bộ hoặc từ xa, phải tương thích với phiên bản lõi. | Miễn phí | [Hướng dẫn tải xuống chính thức](https://sing-box.sagernet.org/clients/apple/) |
+| Ứng dụng khách | Tính năng / định dạng cấu hình | Loại phí | Tải xuống chính thức | Hướng dẫn cấu hình |
+| --- | --- | --- | --- | --- |
+| **v2rayN** | Liên kết chia sẻ nút và các đăng ký V2Ray thông dụng. | Miễn phí | [GitHub Releases](https://github.com/2dust/v2rayN/releases) | [Hướng dẫn chính thức [中文]](https://github.com/2dust/v2rayN/wiki/Description-of-some-ui) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#v2rayn)<br>URI / Base64 |
+| **Clash Verge Rev** | Cấu hình Clash / Mihomo YAML, quy tắc và nhóm proxy. | Miễn phí | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [Hướng dẫn chính thức [中文]](https://www.clashverge.dev/guide/quickstart.html) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#clash-verge-rev)<br>Clash / Mihomo YAML |
+| **Hiddify** | Quản lý các đăng ký và cấu hình được hỗ trợ trên nhiều nền tảng. | Miễn phí | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) | [Hướng dẫn chính thức [English]](https://hiddify.com/app/How-to-use-Hiddify-app/) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#hiddify)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Clash Party** | Trước đây là Mihomo Party; ứng dụng khách proxy theo quy tắc dựa trên Mihomo. | Miễn phí | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) | [Hướng dẫn chính thức [中文]](https://clashparty.org/docs/handson) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#clash-party)<br>Clash / Mihomo YAML |
+| **FlClash** | Cấu hình Clash / Mihomo, quy tắc và nhóm proxy. | Miễn phí | [GitHub Releases](https://github.com/chen08209/FlClash/releases) | [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#flclash)<br>Clash / Mihomo YAML |
+| **Karing** | Proxy đa giao thức, hỗ trợ quy tắc định tuyến Clash / sing-box. | Miễn phí | [Dự án chính thức và tải xuống](https://github.com/KaringX/karing) | [Hướng dẫn chính thức [English]](https://karing.app/en/quickstart) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#karing)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Throne** | Quản lý nút và định tuyến trên máy tính, dựa trên sing-box. | Miễn phí | [Dự án chính thức và tải xuống](https://github.com/throneproj/Throne) | [Hướng dẫn chính thức [English]](https://throneproj.github.io/get_started/configuration/) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#throne)<br>URI / Base64 · sing-box JSON · Clash YAML proxies |
+| **Surge Mac** | Proxy theo quy tắc và gỡ lỗi mạng, sử dụng định dạng cấu hình Surge. | Trả phí; giấy phép riêng cho Mac và iOS | [Trang web chính thức](https://nssurge.com/) | [Hướng dẫn chính thức [English]](https://manual.nssurge.com/getting-started/quick-start.html) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#surge)<br>Surge INI / Managed Profile |
+| **Quantumult X** | Định tuyến theo quy tắc và gỡ lỗi mạng, sử dụng định dạng cấu hình riêng. | Trả phí | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620) | [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#quantumult-x)<br>Quantumult X / server_remote |
+| **sing-box for Apple platforms** | Cấu hình sing-box JSON cục bộ hoặc từ xa, phải tương thích với phiên bản lõi. | Miễn phí | [Hướng dẫn tải xuống chính thức](https://sing-box.sagernet.org/clients/apple/) | [Hướng dẫn chính thức [English]](https://sing-box.sagernet.org/clients/general/) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#sing-box)<br>sing-box JSON |
 
 Khi tải xuống, hãy kiểm tra kiến trúc Intel / Apple Silicon và yêu cầu hệ thống macOS. Surge Mac và phiên bản iOS sử dụng giấy phép riêng.
 
@@ -164,30 +164,30 @@ Khi tải xuống, hãy kiểm tra kiến trúc Intel / Apple Silicon và yêu c
 
 ### Linux
 
-| Ứng dụng khách | Tính năng / định dạng cấu hình | Loại phí | Tải xuống chính thức |
-| --- | --- | --- | --- |
-| **v2rayN** | Liên kết chia sẻ nút và các đăng ký V2Ray thông dụng. | Miễn phí | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
-| **Clash Verge Rev** | Cấu hình Clash / Mihomo YAML, quy tắc và nhóm proxy. | Miễn phí | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
-| **Hiddify** | Quản lý các đăng ký và cấu hình được hỗ trợ trên nhiều nền tảng. | Miễn phí | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
-| **Clash Party** | Trước đây là Mihomo Party; ứng dụng khách proxy theo quy tắc dựa trên Mihomo. | Miễn phí | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
-| **FlClash** | Cấu hình Clash / Mihomo, quy tắc và nhóm proxy. | Miễn phí | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
-| **Karing** | Proxy đa giao thức, hỗ trợ quy tắc định tuyến Clash / sing-box. | Miễn phí | [Dự án chính thức và tải xuống](https://github.com/KaringX/karing) |
-| **Throne** | Quản lý nút và định tuyến trên máy tính, dựa trên sing-box. | Miễn phí | [Dự án chính thức và tải xuống](https://github.com/throneproj/Throne) |
+| Ứng dụng khách | Tính năng / định dạng cấu hình | Loại phí | Tải xuống chính thức | Hướng dẫn cấu hình |
+| --- | --- | --- | --- | --- |
+| **v2rayN** | Liên kết chia sẻ nút và các đăng ký V2Ray thông dụng. | Miễn phí | [GitHub Releases](https://github.com/2dust/v2rayN/releases) | [Hướng dẫn chính thức [中文]](https://github.com/2dust/v2rayN/wiki/Description-of-some-ui) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#v2rayn)<br>URI / Base64 |
+| **Clash Verge Rev** | Cấu hình Clash / Mihomo YAML, quy tắc và nhóm proxy. | Miễn phí | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [Hướng dẫn chính thức [中文]](https://www.clashverge.dev/guide/quickstart.html) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#clash-verge-rev)<br>Clash / Mihomo YAML |
+| **Hiddify** | Quản lý các đăng ký và cấu hình được hỗ trợ trên nhiều nền tảng. | Miễn phí | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) | [Hướng dẫn chính thức [English]](https://hiddify.com/app/How-to-use-Hiddify-app/) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#hiddify)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Clash Party** | Trước đây là Mihomo Party; ứng dụng khách proxy theo quy tắc dựa trên Mihomo. | Miễn phí | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) | [Hướng dẫn chính thức [中文]](https://clashparty.org/docs/handson) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#clash-party)<br>Clash / Mihomo YAML |
+| **FlClash** | Cấu hình Clash / Mihomo, quy tắc và nhóm proxy. | Miễn phí | [GitHub Releases](https://github.com/chen08209/FlClash/releases) | [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#flclash)<br>Clash / Mihomo YAML |
+| **Karing** | Proxy đa giao thức, hỗ trợ quy tắc định tuyến Clash / sing-box. | Miễn phí | [Dự án chính thức và tải xuống](https://github.com/KaringX/karing) | [Hướng dẫn chính thức [English]](https://karing.app/en/quickstart) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#karing)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Throne** | Quản lý nút và định tuyến trên máy tính, dựa trên sing-box. | Miễn phí | [Dự án chính thức và tải xuống](https://github.com/throneproj/Throne) | [Hướng dẫn chính thức [English]](https://throneproj.github.io/get_started/configuration/) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#throne)<br>URI / Base64 · sing-box JSON · Clash YAML proxies |
 
 <a id="clients-android"></a>
 
 ### Android
 
-| Ứng dụng khách | Tính năng / định dạng cấu hình | Loại phí | Tải xuống chính thức |
-| --- | --- | --- | --- |
-| **v2rayNG** | Liên kết chia sẻ nút và các đăng ký V2Ray thông dụng. | Miễn phí | [GitHub Releases](https://github.com/2dust/v2rayNG/releases) |
-| **FlClash** | Cấu hình Clash / Mihomo, quy tắc và nhóm proxy. | Miễn phí | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
-| **Hiddify** | Quản lý các đăng ký và cấu hình được hỗ trợ trên nhiều nền tảng. | Miễn phí | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
-| **Karing** | Proxy đa giao thức, hỗ trợ quy tắc định tuyến Clash / sing-box. | Miễn phí | [Dự án chính thức và tải xuống](https://github.com/KaringX/karing) |
-| **Clash Meta for Android** | Cấu hình Clash / Mihomo, quy tắc và nhóm proxy. | Miễn phí | [GitHub Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest) |
-| **sing-box for Android** | Cấu hình sing-box JSON cục bộ hoặc từ xa, phải tương thích với phiên bản lõi. | Miễn phí | [Hướng dẫn tải xuống chính thức](https://sing-box.sagernet.org/clients/android/) |
-| **Surfboard** | Định dạng cấu hình Surge; một số tính năng không tương thích. | Theo thông tin chính thức | [GitHub Releases](https://github.com/getsurfboard/surfboard/releases/latest) |
-| **NekoBox for Android** | Ứng dụng khách đa giao thức dựa trên sing-box; lựa chọn thay thế cho người dùng nâng cao, ít được bảo trì. | Miễn phí | [GitHub Releases](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) |
+| Ứng dụng khách | Tính năng / định dạng cấu hình | Loại phí | Tải xuống chính thức | Hướng dẫn cấu hình |
+| --- | --- | --- | --- | --- |
+| **v2rayNG** | Liên kết chia sẻ nút và các đăng ký V2Ray thông dụng. | Miễn phí | [GitHub Releases](https://github.com/2dust/v2rayNG/releases) | [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#v2rayng)<br>URI / Base64 |
+| **FlClash** | Cấu hình Clash / Mihomo, quy tắc và nhóm proxy. | Miễn phí | [GitHub Releases](https://github.com/chen08209/FlClash/releases) | [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#flclash)<br>Clash / Mihomo YAML |
+| **Hiddify** | Quản lý các đăng ký và cấu hình được hỗ trợ trên nhiều nền tảng. | Miễn phí | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) | [Hướng dẫn chính thức [English]](https://hiddify.com/app/How-to-use-Hiddify-app/) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#hiddify)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Karing** | Proxy đa giao thức, hỗ trợ quy tắc định tuyến Clash / sing-box. | Miễn phí | [Dự án chính thức và tải xuống](https://github.com/KaringX/karing) | [Hướng dẫn chính thức [English]](https://karing.app/en/quickstart) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#karing)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Clash Meta for Android** | Cấu hình Clash / Mihomo, quy tắc và nhóm proxy. | Miễn phí | [GitHub Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest) | [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#clash-meta-android)<br>Clash / Mihomo YAML |
+| **sing-box for Android** | Cấu hình sing-box JSON cục bộ hoặc từ xa, phải tương thích với phiên bản lõi. | Miễn phí | [Hướng dẫn tải xuống chính thức](https://sing-box.sagernet.org/clients/android/) | [Hướng dẫn chính thức [English]](https://sing-box.sagernet.org/clients/general/) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#sing-box)<br>sing-box JSON |
+| **Surfboard** | Định dạng cấu hình Surge; một số tính năng không tương thích. | Theo thông tin chính thức | [GitHub Releases](https://github.com/getsurfboard/surfboard/releases/latest) | [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#surfboard)<br>Surfboard / Surge profile |
+| **NekoBox for Android** | Ứng dụng khách đa giao thức dựa trên sing-box; lựa chọn thay thế cho người dùng nâng cao, ít được bảo trì. | Miễn phí | [GitHub Releases](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) | [Hướng dẫn chính thức [中文]](https://matsuridayo.github.io/nb4a-configuration/) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#nekobox-android)<br>URI / Base64 · Clash proxies · sing-box outbounds |
 
 Dự án NekoBox đã thông báo chính thức rằng ứng dụng ít được bảo trì và không nhận yêu cầu tính năng mới, đồng thời cảnh báo rằng phiên bản cùng tên trên Google Play hiện do bên thứ ba kiểm soát. Chỉ sử dụng liên kết GitHub ở trên.
 
@@ -195,18 +195,18 @@ Dự án NekoBox đã thông báo chính thức rằng ứng dụng ít được
 
 ### iOS / iPadOS
 
-| Ứng dụng khách | Tính năng / định dạng cấu hình | Loại phí | Tải xuống chính thức |
-| --- | --- | --- | --- |
-| **Shadowrocket** | Quản lý nút và proxy theo quy tắc. | Trả phí | [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118) |
-| **Stash** | Cấu hình Clash được hỗ trợ và định tuyến theo quy tắc. | Trả phí | [App Store](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
-| **sing-box for Apple platforms** | Cấu hình sing-box JSON cục bộ hoặc từ xa, phải tương thích với phiên bản lõi. | Miễn phí | [Hướng dẫn tải xuống chính thức](https://sing-box.sagernet.org/clients/apple/) |
-| **Karing** | Proxy đa giao thức, hỗ trợ quy tắc định tuyến Clash / sing-box. | Miễn phí | [App Store](https://apps.apple.com/us/app/karing/id6472431552) |
-| **Quantumult X** | Định tuyến theo quy tắc và gỡ lỗi mạng, sử dụng định dạng cấu hình riêng. | Trả phí | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
-| **Surge** | Proxy theo quy tắc và gỡ lỗi mạng, sử dụng định dạng cấu hình Surge. | Tải xuống miễn phí; mở khóa Pro và đăng ký cập nhật tùy chọn | [App Store](https://apps.apple.com/us/app/surge-5/id1442620678) |
-| **Loon** | Quản lý nút, định tuyến theo quy tắc và gỡ lỗi mạng, sử dụng định dạng cấu hình riêng. | Trả phí | [App Store](https://apps.apple.com/us/app/loon/id1373567447) |
-| **Egern** | Định tuyến theo quy tắc và gỡ lỗi mạng. | Tải xuống miễn phí; mua Pro trong ứng dụng | [App Store](https://apps.apple.com/us/app/egern/id1616105820) |
-| **Streisand** | Quản lý nút và đăng ký, hỗ trợ nhiều giao thức proxy. | Miễn phí | [App Store](https://apps.apple.com/us/app/streisand/id6450534064) |
-| **Potatso** | Cấu hình proxy và định tuyến theo quy tắc. | Miễn phí; mua Pro trong ứng dụng | [App Store](https://apps.apple.com/us/app/potatso/id1239860606) |
+| Ứng dụng khách | Tính năng / định dạng cấu hình | Loại phí | Tải xuống chính thức | Hướng dẫn cấu hình |
+| --- | --- | --- | --- | --- |
+| **Shadowrocket** | Quản lý nút và proxy theo quy tắc. | Trả phí | [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118) | [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#shadowrocket)<br>Shadowrocket subscriptions / profiles |
+| **Stash** | Cấu hình Clash được hỗ trợ và định tuyến theo quy tắc. | Trả phí | [App Store](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) | [Hướng dẫn chính thức [English]](https://stash.wiki/en/get-started) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#stash)<br>Stash / Clash YAML |
+| **sing-box for Apple platforms** | Cấu hình sing-box JSON cục bộ hoặc từ xa, phải tương thích với phiên bản lõi. | Miễn phí | [Hướng dẫn tải xuống chính thức](https://sing-box.sagernet.org/clients/apple/) | [Hướng dẫn chính thức [English]](https://sing-box.sagernet.org/clients/general/) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#sing-box)<br>sing-box JSON |
+| **Karing** | Proxy đa giao thức, hỗ trợ quy tắc định tuyến Clash / sing-box. | Miễn phí | [App Store](https://apps.apple.com/us/app/karing/id6472431552) | [Hướng dẫn chính thức [English]](https://karing.app/en/quickstart) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#karing)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Quantumult X** | Định tuyến theo quy tắc và gỡ lỗi mạng, sử dụng định dạng cấu hình riêng. | Trả phí | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620) | [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#quantumult-x)<br>Quantumult X / server_remote |
+| **Surge** | Proxy theo quy tắc và gỡ lỗi mạng, sử dụng định dạng cấu hình Surge. | Tải xuống miễn phí; mở khóa Pro và đăng ký cập nhật tùy chọn | [App Store](https://apps.apple.com/us/app/surge-5/id1442620678) | [Hướng dẫn chính thức [English]](https://manual.nssurge.com/getting-started/quick-start.html) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#surge)<br>Surge INI / Managed Profile |
+| **Loon** | Quản lý nút, định tuyến theo quy tắc và gỡ lỗi mạng, sử dụng định dạng cấu hình riêng. | Trả phí | [App Store](https://apps.apple.com/us/app/loon/id1373567447) | [Hướng dẫn chính thức [English]](https://nsloon.app/en/docs/Node/subscription/) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#loon)<br>URI / Base64 · Loon configuration |
+| **Egern** | Định tuyến theo quy tắc và gỡ lỗi mạng. | Tải xuống miễn phí; mua Pro trong ứng dụng | [App Store](https://apps.apple.com/us/app/egern/id1616105820) | [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#egern)<br>Egern Profile.yaml / proxies YAML |
+| **Streisand** | Quản lý nút và đăng ký, hỗ trợ nhiều giao thức proxy. | Miễn phí | [App Store](https://apps.apple.com/us/app/streisand/id6450534064) | [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#streisand)<br>Supported node configurations |
+| **Potatso** | Cấu hình proxy và định tuyến theo quy tắc. | Miễn phí; mua Pro trong ứng dụng | [App Store](https://apps.apple.com/us/app/potatso/id1239860606) | [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#potatso)<br>Mihomo / Clash YAML · supported node links |
 
 <a id="router-plugins"></a>
 
@@ -214,12 +214,12 @@ Dự án NekoBox đã thông báo chính thức rằng ứng dụng ít được
 
 Các tiện ích mở rộng sau dành cho firmware bộ định tuyến có hỗ trợ các thành phần tương ứng. Trước khi cài đặt, hãy kiểm tra phiên bản firmware, kiến trúc CPU, các thành phần phụ thuộc và định dạng đăng ký. Không thể dùng trực tiếp gói cài đặt dành cho máy tính hoặc điện thoại.
 
-| Tiện ích mở rộng | Môi trường áp dụng / định dạng cấu hình | Loại phí | Dự án chính thức |
-| --- | --- | --- | --- |
-| **OpenClash** | OpenWrt; cấu hình Clash / Mihomo YAML. Đăng ký V2Ray thông dụng thường cần được chuyển đổi sang định dạng được hỗ trợ trước khi sử dụng. | Miễn phí, mã nguồn mở | [GitHub](https://github.com/vernesong/OpenClash) |
-| **PassWall2 / PassWall** | OpenWrt; proxy đa giao thức. Các thành phần cần thiết khác nhau tùy theo firmware, kiến trúc CPU và lõi được chọn. | Miễn phí, mã nguồn mở | [PassWall2](https://github.com/Openwrt-Passwall/openwrt-passwall2) · [PassWall](https://github.com/Openwrt-Passwall/openwrt-passwall) |
-| **Nikki** | Dựa trên Mihomo; yêu cầu OpenWrt ≥ 24.10, Linux ≥ 5.13 và sử dụng firewall4. | Miễn phí, mã nguồn mở | [GitHub](https://github.com/nikkinikki-org/OpenWrt-nikki) |
-| **HomeProxy** | Dựa trên sing-box; dành cho thiết bị ARM64 / AMD64 chạy ImmortalWrt. | Miễn phí, mã nguồn mở | [GitHub](https://github.com/immortalwrt/homeproxy) |
+| Tiện ích mở rộng | Môi trường áp dụng / định dạng cấu hình | Loại phí | Dự án chính thức | Hướng dẫn cấu hình |
+| --- | --- | --- | --- | --- |
+| **OpenClash** | OpenWrt; cấu hình Clash / Mihomo YAML. Đăng ký V2Ray thông dụng thường cần được chuyển đổi sang định dạng được hỗ trợ trước khi sử dụng. | Miễn phí, mã nguồn mở | [GitHub](https://github.com/vernesong/OpenClash) | [Hướng dẫn chính thức [中文]](https://github.com/vernesong/OpenClash#快速开始) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#openclash)<br>Clash / Mihomo YAML |
+| **PassWall2 / PassWall** | OpenWrt; proxy đa giao thức. Các thành phần cần thiết khác nhau tùy theo firmware, kiến trúc CPU và lõi được chọn. | Miễn phí, mã nguồn mở | [PassWall2](https://github.com/Openwrt-Passwall/openwrt-passwall2) · [PassWall](https://github.com/Openwrt-Passwall/openwrt-passwall) | [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#passwall)<br>Supported node URI subscriptions |
+| **Nikki** | Dựa trên Mihomo; yêu cầu OpenWrt ≥ 24.10, Linux ≥ 5.13 và sử dụng firewall4. | Miễn phí, mã nguồn mở | [GitHub](https://github.com/nikkinikki-org/OpenWrt-nikki) | [Hướng dẫn chính thức [中文]](https://github.com/nikkinikki-org/OpenWrt-nikki/wiki) · [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#nikki)<br>Mihomo YAML: proxies / proxy-providers |
+| **HomeProxy** | Dựa trên sing-box; dành cho thiết bị ARM64 / AMD64 chạy ImmortalWrt. | Miễn phí, mã nguồn mở | [GitHub](https://github.com/immortalwrt/homeproxy) | [Thiết lập nhanh](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/vi.md#homeproxy)<br>HomeProxy node subscriptions |
 
 <a id="subscription-formats"></a>
 
@@ -234,7 +234,7 @@ Các tiện ích mở rộng sau dành cho firmware bộ định tuyến có h�
 
 Các định dạng khác nhau không thể dùng thay thế trực tiếp cho nhau. Việc chuyển đổi có thể làm mất quy tắc, DNS, nhóm proxy hoặc tham số giao thức. Trước khi nhập, hãy kiểm tra ứng dụng khách đích và phiên bản lõi của ứng dụng; các ứng dụng như Stash cũng không bảo đảm hỗ trợ mọi phần mở rộng của Mihomo.
 
-Khi cần chuyển đổi, có thể dùng [công cụ chuyển đổi đăng ký](https://acl4ssr-sub.github.io). Chỉ nên giao các đăng ký có chứa thông tin xác thực riêng tư cho dịch vụ đáng tin cậy xử lý.
+Giữ URL đăng ký riêng tư và thông tin xác thực trên thiết bị của bạn. Không gửi chúng đến các trang chuyển đổi công khai. Nếu cần định dạng khác, hãy lấy hồ sơ tương thích từ nhà cung cấp hoặc tự chuẩn bị trên máy theo tài liệu cấu hình chính thức của ứng dụng đích.
 
 ### Quy trình sử dụng
 

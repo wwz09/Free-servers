@@ -59,26 +59,26 @@ Android প্রকল্প ও সংস্করণ: [GitHub](https://github
 
 
 ```
-vless://e6bad6ca-ab7c-4bdd-b07e-5c8ec407decd@172.67.223.190:2086?security=none&type=ws&path=/eyJqdW5rIjoidGpkTkY2VHk0bE1pV3AiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0=?ed=2560&host=cool-hill-7fe5.thenewata.workers.dev&packetEncoding=xudp&encryption=none#United+States
-vless://13da3f61-36bc-4f4f-9b49-4152de570bd3@104.21.90.215:443?security=tls&type=ws&path=/awsDCktnglce5OhBQMBK8JLBwh2V&host=0-M14.ayutTHAYa-1.kDNS.FR&packetEncoding=xudp&alpn=http/1.1&sni=0-M14.AyUTTHayA-1.KDnS.fr&fp=chrome&encryption=none#
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@91.193.58.215:2083?security=tls&type=ws&path=/socks5=888:888@hkip.1d.mom:1080&host=vlso4.1d.mom&packetEncoding=none&sni=vlso4.1d.mom&fp=chrome#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.49:8080#United+Kingdom
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@166.62.108.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime17.workers.dev&packetEncoding=xudp#United+States
-vless://89b3cbba-e6ac-4850-94af-061316b04020@172.67.195.227:2083?security=tls&type=ws&path=/vl/ampDkOqjmUPSB5DjUBQk2waS?ed=2560&host=late-frost-9da7.shoameni5.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=lATE-fROST-9DA7.ShOAmEni5.workErs.deV&fp=chrome&encryption=none#United+States
-vless://78b9ac78-ebdf-4e51-8114-f6b0cd6d2169@server15.peekconf1-741.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoiOUZIcXVMV3FlbnoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OjExOjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==?ed=2560&host=server15.peekconf1-741.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=sErVER15.PEeKCOnF1-741.wOrkErs.Dev&fp=chrome&encryption=none#
-trojan://humanity@104.18.152.204:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.30:8880?security=none&type=ws&path=/&host=vms.lifetime38.workers.dev&packetEncoding=xudp#Russia
-trojan://humanity@104.26.15.137:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#
-vless://5da16620-0386-4da3-a252-12a6380ed1a6@server3.pegibol940.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoiUHRlMEpuSzRFY1EyeUUwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSIsIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0=&host=server3.pegibol940.workers.dev&packetEncoding=xudp&sni=server3.pegibol940.workers.dev&fp=chrome&encryption=none#United+States
-vless://d4d4d103-5074-47e9-96e6-5431f4e35c57@nodefulcrum.mooo.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=nodefulcrum.mooo.com&fp=chrome&flow=xtls-rprx-vision&sid=6547735997055a35&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&encryption=none#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.238:8080#The+Netherlands
-vless://20d7c485-5d24-49b5-a5cc-bb7a7daf9908@193.148.59.178:443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=%2DGMpCber8qtrKzJbwvpLcwlIhOy-5zS66u_x9lLvIjE&security=reality&sid=e3daad69&sni=www.apple.com&type=tcp#Singapore
-vless://907a940c-bad0-4356-a280-7dec12f1479e@sk1i-il4mxi.sparkra.top:443?security=reality&type=raw&packetEncoding=xudp&sni=www.bing.com&fp=firefox&flow=xtls-rprx-vision&sid=83dee8596e65d99e&pbk=zVJVCkcnyPjMZvx-GMQnnbkEgNiws80sppKB6A0uqBY#United+States
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.143.149.2:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapore
-vmess://eyJhZGQiOiAiZHJia2cxNmVnZjNmemxtMy52LjNkbnMudmlwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIkRyQktnMTZlR2YzRlpsTTMudi4zZG5zLnZpcCIsICJpZCI6ICJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiSG9uZyBLb25nIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#United+Kingdom
-vless://ad40a583-2d59-44ff-88cf-b5db0e1e00a7@188.114.97.6:8080?security=none&type=ws&path=/&host=edgetunnel.kalmevebto.workers.dev&packetEncoding=xudp#The+Netherlands
+hysteria2://Krab9Hyst2_Rk7pQ2xL@nl.vpn.legendaah.xyz:36723?insecure=1&security=tls&sni=www.cloudflare.com#T%C3%BCrkiye
+trojan://bpb-trojan@104.21.26.36:443?fp=chrome&path=%2Ftr%3Fed%3D2560&security=tls&sni=vless.herogoing.top&type=ws#
+vmess://eyJhZGQiOiAibmV3cmVsYXgucmVsYXhlZGJveS5vbmxpbmUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjhlOTY4N2ZjLWEzYTctNDE0YS04Njc2LThlMjEzNjc5N2NmZSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTEwIiwgInBzIjogIkJ1bGdhcmlhIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.91.40:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime28.workers.dev&packetEncoding=xudp#United+States
+vless://c49a0981-6d37-4ec0-9a01-1b63ccc07e4f@104.21.46.219:2096?security=tls&type=ws&path=/eyJqdW5rIjoiZHlCcVpqeEYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OjExOjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==&host=peekconfig.hamrahfree1.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=pEeKcOnFig.haMRaHfREe1.wOrKerS.DEv&fp=chrome&encryption=none#
+ss://YWVzLTI1Ni1nY206Tnh2OHlwRXJSZkNTY3pENw==@154.53.60.212:80#United+States
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@166.62.109.30:8880?encryption=none&host=vms.lifetime18.workers.dev&path=%2F&security=none&type=ws#United+States
+vless://fae272a6-a184-4c91-83ed-771abdcff404@51.77.217.70:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.google.com&fp=edge&sid=7af95330630a7327&pbk=5Me9XEMwr9siyrnV5zPHYfxB3QLqw-OzNAOuzkFu1kw#France
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@64.188.77.13:13443?security=reality&type=tcp&packetEncoding=xudp&sni=auto.cendora.ru&fp=firefox&flow=xtls-rprx-vision&sid=a7f3c91b2e6d84c0&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM#United+States
+vless://3087ca05-1a7c-45fa-aec9-805adeaedb1b@104.18.131.112:80?security=none&type=ws&path=/?ed=2560&host=tianshu.kevqwkt451.workers.dev&packetEncoding=xudp#
+vless://ba49d874-fe02-465d-82d3-ed981dc7694f@188.114.96.7:443?security=tls&type=ws&path=/dbJqwUHWfrXV0Z3Q?ed=2560&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=o94yv7lIF0-AnXiSd9EFeHVVS7mxn6Bh.z-ULe-IKA-d-e-Ne-k-E.WORKERs.DEv&fp=chrome&encryption=none#The+Netherlands
+vless://17d29827-7cf1-4115-b40d-548e10ec355d@billing.netraidly.ru:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=qq&flow=xtls-rprx-vision&sid=aa3c&pbk=bjOGTQ4xsiFbyCPM_WzoK53L130rW5vZJtuYDJx_pkM#Brazil
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.211.30:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime06.workers.dev&packetEncoding=xudp&encryption=none#The+Netherlands
+vless://95de071f-747c-dc07-36ac-5c0854a9e50e@restless-boat-ebf2.moha102030.workers.dev:2053?security=tls&type=ws&path=/sync&host=restless-boat-ebf2.moha102030.workers.dev&packetEncoding=xudp&sni=restless-boat-ebf2.moha102030.workers.dev&fp=chrome&encryption=none#
+vless://e56059f1-5a1a-4d0a-a2d0-58ecb4eb2f3f@172.66.47.45:443?security=tls&type=ws&path=/eyJqdW5rIjoiZWlPODVjTnhnaSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&host=ezaccess-project-f62c30.pages.dev&packetEncoding=xudp&alpn=http/1.1&sni=EZAcCESS-pROjECt-F62c30.PAGES.dEv&fp=chrome&encryption=none#United+States
+hysteria2://STYyftThFn@85.121.122.25:12765?security=tls&sni=freedom.chenlan.top#Belgium
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#Canada
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#France
+vless://f4d859eb-abc6-4c57-9eee-8fe9e2ef0f94@80.240.18.227:10051?security=tls&type=ws&path=/@Marisa_kristi&host=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&packetEncoding=xudp&sni=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&fp=chrome&encryption=none#Germany
+vless://2fb22d40-598f-4890-85a6-d69928b1fd55@104.16.107.139:8880?encryption=none&host=odd-cloud-f2a1.73-12e.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#
 ```
 
 
@@ -131,32 +131,32 @@ Surflare VPN ও প্রক্সি সেবা সরবরাহ করে
 
 ### Windows
 
-| ক্লায়েন্ট | বৈশিষ্ট্য / কনফিগারেশন ফরম্যাট | খরচের ধরন | অফিসিয়াল ডাউনলোড |
-| --- | --- | --- | --- |
-| **v2rayN** | নোড শেয়ারিং লিংক ও প্রচলিত V2Ray সাবস্ক্রিপশন। | বিনামূল্যে | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
-| **Clash Verge Rev** | Clash / Mihomo YAML কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
-| **Hiddify** | বিভিন্ন প্ল্যাটফর্মে সমর্থিত সাবস্ক্রিপশন ও কনফিগারেশন পরিচালনা। | বিনামূল্যে | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
-| **Clash Party** | পূর্বনাম Mihomo Party; Mihomo-ভিত্তিক নিয়মনির্ভর প্রক্সি ক্লায়েন্ট। | বিনামূল্যে | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
-| **FlClash** | Clash / Mihomo কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
-| **Karing** | একাধিক প্রোটোকলের প্রক্সি; Clash / sing-box রাউটিং নিয়ম সমর্থন করে। | বিনামূল্যে | [অফিসিয়াল প্রকল্প ও ডাউনলোড](https://github.com/KaringX/karing) |
-| **Throne** | sing-box-ভিত্তিক ডেস্কটপ নোড ও রাউটিং পরিচালনা। | বিনামূল্যে | [অফিসিয়াল প্রকল্প ও ডাউনলোড](https://github.com/throneproj/Throne) |
+| ক্লায়েন্ট | বৈশিষ্ট্য / কনফিগারেশন ফরম্যাট | খরচের ধরন | অফিসিয়াল ডাউনলোড | কনফিগারেশন নির্দেশিকা |
+| --- | --- | --- | --- | --- |
+| **v2rayN** | নোড শেয়ারিং লিংক ও প্রচলিত V2Ray সাবস্ক্রিপশন। | বিনামূল্যে | [GitHub Releases](https://github.com/2dust/v2rayN/releases) | [অফিশিয়াল নির্দেশিকা [中文]](https://github.com/2dust/v2rayN/wiki/Description-of-some-ui) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#v2rayn)<br>URI / Base64 |
+| **Clash Verge Rev** | Clash / Mihomo YAML কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [অফিশিয়াল নির্দেশিকা [中文]](https://www.clashverge.dev/guide/quickstart.html) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#clash-verge-rev)<br>Clash / Mihomo YAML |
+| **Hiddify** | বিভিন্ন প্ল্যাটফর্মে সমর্থিত সাবস্ক্রিপশন ও কনফিগারেশন পরিচালনা। | বিনামূল্যে | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) | [অফিশিয়াল নির্দেশিকা [English]](https://hiddify.com/app/How-to-use-Hiddify-app/) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#hiddify)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Clash Party** | পূর্বনাম Mihomo Party; Mihomo-ভিত্তিক নিয়মনির্ভর প্রক্সি ক্লায়েন্ট। | বিনামূল্যে | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) | [অফিশিয়াল নির্দেশিকা [中文]](https://clashparty.org/docs/handson) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#clash-party)<br>Clash / Mihomo YAML |
+| **FlClash** | Clash / Mihomo কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/chen08209/FlClash/releases) | [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#flclash)<br>Clash / Mihomo YAML |
+| **Karing** | একাধিক প্রোটোকলের প্রক্সি; Clash / sing-box রাউটিং নিয়ম সমর্থন করে। | বিনামূল্যে | [অফিসিয়াল প্রকল্প ও ডাউনলোড](https://github.com/KaringX/karing) | [অফিশিয়াল নির্দেশিকা [English]](https://karing.app/en/quickstart) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#karing)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Throne** | sing-box-ভিত্তিক ডেস্কটপ নোড ও রাউটিং পরিচালনা। | বিনামূল্যে | [অফিসিয়াল প্রকল্প ও ডাউনলোড](https://github.com/throneproj/Throne) | [অফিশিয়াল নির্দেশিকা [English]](https://throneproj.github.io/get_started/configuration/) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#throne)<br>URI / Base64 · sing-box JSON · Clash YAML proxies |
 
 <a id="clients-macos"></a>
 
 ### macOS
 
-| ক্লায়েন্ট | বৈশিষ্ট্য / কনফিগারেশন ফরম্যাট | খরচের ধরন | অফিসিয়াল ডাউনলোড |
-| --- | --- | --- | --- |
-| **v2rayN** | নোড শেয়ারিং লিংক ও প্রচলিত V2Ray সাবস্ক্রিপশন। | বিনামূল্যে | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
-| **Clash Verge Rev** | Clash / Mihomo YAML কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
-| **Hiddify** | বিভিন্ন প্ল্যাটফর্মে সমর্থিত সাবস্ক্রিপশন ও কনফিগারেশন পরিচালনা। | বিনামূল্যে | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
-| **Clash Party** | পূর্বনাম Mihomo Party; Mihomo-ভিত্তিক নিয়মনির্ভর প্রক্সি ক্লায়েন্ট। | বিনামূল্যে | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
-| **FlClash** | Clash / Mihomo কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
-| **Karing** | একাধিক প্রোটোকলের প্রক্সি; Clash / sing-box রাউটিং নিয়ম সমর্থন করে। | বিনামূল্যে | [অফিসিয়াল প্রকল্প ও ডাউনলোড](https://github.com/KaringX/karing) |
-| **Throne** | sing-box-ভিত্তিক ডেস্কটপ নোড ও রাউটিং পরিচালনা। | বিনামূল্যে | [অফিসিয়াল প্রকল্প ও ডাউনলোড](https://github.com/throneproj/Throne) |
-| **Surge Mac** | Surge কনফিগারেশন ফরম্যাটে নিয়মনির্ভর প্রক্সি ও নেটওয়ার্ক ডিবাগিং। | সশুল্ক; Mac ও iOS-এর জন্য পৃথক লাইসেন্স | [অফিসিয়াল ওয়েবসাইট](https://nssurge.com/) |
-| **Quantumult X** | নিজস্ব কনফিগারেশন ফরম্যাটে নিয়মনির্ভর ট্র্যাফিক রাউটিং ও নেটওয়ার্ক ডিবাগিং। | সশুল্ক | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
-| **sing-box for Apple platforms** | স্থানীয় বা দূরবর্তী sing-box JSON কনফিগারেশন; কোর সংস্করণের সঙ্গে মিলতে হবে। | বিনামূল্যে | [অফিসিয়াল ডাউনলোড নির্দেশনা](https://sing-box.sagernet.org/clients/apple/) |
+| ক্লায়েন্ট | বৈশিষ্ট্য / কনফিগারেশন ফরম্যাট | খরচের ধরন | অফিসিয়াল ডাউনলোড | কনফিগারেশন নির্দেশিকা |
+| --- | --- | --- | --- | --- |
+| **v2rayN** | নোড শেয়ারিং লিংক ও প্রচলিত V2Ray সাবস্ক্রিপশন। | বিনামূল্যে | [GitHub Releases](https://github.com/2dust/v2rayN/releases) | [অফিশিয়াল নির্দেশিকা [中文]](https://github.com/2dust/v2rayN/wiki/Description-of-some-ui) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#v2rayn)<br>URI / Base64 |
+| **Clash Verge Rev** | Clash / Mihomo YAML কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [অফিশিয়াল নির্দেশিকা [中文]](https://www.clashverge.dev/guide/quickstart.html) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#clash-verge-rev)<br>Clash / Mihomo YAML |
+| **Hiddify** | বিভিন্ন প্ল্যাটফর্মে সমর্থিত সাবস্ক্রিপশন ও কনফিগারেশন পরিচালনা। | বিনামূল্যে | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) | [অফিশিয়াল নির্দেশিকা [English]](https://hiddify.com/app/How-to-use-Hiddify-app/) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#hiddify)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Clash Party** | পূর্বনাম Mihomo Party; Mihomo-ভিত্তিক নিয়মনির্ভর প্রক্সি ক্লায়েন্ট। | বিনামূল্যে | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) | [অফিশিয়াল নির্দেশিকা [中文]](https://clashparty.org/docs/handson) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#clash-party)<br>Clash / Mihomo YAML |
+| **FlClash** | Clash / Mihomo কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/chen08209/FlClash/releases) | [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#flclash)<br>Clash / Mihomo YAML |
+| **Karing** | একাধিক প্রোটোকলের প্রক্সি; Clash / sing-box রাউটিং নিয়ম সমর্থন করে। | বিনামূল্যে | [অফিসিয়াল প্রকল্প ও ডাউনলোড](https://github.com/KaringX/karing) | [অফিশিয়াল নির্দেশিকা [English]](https://karing.app/en/quickstart) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#karing)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Throne** | sing-box-ভিত্তিক ডেস্কটপ নোড ও রাউটিং পরিচালনা। | বিনামূল্যে | [অফিসিয়াল প্রকল্প ও ডাউনলোড](https://github.com/throneproj/Throne) | [অফিশিয়াল নির্দেশিকা [English]](https://throneproj.github.io/get_started/configuration/) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#throne)<br>URI / Base64 · sing-box JSON · Clash YAML proxies |
+| **Surge Mac** | Surge কনফিগারেশন ফরম্যাটে নিয়মনির্ভর প্রক্সি ও নেটওয়ার্ক ডিবাগিং। | সশুল্ক; Mac ও iOS-এর জন্য পৃথক লাইসেন্স | [অফিসিয়াল ওয়েবসাইট](https://nssurge.com/) | [অফিশিয়াল নির্দেশিকা [English]](https://manual.nssurge.com/getting-started/quick-start.html) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#surge)<br>Surge INI / Managed Profile |
+| **Quantumult X** | নিজস্ব কনফিগারেশন ফরম্যাটে নিয়মনির্ভর ট্র্যাফিক রাউটিং ও নেটওয়ার্ক ডিবাগিং। | সশুল্ক | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620) | [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#quantumult-x)<br>Quantumult X / server_remote |
+| **sing-box for Apple platforms** | স্থানীয় বা দূরবর্তী sing-box JSON কনফিগারেশন; কোর সংস্করণের সঙ্গে মিলতে হবে। | বিনামূল্যে | [অফিসিয়াল ডাউনলোড নির্দেশনা](https://sing-box.sagernet.org/clients/apple/) | [অফিশিয়াল নির্দেশিকা [English]](https://sing-box.sagernet.org/clients/general/) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#sing-box)<br>sing-box JSON |
 
 ডাউনলোডের সময় Intel / Apple Silicon আর্কিটেকচার ও macOS-এর সিস্টেমের প্রয়োজনীয়তা যাচাই করুন। Surge Mac ও iOS সংস্করণের লাইসেন্স পৃথক।
 
@@ -164,30 +164,30 @@ Surflare VPN ও প্রক্সি সেবা সরবরাহ করে
 
 ### Linux
 
-| ক্লায়েন্ট | বৈশিষ্ট্য / কনফিগারেশন ফরম্যাট | খরচের ধরন | অফিসিয়াল ডাউনলোড |
-| --- | --- | --- | --- |
-| **v2rayN** | নোড শেয়ারিং লিংক ও প্রচলিত V2Ray সাবস্ক্রিপশন। | বিনামূল্যে | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
-| **Clash Verge Rev** | Clash / Mihomo YAML কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
-| **Hiddify** | বিভিন্ন প্ল্যাটফর্মে সমর্থিত সাবস্ক্রিপশন ও কনফিগারেশন পরিচালনা। | বিনামূল্যে | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
-| **Clash Party** | পূর্বনাম Mihomo Party; Mihomo-ভিত্তিক নিয়মনির্ভর প্রক্সি ক্লায়েন্ট। | বিনামূল্যে | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
-| **FlClash** | Clash / Mihomo কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
-| **Karing** | একাধিক প্রোটোকলের প্রক্সি; Clash / sing-box রাউটিং নিয়ম সমর্থন করে। | বিনামূল্যে | [অফিসিয়াল প্রকল্প ও ডাউনলোড](https://github.com/KaringX/karing) |
-| **Throne** | sing-box-ভিত্তিক ডেস্কটপ নোড ও রাউটিং পরিচালনা। | বিনামূল্যে | [অফিসিয়াল প্রকল্প ও ডাউনলোড](https://github.com/throneproj/Throne) |
+| ক্লায়েন্ট | বৈশিষ্ট্য / কনফিগারেশন ফরম্যাট | খরচের ধরন | অফিসিয়াল ডাউনলোড | কনফিগারেশন নির্দেশিকা |
+| --- | --- | --- | --- | --- |
+| **v2rayN** | নোড শেয়ারিং লিংক ও প্রচলিত V2Ray সাবস্ক্রিপশন। | বিনামূল্যে | [GitHub Releases](https://github.com/2dust/v2rayN/releases) | [অফিশিয়াল নির্দেশিকা [中文]](https://github.com/2dust/v2rayN/wiki/Description-of-some-ui) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#v2rayn)<br>URI / Base64 |
+| **Clash Verge Rev** | Clash / Mihomo YAML কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [অফিশিয়াল নির্দেশিকা [中文]](https://www.clashverge.dev/guide/quickstart.html) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#clash-verge-rev)<br>Clash / Mihomo YAML |
+| **Hiddify** | বিভিন্ন প্ল্যাটফর্মে সমর্থিত সাবস্ক্রিপশন ও কনফিগারেশন পরিচালনা। | বিনামূল্যে | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) | [অফিশিয়াল নির্দেশিকা [English]](https://hiddify.com/app/How-to-use-Hiddify-app/) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#hiddify)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Clash Party** | পূর্বনাম Mihomo Party; Mihomo-ভিত্তিক নিয়মনির্ভর প্রক্সি ক্লায়েন্ট। | বিনামূল্যে | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) | [অফিশিয়াল নির্দেশিকা [中文]](https://clashparty.org/docs/handson) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#clash-party)<br>Clash / Mihomo YAML |
+| **FlClash** | Clash / Mihomo কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/chen08209/FlClash/releases) | [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#flclash)<br>Clash / Mihomo YAML |
+| **Karing** | একাধিক প্রোটোকলের প্রক্সি; Clash / sing-box রাউটিং নিয়ম সমর্থন করে। | বিনামূল্যে | [অফিসিয়াল প্রকল্প ও ডাউনলোড](https://github.com/KaringX/karing) | [অফিশিয়াল নির্দেশিকা [English]](https://karing.app/en/quickstart) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#karing)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Throne** | sing-box-ভিত্তিক ডেস্কটপ নোড ও রাউটিং পরিচালনা। | বিনামূল্যে | [অফিসিয়াল প্রকল্প ও ডাউনলোড](https://github.com/throneproj/Throne) | [অফিশিয়াল নির্দেশিকা [English]](https://throneproj.github.io/get_started/configuration/) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#throne)<br>URI / Base64 · sing-box JSON · Clash YAML proxies |
 
 <a id="clients-android"></a>
 
 ### Android
 
-| ক্লায়েন্ট | বৈশিষ্ট্য / কনফিগারেশন ফরম্যাট | খরচের ধরন | অফিসিয়াল ডাউনলোড |
-| --- | --- | --- | --- |
-| **v2rayNG** | নোড শেয়ারিং লিংক ও প্রচলিত V2Ray সাবস্ক্রিপশন। | বিনামূল্যে | [GitHub Releases](https://github.com/2dust/v2rayNG/releases) |
-| **FlClash** | Clash / Mihomo কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
-| **Hiddify** | বিভিন্ন প্ল্যাটফর্মে সমর্থিত সাবস্ক্রিপশন ও কনফিগারেশন পরিচালনা। | বিনামূল্যে | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
-| **Karing** | একাধিক প্রোটোকলের প্রক্সি; Clash / sing-box রাউটিং নিয়ম সমর্থন করে। | বিনামূল্যে | [অফিসিয়াল প্রকল্প ও ডাউনলোড](https://github.com/KaringX/karing) |
-| **Clash Meta for Android** | Clash / Mihomo কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest) |
-| **sing-box for Android** | স্থানীয় বা দূরবর্তী sing-box JSON কনফিগারেশন; কোর সংস্করণের সঙ্গে মিলতে হবে। | বিনামূল্যে | [অফিসিয়াল ডাউনলোড নির্দেশনা](https://sing-box.sagernet.org/clients/android/) |
-| **Surfboard** | Surge কনফিগারেশন ফরম্যাট; কিছু বৈশিষ্ট্য সামঞ্জস্যপূর্ণ নয়। | অফিসিয়াল তথ্য দেখুন | [GitHub Releases](https://github.com/getsurfboard/surfboard/releases/latest) |
-| **NekoBox for Android** | sing-box-ভিত্তিক বহু-প্রোটোকল ক্লায়েন্ট; অভিজ্ঞ ব্যবহারকারীদের জন্য বিকল্প, বর্তমানে রক্ষণাবেক্ষণ সীমিত। | বিনামূল্যে | [GitHub Releases](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) |
+| ক্লায়েন্ট | বৈশিষ্ট্য / কনফিগারেশন ফরম্যাট | খরচের ধরন | অফিসিয়াল ডাউনলোড | কনফিগারেশন নির্দেশিকা |
+| --- | --- | --- | --- | --- |
+| **v2rayNG** | নোড শেয়ারিং লিংক ও প্রচলিত V2Ray সাবস্ক্রিপশন। | বিনামূল্যে | [GitHub Releases](https://github.com/2dust/v2rayNG/releases) | [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#v2rayng)<br>URI / Base64 |
+| **FlClash** | Clash / Mihomo কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/chen08209/FlClash/releases) | [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#flclash)<br>Clash / Mihomo YAML |
+| **Hiddify** | বিভিন্ন প্ল্যাটফর্মে সমর্থিত সাবস্ক্রিপশন ও কনফিগারেশন পরিচালনা। | বিনামূল্যে | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) | [অফিশিয়াল নির্দেশিকা [English]](https://hiddify.com/app/How-to-use-Hiddify-app/) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#hiddify)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Karing** | একাধিক প্রোটোকলের প্রক্সি; Clash / sing-box রাউটিং নিয়ম সমর্থন করে। | বিনামূল্যে | [অফিসিয়াল প্রকল্প ও ডাউনলোড](https://github.com/KaringX/karing) | [অফিশিয়াল নির্দেশিকা [English]](https://karing.app/en/quickstart) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#karing)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Clash Meta for Android** | Clash / Mihomo কনফিগারেশন, নিয়ম ও প্রক্সি গ্রুপ। | বিনামূল্যে | [GitHub Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest) | [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#clash-meta-android)<br>Clash / Mihomo YAML |
+| **sing-box for Android** | স্থানীয় বা দূরবর্তী sing-box JSON কনফিগারেশন; কোর সংস্করণের সঙ্গে মিলতে হবে। | বিনামূল্যে | [অফিসিয়াল ডাউনলোড নির্দেশনা](https://sing-box.sagernet.org/clients/android/) | [অফিশিয়াল নির্দেশিকা [English]](https://sing-box.sagernet.org/clients/general/) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#sing-box)<br>sing-box JSON |
+| **Surfboard** | Surge কনফিগারেশন ফরম্যাট; কিছু বৈশিষ্ট্য সামঞ্জস্যপূর্ণ নয়। | অফিসিয়াল তথ্য দেখুন | [GitHub Releases](https://github.com/getsurfboard/surfboard/releases/latest) | [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#surfboard)<br>Surfboard / Surge profile |
+| **NekoBox for Android** | sing-box-ভিত্তিক বহু-প্রোটোকল ক্লায়েন্ট; অভিজ্ঞ ব্যবহারকারীদের জন্য বিকল্প, বর্তমানে রক্ষণাবেক্ষণ সীমিত। | বিনামূল্যে | [GitHub Releases](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) | [অফিশিয়াল নির্দেশিকা [中文]](https://matsuridayo.github.io/nb4a-configuration/) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#nekobox-android)<br>URI / Base64 · Clash proxies · sing-box outbounds |
 
 NekoBox কর্তৃপক্ষ জানিয়েছে যে রক্ষণাবেক্ষণ সীমিত এবং নতুন বৈশিষ্ট্যের অনুরোধ গ্রহণ করা হয় না। তারা আরও জানিয়েছে, Google Play-এ একই নামের সংস্করণটি এখন তৃতীয় পক্ষের নিয়ন্ত্রণে; ওপরের GitHub লিংকটি ব্যবহার করুন।
 
@@ -195,18 +195,18 @@ NekoBox কর্তৃপক্ষ জানিয়েছে যে রক্
 
 ### iOS / iPadOS
 
-| ক্লায়েন্ট | বৈশিষ্ট্য / কনফিগারেশন ফরম্যাট | খরচের ধরন | অফিসিয়াল ডাউনলোড |
-| --- | --- | --- | --- |
-| **Shadowrocket** | নোড পরিচালনা ও নিয়মনির্ভর প্রক্সি। | সশুল্ক | [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118) |
-| **Stash** | সমর্থিত Clash কনফিগারেশন ও নিয়মনির্ভর ট্র্যাফিক রাউটিং। | সশুল্ক | [App Store](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
-| **sing-box for Apple platforms** | স্থানীয় বা দূরবর্তী sing-box JSON কনফিগারেশন; কোর সংস্করণের সঙ্গে মিলতে হবে। | বিনামূল্যে | [অফিসিয়াল ডাউনলোড নির্দেশনা](https://sing-box.sagernet.org/clients/apple/) |
-| **Karing** | একাধিক প্রোটোকলের প্রক্সি; Clash / sing-box রাউটিং নিয়ম সমর্থন করে। | বিনামূল্যে | [App Store](https://apps.apple.com/us/app/karing/id6472431552) |
-| **Quantumult X** | নিজস্ব কনফিগারেশন ফরম্যাটে নিয়মনির্ভর ট্র্যাফিক রাউটিং ও নেটওয়ার্ক ডিবাগিং। | সশুল্ক | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
-| **Surge** | Surge কনফিগারেশন ফরম্যাটে নিয়মনির্ভর প্রক্সি ও নেটওয়ার্ক ডিবাগিং। | বিনামূল্যে ডাউনলোড; Pro আনলক এবং ঐচ্ছিক আপডেট সাবস্ক্রিপশন | [App Store](https://apps.apple.com/us/app/surge-5/id1442620678) |
-| **Loon** | নিজস্ব কনফিগারেশন ফরম্যাটে নোড পরিচালনা, নিয়মনির্ভর ট্র্যাফিক রাউটিং ও নেটওয়ার্ক ডিবাগিং। | সশুল্ক | [App Store](https://apps.apple.com/us/app/loon/id1373567447) |
-| **Egern** | নিয়মনির্ভর ট্র্যাফিক রাউটিং ও নেটওয়ার্ক ডিবাগিং। | বিনামূল্যে ডাউনলোড; অ্যাপের মধ্যে Pro কেনার সুবিধা | [App Store](https://apps.apple.com/us/app/egern/id1616105820) |
-| **Streisand** | নোড ও সাবস্ক্রিপশন পরিচালনা; একাধিক প্রক্সি প্রোটোকল সমর্থন করে। | বিনামূল্যে | [App Store](https://apps.apple.com/us/app/streisand/id6450534064) |
-| **Potatso** | প্রক্সি কনফিগারেশন ও নিয়মনির্ভর ট্র্যাফিক রাউটিং। | বিনামূল্যে; অ্যাপের মধ্যে Pro কেনার সুবিধা | [App Store](https://apps.apple.com/us/app/potatso/id1239860606) |
+| ক্লায়েন্ট | বৈশিষ্ট্য / কনফিগারেশন ফরম্যাট | খরচের ধরন | অফিসিয়াল ডাউনলোড | কনফিগারেশন নির্দেশিকা |
+| --- | --- | --- | --- | --- |
+| **Shadowrocket** | নোড পরিচালনা ও নিয়মনির্ভর প্রক্সি। | সশুল্ক | [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118) | [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#shadowrocket)<br>Shadowrocket subscriptions / profiles |
+| **Stash** | সমর্থিত Clash কনফিগারেশন ও নিয়মনির্ভর ট্র্যাফিক রাউটিং। | সশুল্ক | [App Store](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) | [অফিশিয়াল নির্দেশিকা [English]](https://stash.wiki/en/get-started) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#stash)<br>Stash / Clash YAML |
+| **sing-box for Apple platforms** | স্থানীয় বা দূরবর্তী sing-box JSON কনফিগারেশন; কোর সংস্করণের সঙ্গে মিলতে হবে। | বিনামূল্যে | [অফিসিয়াল ডাউনলোড নির্দেশনা](https://sing-box.sagernet.org/clients/apple/) | [অফিশিয়াল নির্দেশিকা [English]](https://sing-box.sagernet.org/clients/general/) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#sing-box)<br>sing-box JSON |
+| **Karing** | একাধিক প্রোটোকলের প্রক্সি; Clash / sing-box রাউটিং নিয়ম সমর্থন করে। | বিনামূল্যে | [App Store](https://apps.apple.com/us/app/karing/id6472431552) | [অফিশিয়াল নির্দেশিকা [English]](https://karing.app/en/quickstart) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#karing)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Quantumult X** | নিজস্ব কনফিগারেশন ফরম্যাটে নিয়মনির্ভর ট্র্যাফিক রাউটিং ও নেটওয়ার্ক ডিবাগিং। | সশুল্ক | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620) | [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#quantumult-x)<br>Quantumult X / server_remote |
+| **Surge** | Surge কনফিগারেশন ফরম্যাটে নিয়মনির্ভর প্রক্সি ও নেটওয়ার্ক ডিবাগিং। | বিনামূল্যে ডাউনলোড; Pro আনলক এবং ঐচ্ছিক আপডেট সাবস্ক্রিপশন | [App Store](https://apps.apple.com/us/app/surge-5/id1442620678) | [অফিশিয়াল নির্দেশিকা [English]](https://manual.nssurge.com/getting-started/quick-start.html) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#surge)<br>Surge INI / Managed Profile |
+| **Loon** | নিজস্ব কনফিগারেশন ফরম্যাটে নোড পরিচালনা, নিয়মনির্ভর ট্র্যাফিক রাউটিং ও নেটওয়ার্ক ডিবাগিং। | সশুল্ক | [App Store](https://apps.apple.com/us/app/loon/id1373567447) | [অফিশিয়াল নির্দেশিকা [English]](https://nsloon.app/en/docs/Node/subscription/) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#loon)<br>URI / Base64 · Loon configuration |
+| **Egern** | নিয়মনির্ভর ট্র্যাফিক রাউটিং ও নেটওয়ার্ক ডিবাগিং। | বিনামূল্যে ডাউনলোড; অ্যাপের মধ্যে Pro কেনার সুবিধা | [App Store](https://apps.apple.com/us/app/egern/id1616105820) | [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#egern)<br>Egern Profile.yaml / proxies YAML |
+| **Streisand** | নোড ও সাবস্ক্রিপশন পরিচালনা; একাধিক প্রক্সি প্রোটোকল সমর্থন করে। | বিনামূল্যে | [App Store](https://apps.apple.com/us/app/streisand/id6450534064) | [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#streisand)<br>Supported node configurations |
+| **Potatso** | প্রক্সি কনফিগারেশন ও নিয়মনির্ভর ট্র্যাফিক রাউটিং। | বিনামূল্যে; অ্যাপের মধ্যে Pro কেনার সুবিধা | [App Store](https://apps.apple.com/us/app/potatso/id1239860606) | [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#potatso)<br>Mihomo / Clash YAML · supported node links |
 
 <a id="router-plugins"></a>
 
@@ -214,12 +214,12 @@ NekoBox কর্তৃপক্ষ জানিয়েছে যে রক্
 
 নিচের প্লাগইনগুলো সংশ্লিষ্ট উপাদান সমর্থনকারী রাউটার ফার্মওয়্যারের জন্য। ইনস্টল করার আগে ফার্মওয়্যার সংস্করণ, CPU আর্কিটেকচার, প্রয়োজনীয় উপাদান ও সাবস্ক্রিপশন ফরম্যাট যাচাই করুন। ডেস্কটপ বা মোবাইলের ইনস্টলেশন প্যাকেজ সরাসরি ব্যবহার করা যাবে না।
 
-| প্লাগইন | উপযোগী পরিবেশ / কনফিগারেশন ফরম্যাট | খরচের ধরন | অফিসিয়াল প্রকল্প |
-| --- | --- | --- | --- |
-| **OpenClash** | OpenWrt; Clash / Mihomo YAML কনফিগারেশন। সাধারণ V2Ray সাবস্ক্রিপশন সাধারণত আগে সমর্থিত ফরম্যাটে রূপান্তর করতে হয়। | বিনামূল্যে ও ওপেন সোর্স | [GitHub](https://github.com/vernesong/OpenClash) |
-| **PassWall2 / PassWall** | OpenWrt; বহু-প্রোটোকল প্রক্সি। প্রয়োজনীয় উপাদান ফার্মওয়্যার, CPU আর্কিটেকচার ও নির্বাচিত কোরের ওপর নির্ভর করে। | বিনামূল্যে ও ওপেন সোর্স | [PassWall2](https://github.com/Openwrt-Passwall/openwrt-passwall2) · [PassWall](https://github.com/Openwrt-Passwall/openwrt-passwall) |
-| **Nikki** | Mihomo-ভিত্তিক; OpenWrt ≥ 24.10, Linux ≥ 5.13 ও firewall4 প্রয়োজন। | বিনামূল্যে ও ওপেন সোর্স | [GitHub](https://github.com/nikkinikki-org/OpenWrt-nikki) |
-| **HomeProxy** | sing-box-ভিত্তিক; ImmortalWrt চালিত ARM64 / AMD64 ডিভাইসের জন্য। | বিনামূল্যে ও ওপেন সোর্স | [GitHub](https://github.com/immortalwrt/homeproxy) |
+| প্লাগইন | উপযোগী পরিবেশ / কনফিগারেশন ফরম্যাট | খরচের ধরন | অফিসিয়াল প্রকল্প | কনফিগারেশন নির্দেশিকা |
+| --- | --- | --- | --- | --- |
+| **OpenClash** | OpenWrt; Clash / Mihomo YAML কনফিগারেশন। সাধারণ V2Ray সাবস্ক্রিপশন সাধারণত আগে সমর্থিত ফরম্যাটে রূপান্তর করতে হয়। | বিনামূল্যে ও ওপেন সোর্স | [GitHub](https://github.com/vernesong/OpenClash) | [অফিশিয়াল নির্দেশিকা [中文]](https://github.com/vernesong/OpenClash#快速开始) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#openclash)<br>Clash / Mihomo YAML |
+| **PassWall2 / PassWall** | OpenWrt; বহু-প্রোটোকল প্রক্সি। প্রয়োজনীয় উপাদান ফার্মওয়্যার, CPU আর্কিটেকচার ও নির্বাচিত কোরের ওপর নির্ভর করে। | বিনামূল্যে ও ওপেন সোর্স | [PassWall2](https://github.com/Openwrt-Passwall/openwrt-passwall2) · [PassWall](https://github.com/Openwrt-Passwall/openwrt-passwall) | [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#passwall)<br>Supported node URI subscriptions |
+| **Nikki** | Mihomo-ভিত্তিক; OpenWrt ≥ 24.10, Linux ≥ 5.13 ও firewall4 প্রয়োজন। | বিনামূল্যে ও ওপেন সোর্স | [GitHub](https://github.com/nikkinikki-org/OpenWrt-nikki) | [অফিশিয়াল নির্দেশিকা [中文]](https://github.com/nikkinikki-org/OpenWrt-nikki/wiki) · [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#nikki)<br>Mihomo YAML: proxies / proxy-providers |
+| **HomeProxy** | sing-box-ভিত্তিক; ImmortalWrt চালিত ARM64 / AMD64 ডিভাইসের জন্য। | বিনামূল্যে ও ওপেন সোর্স | [GitHub](https://github.com/immortalwrt/homeproxy) | [দ্রুত সেটআপ](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/bn.md#homeproxy)<br>HomeProxy node subscriptions |
 
 <a id="subscription-formats"></a>
 
@@ -234,7 +234,7 @@ NekoBox কর্তৃপক্ষ জানিয়েছে যে রক্
 
 ভিন্ন ফরম্যাট সরাসরি একটির বদলে অন্যটি ব্যবহার করা যায় না। রূপান্তরের সময় নিয়ম, DNS, প্রক্সি গ্রুপ বা প্রোটোকল প্যারামিটার হারিয়ে যেতে পারে। আমদানির আগে গন্তব্য ক্লায়েন্ট ও তার কোর সংস্করণ যাচাই করুন; Stash-এর মতো ক্লায়েন্টও সব Mihomo এক্সটেনশন সমর্থনের নিশ্চয়তা দেয় না।
 
-রূপান্তর প্রয়োজন হলে [সাবস্ক্রিপশন রূপান্তর টুল](https://acl4ssr-sub.github.io) ব্যবহার করতে পারেন। ব্যক্তিগত ক্রেডেনশিয়ালযুক্ত সাবস্ক্রিপশন কেবল বিশ্বস্ত পরিষেবাকে প্রক্রিয়াকরণের জন্য দিন।
+ব্যক্তিগত সাবস্ক্রিপশন URL ও পরিচয় যাচাইয়ের তথ্য নিজের ডিভাইসে রাখুন। এগুলো কোনো উন্মুক্ত রূপান্তর ওয়েবসাইটে জমা দেবেন না। অন্য ফরম্যাট প্রয়োজন হলে সেবাদাতার কাছ থেকে সামঞ্জস্যপূর্ণ প্রোফাইল নিন অথবা নির্দিষ্ট ক্লায়েন্টের অফিশিয়াল কনফিগারেশন নথি অনুসারে নিজের ডিভাইসে তৈরি করুন।
 
 ### ব্যবহারের ধাপ
 

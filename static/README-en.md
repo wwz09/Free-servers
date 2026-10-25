@@ -59,26 +59,26 @@ Android project and releases: [GitHub](https://github.com/Pawdroid/shadowrocket_
 
 
 ```
-vless://9487e433-862e-4b53-893a-5a4f6bc911f0@220.72.143.166:12016?security=tls&type=ws&path=/@Marisa_kristi&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&packetEncoding=xudp&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&fp=chrome#South+Korea
-vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?security=tls&type=ws&path=/Telegram🇨🇳 @VPNine1fp=chrome&host=vp58.cc.cd&packetEncoding=xudp&sni=vp58.cc.cd&fp=chrome#France
-vless://564082ff-cf3c-48db-9e10-8ad2312847b4@node21.mxvpn.dev:443?security=reality&type=tcp&packetEncoding=xudp&sni=node21.mxvpn.dev&fp=chrome&flow=xtls-rprx-vision&sid=bbc68cec8bb8d2e3&pbk=TlpXTLz1Y-v8B6q9MX55U6eypjfL0LCSNE5zQP4yRHw&encryption=none#Russia
-vless://6deab233-3abc-492a-85c9-503ef4160b47@162.55.242.208:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=88c0a94a78c5ef4b&pbk=9lz79Eqetl8jIMyXAXQzH_nItAt68C7VYGevOawpETM#Germany
-vless://401d950d-4f5c-45c7-bf44-8b69acf35f6f@www.speedtest.net:2052?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=7x70yyvt7eqotx-iq9n3rjt1xn1jwkh9.asdfsafdsaf.workers.dev&path=%2FeyJqdW5rIjoiZUV1OVVaQ2xSWiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=none&type=ws#
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.241.47:443?security=reality&type=tcp&packetEncoding=xudp&sni=eu-central.cendora.ru&fp=qq&flow=xtls-rprx-vision&sid=00bca5982f82d083&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI#United+States
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#France
-vless://a22bff60-a40a-4250-bde2-4c660e363b47@188.114.98.16:2082?security=none&type=ws&path=/rry8le3tt8f3g5j7kr&host=index.harmonica02.workers.dev&packetEncoding=xudp&encryption=none#The+Netherlands
-vmess://eyJhZGQiOiAiMzguMTEwLjEuMjQ2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE4MDAwIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@chatgpt.com:443?encryption=none&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&fp=chrome&type=ws&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=/?ed#
-trojan://FH72359861@44.251.158.80:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=obliging-louse.rooster465.autos#United+States
-vless://b80b392c-0cf4-42f9-ae54-9f862e3ba276@150.241.82.19:13443?security=reality&type=tcp&packetEncoding=xudp&sni=auto.cendora.ru&fp=firefox&flow=xtls-rprx-vision&sid=a7f3c91b2e6d84c0&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM#Spain
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@2.26.48.130:443?security=reality&type=tcp&packetEncoding=xudp&sni=eu-central.cendora.ru&fp=qq&flow=xtls-rprx-vision&sid=00bca5982f82d083&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI#United+Kingdom
-vless://7b102311-43fd-4e8f-877e-8090623c101d@103.102.228.113:443?security=tls&type=ws&path=/TelegramU0001F1E8U0001F1F3 @VPNine1fp=chrome&host=vp58.cc.cd&packetEncoding=xudp&sni=vp58.cc.cd&fp=chrome#France
-vless://d8c14c5c-a80a-4f6f-a5fb-52071849c443@172.67.159.65:443?security=tls&type=ws&path=/eyJqdW5rIjoiZTFWRGJFS0NUd2F2NkRmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==&host=cgxgqcheiamna-jks01fidlsnqojwf-s.aliama.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=CgxGqchEiAMnA-jkS01FiDlsnqOjwF-S.ALIAmA.WOrKErS.DeV&fp=chrome&encryption=none#United+States
-vless://68cf8d29-5aa0-44b3-88a9-f1a576b6e84c@107.181.151.39:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.microsoft.com&fp=firefox&flow=xtls-rprx-vision&sid=73a9e631a09b&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk#United+Kingdom
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.52:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#United+States
-vless://70c16ec7-13f7-473b-b97d-06399f1481e3@104.21.88.129:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=mute-surf-0003.209.workers.dev&packetEncoding=xudp#
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.169.220.30:8880?security=none&type=ws&path=/&host=vms.lifetime38.workers.dev&packetEncoding=xudp&encryption=none#United+States
-vmess://eyJhZGQiOiAiNDcuODYuMTY3LjE5NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJzanNrZW5kbi5kaW5ndGFsay5jb20iLCAiaWQiOiAiZjJjNjdjYWUtYzA5ZC00NzM5LTk0N2QtZjUzMDJkODdhM2MwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIveCIsICJwb3J0IjogIjgwMCIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICJISzMiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
+vless://710fc22f-06b2-4b6d-bb3e-f57c17b670a6@2.27.27.98:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.ray-balance.space&fp=firefox&flow=xtls-rprx-vision&pbk=d1NlaZfnsYjWfxRTqIBk1ldBUmdE-kRTEQ_sWd1JYwI#United+Kingdom
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.16.72.2:443?security=tls&type=ws&path=/sg-amz&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@154.196.139.50:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=asia.cendora.ru&fp=firefox&flow=xtls-rprx-vision&sid=e53048e82bb20077&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU#Singapore
+vless://82e209b2-97a6-4d67-a10b-72627b9f6702@45.195.111.15:443?security=reality&type=tcp&packetEncoding=xudp&alpn=http/1.1&sni=storage.yandex.net&fp=qq&flow=xtls-rprx-vision&sid=f4b4a6365558ea2e&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&encryption=none#Hong+Kong
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#United+States
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.228.168.117:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#United+Kingdom
+vless://d4d4d103-5074-47e9-96e6-5431f4e35c57@nodefulcrum.mooo.com:443?security=reality&type=tcp&packetEncoding=xudp&sni=nodefulcrum.mooo.com&fp=chrome&flow=xtls-rprx-vision&sid=6547735997055a35&pbk=IhbpvWBZmJEzDs4eI2zoFmL_a-1J_7Z7Sepyrn7-xF8&encryption=none#United+Kingdom
+trojan://humanity@104.18.152.103:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
+hysteria2://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.27.221:8080?security=tls&sni=borat-hopp.bumbleshrimp.com#United+States
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.146.30:8880?security=none&type=ws&path=/&host=vms.lifetime36.workers.dev&packetEncoding=xudp#United+States
+trojan://humanity@104.17.177.143:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
+vless://9cdcbaf0-d244-4f37-b227-90166e43f5b5@cf-socks.caoyuwu.eu.org:443?security=tls&type=ws&path=/&host=cf-socks.caoyuwu.eu.org&packetEncoding=xudp&sni=cf-socks.caoyuwu.eu.org&fp=chrome#
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@104.17.171.60:2083?security=tls&type=ws&path=/socks5=888:888@hkip.1d.mom:1080&host=vlso6.1d.mom&packetEncoding=xudp&sni=vlso6.1d.mom&fp=chrome#
+vless://11e9eea1-b1a9-4f02-a1a1-b24f7664b1cf@8.47.69.9:443?security=tls&type=ws&path=/eyJqdW5rIjoiYW1sczlYWkFHOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&host=ancient-heart-60c5.dpccgizieb.workers.dev&packetEncoding=xudp&sni=ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV&fp=chrome&encryption=none#Slovakia
+trojan://EQ30679154@sincere-gelding.rooster465.autos:443?security=tls&sni=sincere-gelding.rooster465.autos#United+States
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.38:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
+hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@usa0003rlbhy01.tcp-reset-club.net:443?insecure=1&security=tls&sni=usa0003rlbhy01.tcp-reset-club.net#United+States
+vless://e9b8d1c2-c46e-4385-bb58-5931cd08ddd6@84.32.44.232:15084?security=tls&type=ws&path=/@Marisa_kristi&host=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev&packetEncoding=xudp&sni=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev&fp=chrome&encryption=none#United+States
 ```
 
 
@@ -131,32 +131,32 @@ The following clients can import your own nodes or subscriptions. Choose one bas
 
 ### Windows
 
-| Client | Features / configuration format | Pricing | Official download |
-| --- | --- | --- | --- |
-| **v2rayN** | Node sharing links and common V2Ray subscriptions. | Free | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
-| **Clash Verge Rev** | Clash / Mihomo YAML configurations, rules and proxy groups. | Free | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
-| **Hiddify** | Cross-platform management of supported subscriptions and configurations. | Free | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
-| **Clash Party** | Formerly Mihomo Party; a Mihomo-based proxy client with rule-based routing. | Free | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
-| **FlClash** | Clash / Mihomo configurations, rules and proxy groups. | Free | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
-| **Karing** | Multi-protocol proxy with support for Clash / sing-box routing rules. | Free | [Official project and downloads](https://github.com/KaringX/karing) |
-| **Throne** | Desktop node and routing management based on sing-box. | Free | [Official project and downloads](https://github.com/throneproj/Throne) |
+| Client | Features / configuration format | Pricing | Official download | Configuration guide |
+| --- | --- | --- | --- | --- |
+| **v2rayN** | Node sharing links and common V2Ray subscriptions. | Free | [GitHub Releases](https://github.com/2dust/v2rayN/releases) | [Official guide [中文]](https://github.com/2dust/v2rayN/wiki/Description-of-some-ui) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#v2rayn)<br>URI / Base64 |
+| **Clash Verge Rev** | Clash / Mihomo YAML configurations, rules and proxy groups. | Free | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [Official guide [中文]](https://www.clashverge.dev/guide/quickstart.html) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#clash-verge-rev)<br>Clash / Mihomo YAML |
+| **Hiddify** | Cross-platform management of supported subscriptions and configurations. | Free | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) | [Official guide [English]](https://hiddify.com/app/How-to-use-Hiddify-app/) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#hiddify)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Clash Party** | Formerly Mihomo Party; a Mihomo-based proxy client with rule-based routing. | Free | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) | [Official guide [中文]](https://clashparty.org/docs/handson) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#clash-party)<br>Clash / Mihomo YAML |
+| **FlClash** | Clash / Mihomo configurations, rules and proxy groups. | Free | [GitHub Releases](https://github.com/chen08209/FlClash/releases) | [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#flclash)<br>Clash / Mihomo YAML |
+| **Karing** | Multi-protocol proxy with support for Clash / sing-box routing rules. | Free | [Official project and downloads](https://github.com/KaringX/karing) | [Official guide [English]](https://karing.app/en/quickstart) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#karing)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Throne** | Desktop node and routing management based on sing-box. | Free | [Official project and downloads](https://github.com/throneproj/Throne) | [Official guide [English]](https://throneproj.github.io/get_started/configuration/) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#throne)<br>URI / Base64 · sing-box JSON · Clash YAML proxies |
 
 <a id="clients-macos"></a>
 
 ### macOS
 
-| Client | Features / configuration format | Pricing | Official download |
-| --- | --- | --- | --- |
-| **v2rayN** | Node sharing links and common V2Ray subscriptions. | Free | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
-| **Clash Verge Rev** | Clash / Mihomo YAML configurations, rules and proxy groups. | Free | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
-| **Hiddify** | Cross-platform management of supported subscriptions and configurations. | Free | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
-| **Clash Party** | Formerly Mihomo Party; a Mihomo-based proxy client with rule-based routing. | Free | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
-| **FlClash** | Clash / Mihomo configurations, rules and proxy groups. | Free | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
-| **Karing** | Multi-protocol proxy with support for Clash / sing-box routing rules. | Free | [Official project and downloads](https://github.com/KaringX/karing) |
-| **Throne** | Desktop node and routing management based on sing-box. | Free | [Official project and downloads](https://github.com/throneproj/Throne) |
-| **Surge Mac** | Rule-based proxying and network debugging using the Surge configuration format. | Paid; separate licenses for Mac and iOS | [Official website](https://nssurge.com/) |
-| **Quantumult X** | Rule-based routing and network debugging using its own configuration format. | Paid | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
-| **sing-box for Apple platforms** | Local or remote sing-box JSON configurations; the core version must be compatible. | Free | [Official download instructions](https://sing-box.sagernet.org/clients/apple/) |
+| Client | Features / configuration format | Pricing | Official download | Configuration guide |
+| --- | --- | --- | --- | --- |
+| **v2rayN** | Node sharing links and common V2Ray subscriptions. | Free | [GitHub Releases](https://github.com/2dust/v2rayN/releases) | [Official guide [中文]](https://github.com/2dust/v2rayN/wiki/Description-of-some-ui) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#v2rayn)<br>URI / Base64 |
+| **Clash Verge Rev** | Clash / Mihomo YAML configurations, rules and proxy groups. | Free | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [Official guide [中文]](https://www.clashverge.dev/guide/quickstart.html) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#clash-verge-rev)<br>Clash / Mihomo YAML |
+| **Hiddify** | Cross-platform management of supported subscriptions and configurations. | Free | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) | [Official guide [English]](https://hiddify.com/app/How-to-use-Hiddify-app/) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#hiddify)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Clash Party** | Formerly Mihomo Party; a Mihomo-based proxy client with rule-based routing. | Free | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) | [Official guide [中文]](https://clashparty.org/docs/handson) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#clash-party)<br>Clash / Mihomo YAML |
+| **FlClash** | Clash / Mihomo configurations, rules and proxy groups. | Free | [GitHub Releases](https://github.com/chen08209/FlClash/releases) | [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#flclash)<br>Clash / Mihomo YAML |
+| **Karing** | Multi-protocol proxy with support for Clash / sing-box routing rules. | Free | [Official project and downloads](https://github.com/KaringX/karing) | [Official guide [English]](https://karing.app/en/quickstart) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#karing)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Throne** | Desktop node and routing management based on sing-box. | Free | [Official project and downloads](https://github.com/throneproj/Throne) | [Official guide [English]](https://throneproj.github.io/get_started/configuration/) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#throne)<br>URI / Base64 · sing-box JSON · Clash YAML proxies |
+| **Surge Mac** | Rule-based proxying and network debugging using the Surge configuration format. | Paid; separate licenses for Mac and iOS | [Official website](https://nssurge.com/) | [Official guide [English]](https://manual.nssurge.com/getting-started/quick-start.html) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#surge)<br>Surge INI / Managed Profile |
+| **Quantumult X** | Rule-based routing and network debugging using its own configuration format. | Paid | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620) | [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#quantumult-x)<br>Quantumult X / server_remote |
+| **sing-box for Apple platforms** | Local or remote sing-box JSON configurations; the core version must be compatible. | Free | [Official download instructions](https://sing-box.sagernet.org/clients/apple/) | [Official guide [English]](https://sing-box.sagernet.org/clients/general/) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#sing-box)<br>sing-box JSON |
 
 Before downloading, check the Intel / Apple Silicon architecture and macOS system requirements. Surge Mac and the iOS version are licensed separately.
 
@@ -164,30 +164,30 @@ Before downloading, check the Intel / Apple Silicon architecture and macOS syste
 
 ### Linux
 
-| Client | Features / configuration format | Pricing | Official download |
-| --- | --- | --- | --- |
-| **v2rayN** | Node sharing links and common V2Ray subscriptions. | Free | [GitHub Releases](https://github.com/2dust/v2rayN/releases) |
-| **Clash Verge Rev** | Clash / Mihomo YAML configurations, rules and proxy groups. | Free | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) |
-| **Hiddify** | Cross-platform management of supported subscriptions and configurations. | Free | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
-| **Clash Party** | Formerly Mihomo Party; a Mihomo-based proxy client with rule-based routing. | Free | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) |
-| **FlClash** | Clash / Mihomo configurations, rules and proxy groups. | Free | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
-| **Karing** | Multi-protocol proxy with support for Clash / sing-box routing rules. | Free | [Official project and downloads](https://github.com/KaringX/karing) |
-| **Throne** | Desktop node and routing management based on sing-box. | Free | [Official project and downloads](https://github.com/throneproj/Throne) |
+| Client | Features / configuration format | Pricing | Official download | Configuration guide |
+| --- | --- | --- | --- | --- |
+| **v2rayN** | Node sharing links and common V2Ray subscriptions. | Free | [GitHub Releases](https://github.com/2dust/v2rayN/releases) | [Official guide [中文]](https://github.com/2dust/v2rayN/wiki/Description-of-some-ui) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#v2rayn)<br>URI / Base64 |
+| **Clash Verge Rev** | Clash / Mihomo YAML configurations, rules and proxy groups. | Free | [GitHub Releases](https://github.com/clash-verge-rev/clash-verge-rev/releases) | [Official guide [中文]](https://www.clashverge.dev/guide/quickstart.html) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#clash-verge-rev)<br>Clash / Mihomo YAML |
+| **Hiddify** | Cross-platform management of supported subscriptions and configurations. | Free | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) | [Official guide [English]](https://hiddify.com/app/How-to-use-Hiddify-app/) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#hiddify)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Clash Party** | Formerly Mihomo Party; a Mihomo-based proxy client with rule-based routing. | Free | [GitHub Releases](https://github.com/mihomo-party-org/clash-party/releases) | [Official guide [中文]](https://clashparty.org/docs/handson) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#clash-party)<br>Clash / Mihomo YAML |
+| **FlClash** | Clash / Mihomo configurations, rules and proxy groups. | Free | [GitHub Releases](https://github.com/chen08209/FlClash/releases) | [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#flclash)<br>Clash / Mihomo YAML |
+| **Karing** | Multi-protocol proxy with support for Clash / sing-box routing rules. | Free | [Official project and downloads](https://github.com/KaringX/karing) | [Official guide [English]](https://karing.app/en/quickstart) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#karing)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Throne** | Desktop node and routing management based on sing-box. | Free | [Official project and downloads](https://github.com/throneproj/Throne) | [Official guide [English]](https://throneproj.github.io/get_started/configuration/) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#throne)<br>URI / Base64 · sing-box JSON · Clash YAML proxies |
 
 <a id="clients-android"></a>
 
 ### Android
 
-| Client | Features / configuration format | Pricing | Official download |
-| --- | --- | --- | --- |
-| **v2rayNG** | Node sharing links and common V2Ray subscriptions. | Free | [GitHub Releases](https://github.com/2dust/v2rayNG/releases) |
-| **FlClash** | Clash / Mihomo configurations, rules and proxy groups. | Free | [GitHub Releases](https://github.com/chen08209/FlClash/releases) |
-| **Hiddify** | Cross-platform management of supported subscriptions and configurations. | Free | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) |
-| **Karing** | Multi-protocol proxy with support for Clash / sing-box routing rules. | Free | [Official project and downloads](https://github.com/KaringX/karing) |
-| **Clash Meta for Android** | Clash / Mihomo configurations, rules and proxy groups. | Free | [GitHub Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest) |
-| **sing-box for Android** | Local or remote sing-box JSON configurations; the core version must be compatible. | Free | [Official download instructions](https://sing-box.sagernet.org/clients/android/) |
-| **Surfboard** | Surge configuration format; some features are not compatible. | See the official information | [GitHub Releases](https://github.com/getsurfboard/surfboard/releases/latest) |
-| **NekoBox for Android** | A multi-protocol client based on sing-box; an alternative for advanced users, with limited maintenance. | Free | [GitHub Releases](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) |
+| Client | Features / configuration format | Pricing | Official download | Configuration guide |
+| --- | --- | --- | --- | --- |
+| **v2rayNG** | Node sharing links and common V2Ray subscriptions. | Free | [GitHub Releases](https://github.com/2dust/v2rayNG/releases) | [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#v2rayng)<br>URI / Base64 |
+| **FlClash** | Clash / Mihomo configurations, rules and proxy groups. | Free | [GitHub Releases](https://github.com/chen08209/FlClash/releases) | [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#flclash)<br>Clash / Mihomo YAML |
+| **Hiddify** | Cross-platform management of supported subscriptions and configurations. | Free | [GitHub Releases](https://github.com/hiddify/hiddify-app/releases) | [Official guide [English]](https://hiddify.com/app/How-to-use-Hiddify-app/) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#hiddify)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Karing** | Multi-protocol proxy with support for Clash / sing-box routing rules. | Free | [Official project and downloads](https://github.com/KaringX/karing) | [Official guide [English]](https://karing.app/en/quickstart) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#karing)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Clash Meta for Android** | Clash / Mihomo configurations, rules and proxy groups. | Free | [GitHub Releases](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest) | [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#clash-meta-android)<br>Clash / Mihomo YAML |
+| **sing-box for Android** | Local or remote sing-box JSON configurations; the core version must be compatible. | Free | [Official download instructions](https://sing-box.sagernet.org/clients/android/) | [Official guide [English]](https://sing-box.sagernet.org/clients/general/) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#sing-box)<br>sing-box JSON |
+| **Surfboard** | Surge configuration format; some features are not compatible. | See the official information | [GitHub Releases](https://github.com/getsurfboard/surfboard/releases/latest) | [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#surfboard)<br>Surfboard / Surge profile |
+| **NekoBox for Android** | A multi-protocol client based on sing-box; an alternative for advanced users, with limited maintenance. | Free | [GitHub Releases](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases) | [Official guide [中文]](https://matsuridayo.github.io/nb4a-configuration/) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#nekobox-android)<br>URI / Base64 · Clash proxies · sing-box outbounds |
 
 The official NekoBox project states that maintenance is limited and new feature requests are not accepted. It also warns that the version with the same name on Google Play is now controlled by a third party; use the GitHub link above.
 
@@ -195,18 +195,18 @@ The official NekoBox project states that maintenance is limited and new feature 
 
 ### iOS / iPadOS
 
-| Client | Features / configuration format | Pricing | Official download |
-| --- | --- | --- | --- |
-| **Shadowrocket** | Node management and rule-based proxying. | Paid | [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118) |
-| **Stash** | Supported Clash configurations and rule-based routing. | Paid | [App Store](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) |
-| **sing-box for Apple platforms** | Local or remote sing-box JSON configurations; the core version must be compatible. | Free | [Official download instructions](https://sing-box.sagernet.org/clients/apple/) |
-| **Karing** | Multi-protocol proxy with support for Clash / sing-box routing rules. | Free | [App Store](https://apps.apple.com/us/app/karing/id6472431552) |
-| **Quantumult X** | Rule-based routing and network debugging using its own configuration format. | Paid | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620) |
-| **Surge** | Rule-based proxying and network debugging using the Surge configuration format. | Free download; Pro unlock, plus an optional update subscription | [App Store](https://apps.apple.com/us/app/surge-5/id1442620678) |
-| **Loon** | Node management, rule-based routing and network debugging using its own configuration format. | Paid | [App Store](https://apps.apple.com/us/app/loon/id1373567447) |
-| **Egern** | Rule-based routing and network debugging. | Free download; Pro available as an in-app purchase | [App Store](https://apps.apple.com/us/app/egern/id1616105820) |
-| **Streisand** | Node and subscription management with support for multiple proxy protocols. | Free | [App Store](https://apps.apple.com/us/app/streisand/id6450534064) |
-| **Potatso** | Proxy configuration and rule-based routing. | Free; Pro available as an in-app purchase | [App Store](https://apps.apple.com/us/app/potatso/id1239860606) |
+| Client | Features / configuration format | Pricing | Official download | Configuration guide |
+| --- | --- | --- | --- | --- |
+| **Shadowrocket** | Node management and rule-based proxying. | Paid | [App Store](https://apps.apple.com/us/app/shadowrocket/id932747118) | [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#shadowrocket)<br>Shadowrocket subscriptions / profiles |
+| **Stash** | Supported Clash configurations and rule-based routing. | Paid | [App Store](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349) | [Official guide [English]](https://stash.wiki/en/get-started) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#stash)<br>Stash / Clash YAML |
+| **sing-box for Apple platforms** | Local or remote sing-box JSON configurations; the core version must be compatible. | Free | [Official download instructions](https://sing-box.sagernet.org/clients/apple/) | [Official guide [English]](https://sing-box.sagernet.org/clients/general/) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#sing-box)<br>sing-box JSON |
+| **Karing** | Multi-protocol proxy with support for Clash / sing-box routing rules. | Free | [App Store](https://apps.apple.com/us/app/karing/id6472431552) | [Official guide [English]](https://karing.app/en/quickstart) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#karing)<br>URI / Base64 · Clash YAML · sing-box JSON |
+| **Quantumult X** | Rule-based routing and network debugging using its own configuration format. | Paid | [App Store](https://apps.apple.com/us/app/quantumult-x/id1443988620) | [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#quantumult-x)<br>Quantumult X / server_remote |
+| **Surge** | Rule-based proxying and network debugging using the Surge configuration format. | Free download; Pro unlock, plus an optional update subscription | [App Store](https://apps.apple.com/us/app/surge-5/id1442620678) | [Official guide [English]](https://manual.nssurge.com/getting-started/quick-start.html) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#surge)<br>Surge INI / Managed Profile |
+| **Loon** | Node management, rule-based routing and network debugging using its own configuration format. | Paid | [App Store](https://apps.apple.com/us/app/loon/id1373567447) | [Official guide [English]](https://nsloon.app/en/docs/Node/subscription/) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#loon)<br>URI / Base64 · Loon configuration |
+| **Egern** | Rule-based routing and network debugging. | Free download; Pro available as an in-app purchase | [App Store](https://apps.apple.com/us/app/egern/id1616105820) | [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#egern)<br>Egern Profile.yaml / proxies YAML |
+| **Streisand** | Node and subscription management with support for multiple proxy protocols. | Free | [App Store](https://apps.apple.com/us/app/streisand/id6450534064) | [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#streisand)<br>Supported node configurations |
+| **Potatso** | Proxy configuration and rule-based routing. | Free; Pro available as an in-app purchase | [App Store](https://apps.apple.com/us/app/potatso/id1239860606) | [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#potatso)<br>Mihomo / Clash YAML · supported node links |
 
 <a id="router-plugins"></a>
 
@@ -214,12 +214,12 @@ The official NekoBox project states that maintenance is limited and new feature 
 
 The following plugins are intended for router firmware that supports the required components. Before installation, check the firmware version, CPU architecture, dependencies and subscription format. Desktop or mobile installation packages cannot be used directly.
 
-| Plugin | Supported environment / configuration format | Pricing | Official project |
-| --- | --- | --- | --- |
-| **OpenClash** | OpenWrt; Clash / Mihomo YAML configurations. Standard V2Ray subscriptions usually need to be converted to a supported format first. | Free and open source | [GitHub](https://github.com/vernesong/OpenClash) |
-| **PassWall2 / PassWall** | OpenWrt; multi-protocol proxying. Required components vary by firmware, CPU architecture and selected core. | Free and open source | [PassWall2](https://github.com/Openwrt-Passwall/openwrt-passwall2) · [PassWall](https://github.com/Openwrt-Passwall/openwrt-passwall) |
-| **Nikki** | Based on Mihomo; requires OpenWrt ≥ 24.10, Linux ≥ 5.13 and firewall4. | Free and open source | [GitHub](https://github.com/nikkinikki-org/OpenWrt-nikki) |
-| **HomeProxy** | Based on sing-box; designed for ARM64 / AMD64 devices running ImmortalWrt. | Free and open source | [GitHub](https://github.com/immortalwrt/homeproxy) |
+| Plugin | Supported environment / configuration format | Pricing | Official project | Configuration guide |
+| --- | --- | --- | --- | --- |
+| **OpenClash** | OpenWrt; Clash / Mihomo YAML configurations. Standard V2Ray subscriptions usually need to be converted to a supported format first. | Free and open source | [GitHub](https://github.com/vernesong/OpenClash) | [Official guide [中文]](https://github.com/vernesong/OpenClash#快速开始) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#openclash)<br>Clash / Mihomo YAML |
+| **PassWall2 / PassWall** | OpenWrt; multi-protocol proxying. Required components vary by firmware, CPU architecture and selected core. | Free and open source | [PassWall2](https://github.com/Openwrt-Passwall/openwrt-passwall2) · [PassWall](https://github.com/Openwrt-Passwall/openwrt-passwall) | [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#passwall)<br>Supported node URI subscriptions |
+| **Nikki** | Based on Mihomo; requires OpenWrt ≥ 24.10, Linux ≥ 5.13 and firewall4. | Free and open source | [GitHub](https://github.com/nikkinikki-org/OpenWrt-nikki) | [Official guide [中文]](https://github.com/nikkinikki-org/OpenWrt-nikki/wiki) · [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#nikki)<br>Mihomo YAML: proxies / proxy-providers |
+| **HomeProxy** | Based on sing-box; designed for ARM64 / AMD64 devices running ImmortalWrt. | Free and open source | [GitHub](https://github.com/immortalwrt/homeproxy) | [Quick setup](https://github.com/Pawdroid/Free-servers/blob/main/docs/client-tutorials/en.md#homeproxy)<br>HomeProxy node subscriptions |
 
 <a id="subscription-formats"></a>
 
@@ -234,7 +234,7 @@ The following plugins are intended for router firmware that supports the require
 
 Different formats are not directly interchangeable. Conversion may lose rules, DNS, proxy groups or protocol parameters. Before importing, check the target client and its core version; clients such as Stash do not guarantee support for all Mihomo extensions.
 
-If conversion is needed, you can use the [subscription conversion tool](https://acl4ssr-sub.github.io). Subscriptions containing private credentials should only be processed by trusted services.
+Keep private subscription URLs and credentials on your own device. Do not submit them to public conversion websites. If a different format is needed, obtain a compatible profile from your provider or prepare it locally using the target client's official configuration documentation.
 
 ### Getting started
 
