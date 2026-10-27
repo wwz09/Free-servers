@@ -59,24 +59,16 @@ Android 项目与版本：[GitHub](https://github.com/Pawdroid/shadowrocket_for_
 
 
 ```
-trojan://humanity@82.117.245.125:2053?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@177.202.111.20:56137#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
-vless://37ca5f34-2531-4fda-a781-20f3845fea88@193.233.221.86:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=capableconjuretarnish.clarionconsult.info&pbk=2iedjEliJfyf7VYxQjSHRiY0RY9ylwj-GtO4MCfuQhg&sid=a50534e181896415#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@168.222.193.184:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=lvq2jh6X7yT88vvcV9GUriwtWL0HeqaLHr773Vgb5ks&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=168.222.193.184.sslip.io&sid=b8307998cdaf0d55#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-hysteria2://c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3@201.58.181.179:4443?insecure=1&security=tls&sni=pl1.shvpn.ru#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
-vless://9ff5db63-88ff-4276-ab71-ac2b5cb2a740@45.92.218.130:443?security=reality&encryption=none&pbk=I0vZxWIjZYvtzlcvGaW01Q1U3M-vHD8iI8BM5KTuuiM&headerType=none&fp=chrome&spx=/a38e5cd3c84c243&type=tcp&sni=delivery.mp.microsoft.com&sid=d3feff5d570d6b#%E6%AC%A7%E7%9B%9F+V2CROSS.COM
-vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&security=&type=tcp#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E7%94%B5%E4%BF%A1
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@188.132.232.187:1443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&sid=7b6803a79bba5c52&sni=tr.peregrine-sub.net#%E5%9C%9F%E8%80%B3%E5%85%B6+V2CROSS.COM
-vless://e0216964-ffa1-4d39-82c4-0e40879a470d@91.196.163.150:8443?security=reality&encryption=none&pbk=XYkuP_Keu-yL7EQ8xZc4RTmcVAfp06Z1onV2ZNrlsHM&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stable.nullo.pro&sid=c31f187b#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@109.176.229.51:443?security=reality&encryption=none&pbk=4FgTYQNtmGhIj137SdjagESDb61Kl6Anj_de5JP7YBs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ad9.vkusnews.com#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-vless://ef328563-cda1-4530-9b0a-988cc5a74d78@softice.net:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=softice.net&type=tcp&headerType=none&host=softice.net&path=%2F#%E5%B7%B4%E6%9E%97+V2CROSS.COM
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-vless://d342d11e-d224-4463-b982-532309285094@172.67.76.40:443?security=tls&type=ws&path=%2F&host=ccc.010304.xyz&packetEncoding=none&sni=ccc.010304.xyz&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-vless://6c713691-3ca2-4446-ad25-113d1bed6b03@78.17.178.125:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.tbank.ru&fp=chrome&pbk=jcp4Lj_qYzxtkalm_XFjrmvqEMGRG7sb19yMwLe16WE&sid=e0215064d8d1fd7c&type=tcp&headerType=none#%E7%88%B1%E5%B0%94%E5%85%B0+V2CROSS.COM
-ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ==@154.36.158.197:8388#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://XpnTeam-54@199.232.78.170:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ssl.fastly.com&type=ws&headerType=none&host=Appxdn.global.ssl.fastly.net&path=%2F#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://e0216964-ffa1-4d39-82c4-0e40879a470d@194.59.183.2:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ger.nullo.pro&fp=chrome&pbk=e8vusEkL9FTC7oxFCp8biOWMFH-e-1IN21V6YNynGDg&sid=6350d1647a4880&type=tcp&headerType=none#%E5%BE%B7%E5%9B%BD+V2CROSS.COM
+vless://5c331d12-f0b0-48d8-ba6e-ec945ef889ea@188.241.241.36:8443?security=reality&encryption=none&pbk=GUqm415-hOCPsm5OJnca6iwSmgMUbX_UmEqWT9Ch60I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d100.relay.logicnova.ru#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
+hysteria2://94c2b91777f8de3a5bc12d2a91b732c2@promo3.betust.net:443?insecure=1&security=tls&sni=promo3.betust.net#%E7%AB%8B%E9%99%B6%E5%AE%9B+V2CROSS.COM
+vless://846cedee-2a52-4a62-a0b9-11850ead6a8b@46.8.43.125:443?security=reality&type=tcp&packetEncoding=xudp&sni=kz-central.v8x2b.lol&fp=chrome&pbk=ER-T5En54-sn6IXy7jU8vQVcBbOiWvznnezf3qZ273w#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@177.202.111.22:56137#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
+vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?security=reality&encryption=none&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&headerType=none&fp=chrome&type=tcp&sni=ph-nl-s3784.cybercat.network&sid=ecf1d9f7caa6ba67#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@177.202.111.20:56137#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
+vless://37ca5f34-2531-4fda-a781-20f3845fea88@94.228.167.12:443?&security=reality&flow=xtls-rprx-vision&pbk=dCaQHVtwEPBeiH3ivVU9ycGJZ8uCO2JaIVjYBnfaTWY&sid=c13c9bd7bd45847d&fp=firefox&sni=washingphonicseatable.solsticedigest.me&type=tcp&headerType=none&host=washingphonicseatable.solsticedigest.me&path=%2F#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://2ea2719c-23e1-4cde-b192-c8652d55d9e5@cfnode-11ivy8.pages.dev:443?encryption=none&security=tls&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://f73538f3-737d-41d8-b1e7-8a6bd8d2e7c0@nl1.cleanset.net:45821?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=chrome&pbk=RymFn9pFlHaMQpps5joHsmg0fOeWcaQiMOLR5IIfuWY&type=tcp&headerType=none#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM
 ```
 
 
