@@ -59,16 +59,17 @@ Android 项目与版本：[GitHub](https://github.com/Pawdroid/shadowrocket_for_
 
 
 ```
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-vless://5c331d12-f0b0-48d8-ba6e-ec945ef889ea@188.241.241.36:8443?security=reality&encryption=none&pbk=GUqm415-hOCPsm5OJnca6iwSmgMUbX_UmEqWT9Ch60I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=d100.relay.logicnova.ru#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
-hysteria2://94c2b91777f8de3a5bc12d2a91b732c2@promo3.betust.net:443?insecure=1&security=tls&sni=promo3.betust.net#%E7%AB%8B%E9%99%B6%E5%AE%9B+V2CROSS.COM
+vless://37ca5f34-2531-4fda-a781-20f3845fea88@193.233.221.86:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=capableconjuretarnish.clarionconsult.info&pbk=2iedjEliJfyf7VYxQjSHRiY0RY9ylwj-GtO4MCfuQhg&sid=a50534e181896415#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
+vmess://eyJhZGQiOiAiY2YuODc3NzcxLnh5eiIsICJhaWQiOiAwLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsICJpZCI6ICIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzP2VkPTIwNDgiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogInZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://8e1e1f9e-089e-4653-87fc-7cc3b0135dc4@edge-2.navard.net:80?security=none&encryption=none&headerType=http&type=tcp#%E4%BC%8A%E6%9C%97+V2CROSS.COM
 vless://846cedee-2a52-4a62-a0b9-11850ead6a8b@46.8.43.125:443?security=reality&type=tcp&packetEncoding=xudp&sni=kz-central.v8x2b.lol&fp=chrome&pbk=ER-T5En54-sn6IXy7jU8vQVcBbOiWvznnezf3qZ273w#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@177.202.111.22:56137#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
-vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?security=reality&encryption=none&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&headerType=none&fp=chrome&type=tcp&sni=ph-nl-s3784.cybercat.network&sid=ecf1d9f7caa6ba67#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@177.202.111.20:56137#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
-vless://37ca5f34-2531-4fda-a781-20f3845fea88@94.228.167.12:443?&security=reality&flow=xtls-rprx-vision&pbk=dCaQHVtwEPBeiH3ivVU9ycGJZ8uCO2JaIVjYBnfaTWY&sid=c13c9bd7bd45847d&fp=firefox&sni=washingphonicseatable.solsticedigest.me&type=tcp&headerType=none&host=washingphonicseatable.solsticedigest.me&path=%2F#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-vless://2ea2719c-23e1-4cde-b192-c8652d55d9e5@cfnode-11ivy8.pages.dev:443?encryption=none&security=tls&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://f73538f3-737d-41d8-b1e7-8a6bd8d2e7c0@nl1.cleanset.net:45821?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=chrome&pbk=RymFn9pFlHaMQpps5joHsmg0fOeWcaQiMOLR5IIfuWY&type=tcp&headerType=none#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@91.206.92.238:18443#%E4%BF%84%E7%BD%97%E6%96%AF+%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9AJustHost
+vless://45ceaca9-30f4-4035-85b7-8f83493911d8@104.26.4.3:443?security=tls&type=ws&path=%2Fproxyip%3D163.192.47.40%2C47.57.181.17%2C34.83.245.149%2C4.155.83.212%2C64.227.62.172%2C24.144.68.139%2C161.35.232.123%2C107.170.248.68&host=tamoai.ccwu.cc&packetEncoding=xudp&sni=tamoai.ccwu.cc&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@177.202.111.19:56137#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
+vless://XpnTeam-56@199.232.78.170:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://9ff5db63-88ff-4276-ab71-ac2b5cb2a740@45.92.218.130:443?security=reality&encryption=none&pbk=I0vZxWIjZYvtzlcvGaW01Q1U3M-vHD8iI8BM5KTuuiM&headerType=none&fp=chrome&spx=/a38e5cd3c84c243&type=tcp&sni=delivery.mp.microsoft.com&sid=d3feff5d570d6b#%E6%AC%A7%E7%9B%9F+V2CROSS.COM
+vless://d342d11e-d224-4463-b982-532309285094@cf.130519.xyz:443?security=tls&type=ws&path=%2F&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 ```
 
 
