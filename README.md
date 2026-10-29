@@ -59,15 +59,13 @@ Android 项目与版本：[GitHub](https://github.com/Pawdroid/shadowrocket_for_
 
 
 ```
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-vless://6c713691-3ca2-4446-ad25-113d1bed6b03@78.17.178.125:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.tbank.ru&fp=chrome&pbk=jcp4Lj_qYzxtkalm_XFjrmvqEMGRG7sb19yMwLe16WE&sid=e0215064d8d1fd7c&type=tcp&headerType=none#%E7%88%B1%E5%B0%94%E5%85%B0+V2CROSS.COM
-vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@s12.bsh-net.ru:443?security=reality&type=tcp&packetEncoding=xudp&sni=s12.bsh-net.ru&fp=chrome&flow=xtls-rprx-vision&sid=51079f144d661484&pbk=QvT-t_h_AF2EAT4Ggh_a6pcCK3StY8G9WCXn6-dJbxk&encryption=none#%E7%BE%8E%E5%9B%BD+Xerox
-vless://d342d11e-d224-4463-b982-532309285094@cf.090227.xyz:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromefp=chrome&security=tls#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.27:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-vless://7cc18adc-1ef0-42c9-8e7b-722d7622c7dd@req.apptrendv.com:2083?sni=email.apptrendv.com&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#%E4%BC%8A%E6%9C%97+V2CROSS.COM
-vless://c720cb74-4c84-4fce-b8ae-637dbaa16199@z1q3pv4g78.rucdncomp.pro:443?encryption=none&security=tls&sni=z1q3pv4g78.rucdncomp.pro&fp=random&alpn=http%2F1.1&type=ws&host=z1q3pv4g78.rucdncomp.pro&path=%2Fuseraction%2Fevents%2Fb892639b7195%2F#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-vless://2446e2e2-1ce3-4502-9050-1dd32bacc68c@tr2.h1cloud.net:25021?&security=reality&flow=xtls-rprx-vision&pbk=od79bUkYtqQtsGrrTdhmkDflx5c9al4vqxwWApvc-Dg&sid=17fa3af0924c88b3&fp=chrome&sni=www.samsung.com&type=tcp&headerType=none&host=www.samsung.com&path=%2F#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@au001.zestapp778.com:35652?&security=tls&fp=chrome&sni=au001.zestapp778.com&type=tcp&headerType=none&host=au001.zestapp778.com&path=%2F#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A+%E6%82%89%E5%B0%BCChoopa%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
+vless://846cedee-2a52-0002-a0b9-11850ead6a8b@nl-central.v8x2b.lol:443?&security=reality&flow=xtls-rprx-vision&pbk=q3UXFUE5yYxNE4ugLUnYdpc9WRtR-sjsDTrKsiqzDHE&fp=chrome&sni=nl-central.v8x2b.lol&type=tcp&headerType=none&host=nl-central.v8x2b.lol&path=%2F#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
+vless://2446e2e2-1ce3-4502-9050-1dd32bacc68c@875f9760-be1a-4dfe-8c2b-3f080b5ab158.node1.runet.network:20065?encryption=none&security=tls&type=tcp&sni=875f9760-be1a-4dfe-8c2b-3f080b5ab158.node1.runet.network&flow=xtls-rprx-vision#%E5%BE%B7%E5%9B%BD+GHOSTnet+GmbH
+vless://399b6b23-cc40-4831-a494-61948e2df133@jp.sofast.live:52683?encryption=none&security=&type=tcp#%E5%8C%97%E4%BA%AC%E5%B8%82+%E6%83%9F%E8%AF%91%E5%A4%A9%E5%88%9B%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
+vless://d342d11e-d224-4463-b982-532309285094@104.18.41.190:443?path=/&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 ```
 
 
