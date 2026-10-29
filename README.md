@@ -60,16 +60,14 @@ Android 项目与版本：[GitHub](https://github.com/Pawdroid/shadowrocket_for_
 
 ```
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-vless://5a519754-a673-4462-83f6-5eb25d2af141@79.182.39.57:443?&security=reality&pbk=5KZVzOFqMgdL47--JzLlg5HmPlAYp-cmQsXxkTXngS0&sid=8d50d3a4df71468c&fp=firefox&sni=f36f5ft.us4.h1clayd.click&type=tcp&headerType=none&host=f36f5ft.us4.h1clayd.click&path=%2F#%E4%BB%A5%E8%89%B2%E5%88%97+V2CROSS.COM
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-hysteria2://46647da9-d4b4-407f-bea6-ad0b1abc561f@192.236.226.182:2053?insecure=1&security=tls&sni=192.236.226.182#%E7%BE%8E%E5%9B%BD+%E4%BF%84%E5%85%8B%E6%8B%89%E4%BD%95%E9%A9%AC%E5%B7%9E%E6%AC%A7%E5%A1%9E%E5%A5%87%E3%80%81%E7%BD%97%E6%9D%B0%E6%96%AF%E3%80%81%E5%A1%94%E5%B0%94%E8%90%A8%E4%B8%8E%E7%93%A6%E6%88%88%E7%BA%B3%E5%8E%BF%E5%A1%94%E5%B0%94%E8%90%A8%E5%B8%82HostWinds%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
-trojan://3aa78b49-5530-45a2-93cb-b093745824f1@www.visa.com.sg:2096?path=/ya87&security=tls&insecure=0&host=au4.yang-1989.xyz&type=ws&allowInsecure=0&sni=au4.yang-1989.xyz#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://e5c3d067-7a15-4977-90c0-7e0f6e896a09@216.167.126.97:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=0123456789abcdef&pbk=yFvOpugh65xKQNAwKrhitv4d2pflD8QwNFMj-jDOmT8#%E7%BE%8E%E5%9B%BD+%E7%A7%91%E7%BD%97%E6%8B%89%E5%A4%9A%E5%B7%9ENTT%28%E7%BE%8E%E5%9B%BD%29%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNT0R6aVdMYTlxTXVXLTR5UGEwcmZ3@msk2.rvpn.app:8388#%E7%91%9E%E5%85%B8+V2CROSS.COM
-vless://5a519754-a673-4462-83f6-5eb25d2af141@f36f5ft.us4.h1clayd.click:443?&security=reality&pbk=5KZVzOFqMgdL47--JzLlg5HmPlAYp-cmQsXxkTXngS0&sid=8d50d3a4df71468c&fp=chrome&sni=f36f5ft.us4.h1clayd.click&type=tcp&headerType=none&host=f36f5ft.us4.h1clayd.click&path=%2F#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.28.224:40443?&security=reality&flow=xtls-rprx-vision&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sid=68a8&fp=firefox&sni=deepl.com&type=tcp&headerType=none&host=deepl.com&path=%2F#%E5%BE%B7%E5%9B%BD+V2CROSS.COM
+vless://6c713691-3ca2-4446-ad25-113d1bed6b03@78.17.178.125:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdn.tbank.ru&fp=chrome&pbk=jcp4Lj_qYzxtkalm_XFjrmvqEMGRG7sb19yMwLe16WE&sid=e0215064d8d1fd7c&type=tcp&headerType=none#%E7%88%B1%E5%B0%94%E5%85%B0+V2CROSS.COM
+vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@s12.bsh-net.ru:443?security=reality&type=tcp&packetEncoding=xudp&sni=s12.bsh-net.ru&fp=chrome&flow=xtls-rprx-vision&sid=51079f144d661484&pbk=QvT-t_h_AF2EAT4Ggh_a6pcCK3StY8G9WCXn6-dJbxk&encryption=none#%E7%BE%8E%E5%9B%BD+Xerox
+vless://d342d11e-d224-4463-b982-532309285094@cf.090227.xyz:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chromefp=chrome&security=tls#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.27:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
+vless://7cc18adc-1ef0-42c9-8e7b-722d7622c7dd@req.apptrendv.com:2083?sni=email.apptrendv.com&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#%E4%BC%8A%E6%9C%97+V2CROSS.COM
+vless://c720cb74-4c84-4fce-b8ae-637dbaa16199@z1q3pv4g78.rucdncomp.pro:443?encryption=none&security=tls&sni=z1q3pv4g78.rucdncomp.pro&fp=random&alpn=http%2F1.1&type=ws&host=z1q3pv4g78.rucdncomp.pro&path=%2Fuseraction%2Fevents%2Fb892639b7195%2F#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://2446e2e2-1ce3-4502-9050-1dd32bacc68c@tr2.h1cloud.net:25021?&security=reality&flow=xtls-rprx-vision&pbk=od79bUkYtqQtsGrrTdhmkDflx5c9al4vqxwWApvc-Dg&sid=17fa3af0924c88b3&fp=chrome&sni=www.samsung.com&type=tcp&headerType=none&host=www.samsung.com&path=%2F#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 ```
 
 
