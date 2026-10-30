@@ -59,19 +59,19 @@ Android 项目与版本：[GitHub](https://github.com/Pawdroid/shadowrocket_for_
 
 
 ```
-trojan://humanity@82.117.245.125:2053?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
-vmess://eyJhZGQiOiAiMTcyLjY3LjE4Ny4xNDUiLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCAiaWQiOiAiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93cyIsICJwb3J0IjogODAsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
+trojan://humanity@172.67.203.46:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My45MDoxOTk5OQ==#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
+trojan://humanity@172.67.203.46:443?alpn=http%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.cordweave.com&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@212.183.88.136:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%E5%A5%A5%E5%9C%B0%E5%88%A9+V2CROSS.COM
+ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdUAxNTQuMzYuMTU4LjE5Nzo4Mzg4#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My44MToxOTk5OQ==#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
+trojan://humanity@131.196.254.151:443?alpn=http%2F1.1&fp=unsafe&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#%E6%AC%A7%E6%B4%B2+V2CROSS.COM
 vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?security=reality&type=raw&packetEncoding=xudp&sni=wordpress.com&fp=firefox&sid=50ad5564&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
+trojan://humanity@89.150.34.41:2053?allowInsecure=1&fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%E6%84%8F%E5%A4%A7%E5%88%A9+V2CROSS.COM
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.17.162.11:2082?security=none&type=ws&path=%2F&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://6ddd64ac-972b-4809-8399-9ada51b64837@94.249.195.81:43000?&security=reality&flow=xtls-rprx-vision&pbk=pR4VpawT5rTi2LKtKvRtAiaW5p1ZGRNiao6_5TAkawI&sid=c6552fdd&fp=chrome&type=tcp&headerType=none&path=%2F#%E5%BE%B7%E5%9B%BD+GHOSTnet+GmbH
-vless://XpnTeam-64@199.232.78.160:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=ssl.fastly.com&type=ws&headerType=none&host=Appxdn.global.ssl.fastly.net&path=%2F#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-hysteria2://https%3A%2F%2Fxship.best@starlink-ft.251313.xyz:443?insecure=1&security=tls&sni=xship.top#%E7%BE%8E%E5%9B%BD+Nokia
-trojan://humanity@45.128.76.242:443?alpn=http%2F1.1&fp=unsafe&path=%2Fassignment&security=tls&sni=www.trusteeforward.com&type=ws#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://humanity@185.114.72.31:2053?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%E4%BC%8A%E6%9C%97+V2CROSS.COM
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My43MjoxOTk5OQ==#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
 ```
 
 
