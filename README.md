@@ -59,18 +59,21 @@ Android 项目与版本：[GitHub](https://github.com/Pawdroid/shadowrocket_for_
 
 
 ```
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.20.6.134:8080?security=none&type=ws&path=%2Fsg-melbi&host=hhlfy.twiladaphne.ndjp.net&packetEncoding=xudp&sni=hhlfy.twiladaphne.ndjp.net#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.240:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=firefox&flow=xtls-rprx-vision&sid=88b6&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0#%E5%BE%B7%E5%9B%BD+V2CROSS.COM
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-trojan://gHQP0D7D15@104.25.239.113:2053?fp=chrome&path=%2F&security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://0afc6426-606c-48e7-bd70-3c424a416842@us22.sofast.live:58011?encryption=none&security=&type=tcp#%E5%8C%97%E4%BA%AC%E5%B8%82+%E6%83%9F%E8%AF%91%E5%A4%A9%E5%88%9B%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@152.175.6.229:31884?encryption=none&security=tls&sni=hk010.zestapp778.com&fp=chrome&type=tcp&headerType=none#%E6%99%BA%E5%88%A9+V2CROSS.COM
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.185:443?security=tls&type=ws&path=%2Ftyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?security=reality&type=tcp&packetEncoding=xudp&sni=www.chip.de&fp=chrome&sid=23732d14a527990d&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&encryption=none#%E4%BB%A5%E8%89%B2%E5%88%97+V2CROSS.COM
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.90:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-vmess://eyJhZGQiOiAid3d3LndpbmRvd3Ntc2lkb3dubG9hZHMuY29tIiwgImFpZCI6IDAsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiODBiZTJkZWItM2IyNy00Nzc1LTliZDEtN2YyYTJiOWMyNjFiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi90cnV0aCIsICJwb3J0IjogNDQzLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAid3d3LndpbmRvd3Ntc2lkb3dubG9hZHMuY29tIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://d342d11e-d224-4463-b982-532309285094@172.67.151.38:443?security=tls&type=ws&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://gHQP0D7D15@172.67.118.45:2053?allowInsecure=1&fp=chrome&path=%2F&security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+hysteria2://69e41e64-a832-471a-b740-94577ca85520@forshynewh.duckdns.org:443?security=tls&sni=forshynewh.duckdns.org#%E4%BC%8A%E6%9C%97+V2CROSS.COM
+vless://254f28cb-d0c1-41e9-a06b-f2155213ff04@177.177.215.45:444?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=ams2.shtil.io&type=tcp&headerType=none&path=%2F#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
+vless://2446e2e2-1ce3-4502-9050-1dd32bacc68c@875f9760-be1a-4dfe-8c2b-3f080b5ab158.node1.runet.network:20065?encryption=none&security=tls&type=tcp&sni=875f9760-be1a-4dfe-8c2b-3f080b5ab158.node1.runet.network&flow=xtls-rprx-vision#%E5%BE%B7%E5%9B%BD+GHOSTnet+GmbH
+vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?encryption=none&security=tls&sni=hvtlr-ru-47sb.fade.mom&fp=edge&type=tcp&headerType=none&host=hvtlr-ru-47sb.fade.mom#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?encryption=none&security=tls&type=tcp&sni=hvtlr-ru-47sb.fade.mom#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+hysteria2://69e41e64-a832-471a-b740-94577ca85520@forshynewh.duckdns.org:443?insecure=1&security=tls&sni=forshynewh.duckdns.org#%E4%BC%8A%E6%9C%97+V2CROSS.COM
+vless://989d58b8-d2ea-4d28-b5ff-0f3cd078f2cf@104.18.27.94:8080?security=none&type=ws&path=%2F&host=sdf23g-billowing-moon-348e.mzm468gc.workers.dev&packetEncoding=xudp&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?encryption=none&security=tls&sni=hvtlr-ru-47sb.fade.mom&fp=edge&alpn=http%2F1.1%2Ch2&type=tcp&headerType=none#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://254f28cb-d0c1-41e9-a06b-f2155213ff04@177.177.215.45:444?security=tls&type=tcp&packetEncoding=xudp&sni=ams2.shtil.io&fp=chrome&flow=xtls-rprx-vision&encryption=none#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
+hysteria2://69e41e64-a832-471a-b740-94577ca85520@217.60.73.56:443?insecure=1&sni=forshynewh.duckdns.org&security=tls#%E4%BC%8A%E6%9C%97+V2CROSS.COM
+vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.28.224:40443?security=reality&type=raw&packetEncoding=xudp&sni=deepl.com&fp=firefox&flow=xtls-rprx-vision&sid=68a8&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw#%E5%BE%B7%E5%9B%BD+V2CROSS.COM
+vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@13.140.80.136:443?security=reality&type=tcp&packetEncoding=xudp&sni=tradingview.com&fp=firefox&flow=xtls-rprx-vision&sid=8f3c6e2a1b5d4f09&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38#%E7%BE%8E%E5%9B%BD+Xerox
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.218:443?fp=chrome&security=tls&sni=learn.discoverfreshgraduatejobsstartyourprofessionaljourney.com&type=tcp#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?encryption=none&security=tls&sni=hvtlr-ru-47sb.fade.mom&fp=qq&type=tcp&headerType=none&host=hvtlr-ru-47sb.fade.mom#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.26:443?security=tls&sni=blog.searchnationwidecareerchangehelperandguidancetoday.com#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 ```
 
 
