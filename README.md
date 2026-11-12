@@ -59,26 +59,15 @@ Android 项目与版本：[GitHub](https://github.com/Pawdroid/shadowrocket_for_
 
 
 ```
-vless://c6320c2e-15b3-4c3f-9d5a-d371828ea818@5.104.74.69:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uk-room06.filesnap.tech&fp=firefox&pbk=D9IxnCLtXuDLR1yBNZwWdxxbNDfsZgN3C9IsqKgG8Ec&sid=17a35165f9d25923&type=tcp&headerType=none#%E4%BC%8A%E6%8B%89%E5%85%8B+V2CROSS.COM
-vless://af185070-7170-46a8-b1e9-d61a035f4691@179.253.98.66:8443?security=reality&encryption=none&pbk=am-3rjmrITvv3q3smauPEtMZYnwvt-48611YJfKQhig&fp=chrome&spx=/&type=grpc&sni=skskks.top&sid=e722d6ff#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
-vless://0dedd47d-47b9-4ed1-9c9f-cbeecad57a68@43.163.112.174:443?security=reality&type=tcp&packetEncoding=none&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=0123456789abcdef&pbk=mXQudYHNu0pebcdk1_qn-UgcmwhjaV7y9UrYu3HX7Rg&encryption=none#%E6%97%A5%E6%9C%AC+V2CROSS.COM
-hysteria2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443?security=tls&sni=speedtestmark.com#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@at1.japancase.site:443?security=reality&type=tcp&sni=at1.japancase.site&flow=xtls-rprx-vision&fp=edge&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f#%E7%91%9E%E5%A3%AB+V2CROSS.COM
-hysteria2://https%3A%2F%2Fxship.best@starlink-ft.251313.xyz:443?insecure=1&security=tls&sni=xship.top#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://7e92da20-d9da-4d78-a64c-d032bc998e54@167.233.25.137:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=h-sTqV9wF_ZHio3JzDJ0QE11PUXH8fK-wKO7-aN581Y&sid=f6db8516b3d67b62&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://1b8a6692-d057-41f8-a108-7a02daefcfd6@212.69.135.27:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uk-room05.filesnap.tech&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&sid=7da3ba09a037e956&type=tcp&headerType=none#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
-vless://176b50a0-cce0-416d-bc4c-6694271985dd@5.104.74.70:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=48j01Jsa4o8zfmCGEFoVjn-YeALM80-DSG_-nAZUBDM&sid=dbef98744832b751&sni=uk-room07.filesnap.tech#%E4%BC%8A%E6%8B%89%E5%85%8B+V2CROSS.COM
-vless://0806e6e2-e01d-482c-b530-be3b57d486d4@191.217.211.161:443?security=reality&encryption=none&pbk=5H_MmyfvF4SkwS84wTbLmtcZDecXJIJtZ3uisiKQpSM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl1.song69.fun&sid=0c774b50#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-vless://e1b32562-91ba-404f-946e-d4c41293a67b@212.69.135.26:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=uk-room05.filesnap.tech&type=tcp#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
-ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ==@154.36.158.197:8388#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My42MzoxOTk5OQ==#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.site#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@104.21.89.41:443?security=tls&type=ws&path=%2F&host=u.srilankangrill.online&packetEncoding=xudp&sni=u.srilankangrill.online&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My40NToxOTk5OQ==#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-vless://16cd1338-ecb9-44f3-8f0c-919242370ef2@5.104.74.69:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=D9IxnCLtXuDLR1yBNZwWdxxbNDfsZgN3C9IsqKgG8Ec&security=reality&sid=17a35165f9d25923&sni=uk-room06.filesnap.tech&type=tcp#%E4%BC%8A%E6%8B%89%E5%85%8B+V2CROSS.COM
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@at1.japancase.site:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f&sni=at1.japancase.site#%E7%91%9E%E5%A3%AB+V2CROSS.COM
-vless://c1f87d4d-3ea2-4378-925a-b4942e930a7d@5.104.74.25:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uk-room07.filesnap.tech&fp=firefox&pbk=48j01Jsa4o8zfmCGEFoVjn-YeALM80-DSG_-nAZUBDM&sid=dbef98744832b751&type=tcp&headerType=none#%E4%BC%8A%E6%8B%89%E5%85%8B+V2CROSS.COM
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.199.122.2:443?&security=reality&flow=xtls-rprx-vision&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&fp=firefox&sni=7aa271t.es1.h1clayd.click&type=tcp&headerType=none&host=7aa271t.es1.h1clayd.click&path=%2F#%E5%A1%9E%E8%88%8C%E5%B0%94+V2CROSS.COM
+vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.169.9.125:443?security=tls&type=ws&path=%2F&host=d1afk2ndm8pox3.cloudfront.net&packetEncoding=xudp&alpn=http%2F1.1&sni=d1afk2ndm8pox3.cloudfront.net&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+Amazon+EC2%E6%9C%8D%E5%8A%A1%E5%99%A8
+vless://c16e8cdb-65dd-4049-bc65-14c051b8a6c6@2.26.251.236:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mental-deprivation.ru&fp=firefox&pbk=1iVMMhJZgXHRY7tRlR-1kypF0YeaBcB7EjcfHRsYZX4&sid=4ff31b18d1bd8227&spx=%2F5f73ebfc9ef9c37&type=tcp&headerType=none#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+vless://c16e8cdb-65dd-4049-bc65-14c051b8a6c6@2.26.251.236:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=1iVMMhJZgXHRY7tRlR-1kypF0YeaBcB7EjcfHRsYZX4&security=reality&sid=4ff31b18d1bd8227&sni=mental-deprivation.ru&type=tcp#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.169.9.125:443?encryption=none&security=tls&sni=d4afoyczh5tek.cloudfront.net&fp=chrome&alpn=http%2F1.1&type=ws&host=d4afoyczh5tek.cloudfront.net&path=%2F#%E7%BE%8E%E5%9B%BD+Amazon+EC2%E6%9C%8D%E5%8A%A1%E5%99%A8
+vless://0afc6426-606c-48e7-bd70-3c424a416842@us22.sofast.live:58011?encryption=none&security=none&fp=chrome&type=tcp&headerType=none#%E5%8C%97%E4%BA%AC%E5%B8%82+%E6%83%9F%E8%AF%91%E5%A4%A9%E5%88%9B%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
+vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.169.9.125:443?security=tls&type=ws&path=%2F&host=d2ex4nxd2e01ub.cloudfront.net&packetEncoding=xudp&alpn=http%2F1.1&sni=d2ex4nxd2e01ub.cloudfront.net&fp=chrome&encryption=none#%E7%BE%8E%E5%9B%BD+Amazon+EC2%E6%9C%8D%E5%8A%A1%E5%99%A8
+vless://0afc6426-606c-48e7-bd70-3c424a416842@us22.sofast.live:58011?encryption=none&security=&type=tcp#%E5%8C%97%E4%BA%AC%E5%B8%82+%E6%83%9F%E8%AF%91%E5%A4%A9%E5%88%9B%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 ```
 
 
@@ -98,6 +87,12 @@ vless://c1f87d4d-3ea2-4378-925a-b4942e930a7d@5.104.74.25:8443?encryption=none&fl
 <img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub-cloudflare.png' width=250 height=250 alt='Cloudflare备用订阅二维码'>
 
 ## 其他产品与下载入口
+
+### 零集 · 免费 APP
+
+零集汇集小说阅读、影视播放和网络工具等免费应用，提供应用介绍、适用设备与下载入口。下载与使用免费，方便发现和获取实用 APP。
+
+[前往零集，发现免费应用](https://apps.null2null.com/)
 
 ### ShadowShare
 
@@ -120,6 +115,13 @@ Surflare 提供 VPN 与代理服务：
 **优惠码：`pawdroid`。** 实际优惠及适用套餐以结算页面为准。
 
 [官方网站](https://www.surflare.com/)
+
+## 广告合作与推广位预订
+
+本仓库开放广告合作，欢迎应用、软件及相关服务预订推广位。可展示产品介绍、官方网站和下载入口，具体位置与合作方式欢迎咨询。
+
+- **Telegram 联系**: [@shadowrocket_android_master](https://t.me/shadowrocket_android_master)
+- **Telegram 交流群**: [@shadowrocket_android](https://t.me/shadowrocket_android)
 
 ## 其他客户端
 
