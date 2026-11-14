@@ -59,26 +59,26 @@ Android 프로젝트 및 릴리스: [GitHub](https://github.com/Pawdroid/shadowr
 
 
 ```
-vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&type=ws&path=/&host=rayan-007.nastaran.dpdns.org&packetEncoding=xudp&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&fp=chrome&encryption=none#United+States
-trojan://humanity@104.18.152.219:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=%2Fassignment#
-vless://4ff70740-8c80-48ae-985f-2afe4924e908@chatgpt.com:8443?security=tls&type=ws&path=/sync&host=pubb.clnahanpnln.workers.dev&packetEncoding=xudp&sni=pubb.clnahanpnln.workers.dev&fp=chrome&encryption=none#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#South+Africa
-vless://9ec16323-954c-4b09-aec9-367e18844fa8@channel.t-me-sh4dow-vpn.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoiWlNHcnk5RHUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0=&host=channel.t-me-sh4dow-vpn.workers.dev&ed=2560&packetEncoding=xudp&alpn=http/1.1&sni=cHAnnel.T-mE-sH4DOW-Vpn.WOrkerS.dEv&fp=chrome&encryption=none#United+States
-vless://a04814d9-d006-4e7b-ae20-8ab304b3b429@151.242.17.99:8443/?type=grpc&encryption=none&flow=&sni=de.emvservice.com&fp=chrome&security=reality&pbk=6Yskxg5U0WxPGtuCAAGH9uD57T4U8LeGrErTBNvIrwM&sid=bc#Iran
-trojan://Telegram_healer_config@104.21.24.95:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FzJi4ccv7FeEo780U%3Fed%3D2560&security=tls&sni=1V95V6TjywCyTbAHl7f7Lx8b27G.L4495eYcqmsE9he0yVoEMJFc4IBYf-4.wORkERS.DeV&type=ws#
-trojan://humanity@104.18.152.140:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#United+States
-vless://13da3f61-36bc-4f4f-9b49-4152de570bd3@172.67.161.109:443?security=tls&type=ws&path=/awsDCktnglce5OhBQMBK8JLBwh2V&host=8-m14.AYUTthaya-1.kDNs.Fr&packetEncoding=xudp&sni=8-M14.ayuTtHaYA-1.Kdns.FR&fp=chrome#United+States
-vless://c49a0981-6d37-4ec0-9a01-1b63ccc07e4f@104.21.46.219:2096?security=tls&type=ws&path=/eyJqdW5rIjoiZHlCcVpqeEYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OjExOjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==&host=peekconfig.hamrahfree1.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=pEeKcOnFig.haMRaHfREe1.wOrKerS.DEv&fp=chrome&encryption=none#
-vless://98b6cb05-b5ab-4c82-8683-07de28f796a9@172.67.89.31:2086?security=none&type=ws&path=/eyJqdW5rIjoiRHF6VWU4SmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0&host=holy-glitter-39f9.wwewee2dasdds.workers.dev&packetEncoding=xudp&encryption=none#United+States
-trojan://humanity@104.18.152.103:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
-vless://737678dc-cc15-4643-85a4-ca9359df1aa4@104.25.3.165:443?security=tls&type=ws&path=/&host=patient-moon-c61f.ggfsa55.workers.dev&packetEncoding=xudp&sni=patient-moon-c61f.ggfsa55.workers.dev&fp=chrome#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.29:443#United+Kingdom
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@195.184.247.223:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=6z3YcVP0f2pK3iANKIkBUZOgNeErDjxY83mHZG5jrnI&security=reality&sid=f63805c3ecc7a483&sni=savesafe.co&type=tcp#United+Kingdom
-vless://86930779-64ec-46a5-97d9-55e3107f3ce3@23.251.47.71:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=dde3c2dca27ae6e7&pbk=E6TSsyOKiYD_V3m3-4BTZVJBbHDgn2dEDg6cCDpASxU&encryption=none#United+States
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@91.193.59.251:2053?security=tls&type=ws&path=/socks5=888:888@hkip.1d.mom:1080&host=vlso6.1d.mom&packetEncoding=xudp&sni=vlso6.1d.mom&fp=chrome&encryption=none#United+Kingdom
-trojan://humanity@www.ignitelimit.com:443?security=tls&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
-vless://78b9ac78-ebdf-4e51-8114-f6b0cd6d2169@server15.peekconf1-741.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoiOUZIcXVMV3FlbnoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OjExOjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==?ed=2560&host=server15.peekconf1-741.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=sErVER15.PEeKCOnF1-741.wOrkErs.Dev&fp=chrome&encryption=none#
+ss://YWVzLTI1Ni1nY206Q3pEV0lDdDFET2k4RjVqcQ==@149.102.132.180:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#United+Kingdom
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&security=tls&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#Hong+Kong
+hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@nl01ntrhy01.tcp-reset-club.net:443?insecure=1&security=tls&sni=nl01ntrhy01.tcp-reset-club.net#The+Netherlands
+vmess://eyJhZGQiOiAiMTA0LjE3Ljc3Ljc3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInYycmF5MS5kb3phcHAueHl6IiwgImlkIjogIjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbE1uc1pVTjQvIiwgInBvcnQiOiAiODQ0MyIsICJwcyI6ICIiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAidjJyYXkxLmRvemFwcC54eXoiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@104.17.20.214:443?security=tls&type=ws&path=/&host=refighehosein.salamdadash123.workers.dev&packetEncoding=xudp&sni=refighehosein.salamdadash123.workers.dev&fp=chrome&encryption=none#
+trojan://Telegram_healer_config@172.67.132.19:443?path=%2Ftr%2FbDodLFtTQwCZ6EX3ffMYJ06j9EjLse4d%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=VRE6R9qRbQI0t25TG.SRTB0M3hdbwr2cJZ8fjUr.WoRKeRS.dev#United+States
+trojan://humanity@45.87.41.18:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#The+Netherlands
+vless://50414e45-4c5f-5a45-5553-ef859652a80e@104.20.17.127:443?security=tls&type=ws&path=/stream/TrexBridge/ef859652a80e&host=trex-panel-nubj0s.samifakor.workers.dev&packetEncoding=xudp&sni=trex-panel-nubj0s.samifakor.workers.dev&fp=chrome&encryption=none#
+vless://d67af820-f54c-48ab-862c-19086357f276@node5.get-tres.ru:443?security=reality&encryption=none&pbk=dhLgVSqPBDrdbhyTS2j60LWZDGEZh-smkcjUNSic-WI&host=MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPMTMVPN---MTMVPN---MTMVPN---MTMVPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=telegraf.lv&sid=e5f67890#France
+trojan://humanity@2.144.21.112:40443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#United+Kingdom
+trojan://humanity@104.16.174.6:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#
+trojan://humanity@104.18.152.225:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
+vless://00ff7e5f-9b6f-4401-aab9-4d044660411f@172.64.145.158:8880?security=none&type=ws&path=/&host=summer-bonus-aa63.52-c03.workers.dev&packetEncoding=xudp#United+States
+vless://419b7a2c-9fa2-4870-b58a-0498ccc7d6c4@server16.peekconfig.workers.dev:443?security=tls&type=ws&path=/eyJqdW5rIjoiYXdUWFpSYnZubU5hIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIiwiWzI2MDI6ZmM1OToxMTo2NDo6XSIsIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0=?ed=2560&host=server16.peekconfig.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=sERveR16.pEeKCoNFIg.worKerS.DeV&fp=chrome&encryption=none#
+trojan://EQ30679154@sincere-gelding.rooster465.autos:443?security=tls&sni=sincere-gelding.rooster465.autos#United+States
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&type=ws&path=/&host=uae.unixzone.us&packetEncoding=xudp&encryption=none#United+Arab+Emirates
+vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@152.53.114.186:443?security=reality&type=tcp&packetEncoding=xudp&sni=as.tunnelx.space&fp=firefox&flow=xtls-rprx-vision&sid=4e9b0c2d1a3f5768&pbk=UO3EObgU3xUrhIGEE0gfCn5ZOz8YxNcwwW6ZaYzD3SA#Austria
+hy2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443/?insecure=1&security=tls&sni=admin.wwwinternetvideo.click#United+States
 ```
 
 

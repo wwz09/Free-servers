@@ -59,18 +59,16 @@ Android 项目与版本：[GitHub](https://github.com/Pawdroid/shadowrocket_for_
 
 
 ```
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.80:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=7aa271t.es1.h1clayd.click&fp=firefox&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&type=tcp&headerType=none#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.90:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20028?allowInsecure=1&security=tls&sni=hk.catxstar.com#%E9%A6%99%E6%B8%AF+%E8%91%B5%E5%85%B4%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.63:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@104.26.6.109:2053?security=tls&type=ws&path=%2F&host=pilot4f8f.pages.dev&packetEncoding=xudp&sni=pilot4f8f.pages.dev&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@48.102.214.167:4444?alpn=h3&insecure=0&security=tls&sni=fl5.edgeport.cloud#%E7%BE%8E%E5%9B%BD+%E7%BA%BD%E7%BA%A6%28Prudential%29
-trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20027?security=tls&sni=hk.catxstar.com#%F0%9F%87%B9%F0%9F%87%B7TR_10%7C1.5MB/s%7CR002-260618%20%5Bd3da65e425b1%5D
-ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ==@154.36.158.197:8388#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20028?security=tls&sni=hk.catxstar.com#%F0%9F%87%B9%F0%9F%87%B7TR_13%7C1.4MB/s%7CR002-260618%20%5B36800b12f01c%5D
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
-vless://9443badf-414f-4b12-b19a-7cc2c7431163@188.114.96.246:8443?encryption=none&security=tls&sni=moz.ar-marz.fun&type=ws&path=%2Fman#%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97+CloudFlare%E8%8A%82%E7%82%B9
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.90:19999#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@196.245.52.187:443?security=reality&type=tcp&packetEncoding=xudp&sni=04535dt.us8.h1clayd.click&fp=firefox&sid=ba2a3dce62b99092&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&encryption=none#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
+vmess://eyJhZGQiOiAiNjUuMTA4LjI0MC4yMTAiLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmYTE1Njg0YS04MWU2LTRiYTctYmM0Yi1mNjAxYzBkOTk4ZTkiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogMzkwMTgsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQWxhYmFuemEiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.149.80:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=7aa271t.es1.h1clayd.click&fp=chrome&pbk=ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE&sid=42426c882c5fcd41&type=tcp&headerType=none&host=7aa271t.es1.h1clayd.click#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
+vmess://eyJhZGQiOiAiNjUuMTA4LjI0MC4yMTAiLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI3N2ZiN2E4MC00NzI0LTRlMzMtOTU1OC00ZjIwYzE2MzRjNWEiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogMzkwMTgsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQWxhYmFuemEiLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20027?allowInsecure=1&security=tls&sni=hk.catxstar.com#%F0%9F%87%B9%F0%9F%87%B7%20%E5%9C%9F%E8%80%B3%E5%85%B6%20%7C%20TUR
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMjAyLjUwLjI1My4yNzoxOTk5OQ==#%E6%96%B0%E8%A5%BF%E5%85%B0+V2CROSS.COM
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:54528?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=ios&flow=xtls-rprx-vision&sid=54cca3c1c1c7&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://d7563108-615c-4338-a7bd-77f359869a4a@sclass-b1.catcat321.com:20028?security=tls&sni=hk.catxstar.com#%F0%9F%87%B9%F0%9F%87%B7TR_9%7C1.4MB/s%7CC002-260622%20%5B7f0f1fb3a2ca%5D
 ```
 
 

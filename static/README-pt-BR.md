@@ -59,26 +59,26 @@ Projeto e versões para Android: [GitHub](https://github.com/Pawdroid/shadowrock
 
 
 ```
-vless://36a857e4-f3d4-43aa-8b90-d7da849da989@104.18.12.149:443?security=tls&type=ws&path=/eyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&host=002.inc-electrocell-001-002.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=002.Inc-ElectROcElL-001-002.WoRKERS.DEV&fp=chrome&encryption=none#
-trojan://Telegram_healer_config@soskeynets.z6-0hlnubjibwzpa85.workers.dev:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FGaQvfFwT5sWgVxHig8YaXjtiuQPZNI%3Fed%3D2560&security=tls&sni=6m1rGyIEclMRx9HeF1.Z6-0hlNUbJIBwZPa85.wOrKerS.DEV&type=ws#EUA
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.219.161:443?security=reality&type=tcp&packetEncoding=xudp&sni=eu-west.cendora.ru&fp=chrome&flow=xtls-rprx-vision&sid=dd3ff38418d29d22&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&encryption=none#EUA
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.16.72.2:443?security=tls&type=ws&path=/sg-amz&host=support.zoom.us.yxls.eu.cc&packetEncoding=xudp&sni=support.zoom.us.yxls.eu.cc&fp=chrome#
-vless://d51ed55c-d6dd-400b-aaf6-017c33969bfe@47.89.186.170:55861?security=reality&type=tcp&packetEncoding=xudp&sni=www.intel.com&fp=firefox&flow=xtls-rprx-vision&sid=7551ed1b&pbk=t2ndf6SeVxinFCo5bcemnW_ZZhAtmHWiAkllks5qPWs&encryption=none#EUA
-vless://50414e45-4c5f-5a45-5553-4d64f1370eeb@88.216.69.144:443?security=tls&type=ws&path=/stream/PANEL_ZEUS/4d64f1370eeb/loc-0&host=r5zenrelur2s.pqzdileiu8es.workers.dev&packetEncoding=xudp&sni=r5zenrelur2s.pqzdileiu8es.workers.dev&fp=ios&encryption=none#Litu%C3%A2nia
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#Canad%C3%A1
-vless://cd5cf6e7-7ce5-42c9-9316-68210fa72a32@13.193.205.133:27407?security=reality&type=raw&packetEncoding=xudp&sni=bgcpartners.com&fp=chrome&sid=e6ac18b63f23&pbk=SajK6LzHBkkFlEXjIwseyqbpezgPiop5ZnSToou3G04#EUA
-hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.81:8080/?insecure=1&security=tls&sni=hopp-legend-se.roxa.org#Hong+Kong
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#Fran%C3%A7a
-vless://50414e45-4c5f-5a45-5553-ef859652a80e@104.21.72.47:443?security=tls&type=ws&path=/stream/TrexBridge/ef859652a80e&host=trex-panel-nubj0s.samifakor.workers.dev&packetEncoding=xudp&sni=trex-panel-nubj0s.samifakor.workers.dev&fp=chrome&encryption=none#
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#EUA
-vless://50c91104-c1fc-471e-914f-3ad252a0a34c@cf7.466688.xyz:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net@https://t.me/QiangLieTuiJian&host=quiet-snowflake-e1dd.374-ac3.workers.dev&packetEncoding=xudp&encryption=none#
+vless://401d950d-4f5c-45c7-bf44-8b69acf35f6f@7x70yyvt7eqotx-iq9n3rjt1xn1jwkh9.asdfsafdsaf.workers.dev:2052?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=7x70yyvt7eqotx-iq9n3rjt1xn1jwkh9.asdfsafdsaf.workers.dev&path=%2FeyJqdW5rIjoic3pLZkVUMlIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=none&type=ws#
+vless://7c9b4360-6be9-47f2-ace9-b87297ea3d8f@157.90.165.181:11762?security=reality&type=raw&packetEncoding=xudp&sni=swdist.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU#Alemanha
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&sni=hhlfy.twiladaphne.ndjp.net#EUA
+vless://fee1da7e-a258-4456-8e5e-8ecf6518ed12@104.21.19.76:2096?security=tls&type=ws&path=/eyJqdW5rIjoiemxGMEFDU1VDRyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&host=ez-82c7e7.abobaba.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=ez-82c7e7.aBoBaBA.WorkeRS.dEv&fp=chrome&encryption=none#
+vless://3bb6fd82-3a15-eaea-6168-4dac2b70079e@141.101.114.105:443?security=tls&type=ws&path=/sync&host=nahan-fog-af01.dfghttr2012.workers.dev&packetEncoding=xudp&sni=nahan-fog-af01.dfghttr2012.workers.dev&fp=chrome&encryption=none#
+vless://32349ee8-8551-45fa-a265-8704cec72936@neth.lckdwn.ru:443?encryption=none&security=&type=ws#Alemanha
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.64.146.116:443?security=tls&type=ws&path=/44.209.52.7-443&host=support.zoom.us.blackshadow.dpdns.org&packetEncoding=xudp&sni=support.zoom.us.blackshadow.dpdns.org&fp=chrome#EUA
+hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@faq.wwwinternetvideo.click:443?insecure=1&security=tls&sni=cabinet.wwwinternetvideo.click#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#Reino+Unido
+vless://96563f88-f743-4395-a3b2-27ec462ae45e@35.241.98.220:443?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=ec2c7091fe76336c&pbk=bSK8gtmPMlw7gP415tmh6kQzzFiwzxBsT3Kuqql6cRo#Hong+Kong
 vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=221873918e0bb74d&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI#%C3%8Dndia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.28:8080#Reino+Unido
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@support.zoom.us:443?security=tls&type=ws&path=/sg-amz&host=support.zoom.us.yxls.eu.cc&packetEncoding=none&allowInsecure=1&sni=support.zoom.us.yxls.eu.cc&fp=chrome#EUA
-vless://615d9f74-4d51-bad3-f240-2a8400000012@104.19.229.21:443?security=tls&type=ws&path=/silaber&host=main.packetloss-com.workers.dev&packetEncoding=xudp&sni=main.packetloss-com.workers.dev&fp=firefox&encryption=none#
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.200:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs&encryption=none#Espanha
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@162.159.152.205:443?security=tls&type=ws&path=/&host=vless2-8vx.pages.dev&packetEncoding=xudp&sni=vless2-8vx.pages.dev&fp=chrome#
-vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@167.233.219.201:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&sid=f648da8196bdb32e&pbk=3ei2ET7SLe8rAO3KOlUWyXy0U22zb86VNOqUCshRVl8&encryption=none#Alemanha
+vless://6179ce37-97b2-4ac7-9591-b4b2bfaca09d@109.121.44.81:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amd.com&fp=firefox&flow=xtls-rprx-vision&sid=0a4b7c3d&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4#%C3%81frica+do+Sul
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQkRSbzlUSHg0Q3FpRlU3aDVnZm92NzZvTnd6WlVSQWgwWndiV2pCS2RkdFVodno=@103.120.178.193:31348#%C3%8Dndia
+vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?security=reality&type=raw&packetEncoding=xudp&sni=www.paypal.com&fp=chrome&flow=xtls-rprx-vision&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY#EUA
+trojan://humanity@104.16.174.121:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#Jap%C3%A3o
+vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&host=?bia_telegram@marambashi_marambashi_marambashi_marambashi&headerType=&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#Pol%C3%B4nia
+vless://34b7efee-3c88-440f-9495-92c12a0de50e@51.89.194.151:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=5b83742cfc81b064&pbk=v0-nm8GGINN0mEHP5kgcgWrl_TFDcr2ZS8yLLW8c93M#Reino+Unido
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@derman.neobo-tooth.ru:2096?security=none&type=ws&path=/&host=derman.neobo-tooth.ru&packetEncoding=none#Alemanha
+vless://bd99da97-265e-0021-82cc-4ec009fe9ce2@5.61.91.206:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amd.com&fp=firefox&flow=xtls-rprx-vision&sid=0a4b7c3d&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&encryption=none#Finl%C3%A2ndia
 ```
 
 

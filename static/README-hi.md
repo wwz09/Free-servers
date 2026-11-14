@@ -59,26 +59,26 @@ Android प्रोजेक्ट और संस्करण: [GitHub](https
 
 
 ```
-vless://fb520c26-b22f-49ac-8959-81a5502c446c@51.15.18.50:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=3840d3efd67048f7&pbk=Plah4QAGKliwFHIcc8vQWHHLjEGQ7YFALFAwKKwzAwo&encryption=none#France
-vmess://eyJhZGQiOiAiMTY1LjE1NC4xOTUuMzgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjk1OWE4Y2FmLTRjZWEtNDNkMC1hNTQ4LTM2MjhlN2RkZmFmYyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzUwMzQiLCAicHMiOiAiVGFpd2FuIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.139:8080?insecure=1&security=tls&sni=grape-turbo-fr.roxa.org#The+Netherlands
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.246.109.191:34045?security=reality&type=raw&packetEncoding=xudp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&sid=e8ab71d0&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&encryption=none#The+Netherlands
-vless://b80b392c-0cf4-42f9-ae54-9f862e3ba276@88.218.92.126:13443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auto.cendora.ru&sid=a7f3c91b2e6d84c0#United+States
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.232:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&encryption=none#United+States
-vless://a06119a7-4f1a-4592-86d9-e050a332b2b3@104.105.78.231:17780/?type=tcp&encryption=none&flow=&sni=amp-api-edge.apps.apple.com&fp=chrome&security=reality&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#United+States
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.140:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.212.191.206:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#United+Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#United+States
-vless://a14b736b-a92a-48d6-a596-5d31f7378ded@51.161.204.242:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=d15c17cef9b2e456&pbk=a2qGjvUPq6Nz5FTbn_MSHp-055q2h8YXqIL5VIJ5zwE#Australia
-vless://5d5c40b1-102c-4343-94cc-d5b794dbd0c6@139.28.241.77:443?security=none&encryption=none&headerType=none&type=tcp#United+States
-vless://8d955d71-ed5d-4f4c-ae68-42d120f06861@213.176.112.136:5222?security=tls&type=ws&path=/@Marisa_kristi&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&packetEncoding=xudp&alpn=h3&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&fp=chrome&encryption=none#Iran
-vless://710fc22f-06b2-4b6d-bb3e-f57c17b670a6@2.27.27.98:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.ray-balance.space&fp=firefox&flow=xtls-rprx-vision&pbk=d1NlaZfnsYjWfxRTqIBk1ldBUmdE-kRTEQ_sWd1JYwI#United+Kingdom
-trojan://humanity@104.17.111.8:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?flow=xtls-rprx-vision&security=reality&encryption=none&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none&path=/#France
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.6:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Spain
-vless://68cf8d29-5aa0-44b3-88a9-f1a576b6e84c@107.181.151.39:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.microsoft.com&fp=firefox&flow=xtls-rprx-vision&sid=73a9e631a09b&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk#United+Kingdom
-trojan://EQ30679154@sincere-gelding.rooster465.autos:443?security=tls&sni=sincere-gelding.rooster465.autos#United+States
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443?insecure=1&security=tls&sni=18.118.193.169#United+States
+hy2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443/?insecure=1&security=tls&sni=admin.wwwinternetvideo.click#United+States
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:8443?security=tls&type=tcp&packetEncoding=xudp&sni=estproxy4.lockdwn.com&fp=firefox#Iran
+vless://c49a0981-6d37-4ec0-9a01-1b63ccc07e4f@104.21.46.219:2096?security=tls&type=ws&path=/eyJqdW5rIjoiZHlCcVpqeEYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OjExOjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ==&host=peekconfig.hamrahfree1.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=pEeKcOnFig.haMRaHfREe1.wOrKerS.DEv&fp=chrome&encryption=none#
+trojan://Telegram_healer_config@104.21.24.95:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FzJi4ccv7FeEo780U%3Fed%3D2560&security=tls&sni=1V95V6TjywCyTbAHl7f7Lx8b27G.L4495eYcqmsE9he0yVoEMJFc4IBYf-4.wORkERS.DeV&type=ws#
+hysteria2://d4f8d5e26b@srv-a04472.21freedom.net:11592?insecure=1&security=tls&sni=srv-a04472.21freedom.net#Brazil
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.26:443#United+Kingdom
+trojan://humanity@104.17.111.4:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#
+vless://0787cfdb-9930-4abb-8419-c1b96c3ef628@172.67.190.141:8880?security=none&type=ws&path=/&host=red-snowflake-c399.12-ee1.workers.dev&packetEncoding=xudp&encryption=none#United+States
+hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443?security=tls&sni=gorbachev-new-th.kvnfreetest.uk#United+Kingdom
+vless://b4a16091-a25d-4d33-aee3-f5ae04f34b14@172.67.151.243:2086?path=/eyJqdW5rIjoiRjJEdlF3U251aCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTEzLjE1OCIsIjEwMy45Ny44OC4xMzMiLCIxOTQuMTgwLjE4OC4yNDEiLCIxMTYuMjAyLjEzMi4yMDUiXX0=?ed=2560&security=none&encryption=none&host=blue-brook-cc73.karren391.workers.dev&type=ws#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjVEFPYndnNE9XV1hrWkpRczBaZGdD@31.76.82.131:34260#United+Kingdom
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.5.26:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nordic.cendora.ru&fp=qq&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034&type=tcp&headerType=none&host=nordic.cendora.ru#United+Kingdom
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.4.103:443?security=reality&type=tcp&packetEncoding=xudp&sni=eu-central.cendora.ru&fp=chrome&flow=xtls-rprx-vision&sid=00bca5982f82d083&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI#United+Kingdom
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?security=none&type=ws&path=/&host=cnmfangbinxing.cnmfangbinxing-f.workers.dev&packetEncoding=xudp#
+vless://766f6c65-0000-4000-8000-787000000002@volexproxy.karjadidd.workers.dev:2083?encryption=none&security=tls&type=ws#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.195:8080#United+Kingdom
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.71.232.30:8880?security=none&type=ws&path=/&host=vms.lifetime07.workers.dev&packetEncoding=xudp&encryption=none#United+States
+vmess://eyJhZGQiOiAiNDcuMjQ0LjEyMC4xOTciLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI0NWI4MzUxOS05YzRmLTQwNTItYTExYi0wMmUwMTdiNjM2ZDQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsICJwb3J0IjogMzY3MDMsICJwcyI6ICJIb25nIEtvbmciLCAic2N5IjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?security=tls&type=ws&path=/Telegram🇨🇳 @VPNine1fp=chrome&host=vp58.cc.cd&packetEncoding=xudp&sni=vp58.cc.cd&fp=chrome#France
 ```
 
 
