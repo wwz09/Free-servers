@@ -59,26 +59,26 @@ Proyecto y versiones de Android: [GitHub](https://github.com/Pawdroid/shadowrock
 
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@95.40.120.162:8316#Polonia
-trojan://f18d6149-e214-8554-e737-f7523c8b2eea@188.114.97.6:443?fp=chrome&path=%2Fsync&security=tls&sni=0403.infinityconfig4.workers.dev&type=ws#Holanda
-vless://f12cc297-c9ce-4cdb-98d4-8e47c3f09644@104.18.34.245:8880?security=none&type=ws&path=/&host=weathered-union-5358.101-262.workers.dev&packetEncoding=xudp#
-ss://YWVzLTI1Ni1nY206ZzVoNWpsZVRSU3lPM1JrNA==@149.102.132.184:443#Reino+Unido
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#Holanda
-hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@193.41.5.243:8443?insecure=1&security=tls&sni=hy2-germany.unlimited-access.ru#Ucrania
-vless://be5b6ad6-8184-4b63-82ac-3bc00c09c98c@5.152.223.97:443?security=reality&encryption=none&pbk=IFEZmwpGK7VCuDj3kmVdyMn7vUIG8Sntc6TG4eIS3xs&host=MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPMTMVPN---MTMVPN---MTMVPN---MTMVPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=1aa9f3c9021280c0#Reino+Unido
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#Alemania
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.12.145.30:8880?security=none&type=ws&path=/&host=vms.lifetime61.workers.dev&packetEncoding=xudp#Estados+Unidos
-vless://d682c8f4-e719-577e-cbe9-2e5b00000003@104.21.19.53:8080?security=none&type=ws&path=/sync&host=0406.infinityconfig7.workers.dev&packetEncoding=xudp#
-trojan://FH72359861@obliging-louse.rooster465.autos:443?security=tls&sni=obliging-louse.rooster465.autos#Estados+Unidos
-vless://4ce7cb8a-f9b1-4bfa-a80d-9e168c61a633@104.21.78.225:443?security=tls&type=ws&path=/sync&host=curly-night-6928.ggdhchjk.workers.dev&packetEncoding=xudp&sni=curly-night-6928.ggdhchjk.workers.dev&fp=chrome&encryption=none#
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.29:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#Francia
-vless://8c235628-4c27-44b5-9559-7ab1d53b7ff3@34.222.2.182:50159?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=94c8a1b378da7250&pbk=SX1vaYIIZcbcfO3RrAPhYQ1FAeA7bkcDZJtEDN9pbxw#Estados+Unidos
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.188.30:8880?security=none&type=ws&path=/&host=vms.lifetime18.workers.dev&packetEncoding=xudp#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.180:8080#Holanda
-ss://YWVzLTI1Ni1nY206a1JLWkUzWmhFQ3dhd3kxTg==@94.72.127.55:443#Polonia
-vless://6eb831ea-8829-457b-a5d1-52f640a97486@116.204.164.5:7443?security=tls&type=ws&path=/@Marisa_kristi&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&packetEncoding=xudp&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&encryption=none#Pakist%C3%A1n
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-ca-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-ca-002.fastervpn.world#Canad%C3%A1
-vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni4yMzMiLCAiYWlkIjogMCwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE4MCIsICJwcyI6ICJSZWlubyBVbmlkbyIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUSEZGV3Y3bnA5M0RCTEtaVXZWbTd1@157.22.240.141:57925#Estados+Unidos
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.120.9:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapur
+vless://e081da45-9fae-4687-9376-f9a6a0dbbe83@172.66.170.172:80?security=none&type=ws&path=/id-amz&host=e33xr.qzz.io&packetEncoding=xudp&encryption=none#Estados+Unidos
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@87.121.89.80:443?security=reality&type=tcp&packetEncoding=xudp&sni=nordic.cendora.ru&fp=qq&flow=xtls-rprx-vision&sid=2186a755ed67b034&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU#Bulgaria
+vless://bd99da97-265e-0021-82cc-4ec009fe9ce2@5.61.91.206:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amd.com&fp=firefox&flow=xtls-rprx-vision&sid=0a4b7c3d&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&encryption=none#Finlandia
+hysteria2://H7mP2xY9kJ4nQ9wR5tF6vB3z@vpn-sg-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-sg-002.fastervpn.world#Singapur
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#Espa%C3%B1a
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&encryption=none#Corea+del+Sur
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.159:8080#Holanda
+vless://50414e45-4c5f-5a45-5553-ef859652a80e@104.21.72.47:443?security=tls&type=ws&path=/stream/TrexBridge/ef859652a80e&host=trex-panel-nubj0s.samifakor.workers.dev&packetEncoding=xudp&sni=trex-panel-nubj0s.samifakor.workers.dev&fp=chrome&encryption=none#
+vless://4d583b2c-2f5a-47d0-8181-e95217fe8cd9@87.117.234.19:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=strapi.io&sid=fd55b698ee8c3629#Reino+Unido
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@16.148.5.63:443?insecure=1&security=tls&sni=vpn-us-002.fastervpn.world#Estados+Unidos
+vless://d9f94532-c4d4-4f94-ba23-6eb6d35bfc7d@104.21.54.140:443?security=tls&type=ws&path=/eyJqdW5rIjoiZW5GMjJSRmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0=&host=small-scene-f215.amiralizarefast1.workers.dev&packetEncoding=xudp&sni=small-scene-f215.amiralizarefast1.workers.dev&fp=chrome&encryption=none#
+hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.81:8080/?insecure=1&security=tls&sni=hopp-legend-se.roxa.org#Hong+Kong
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@44.255.13.86:443?insecure=1&security=tls&sni=44.255.13.86#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#Reino+Unido
+vless://4ff70740-8c80-48ae-985f-2afe4924e908@172.64.155.209:8443?security=tls&type=ws&path=/sync&host=pubb.clnahanpnln.workers.dev&packetEncoding=xudp&sni=pubb.clnahanpnln.workers.dev&fp=chrome&encryption=none#Estados+Unidos
+vmess://eyJhZGQiOiAiaTJwc20za25vZjVxamppeC52LjNkbnMudmlwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIkkyUFNtM0tub2Y1cWpqaXgudi4zZG5zLnZpcCIsICJpZCI6ICJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiSG9uZyBLb25nIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://d028eaf5-c5ef-49a0-85c6-4f4816af8053@173.245.49.114:2086?security=none&type=ws&path=/eyJqdW5rIjoiZUJZR2pXVFByVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjEwOS4xMjAuMTU4LjE0OSJdfQ==&host=misty-bread-fd96.salehinezhadali.workers.dev&packetEncoding=xudp#Francia
+vless://710fc22f-06b2-4b6d-bb3e-f57c17b670a6@2.27.27.98:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.ray-balance.space&fp=firefox&flow=xtls-rprx-vision&pbk=d1NlaZfnsYjWfxRTqIBk1ldBUmdE-kRTEQ_sWd1JYwI#Reino+Unido
 ```
 
 
