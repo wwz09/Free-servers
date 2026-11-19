@@ -59,26 +59,26 @@ Projeto e versões para Android: [GitHub](https://github.com/Pawdroid/shadowrock
 
 
 ```
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#EUA
+vless://9487e433-862e-4b53-893a-5a4f6bc911f0@220.72.143.166:12016?security=tls&type=ws&path=/@Marisa_kristi&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&packetEncoding=xudp&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&fp=chrome#Coreia+do+Sul
+trojan://humanity@104.16.174.143:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#
+vless://faf655fc-690f-4ea8-8eed-77077f493bc8@109.169.85.140:443?security=reality&type=tcp&packetEncoding=xudp&sni=slashdot.org&fp=chrome&flow=xtls-rprx-vision&sid=1dc6d8a2045a7c9d&pbk=djzfpNmvwYjCaOUUOHU_k0kl92HXIGIurq2i0p5UyDo&encryption=none#Reino+Unido
+vless://5a4d9f40-56db-402a-9fbc-31c9229bdcf6@172.66.140.62:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net&host=floral-resonance-4baf.468.workers.dev&packetEncoding=xudp#EUA
+trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#EUA
+vless://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@104.21.39.47:8080?security=none&type=ws&path=/taha3&host=aged-silence-8d7d.tahaggs.workers.dev&packetEncoding=xudp&sni=aged-silence-8d7d.tahaggs.workers.dev#
+vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.172:443?security=reality&type=tcp&packetEncoding=xudp&sni=getsavesafe.net&fp=firefox&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Espanha
+vless://8fc03edf-6833-4c58-bbe4-0b35806dae84@ql6k-m23nix.logicara.top:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&sid=01d72fe094c8f6ef&pbk=IZz9Lj4tnHzNj9AkGlcOQxQXMJe0EGZLtIyX1a_yNAg#Reino+Unido
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80?security=none&type=ws&path=/http&host=de.vpnbase.net&packetEncoding=xudp#Ilhas+Seychelles
-vless://19bb341c-ee57-4899-b1e7-e9d3ebdf23df@xiweini.dpdns.org:30100?encryption=none&security=tls&type=tcp#Hong+Kong
-vless://50c91104-c1fc-471e-914f-3ad252a0a34c@cf7.466688.xyz:8880?security=none&type=ws&path=/pyip=ProxyIP.US.CMLiussss.net@https://t.me/QiangLieTuiJian&host=quiet-snowflake-e1dd.374-ac3.workers.dev&packetEncoding=xudp&encryption=none#
-vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.111.27:8443?encryption=none&fp=chrome&host=round-art-52ee.eadfgv.workers.dev&path=%2F&security=tls&sni=round-art-52ee.eadfgv.workers.dev&type=ws#
-vless://7da33b25-cdd6-e481-afcf-c5d532361a70@172.67.130.144:443?security=tls&type=ws&path=/sync&host=ez-1bc8ab.sekiro-c18.workers.dev&packetEncoding=xudp&sni=ez-1bc8ab.sekiro-c18.workers.dev&fp=chrome#EUA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#Holanda
-vmess://eyJhZGQiOiAibnljcWcxOXprd2FjcG0xYi52LjNkbnMudmlwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIk5ZY1FnMTl6a3dhQ1BNMUIudi4zZG5zLnZpcCIsICJpZCI6ICJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiSG9uZyBLb25nIiwgInNjeSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiTlljUWcxOXprd2FDUE0xQi52LjNkbnMudmlwIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://5cc814de-2bbb-4409-ad8c-ee841ca7bad1@84.22.150.39:7443?security=tls&type=ws&path=/@Marisa_kristi&host=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev&packetEncoding=xudp&sni=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev&fp=chrome&encryption=none#R%C3%BAssia
-trojan://humanity@185.255.179.166:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#Let%C3%B4nia
-vless://401d950d-4f5c-45c7-bf44-8b69acf35f6f@7x70yyvt7eqotx-iq9n3rjt1xn1jwkh9.asdfsafdsaf.workers.dev:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=7x70yyvt7eqotx-iq9n3rjt1xn1jwkh9.asdfsafdsaf.workers.dev&path=%2FeyJqdW5rIjoiR2xWQ1FCQzYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=7x70yyvT7eQOtx-IQ9N3RJT1xn1jwkh9.asDFsAFdsAF.WORkerS.Dev&type=ws#EUA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.230:443#Holanda
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.213.188:443?security=reality&type=tcp&packetEncoding=xudp&sni=eu-west.cendora.ru&fp=chrome&flow=xtls-rprx-vision&sid=dd3ff38418d29d22&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&encryption=none#EUA
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&security=tls&sni=whatsapp.com#%F0%9F%87%B9%F0%9F%87%BCTW_18%7C182KB%2Fs%7CA004-260618%2001
-vless://39c42b0a-b823-4c93-bb99-74b4183e518d@85.155.226.86:443?security=reality&type=raw&packetEncoding=xudp&sni=getsavesafe.net&fp=qq&flow=xtls-rprx-vision&sid=82f5d3a1e9c0b661&pbk=5Z6PwoPSNBLPIsX8lZtHM7-Y-psMMR1vz5Pit0EVISs#Espanha
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.195.30:8880?security=none&type=ws&path=/&host=vms.lifetime38.workers.dev&packetEncoding=xudp&encryption=none#EUA
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.67.50:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime05.workers.dev&packetEncoding=xudp&encryption=none#Litu%C3%A2nia
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.229:443?security=reality&type=raw&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#EUA
-trojan://257d8622-6701-4c98-a432-67a9696f58ae@shazira.app:443?allowInsecure=1&fp=chrome&path=%2FNovan-ID9&security=tls&sni=shazira.app&type=ws#
-trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@edu.ruangguru.com:443?allowInsecure=1&fp=chrome&path=%2Ftrojan&security=tls&sni=id1.nathaya.web.id&type=ws#
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#Holanda
+vless://50414e45-4c5f-5a45-5553-b52a90ada6ab@104.19.110.205:80?security=none&type=ws&path=/stream/TrexBridge/b52a90ada6ab&host=trex-panel-ew6n46.zeus-e0oqfp.workers.dev&packetEncoding=xudp&sni=trex-panel-ew6n46.zeus-e0oqfp.workers.dev&encryption=none#
+vless://7201b2cd-0675-4c1a-9c76-07ca14ffcf08@104.17.147.22:80?security=none&type=ws&path=/eyJqdW5rIjoiTlZxbGYyajQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&host=6crihfknlqjdu3yuzco9phspq86dbp6q.christanmoccasin.workers.dev&packetEncoding=xudp&encryption=none#
+vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?security=reality&type=raw&packetEncoding=xudp&sni=deepl.com&fp=qq&flow=xtls-rprx-vision&sid=01d1bf2d4755d40c&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&encryption=none#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.212:8080#Reino+Unido
+trojan://netra@104.21.60.109:2087?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FWcvMTQZ5OFOfnBZDZ%3Fed%3D2560&security=tls&sni=LAtE-FroST-9DA7.ShOamEni5.woRKers.Dev&type=ws#
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.30:8880?security=none&type=ws&path=/&host=vms.lifetime08.workers.dev&packetEncoding=xudp&encryption=none#R%C3%BAssia
+vless://50414e45-4c5f-5a45-5553-4eef5adc237a@104.24.143.217:443?security=tls&type=ws&path=/stream/PANEL_ZEUS/4eef5adc237a/loc-1&host=r5zenrelur2s.pqzdileiu8es.workers.dev&packetEncoding=xudp&sni=r5zenrelur2s.pqzdileiu8es.workers.dev&fp=chrome&encryption=none#
+vless://928e6cce-8ced-4243-9a48-a6642edd09b0@166.108.235.162:13779?security=reality&type=raw&packetEncoding=xudp&sni=tesla.com&fp=chrome&sid=af1bdd293097b664&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&encryption=none#Singapura
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.128.224.158:443?insecure=1&security=tls&sni=vpn-sg-001.fastervpn.world#Singapura
 ```
 
 
